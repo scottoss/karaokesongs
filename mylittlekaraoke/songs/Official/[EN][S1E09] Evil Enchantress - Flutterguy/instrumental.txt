@@ -1,0 +1,79 @@
+#TITLE:Evil Enchantress (Flutterguy) (Inst)
+#ARTIST:My Little Pony
+#MP3:instrumental.mp3
+#BPM:180
+#GAP:0
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#GENRE:Pony
+#EDITION:My Little Pony
+#LANGUAGE:English
+#MUSIC_BY:William Anderson, Amy Keating Rogers, Blu Mankuma
+#CREATOR:LardonCru
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 3 3 11 She's
+: 6 2 11  an
+: 9 2 16  e
+: 11 2 16 vil
+: 14 2 16  en
+: 17 5 20 chan
+: 22 2 20 tress
+- 24 25
+: 26 2 11 And
+: 28 2 11  she
+: 32 2 16  does
+: 35 2 20  e
+: 37 1 22 vil
+: 40 5 20  dan
+: 46 2 16 ces
+- 48
+: 54 2 11 And
+: 56 2 11  if
+: 59 2 11  you
+: 61 3 16  look
+: 64 2 16  deep
+: 66 1 16  in
+: 68 2 16  her
+: 70 5 20  eyes
+- 75 76
+: 77 2 11 She
+: 80 2 11  will
+: 83 2 20  put
+: 85 3 23  you
+: 89 3 25  in
+: 93 4 20  tran
+: 98 2 16 ces
+- 100 101
+: 107 2 11 Then
+: 109 2 16  what
+: 111 2 16  will
+: 114 2 16  she
+: 116 3 20  do?
+- 119 120
+: 121 2 11 She'll
+: 123 2 11  mix
+: 126 2 16  up
+: 129 2 16  an
+: 131 2 16  e
+: 133 2 16 vil
+: 137 4 20  brew
+- 142
+: 146 2 11 And
+: 149 2 11  she'll
+: 151 2 16  go
+: 154 2 16 bble
+: 157 2 16  you
+: 160 2 20  up
+- 163 164
+: 164 2 23 In
+: 167 2 25  a
+: 171 2 20  big
+: 174 3 16  tas
+: 178 3 13 ty
+: 183 6 16  stew
+- 189 190
+F 194 15 11 Soooo...
+F 216 4 14  Watch
+F 222 5 14  out!
+E

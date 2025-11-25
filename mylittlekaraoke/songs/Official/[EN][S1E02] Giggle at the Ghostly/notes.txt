@@ -1,0 +1,247 @@
+#TITLE:Giggle at the Ghostly
+#ARTIST:My Little Pony
+#MP3:song.mp3
+#BPM:218
+#GAP:0
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#GENRE:Pony
+#EDITION:My Little Pony
+#LANGUAGE:English
+#MUSIC_BY:Daniel Ingram, Steffan Andrews, Lauren Faust, Shannon Chan-Kent
+#CREATOR:Smilley
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+F 0 5 36 Oh,
+F 7 9 36  girls!
+F 16 4 36  Don't
+F 20 2 36  you
+F 23 7 36  see?!
+- 32
+: 44 4 21 When
+: 48 4 26  I
+: 52 2 26  was
+: 54 2 26  a
+: 56 2 26  lit
+: 58 4 30 tle
+* 62 4 31  fil
+: 66 3 30 ly
+- 70
+: 70 4 26 And
+: 74 2 21  the
+: 78 5 26  sun
+: 83 3 26  was
+: 86 4 26  go
+: 90 5 30 ing
+: 96 9 28  do
+* 105 2 30 -o
+: 107 3 28 -o
+: 110 14 26 -own
+- 125
+F 126 3 36 Tell
+F 129 2 36  me
+F 131 4 36  she's
+F 135 3 36  not...
+- 138
+: 138 3 21 The
+: 142 4 26  dark
+: 146 4 26 ness
+: 150 4 26  and
+: 154 2 30  the
+: 157 4 31  sha
+: 161 2 30 dows
+- 164
+: 165 4 26 They
+: 170 4 21  would
+: 174 4 26  al
+: 178 3 26 ways
+: 181 3 26  make
+* 184 5 30  me
+: 189 12 28  fro
+: 201 2 30 -o
+: 203 3 28 -o
+: 206 12 26 -own
+- 219
+F 220 4 36 She
+F 224 6 36  is...
+- 232
+: 234 3 30 I'd
+: 238 3 31  hide
+: 242 2 30  un
+: 244 3 26 der
+: 247 6 31  my
+: 253 3 30  pil
+* 256 5 26 low,
+- 263
+: 265 4 30 From
+: 269 3 31  what
+: 272 3 30  I
+: 275 4 26  thought
+: 279 4 31  I
+: 283 10 30  saw
+- 295
+: 297 3 30 But
+: 300 3 31  Gran
+: 303 2 31 ny
+: 305 3 31  Pie
+: 308 4 35  said
+: 312 4 33  that
+: 316 3 26  was
+: 319 2 26 n't
+: 321 2 28  the
+: 323 4 30  way
+- 328
+: 328 4 28 To
+: 332 4 30  deal
+: 336 3 28  with
+: 339 5 26  fears
+: 344 5 30  at
+* 349 11 28  all!
+- 361
+F 361 2 38 Then
+F 363 2 38  what
+F 365 5 38  is?
+- 371
+: 371 3 28 She
+: 374 4 26  said:
+: 380 8 33  "Pin
+: 388 6 30 kie
+: 394 2 30  you
+: 396 3 31  got
+: 399 2 30 ta
+: 401 6 28  stand
+: 407 2 26  up
+: 409 6 21  tall
+- 417
+: 419 4 26 Learn
+: 423 3 26  to
+: 426 4 28  face
+: 430 3 30  your
+: 433 5 28  fe
+: 438 4 26 ars
+- 443
+: 444 6 33 You'll
+: 450 6 30  see,
+: 458 2 30  that
+: 460 2 31  they
+: 462 3 30  can't
+: 465 4 28  hurt
+: 469 2 26  you
+- 471
+: 471 3 26 Just
+: 474 5 30  laugh
+: 479 3 28  to
+: 482 4 26  make
+: 487 3 26  them
+: 490 3 28  dis
+* 493 4 30 ap
+: 498 18 28 pear!"
+- 518
+F 522 7 45 Ha!
+F 530 8 40  Ha!
+F 538 5 33  Ha!
+- 545 570
+* 579 16 33 So,
+: 596 5 31  gig
+: 601 4 31 gle
+: 605 4 35  at
+: 609 3 33  the
+: 612 5 33  ghost
+: 617 6 30 ly
+- 626
+: 628 4 26 Guf
+: 632 4 26 faw
+: 636 4 30  at
+: 640 2 26  the
+: 642 6 28  gross
+: 648 8 28 ly
+- 658
+: 660 5 31 Crack
+: 665 4 31  up
+: 669 4 35  at
+: 673 2 33  the
+: 675 4 33  cree
+: 679 8 30 py
+- 690
+: 692 2 26 Whoop
+: 694 2 26  it
+: 696 4 26  up
+: 700 4 30  with
+: 704 2 26  the
+: 706 5 28  wee
+* 711 7 28 py
+: 718 2 30 -y
+: 720 2 28 -y
+- 723
+: 723 5 31 Chor
+: 728 4 31 tle
+: 732 4 35  at
+: 736 2 33  the
+: 738 5 33  koo
+: 743 7 30 ky
+- 752
+: 754 6 26 Snor
+: 760 3 26 tle
+: 763 3 30  at
+: 766 2 26  the
+: 768 6 28  spoo
+: 774 8 28 ky
+- 783
+: 783 2 30 And
+: 786 3 31  tell
+: 789 2 31  that
+: 791 2 31  big
+: 793 2 31  dumb
+: 795 2 31  sca
+: 797 2 31 ry
+: 799 1 31  face
+- 801
+: 801 2 30 To
+: 803 2 30  take
+: 805 2 30  a
+: 807 2 30  hike
+: 809 1 30  and
+: 810 2 30  leave
+: 812 2 30  you
+: 814 1 30  a
+: 815 1 30 lone
+- 817
+: 817 2 32 And
+: 819 2 33  if
+: 821 2 33  he
+: 823 3 33  thinks
+: 826 1 33  he
+: 827 2 33  can
+: 829 2 33  scare
+: 831 1 33  you
+- 832
+: 832 2 33 Then
+: 834 2 33  he's
+: 836 1 33  got
+: 837 2 33  a
+* 839 2 33 no
+: 841 1 33 ther
+: 842 2 33  thing
+: 844 3 33  co
+: 847 1 33 ming
+- 849
+: 849 1 33  and
+: 850 2 33  the
+: 852 2 37  ve
+: 854 2 37 ry
+: 856 2 37  i
+: 858 2 37 dea
+: 860 1 37  of
+* 861 3 40  such
+: 864 1 40  a
+: 865 1 40  thing
+- 867
+: 867 3 40  just
+: 870 2 40  makes
+: 872 2 40  you
+: 874 2 40  wan
+: 876 2 40 na
+- 880 905
+: 918 81 38 Laugh!
+E

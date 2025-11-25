@@ -1,0 +1,115 @@
+#TITLE:So Many Wonders (Instrumental)
+#ARTIST:My Little Pony
+#MP3:instrumental.mp3
+#BPM:180
+#GAP:0
+#COVER:cover.png
+#BACKGROUND:background.png
+#GENRE:Pony
+#EDITION:My Little Pony
+#LANGUAGE:English
+#CREATOR:LardonCru
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 28 2 24 What
+: 32 2 26  is
+: 36 2 28  this
+: 40 3 26  place
+: 48 3 28  filled
+: 52 2 29  with
+: 55 4 31  so
+: 60 4 31  ma
+: 64 2 28 ny
+: 67 4 33  won
+: 73 2 31 ders?
+- 77
+: 82 3 24 Ca
+: 85 2 26 sting
+: 89 2 28  its
+: 93 4 26  spell
+: 102 3 28  th
+: 105 3 29 at
+: 109 3 31  I
+: 114 3 31  am
+: 119 4 28  now
+: 124 3 33  un
+: 129 4 34 der
+- 135
+: 137 3 34 Squirr
+: 140 2 34 els
+: 145 2 31  in
+: 148 2 27  the
+: 152 4 24  trees
+: 157 3 26  and
+: 161 2 27  the
+: 164 4 29  cute
+: 171 2 29  li
+: 174 2 26 ttle
+: 178 6 24  bu
+: 185 3 22 nnies
+- 190
+: 192 4 34 Birds
+: 198 4 31  fly
+: 203 2 27 ing
+: 207 3 24  free
+: 213 4 26  a
+: 217 3 27 nd
+: 221 4 29  bees
+: 228 2 29  with
+: 232 2 26  their
+: 235 5 33  ho
+: 242 2 31 ney
+- 246
+* 249 16 33 Ho
+* 266 40 31 ney!
+- 308
+: 323 10 31 Oh,
+: 335 3 31  what
+: 339 2 28  a
+: 342 1 33  ma
+: 343 2 31 gi
+: 345 2 28 cal
+: 348 2 24  place
+- 352
+: 354 2 29 And
+: 357 1 31  I
+: 359 3 33  owe
+: 363 2 33  it
+: 367 4 33  all
+: 373 1 33  to
+: 376 1 29  the
+: 377 1 35  Pe
+: 379 2 31 ga
+: 382 1 29 sus
+: 384 4 26  race
+- 389
+: 391 1 33 If
+: 393 1 33  I
+: 395 3 33  knew
+: 400 2 33  the
+: 405 2 36  ground
+: 409 1 35  had
+: 411 1 33  so
+: 414 2 31  much
+: 417 1 28  up
+: 419 2 35  its
+: 422 2 33  sleeve
+- 426
+: 428 2 29 I'd
+: 431 1 28  have
+: 433 2 26  come
+: 436 3 28  here
+: 442 3 29  soo
+: 445 2 30 ner,
+: 449 2 30  and
+: 452 2 31  ne
+: 455 2 32 ver
+: 458 2 35  leave
+- 462
+: 465 2 31 Yes,
+: 471 2 26  I
+: 478 5 28  love
+: 489 9 29  e
+: 498 8 31 very
+* 507 58 36 thing!
+E

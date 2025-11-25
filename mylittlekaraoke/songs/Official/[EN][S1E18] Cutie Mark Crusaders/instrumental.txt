@@ -1,0 +1,310 @@
+#TITLE:The Cutie Mark Crusaders (Inst)
+#ARTIST:My Little Pony
+#MP3:instrumental.mp3
+#BPM:180
+#GAP:0
+#COVER:cover.png
+#BACKGROUND:background.png
+#GENRE:Pony
+#EDITION:My Little Pony
+#LANGUAGE:English
+#MUSIC_BY:Daniel Ingram, Steffan Andrews, Cindy Morrow, Madeleine Peters, Michelle Creber
+#CREATOR:LardonCru
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 93 2 29 Look, 
+: 98 2 25 here, 
+: 105 2 27 are 
+: 108 2 29 three 
+: 111 3 29 lit
+: 114 1 27 tle 
+: 117 5 29 po
+: 122 5 25 nies 
+- 128 129
+: 136 2 30 Rea
+: 139 2 30 dy 
+: 143 2 25 to 
+: 147 2 27 sing 
+: 152 2 29 for 
+: 156 2 29 this 
+: 161 6 27 crowd 
+- 170
+: 180 3 34 Lis
+: 183 1 32 ten 
+: 185 3 25 up, 
+: 194 2 29 'cause 
+: 197 2 34 here's 
+: 201 2 32 our 
+: 206 5 32 sto
+: 211 3 29 ry 
+- 214 215
+: 221 2 30 I'm 
+: 224 4 30 gonna 
+: 229 3 29 sing 
+: 234 1 30 it
+- 235 236
+F 241 3 29 Ve
+F 244 3 30 ry 
+F 249 13 32 loud
+- 262 263
+: 355 3 22 When 
+: 360 7 22 you're 
+: 368 2 22 a 
+: 371 3 22 youn
+: 375 2 22 ger 
+: 379 6 29 po
+: 385 6 22 ny 
+- 391 392
+: 399 2 27 And 
+: 401 2 27 your 
+: 404 3 25 flank 
+: 409 2 28 is 
+: 415 3 29 ve
+: 418 3 29 ry 
+: 424 10 27 bare 
+- 434 435
+: 442 2 30 Feels 
+: 448 2 30 like 
+: 453 2 30 the 
+: 456 5 30 sun 
+: 463 2 30 will 
+: 467 5 32 ne
+: 472 4 30 ver 
+: 478 4 29 come
+- 482 483
+: 486 2 29 When 
+: 489 1 27 your 
+: 491 5 29 cu
+: 496 2 27 tie 
+: 499 2 29 mark's 
+: 503 2 30 not 
+: 509 10 29 there
+- 519 520
+: 528 2 22 So 
+: 531 1 22 the 
+: 534 2 22 three 
+: 537 1 22 of 
+: 539 2 22 us 
+: 542 1 22 will 
+: 545 2 22 fight 
+: 551 2 22 the 
+: 555 3 29 fight
+- 558 558
+: 574 1 27 There 
+: 576 1 27 is 
+: 578 3 27 no
+: 581 4 25 thing 
+: 588 2 27 that 
+: 591 4 29 we 
+: 598 8 27 fear
+- 606 607
+: 614 1 30 We'll 
+: 616 1 30 have 
+: 618 1 30 to 
+: 622 4 30 fi
+: 626 2 30 gure 
+: 630 2 30 out 
+: 635 2 30 what 
+: 640 5 32 we'll 
+: 646 5 30 do 
+: 653 2 29 next 
+- 655 656
+: 660 1 29 Till 
+: 662 2 29 our 
+: 666 3 32 cu
+: 669 2 36 tie 
+: 674 3 36 marks 
+: 680 3 34 are 
+: 685 15 34 here
+- 700 701
+: 709 1 37 We 
+: 712 1 37 are 
+: 715 2 37 the 
+: 718 5 37 Cu
+: 723 3 36 tie 
+: 727 4 36 Mark 
+: 734 5 34 Cru
+: 739 6 34 sa
+: 745 9 32 ders
+- 754 755
+: 758 1 32 On 
+: 761 1 32 a 
+: 764 1 32 quest 
+: 766 2 32 to 
+: 769 1 32 find 
+: 772 1 32 out 
+: 774 2 34 who 
+: 778 4 36 we 
+: 783 6 34 are
+- 789 790
+: 796 2 37 And 
+: 799 2 37 we 
+: 802 2 37 will 
+: 805 6 37 ne
+: 811 3 36 ver 
+: 816 2 36 stop 
+: 821 3 34 the 
+: 826 5 34 jour
+: 831 6 32 ney 
+- 837 838
+: 845 2 32 Not 
+: 848 2 32 un
+: 850 2 32 til 
+: 853 2 32 we 
+: 856 2 32 have 
+: 859 2 32 our 
+: 862 3 37 cu
+: 865 4 36 tie 
+: 870 7 34 marks
+- 877 878
+: 967 1 22 They 
+: 969 2 22 all 
+: 971 2 22 say 
+: 975 2 22 that 
+: 978 2 22 you'll 
+: 982 2 22 get 
+: 986 3 24 your 
+: 990 7 25 mark
+- 997 998
+: 1010 2 27 When 
+: 1013 1 27 the 
+: 1015 1 27 time 
+: 1021 2 27 is 
+: 1024 4 27 rea
+: 1028 1 29 lly 
+: 1034 5 27 right
+- 1040 1041
+: 1052 2 30 And 
+: 1055 1 30 you 
+: 1059 2 30 know 
+: 1063 2 30 just 
+: 1067 4 30 what 
+: 1071 2 30 you're 
+: 1075 3 30 su
+: 1078 6 32 pposed 
+: 1086 2 30 to 
+: 1089 2 29 do
+- 1092 1093
+: 1097 1 29 And 
+: 1099 1 29 your 
+: 1102 4 29 ta
+: 1106 2 27 lent 
+: 1111 2 29 comes 
+: 1116 2 30 to 
+: 1121 9 29 light
+- 1130 1131
+: 1140 2 22 But 
+: 1143 2 22 it's 
+: 1145 2 22 not 
+: 1149 1 22 as 
+: 1151 3 22 ea
+: 1154 2 22 sy 
+: 1157 2 22 as 
+: 1161 2 24 it 
+: 1165 7 27 sounds
+- 1172 1173
+: 1184 2 27 And 
+: 1187 2 27 that 
+: 1190 3 27 wai
+: 1193 3 25 ting's 
+: 1200 4 27 hard 
+: 1205 2 29 to 
+: 1209 7 27 do
+- 1216 1217
+: 1227 2 30 So 
+: 1230 2 30 we 
+: 1233 3 30 test 
+: 1238 1 30 our 
+: 1243 5 30 ta
+: 1248 2 30 lents 
+: 1252 5 32 e
+: 1257 5 30 v'ry
+: 1262 7 29 where 
+- 1269 1270
+: 1272 3 32 Un
+: 1275 2 36 til 
+: 1279 3 36 our 
+: 1284 4 36 face 
+: 1291 4 34 is 
+: 1297 10 34 blue
+- 1307 1308
+: 1320 2 37 We 
+: 1323 2 37 are 
+: 1326 1 37 the 
+: 1328 5 37 Cu
+: 1333 3 36 tie 
+: 1340 3 36 Mark 
+: 1346 4 34 Cru
+: 1350 5 34 sa
+: 1355 5 32 ders
+- 1360 1361
+: 1369 1 32 On 
+: 1372 1 32 a 
+: 1374 1 32 quest 
+: 1377 2 32 to 
+: 1380 1 32 find 
+: 1382 2 32 out 
+: 1386 1 34 who 
+: 1389 3 36 we 
+: 1394 4 34 are
+- 1398 1399
+: 1405 1 37 And 
+: 1409 1 37 we 
+: 1413 1 37 will 
+: 1416 4 37 ne
+: 1420 2 37 ver 
+: 1425 2 36 stop 
+: 1431 2 34 the 
+: 1437 6 34 jour
+: 1443 5 32 ney
+- 1448 1449
+: 1456 1 32 Not 
+: 1459 3 32 un
+: 1462 1 32 til 
+: 1464 1 32 we 
+: 1467 1 32 have 
+: 1470 1 32 our 
+: 1473 2 37 cu
+: 1475 1 36 tie 
+: 1480 7 34 marks
+- 1487 1488
+: 1493 1 37 We 
+: 1497 1 37 are 
+: 1500 1 37 the 
+: 1502 5 37 Cu
+: 1507 2 36 tie 
+: 1512 2 36 Mark 
+: 1518 5 34 Cru
+: 1524 6 34 sa
+: 1530 7 32 ders
+- 1537 1538
+: 1543 1 32 On 
+: 1546 1 32 a 
+: 1549 1 32 quest 
+: 1552 1 32 to 
+: 1555 1 32 find 
+: 1558 1 32 out 
+: 1560 1 34 who 
+: 1563 3 36 we 
+: 1568 6 34 are
+- 1574 1575
+: 1582 1 37 And 
+: 1585 2 37 we 
+: 1588 1 37 will 
+: 1590 5 37 ne
+: 1595 2 36 ver 
+: 1600 2 36 stop 
+: 1606 2 34 the 
+: 1612 6 34 jour
+: 1618 5 32 ney
+- 1623
+: 1631 2 32 Not 
+: 1633 3 32 un
+: 1636 2 32 til 
+: 1638 2 32 we 
+: 1642 1 32 have 
+: 1644 1 32 our 
+F 1647 3 37 cu
+F 1650 4 36 tie 
+F 1655 9 34 marks
+E

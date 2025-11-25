@@ -1,0 +1,195 @@
+#TITLE:You Gotta Share, You Gotta Care
+#ARTIST:My Little Pony
+#MP3:song.mp3
+#BPM:283,72
+#GAP:12600
+#PREVIEWSTART:12,600
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#GENRE:Pony
+#EDITION:My Little Pony
+#LANGUAGE:English
+#MUSIC_BY:William Anderson, Steffan Andrews, Dave Polsky, and Shannon Chan-Kent
+#CREATOR:Smilley
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 5 -1 We
+: 5 11 2  may
+: 17 5 4  be
+* 23 3 6  di
+: 26 9 4 vi
+: 35 7 2 ded
+- 44
+: 47 5 2 But
+: 52 6 7  of
+: 58 4 7  you
+: 62 8 6  all
+: 70 5 2  I
+: 76 10 4  beg
+- 88
+: 91 3 -1 To
+: 94 3 -1  re
+: 97 5 2 mem
+: 102 4 2 ber
+: 106 5 4  we're
+* 111 7 6  all
+: 118 14 2  hoofed
+- 133
+: 135 5 2 At
+: 140 3 2  the
+: 143 11 7  end
+: 155 7 7  of
+: 162 10 9  each
+* 173 27 4  leg
+- 224
+: 249 8 -2 No
+: 258 3 2  ma
+: 261 3 2 tter
+: 264 4 4  what
+* 268 2 6  the
+: 270 4 4  is
+: 274 7 2 sue
+- 281
+: 284 4 2 Come
+: 289 4 7  from
+: 293 3 7  wher
+: 296 3 6 e
+* 299 2 6 ver
+: 301 3 2  you
+: 305 9 4  please
+- 315
+: 315 3 -2 All
+: 318 3 -2  this
+: 321 3 2  figh
+: 324 3 2 ting
+: 327 5 4  gets
+: 332 4 6  you
+: 336 4 4  no
+: 340 7 2 thing
+- 348
+: 349 4 1 But
+: 353 3 6  hoof
+: 356 3 6  and
+: 359 5 6  mouth
+* 364 4 9  di
+: 368 11 4 sease
+- 382
+: 385 3 2 Ar
+: 388 2 2 gu
+: 390 4 2 ing's
+: 394 4 4  not
+: 398 2 6  the
+: 400 9 2  way
+- 412
+F 418 6 0 Hey
+F 424 2 0  come
+F 426 3 0  out
+F 429 3 0  and
+F 432 7 0  play
+- 442
+: 445 4 2 It's
+: 449 1 2  a
+: 450 7 2  shi
+: 457 4 4 ny
+: 461 5 6  new
+: 467 9 2  day
+: 483 4 7  so
+: 490 3 6  what
+: 493 2 6  do
+* 495 2 2  yah
+: 498 9 4  say
+- 508
+: 508 3 6 You
+: 511 2 6  got
+: 513 2 6 ta
+: 515 25 2  share,
+: 543 2 6  you
+: 545 2 6  got
+: 547 2 6 ta
+: 549 23 2  care
+- 574
+: 577 3 2 It's
+: 580 2 2  the
+: 582 5 4  right
+: 588 5 4  thing
+: 593 6 6  to
+: 599 8 4  do
+- 608
+: 609 2 6 You
+: 611 2 6  got
+: 613 2 6 ta
+: 615 25 2  share,
+: 642 2 6  you
+: 644 2 6  got
+: 646 2 6 ta
+: 648 26 2  care
+- 675
+: 677 3 2 And
+: 680 2 2  there'll
+* 682 4 7  al
+: 686 3 7 ways
+: 689 2 6  be
+: 691 2 6  a
+: 693 5 2  way
+: 698 34 4  through
+- 738
+: 746 6 2 Both
+: 752 3 2  our
+: 755 4 4  di
+: 759 3 6 ets
+F 763 3 7  I
+F 766 4 4  should
+F 770 3 2  men
+F 773 3 4 tion
+- 776
+: 776 2 4 Are
+: 778 3 4  com
+: 781 4 2 plete
+: 785 3 2 ly
+: 788 3 4  ve
+: 791 3 6 ge
+* 794 5 7 ta
+: 799 3 6 ri
+: 802 3 2 an
+- 807
+: 809 3 2 We
+: 812 5 2  all
+: 817 3 2  eat
+: 820 5 4  hay
+: 825 3 6  and
+: 828 8 2  oats
+- 838
+: 841 3 2 Why
+: 844 2 2  be
+: 846 4 7  at
+: 850 4 7  each
+* 854 2 7  o
+: 856 4 9 thers
+: 860 9 4  throats
+- 870
+: 871 2 6 You
+: 873 2 6  got
+: 875 2 6 ta
+: 877 25 2  share,
+: 904 2 6  you
+: 906 2 6  got
+: 908 2 6 ta
+: 910 24 2  care
+- 936
+: 939 2 2 It's
+: 941 2 2  the
+: 943 5 7  right
+: 949 4 6  thing
+: 953 4 2  to
+: 959 5 4  do
+- 965
+: 966 5 4 And
+: 971 4 4  there'll
+: 975 5 7  al
+* 980 10 7 ways
+: 990 6 10  be
+: 996 3 10  a
+: 999 9 8  way
+: 1008 87 13  through
+E

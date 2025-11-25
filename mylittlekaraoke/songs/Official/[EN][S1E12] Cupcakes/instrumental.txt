@@ -1,0 +1,117 @@
+#TITLE:Cupcakes (Instrumental)
+#ARTIST:My Little Pony
+#MP3:instrumental.mp3
+#BPM:360
+#GAP:0
+#COVER:cover.png
+#BACKGROUND:background.png
+#GENRE:Pony
+#EDITION:My Little Pony
+#LANGUAGE:English
+#MUSIC_BY:Daniel Ingram, Steffan Andrews, Meghan McCarthy, Shannon Chan-Kent
+#CREATOR:Renard
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 52 2 2 All
+: 54 2 2  you
+: 56 4 2  have
+: 60 2 2  to
+: 62 4 2  do
+: 66 2 2  is
+: 70 2 6  take
+: 72 2 6  a
+: 75 3 4  cup
+: 82 4 2  of
+: 86 6 4  flo
+: 92 4 2 ur
+- 98
+: 100 5 5 Add
+: 106 2 1  it
+: 110 5 5  to
+: 117 3 7  the
+: 122 12 9  mix!
+- 137
+: 147 3 2 Now
+: 150 3 2  just
+: 153 4 2  take
+: 157 2 2  a
+: 159 3 2  li
+: 162 2 2 ttle
+: 164 4 6  some
+: 168 3 6 thing
+: 171 5 4  sweet,
+: 178 4 2  not
+: 184 6 4  so
+: 190 2 2 ur
+- 194
+: 194 2 5 A
+: 197 4 5  bit
+: 203 3 2  of
+: 208 4 5  salt,
+: 214 2 7  just
+: 218 2 7  a
+: 221 9 9  pinch!
+- 235
+: 244 4 7 Bak
+: 248 3 7 ing
+: 251 5 7  these
+: 256 7 7  treats
+: 263 3 7  is
+: 267 7 6  such
+: 274 2 2  a
+: 279 5 2  cinch
+- 286
+: 286 2 2 Add
+: 288 3 2  a
+: 292 3 4  tea
+: 296 7 -3 spoon
+: 304 3 2  of
+: 309 4 4  va
+: 313 6 6 nil
+: 319 9 2 la
+- 331
+: 339 2 7 Add
+: 341 3 7  a
+: 344 2 7  litt
+: 346 2 7 le
+: 350 6 7  more,
+: 356 2 7  and
+: 358 2 7  you
+: 361 6 6  count
+: 368 2 2  to
+: 372 4 2  four
+- 380
+: 380 2 2 And
+: 382 2 2  you
+: 384 5 4  ne
+: 389 4 -1 ver
+: 394 5 4  get
+: 400 4 8  your
+: 408 4 9  fill
+* 412 8 9 a
+- 424
+: 428 6 6 Cup
+: 434 10 2 cakes,
+: 444 4 2  so
+: 450 7 7  sweet
+: 457 4 7  and
+: 463 5 7  tast
+: 468 3 7 y
+- 472
+: 472 6 6 Cup
+: 478 10 2 cakes,
+: 488 4 2  don't
+: 494 4 7  be
+: 499 4 7  too
+: 505 5 7  hast
+: 510 4 7 y
+- 515
+: 515 6 6 Cup
+: 521 11 2 cakes,
+: 538 4 5  cup
+: 542 6 5 cakes
+: 550 4 9  cup
+: 554 6 9 cakes
+: 560 6 14  cup
+* 566 26 14 cakes!
+E

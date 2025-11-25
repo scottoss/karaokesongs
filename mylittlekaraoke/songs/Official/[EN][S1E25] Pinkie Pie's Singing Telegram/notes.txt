@@ -1,0 +1,176 @@
+#TITLE:Pinkie Pie's Singing Telegram
+#ARTIST:My Little Pony
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#VIDEO:video.mp4
+#BPM:180
+#GAP:0
+#MUSIC_BY:Daniel Ingram, Steffan Andrews, Megan McCarthy, Shannon Chan-Kent
+#CREATOR:Renard
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 2 4 3 This
+: 7 2 7  is
+: 9 2 7  your
+: 11 2 7  sing
+: 13 2 7 ing
+: 16 2 7  te
+: 18 2 5 le
+: 20 2 4 gram
+- 23
+: 23 1 5 I
+: 25 2 5  hope
+: 27 1 5  it
+: 29 2 9  finds
+: 31 2 7  you
+: 33 4 7  well
+- 39
+: 40 1 5 You're
+: 41 1 5  in
+: 42 2 7 vit
+: 44 2 7 ed
+: 47 1 7  to
+: 49 1 7  a
+: 51 2 11  par
+: 53 2 5 ty
+- 55
+: 55 2 2 'cause
+: 58 2 -1  we
+: 60 2 0  think
+: 62 2 0  you're
+: 64 2 4  reall
+: 66 2 2 y
+: 69 4 2  swell
+- 76
+: 78 2 5 Gumm
+: 80 2 5 y's
+: 82 2 5  turn
+: 84 2 5 ing
+: 86 2 4  one
+: 88 2 2  year
+: 91 2 0  old
+- 93
+: 93 2 3 So
+: 95 2 5  help
+: 97 2 5  us
+: 99 3 9  ce
+: 102 2 7 le
+: 104 5 7 brate
+- 111
+: 111 2 4 The
+: 113 3 5  cake
+: 116 1 5  will
+: 118 1 5  be
+: 119 2 5  de
+: 121 3 9 li
+: 124 3 7 cious
+- 126
+: 127 2 2 The
+: 129 2 0  fes
+: 131 2 2 ti
+: 133 2 2 vi
+: 135 3 5 ties
+: 138 2 5  first
+: 140 5 7 -rate
+- 153
+: 156 2 4 There
+: 158 2 7  will
+: 160 2 7  be
+: 162 2 7  games
+: 165 1 7  and
+: 167 2 7  danc
+: 169 2 5 ing
+- 171
+: 171 2 4 Bob
+: 173 2 4  for
+: 175 3 5  app
+: 178 2 5 les,
+: 180 2 9  cut
+: 182 2 7 -a-
+: 184 4 7 rug
+- 190
+: 191 2 4 And
+: 193 3 7  when
+: 196 1 7  the
+: 197 3 7  part
+: 200 2 7 y's
+: 202 1 7  ov
+: 203 1 5 er
+- 205
+: 205 2 5 We'll
+: 207 2 4  gath
+: 209 2 0 er
+: 211 2 2  'round
+: 214 1 2  for
+: 215 2 4  a
+: 217 3 4  group
+: 220 6 2  hug
+- 230
+: 236 3 4 No
+: 239 2 5  need
+: 241 3 5  to
+: 244 3 5  bring
+: 247 2 5  a
+: 249 3 4  gift
+- 254
+: 256 2 4 Be
+: 258 2 4 ing
+: 260 4 5  there
+: 264 2 5  will
+: 266 3 9  be
+: 269 2 7  e
+: 271 6 7 nough
+- 281
+: 283 2 5 Birth
+: 285 4 5 days
+: 289 2 5  mean
+: 291 1 5  hav
+: 292 2 5 ing
+: 294 2 7  fun
+: 296 3 4  with
+: 299 4 0  friends
+- 303
+: 303 2 0 Not
+: 305 3 2  gett
+: 308 2 2 ing
+: 310 3 4  lots
+: 313 2 2  of
+: 316 7 2  stuff
+- 331
+: 335 2 4 It
+: 337 4 5  won't
+: 341 4 7  be
+: 345 2 7  the
+: 348 3 7  same
+: 351 4 7  with
+: 355 2 7 out
+: 358 2 5  you
+- 361
+: 361 4 4 So
+: 365 2 4  we
+: 368 4 5  hope
+: 372 3 5  that
+: 375 3 9  you
+: 378 4 7  say
+: 382 7 7  "yes"
+- 391
+: 392 3 5 So
+: 395 4 7  please,
+: 400 2 7  oh
+: 402 4 7  please,
+: 406 3 7  R
+: 410 3 7 S
+: 413 2 5 V
+: 415 3 4 P
+- 420
+: 420 3 0 And
+: 423 3 2  come
+: 427 3 2  and
+: 430 2 7  be
+: 433 2 11  our
+: 437 6 12  guest
+E

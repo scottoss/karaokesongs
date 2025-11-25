@@ -1,0 +1,267 @@
+#ENCODING:UTF8
+#TITLE:Pinkie's Gala Fantasy Song
+#ARTIST:My Little Pony
+#CREATOR:Renard
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2010
+#LANGUAGE:English
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#MP3:song.mp3
+#BPM:400
+#GAP:1792
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:19-oct-2019
+F 0 6 0 Ti
+F 6 4 0 ckets
+F 13 3 0  to
+F 17 3 0  the
+F 22 6 0  Grand
+F 33 3 0  Gal
+F 36 5 0 lop
+F 41 4 0 ing
+F 49 5 0  Ga
+F 55 10 0 la?!
+- 75
+F 98 2 0 It's
+F 101 2 0  the
+F 104 3 0  most
+F 108 5 0  a
+F 113 7 0 ma
+F 120 4 0 zing
+F 125 3 0  in
+F 128 4 0 cre
+F 132 2 0 di
+F 134 3 0 ble
+- 137
+F 138 4 0 tre
+F 142 3 0 men
+F 145 4 0 dous
+F 150 4 0  su
+F 154 2 0 per-
+F 156 2 0 fun
+F 160 3 0  won
+F 163 2 0 der
+F 165 2 0 ful
+F 168 2 0  ter
+F 170 2 0 ri
+F 172 3 0 fi
+F 175 2 0 cally
+- 177
+F 178 6 0 hu
+F 184 6 0 mon
+F 190 4 0 gous
+F 195 2 0  par
+F 197 2 0 ty
+F 200 1 0  in
+F 202 1 0  all
+F 204 1 0  of
+F 206 3 0  E
+F 209 4 0 ques
+F 213 3 0 tri
+F 216 3 0 a!
+- 221
+F 223 3 0 I've
+F 227 4 0  al
+F 231 3 0 ways
+F 235 3 0  al
+F 238 4 0 ways
+F 246 5 0  al
+F 252 3 0 ways
+F 257 4 0  want
+F 261 2 0 ed
+F 264 3 0  to
+F 269 9 0  go!
+- 284
+: 286 3 -1 Oh
+: 290 3 -1  the
+: 294 4 2  Grand
+: 300 3 2  Gal
+: 304 3 2 lop
+: 308 5 -1 ing
+: 315 7 4  Ga
+: 323 2 2 la
+- 327
+: 329 3 6 is
+: 333 3 7  the
+: 337 5 7  best
+: 344 5 7  place
+: 351 6 9  for
+: 359 8 6  me
+- 370
+: 372 3 2 Oh
+: 376 3 2  the
+: 380 4 4  Grand
+: 387 4 4  Gal
+: 392 3 4 lop
+: 396 4 7 ing
+: 403 6 2  Ga
+: 411 2 -1 la
+- 415
+: 417 3 -1 is
+: 422 2 -1  the
+: 425 4 -1  best
+: 432 4 -1  place
+: 439 4 -3  for
+: 446 6 4  me
+- 458
+: 460 5 -1 Hip
+: 468 6 2  hip
+- 479
+: 481 5 0 Hoo
+: 489 9 4 ray!
+- 501
+: 503 3 7 It's
+: 508 3 7  the
+: 512 3 7  best
+: 518 5 7  place
+: 526 5 4  for
+: 534 8 9  me
+- 546
+: 548 4 5 For
+: 555 5 9  Pin
+* 562 43 7 kie
+- 609
+F 611 4 0 With
+F 617 5 0  de
+F 622 4 0 co
+F 626 4 0 ra
+F 630 3 0 tions
+F 635 4 0  like
+F 642 6 0  strea
+F 648 3 0 mers
+- 651
+F 653 3 0 and
+F 658 4 0  fai
+F 662 3 0 ry-
+F 665 3 0 lights
+F 669 3 0  and
+F 674 5 0  pin
+F 679 2 0 wheels
+- 682
+F 684 3 0 and
+F 688 4 0  pi
+F 692 3 0 ña
+F 695 3 0 tas
+F 700 3 0  and
+F 706 6 0  pin-
+F 712 5 0 cu
+F 717 5 0 shions
+- 728
+F 730 4 0 With
+F 738 4 0  goo
+F 742 4 0 dies
+F 747 4 0  like
+F 753 4 0  su
+F 757 3 0 gar
+F 761 2 0  cubes
+- 765
+F 767 3 0 and
+F 772 3 0  su
+F 775 4 0 gar
+F 780 3 0  canes
+F 785 3 0  and
+F 790 3 0  sun
+F 793 2 0 daes
+- 796
+F 798 3 0 and
+F 802 5 0  sun-
+F 807 5 0 beams
+F 813 3 0  and
+F 817 4 0  sar
+F 821 3 0 sa
+F 824 4 0 pa
+F 828 5 0 ril
+F 833 6 0 la
+- 844
+F 846 3 0 And
+F 850 4 0  I
+F 856 3 0  get
+F 860 3 0  to
+F 864 3 0  play
+F 868 3 0  my
+F 873 3 0  fa
+F 876 2 0 vorite-
+F 878 1 0 est
+- 880
+F 882 3 0 of
+F 886 5 0  fa
+F 891 2 0 vorite
+F 894 6 0  fan
+F 900 4 0 ta
+F 904 3 0 bu
+F 907 3 0 lous
+F 913 3 0  games
+- 918
+F 920 3 0 like
+F 925 3 0  Pin
+F 929 4 0  the
+F 934 4 0  Tail
+F 940 3 0  on
+F 944 4 0  the
+F 950 5 0  Po
+F 956 12 0 ny!
+- 980
+: 984 4 -1 Oh
+: 989 3 -1  the
+: 993 4 2  Grand
+: 999 3 2  Gal
+: 1003 3 2 lop
+: 1007 4 -1 ing
+: 1013 6 4  Ga
+: 1020 3 2 la
+- 1026
+: 1028 2 4 is
+: 1031 3 4  the
+: 1035 4 7  best
+: 1042 5 7  place
+: 1050 4 9  for
+: 1056 10 6  me
+- 1069
+: 1071 3 -1 Oh
+: 1075 3 2  the
+: 1079 5 4  Grand
+: 1086 3 4  Gal
+: 1090 3 4 lop
+: 1094 4 4 ing
+: 1101 6 2  Ga
+: 1108 2 -1 la
+- 1113
+: 1115 3 -3 is
+: 1119 3 -3  the
+: 1123 4 0  best
+: 1130 4 0  place
+: 1137 4 -3  for
+: 1144 6 2  me
+- 1153
+: 1155 3 0 'Cause
+: 1159 2 0  it's
+: 1162 2 0  the
+: 1165 4 2  most
+: 1173 2 2  ga
+: 1175 2 2 lar
+: 1177 3 2 ri
+: 1180 2 2 fic
+: 1184 2 0  and
+: 1187 3 4  su
+: 1191 3 4 per
+: 1195 2 4 ly-
+: 1198 3 4 ter
+: 1202 2 4 ri
+: 1205 3 2 fic
+: 1210 3 7  ga
+: 1214 2 4 la
+F 1217 2 9  e
+F 1220 2 9 ver
+- 1224
+: 1226 2 5 In
+: 1229 2 5  the
+: 1233 4 9  whole
+: 1239 6 5  ga
+: 1246 5 9 la
+* 1254 48 7 xy
+- 1312
+F 1316 19 0 Wheee!
+E

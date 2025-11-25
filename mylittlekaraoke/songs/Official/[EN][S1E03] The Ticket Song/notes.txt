@@ -1,0 +1,77 @@
+#ENCODING:UTF8
+#TITLE:The Ticket Song
+#ARTIST:My Little Pony
+#CREATOR:Pluie
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#YEAR:2010
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:616
+#GAP:3516
+#COMMENT:https://www.mylittlekaraoke.com
+#UPDATED:16-nov-2018
+: 0 9 7 Twi
+: 11 6 7 light
+: 19 6 8  is
+: 28 4 8  my
+: 35 5 7  best
+: 43 5 5 est
+: 51 3 3  friend
+- 56
+: 58 7 7 Whoo
+: 67 12 10 pie,
+: 91 7 12  whoo
+: 102 7 10 pie!
+- 114
+: 116 5 3 She's
+: 123 8 5  the
+: 133 6 7  cu
+: 141 5 7 test,
+: 148 7 8  smar
+: 157 4 8 test,
+: 162 4 7  all
+: 167 3 5  a
+: 172 7 3 round
+: 181 6 3  best
+: 189 6 5  po
+: 197 13 7 ny,
+: 220 7 8  po
+: 229 10 5 ny!
+- 248
+: 251 5 3 I
+: 259 4 5  bet
+: 265 3 5  if
+: 270 5 5  I
+: 279 5 8  throw
+: 285 3 8  a
+: 291 5 7  su
+: 298 4 5 per
+: 303 3 4 -du
+: 307 3 3 per
+: 311 5 2  fun
+: 318 7 2  par
+: 327 11 6 ty,
+: 348 9 6  par
+: 358 11 7 ty!
+- 377
+: 380 7 3 She'll
+: 390 4 5  give
+: 398 4 5  her
+: 406 5 8  ex
+: 413 5 8 tra
+: 420 4 7  tic
+: 426 3 5 ket
+: 430 3 3  to
+: 434 3 3  the
+: 438 4 5  Ga
+: 443 4 7 la
+: 449 4 8  to
+* 455 27 10  me!
+- 486
+F 488 29 16 PIIIN
+F 518 71 16 KIIIE!!
+E

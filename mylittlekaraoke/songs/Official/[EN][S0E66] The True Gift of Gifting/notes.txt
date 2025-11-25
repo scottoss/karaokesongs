@@ -1,0 +1,572 @@
+#TITLE:The True Gift of Gifting
+#ARTIST:My Little Pony
+#LANGUAGE:English
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2018
+#CREATOR:barbeque
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:400
+#GAP:500
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:09-dec-2018
+F 0 3 0 Your
+F 5 3 0  pre
+F 8 2 0 sent
+F 11 2 0  is
+F 14 4 0  on
+F 18 5 0 ly
+F 29 6 0  kind
+F 36 3 0  of
+F 40 3 0  fi
+F 43 3 0 nished,
+F 49 3 0  Rar
+F 52 3 0 i
+F 55 5 0 ty
+- 69
+F 73 2 0 But
+F 76 3 0  I
+F 81 6 0  guess
+F 90 5 0  it's
+F 98 4 0  bet
+F 102 3 0 ter
+F 106 3 0  than
+F 111 5 0  noth
+F 116 7 0 ing
+- 133
+: 165 3 5 I
+: 170 6 5  want
+: 177 3 5 ed
+: 182 3 5  to
+: 189 6 3  get
+: 200 23 1  you
+- 233
+: 241 6 5 Some
+: 250 6 5 thing
+: 260 4 8  oh,
+: 271 8 1  so
+: 283 5 -2  rare
+: 290 20 -4 ~
+- 320
+: 354 3 5 A
+: 359 6 5  gift
+: 370 3 5  to
+: 376 7 8  show
+: 388 8 10  I
+: 399 5 8  care
+: 406 6 5 ~
+- 419
+: 422 4 3 But
+: 428 6 5  no
+: 435 8 5 thing
+: 447 7 3  can
+: 458 10 1  com
+: 471 25 3 pare
+- 507
+: 511 5 1 To
+* 521 17 13  you,
+: 541 5 12  that's
+: 548 5 10  ea
+: 555 3 8 sy
+: 560 4 10  to
+: 567 9 8  see
+- 585
+: 588 2 3 But
+: 591 3 5  I
+: 595 5 5  got
+: 604 7 8  stressed
+: 617 2 5  and
+: 620 2 5  o
+: 623 4 6 ver
+: 629 7 8 thought
+- 645
+: 648 3 1 Un
+: 651 4 1 til
+: 656 3 1  the
+: 662 6 3  day
+: 670 4 5  was
+: 677 8 3  shot
+- 692
+: 695 3 1 And
+: 699 2 1  it
+: 702 3 1  was
+: 706 10 1  all
+: 721 4 -2  for
+: 729 9 1  naught
+- 749
+: 753 4 -2 But
+: 759 5 3  now
+: 767 5 5  it's
+: 777 15 3  clear
+: 795 5 1  to
+: 803 41 3  me
+- 856
+: 860 3 1 I'm
+: 865 5 1  not
+: 876 8 5  gift
+: 887 6 8 ed
+: 895 3 5  at
+: 900 8 3  gift
+: 911 4 1 ing
+- 917
+: 919 3 -2 It's
+: 924 3 1  real
+: 929 4 -2 ly
+: 935 4 1  pret
+: 941 4 3 ty
+: 948 7 3  sad
+- 963
+: 966 3 1 I
+: 971 3 3  tried
+: 977 3 3  to
+: 982 6 3  show
+: 990 3 1  I
+: 995 6 3  care
+- 1003
+: 1005 5 1 But
+: 1012 3 1  it
+: 1017 8 1  turned
+: 1028 7 1  out
+: 1040 5 -4  bad
+- 1047
+: 1049 3 -4 I'm
+: 1053 6 -4  not
+: 1066 8 5  gift
+: 1076 5 8 ed
+: 1082 3 5  at
+: 1089 9 3  gift
+: 1100 3 1 ing
+- 1105
+: 1107 3 1 So
+: 1111 5 1  all
+: 1118 4 -2  that's
+: 1124 5 1  left
+: 1131 2 3  to
+: 1135 10 3  say
+- 1155
+: 1166 5 -2 Is
+: 1172 5 1  that
+: 1178 3 1  I
+: 1184 8 6  real
+: 1194 7 8 ly
+* 1205 8 10  hope
+: 1217 7 8  my
+: 1229 9 3  gift
+: 1240 35 1 ing
+- 1285
+: 1313 5 1 Did
+: 1318 4 1 n't
+: 1325 6 5  ru
+: 1331 3 5 in
+: 1336 7 3  your
+: 1348 10 1  ho
+: 1360 5 0 li
+: 1367 29 1 day
+- 1401
+F 1403 6 0 Oh,
+F 1416 9 0  Spike
+- 1435
+F 1442 4 0 A
+F 1448 5 0  song
+F 1454 4 0  is
+F 1460 4 0  a
+F 1466 7 0  love
+F 1474 5 0 ly
+F 1483 7 0  pre
+F 1490 7 0 sent
+- 1506
+F 1509 3 0 I
+F 1514 5 0  want
+F 1519 2 0 ed
+F 1522 2 0  to
+F 1525 5 0  get
+F 1531 3 0  you
+F 1535 3 0  the
+F 1541 5 0  best
+F 1548 6 0  gift
+F 1556 5 0  e
+F 1561 5 0 ver
+- 1578
+F 1582 8 0 I
+F 1595 7 0  just
+F 1606 4 0  could
+F 1610 3 0 n't
+F 1615 3 0  fi
+F 1618 3 0 gure
+F 1622 5 0  out
+F 1629 3 0  what
+F 1633 4 0  it
+F 1639 7 0  was
+- 1655
+F 1659 7 0 Ooh!
+F 1670 7 0  Ooh!
+- 1680
+F 1682 2 0 The
+F 1686 4 0  gift
+F 1692 3 0 -gi
+F 1695 4 0 ver
+F 1700 4 0  taught
+F 1705 2 0  me
+F 1709 5 0  that
+- 1723
+F 1727 13 0 Eh,
+F 1759 8 0  what
+F 1771 8 0  was
+F 1783 10 0  it?
+- 1800
+F 1803 3 0 The
+F 1808 4 0  best
+F 1814 4 0  gift
+F 1820 3 0  is
+F 1824 5 0  more
+F 1833 4 0  pre
+F 1837 4 0 cious
+F 1842 3 0  than
+F 1848 7 0  gold
+- 1857
+F 1859 2 0 But
+F 1862 3 0  it
+F 1867 3 0  can
+F 1871 2 0 not
+F 1875 3 0  be
+F 1880 6 0  sold
+- 1889
+F 1891 2 0 When
+F 1894 3 0  it
+F 1898 4 0  breaks
+F 1905 3 0  it's
+F 1909 3 0  not
+F 1913 6 0  hin
+F 1919 5 0 dered
+- 1926
+F 1928 2 0 For
+F 1931 2 0  it
+F 1934 4 0  quick
+F 1938 3 0 ly
+F 1943 2 0  is
+F 1947 6 0  men
+F 1953 4 0 ded
+- 1961
+F 1963 2 0 It
+F 1967 2 0  can
+F 1970 4 0  ne
+F 1974 3 0 ver
+F 1978 3 0  be
+F 1983 7 0  bought
+- 1992
+F 1994 3 0 Yet
+F 1998 3 0  is
+F 2003 5 0  ea
+F 2008 4 0 si
+F 2012 4 0 ly
+F 2020 9 0  sought
+- 2039
+F 2059 5 0 What's
+F 2065 3 0  so
+F 2070 5 0  fun
+F 2075 5 0 ny?
+- 2092
+F 2096 4 0 It's
+F 2102 3 0  a
+F 2107 3 0  rid
+F 2110 5 0 dle
+- 2126
+F 2130 5 0 And
+F 2136 3 0  the
+F 2140 5 0  ans
+F 2145 4 0 wer
+F 2150 6 0  is
+- 2168
+F 2172 6 0 Friend
+F 2179 7 0 ship
+- 2196
+: 2225 3 1 The
+: 2230 6 1  most
+: 2241 6 5  ma
+: 2249 3 3 gi
+: 2254 4 1 cal
+: 2261 7 3  gift
+- 2278
+: 2311 5 5 That
+: 2319 6 5  I
+: 2330 8 8  can
+: 2342 6 1  re
+: 2352 6 -2 call
+: 2360 14 -4 ~
+- 2384
+: 2425 3 5 It
+: 2430 5 5  could
+: 2437 3 5 've
+: 2441 5 5  been
+: 2449 9 8  big
+: 2462 6 10  or
+: 2472 7 8  small
+- 2482
+: 2484 4 1 Or
+: 2489 5 1  ev
+: 2495 3 -2 en
+: 2501 15 5  noth
+: 2519 13 3 ing
+: 2535 6 1  at
+: 2544 18 3  all
+- 2574
+: 2578 3 1 It
+: 2583 6 1  does
+: 2590 4 1 n't
+* 2597 16 13  mat
+* 2615 6 12 ter
+* 2623 4 8 ~,
+: 2630 5 10  you
+: 2638 14 8  see
+- 2658
+: 2660 4 5 If
+: 2665 4 5  it's
+: 2671 4 5  from
+: 2676 5 5  my
+: 2683 11 8  friends
+: 2707 3 -4  on
+: 2712 5 5  whom
+: 2719 3 3  I
+: 2724 4 1  de
+: 2731 15 3 pend
+- 2756
+: 2765 3 1 No
+: 2769 3 1  mat
+: 2772 3 1 ter
+: 2777 14 1  what
+: 2794 4 -2  you
+: 2801 14 1  spend
+- 2821
+: 2824 3 1 It
+: 2829 7 5  will
+: 2838 6 5  be
+: 2848 8 3  per
+: 2858 5 1 fect
+: 2865 4 -2  to
+: 2873 38 3  me
+- 2921
+: 2943 3 1 The
+: 2948 8 5  true
+: 2960 5 8  gift
+: 2967 2 5  of
+: 2971 8 3  gift
+: 2983 4 1 ing
+- 2989
+: 2991 3 1 Is
+: 2996 4 1  what
+: 3002 3 -2  it
+: 3007 5 1  means
+* 3014 3 3  in
+* 3018 13 3 side
+- 3039
+: 3042 4 5 We
+: 3048 3 5  can
+: 3053 4 3  show
+: 3059 3 1  we
+: 3065 6 3  care
+- 3075
+: 3077 6 1 Spread
+: 3084 3 1 ing
+: 3089 7 1  love
+: 3101 5 1  far
+: 3107 3 1  and
+: 3114 10 -4  wide
+- 3129
+: 3131 3 -4 The
+: 3136 7 5  true
+: 3147 5 8  gift
+: 3154 3 5  of
+: 3160 6 3  gift
+: 3170 4 1 ing
+- 3176
+: 3178 3 1 Is
+: 3183 4 1  to
+: 3189 3 -4 tal
+: 3194 9 1 ly
+: 3207 13 3  free
+- 3230
+: 3238 3 1 And
+: 3243 4 1  you're
+: 3249 3 1  the
+* 3255 7 6  best
+: 3266 8 8  there
+: 3279 8 10  is
+* 3290 9 13  at
+: 3302 6 3  giv
+: 3309 3 1 in'
+: 3314 45 1  it
+- 3369
+: 3382 4 1 With
+* 3388 3 -2  the
+: 3393 5 3  friend
+: 3399 4 5 ship
+: 3406 5 3  that
+* 3413 3 0  you
+: 3418 8 1  give
+: 3429 5 -2  to
+: 3437 27 1  me
+- 3490
+: 3548 8 10 We've
+: 3559 8 10  all
+: 3570 8 8  been
+: 3582 9 8  friends
+: 3594 10 5  for
+: 3606 5 3 e
+: 3613 3 1 ver
+- 3618
+: 3620 6 1 And
+: 3629 8 -2  look
+: 3641 9 10  how
+: 3653 8 10  far
+: 3664 9 8  we've
+: 3676 13 8  come
+- 3699
+: 3735 8 10 The
+: 3746 6 10  ho
+: 3754 4 8 li
+: 3759 9 8 day
+: 3771 9 8  brings
+: 3783 8 5  us
+: 3794 7 3  close
+- 3804
+: 3806 7 1 And
+: 3817 9 -2  now
+: 3830 6 10  it's
+: 3840 8 10  time
+: 3853 7 8  for
+: 3864 14 8  fun
+- 3888
+: 3919 3 10 The
+: 3923 8 10  great
+: 3931 3 10 est
+: 3935 7 10  gift
+* 3946 8 13  you
+* 3958 8 13  give
+: 3970 5 8  to
+: 3978 7 5  me
+- 3987
+: 3989 4 3 Is
+: 3994 8 3  more
+: 4005 5 3  pre
+: 4013 22 1 cious
+: 4040 6 -2  than
+* 4049 20 5  gold
+- 4079
+: 4111 6 10 Ne
+: 4118 4 10 ver
+: 4124 9 10  end
+: 4136 7 8 ed,
+: 4147 6 8  al
+: 4155 8 5 ways
+: 4166 10 3  mend
+: 4177 2 1 ed
+- 4181
+: 4183 4 1 And
+: 4188 4 1  it
+: 4194 8 3  can't
+: 4205 5 3  be
+: 4213 9 3  bought
+: 4224 6 1  or
+: 4235 20 3  sold
+- 4258
+: 4260 3 1 The
+: 4266 7 5  true
+: 4276 6 8  gift
+: 4284 3 1  of
+: 4290 7 3  gift
+: 4299 4 1 ing
+- 4305
+: 4307 3 1 Is
+: 4312 5 1  what
+: 4319 3 -2  it
+: 4324 5 1  means
+: 4331 4 3  in
+: 4336 13 3 side
+- 4356
+: 4359 4 3 We
+: 4365 3 5  can
+: 4370 5 3  show
+: 4378 3 1  we
+: 4383 7 3  care
+- 4392
+: 4394 6 1 Spread
+: 4401 3 1 ing
+: 4406 8 8  love
+: 4417 6 5  far
+: 4425 3 3  and
+: 4430 13 3  wide
+- 4447
+: 4449 3 1 The
+: 4454 8 5  true
+: 4464 6 8  gift
+: 4472 3 5  of
+: 4477 8 3  gift
+: 4488 3 1 ing
+- 4493
+: 4495 3 1 Is
+: 4501 4 13  to
+* 4507 3 12 tal
+: 4512 7 10 ly
+: 4523 16 8  free
+- 4550
+: 4554 4 1 And
+: 4560 4 1  you're
+: 4566 3 1  the
+* 4572 8 6  best
+: 4583 9 8  there
+: 4595 9 10  is
+: 4606 9 13  at
+* 4617 7 15  giv
+: 4625 3 13 in'
+: 4630 60 13  it
+- 4696
+: 4699 5 1 With
+: 4706 3 1  the
+: 4712 4 5  friend
+: 4717 4 5 ship
+: 4723 6 3  that
+: 4730 4 1  you
+: 4736 7 1  give
+: 4746 5 -2  to
+: 4754 77 1  me
+- 4841
+F 4878 2 0 And
+F 4881 2 0  a
+F 4884 4 0  les
+F 4888 4 0 son
+F 4894 4 0  was
+F 4900 8 0  learned
+- 4912
+F 4914 5 0 There's
+F 4920 4 0  no
+F 4926 5 0  need
+F 4933 3 0  to
+F 4937 5 0  ob
+F 4944 9 0 sess
+- 4959
+F 4962 3 0 Gift
+F 4967 3 0 -giv
+F 4970 2 0 ing
+F 4974 4 0  is
+F 4980 6 0  sim
+F 4986 4 0 ple
+- 4996
+F 4999 5 0 As
+F 5007 5 0  long
+F 5014 3 0  as
+F 5018 3 0  you
+F 5023 5 0  re
+F 5028 12 0 call
+- 5050
+F 5067 5 0 Friend
+F 5074 7 0 ship
+F 5087 4 0  is
+F 5092 4 0  the
+F 5099 9 0  best
+F 5111 8 0  gift
+F 5123 8 0  of
+F 5135 23 0  all
+E

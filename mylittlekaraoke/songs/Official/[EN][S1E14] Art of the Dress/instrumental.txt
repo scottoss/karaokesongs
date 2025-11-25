@@ -1,0 +1,764 @@
+#TITLE:Art of the Dress (Instrumental)
+#ARTIST:My Little Pony
+#LANGUAGE:English
+#YEAR:2011
+#EDITION:My Little Pony
+#GENRE:Pony
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#PREVIEWSTART:4,167
+#BPM:180
+#GAP:0
+#MUSIC_BY:Daniel Ingram, Steffan Andrews, Charlotte Fullerton, Kevin Rubio, Kasumi Evans, Andrea Libman, Shannon Chan-Kent, Rebecca Shoichet, Ashleigh Ball
+#CREATOR:LardonCru
+#UPDATED:2014-09-14
+#COMMENT:http://www.mylittlekaraoke.com/
+: 50 3 27 Thread
+: 54 3 29  by
+: 59 4 27  thread,
+: 67 1 22  sti
+: 69 1 24 tching
+: 71 1 27  it
+: 73 1 24  to
+: 75 2 29 ge
+: 79 9 27 ther
+- 90
+: 98 4 27 Twi
+: 104 2 29 light's
+: 109 3 27  dress,
+: 118 1 22  cut
+: 119 1 24 ting
+: 121 1 27  out
+: 123 1 24  the
+: 124 1 29  pat
+: 127 2 31 tern
+: 130 2 29  snip
+: 133 2 27  by
+: 136 2 27  snip
+- 140
+: 143 1 29 Ma
+: 145 1 29 king
+: 146 1 29  sure
+: 148 1 27  the
+: 150 1 29  fa
+: 152 2 31 bric
+: 156 2 29  folds
+: 159 5 27  nice
+: 165 2 22 ly
+- 168
+: 169 1 22 It's
+: 170 1 24  the
+: 171 1 26  per
+: 172 1 27 fect
+: 174 4 29  co
+: 178 2 31 lor
+F 180 2 29  and
+F 183 2 27  so
+F 186 5 27  hip
+- 192
+: 194 1 29 Al
+: 195 1 29 ways
+: 197 1 29  got
+: 198 1 27  to
+: 200 1 29  keep
+: 202 1 31  in
+: 205 2 29  mind
+: 208 2 27  my
+: 211 3 27  pa
+: 214 2 22 cing
+- 217
+: 217 1 22 Ma
+: 218 1 24 king
+: 220 1 27  sure
+: 222 1 27  the
+: 224 2 29  cloth's
+: 227 2 31  cor
+: 229 3 29 rect
+: 233 2 27 ly
+: 235 3 27  fa
+: 238 3 27 cing
+- 243
+: 246 2 22 I'm
+: 248 3 27  stit
+: 251 8 27 ching
+: 260 7 29  Twi
+: 267 10 31 light's
+* 278 20 27  dress
+- 300
+: 323 3 27 Yard
+: 328 3 29  by
+: 332 6 27  yard,
+: 341 2 22  fu
+: 343 1 24 ssing
+: 345 1 27  on
+: 346 1 27  the
+: 348 4 29  de
+: 352 12 27 tails
+- 366
+: 373 3 27 Jewel
+: 378 3 29  neck
+: 381 5 27 line
+- 388
+: 391 1 22 Don't
+: 393 1 24  you
+: 394 1 27  know
+: 396 1 27  a
+: 397 2 29  stitch
+: 400 2 30  in
+: 403 3 29  time
+: 407 3 27  saves
+: 411 3 27  nine?
+- 415
+: 416 1 29 Make
+: 417 1 29  her
+: 419 1 29  some
+: 421 1 27 thing
+: 422 2 29  per
+: 424 2 31 fect
+: 429 2 29  to
+: 432 2 27  in
+: 434 5 27 spi
+: 439 1 22 re
+- 441
+: 441 1 22 E
+: 442 1 24 ven
+: 443 1 27  though
+: 445 1 29  she
+: 447 3 31  hates
+: 450 3 32  for
+: 453 3 29 mal
+: 457 2 27  at
+: 459 5 27 tire
+- 465
+: 466 1 22 Got
+: 468 1 24 ta
+: 469 1 27  mind
+: 471 1 24  those
+: 473 2 27  in
+: 475 2 24 tim
+: 477 2 27 ate
+: 480 3 29  de
+* 483 4 31 tails
+- 489
+: 491 1 27 Ev
+: 493 1 24 en
+: 494 1 27  though
+: 496 1 24  she's
+: 497 1 27  more
+: 499 2 24  con
+: 502 3 27 cerned
+: 506 2 29  with
+: 508 6 27  sales
+- 515
+: 515 6 22 It's
+: 522 2 27  App
+: 524 2 27 le
+: 526 12 27 jack's
+: 539 10 31  new
+* 550 24 27  dress
+- 576
+: 594 4 29 Dress
+: 599 6 29 ma
+: 605 3 27 king's
+: 609 2 27  ea
+: 611 4 22 sy
+- 617
+: 619 1 22 For
+: 621 1 27  Pin
+: 623 1 27 kie
+: 624 1 27  Pie
+: 627 3 27  some
+: 630 3 29 thing
+: 633 8 27  pink
+- 643
+: 645 2 29 Flut
+: 647 2 29 ter
+: 649 3 29 shy
+: 653 3 29  some
+: 656 2 27 thing
+: 659 3 27  bree
+: 662 3 22 zy
+- 667
+: 669 2 22 Blend
+: 672 1 27  col
+: 673 1 27 or
+: 675 2 27  and
+: 677 2 27  form
+- 680
+F 680 1 34 Do
+F 681 1 34  you
+F 682 2 34  think
+F 685 1 34  it
+F 686 3 34  looks
+F 690 8 34  cheesy?
+- 700
+: 745 5 27 Some
+: 750 3 29 thing
+: 754 6 27  brash,
+: 762 2 22  per
+: 764 2 22 haps
+: 767 2 27  quite
+: 770 4 29  fet
+: 774 12 31 ching
+- 788
+: 794 5 27 Hook
+: 800 3 29  and
+: 804 5 27  eye,
+F 813 4 34  couldn't
+F 817 5 34  you
+F 823 2 34  just
+F 825 5 34  simply
+F 831 5 34  DIE
+- 837
+: 838 1 29 Mak
+: 839 1 29 ing
+: 841 2 29  sure
+: 843 2 27  it
+: 845 2 29  fits
+: 849 2 31  fore
+: 851 2 29 lock
+: 854 2 27  and
+: 856 5 27  crest
+- 862
+: 863 2 27 Don't
+: 866 1 27  for
+: 867 1 27 get
+: 868 1 24  some
+: 869 3 27  ma
+: 872 2 24 gic
+: 875 2 27  in
+: 878 2 24  the
+: 880 5 27  dress
+- 887
+: 889 1 22 Ev
+: 890 1 24 en
+: 892 1 27  though
+: 893 1 29  it
+: 894 3 31  rides
+: 898 3 31  high
+: 902 2 29  on
+: 904 2 27  the
+: 906 5 27  flank
+- 912
+: 913 3 27 Rain
+: 916 2 24 bow
+: 918 3 27  won't
+: 922 2 24  look
+: 924 3 27  like
+: 928 2 29  a
+: 930 5 31  tank
+- 936
+: 938 4 22 I'm
+: 942 4 27  stit
+: 947 8 27 ching
+: 956 5 29  Rain
+: 961 10 31 bow's
+: 972 34 27  dress
+- 1008
+: 1021 2 31 Piece
+: 1024 2 27  by
+: 1027 4 27  piece,
+: 1034 2 29  snip
+: 1037 2 27  by
+: 1040 3 27  snip
+- 1044
+: 1046 3 27 Croup,
+: 1049 2 22  dock,
+: 1052 5 27  haunch,
+: 1058 3 29  shoul
+: 1061 2 27 ders,
+: 1064 3 27  hip
+- 1069
+: 1071 2 31 Thread
+: 1074 2 27  by
+: 1077 2 27  thread,
+: 1083 2 29  primmed
+: 1087 2 27  and
+: 1090 1 27  pressed
+- 1093
+: 1096 3 27 Yard
+: 1100 2 22  by
+: 1102 4 27  yard,
+: 1108 3 29  ne
+: 1111 2 27 ver
+: 1114 5 27  stressed
+- 1120
+: 1121 2 27 And
+: 1124 3 27  that's
+: 1127 2 27  the
+: 1131 4 29  art
+: 1135 3 27  of
+: 1139 6 32  the
+* 1147 2 32  dress
+* 1149 49 34 ~
+- 1204
+F 1226 4 24 Now,
+F 1230 1 24  the
+F 1232 4 24  stars
+F 1236 1 24  on
+F 1238 1 24  my
+F 1239 3 24  belt
+- 1243
+F 1243 1 24 Need
+F 1245 1 24  to
+F 1246 1 24  be
+F 1247 6 24  technically
+F 1254 5 24  accurate
+- 1261
+F 1263 5 24 Orion
+F 1269 2 24  has
+F 1272 3 24  three
+F 1276 3 24  stars
+- 1280
+F 1280 1 24 On
+F 1281 2 24  his
+F 1284 5 24  belt,
+F 1289 2 24  not
+F 1291 5 24  four
+- 1298
+: 1314 5 27 Stitch
+: 1320 2 29  by
+: 1323 8 27  stitch,
+: 1332 1 22  stitch
+: 1334 1 24 ing
+: 1336 1 27  it
+: 1338 1 24  to
+: 1340 2 29 ge
+: 1343 11 27 ther
+- 1356
+: 1363 4 27 Dead
+: 1367 5 29 line
+: 1373 6 27  looms
+- 1380
+: 1381 1 22 Don't
+: 1383 1 24  you
+: 1384 1 27  know
+: 1386 1 27  the
+: 1387 4 29  cli
+: 1391 2 31 ent's
+: 1394 3 29  al
+: 1397 2 27 ways
+: 1400 4 27  right
+- 1405
+: 1406 1 29 Ev
+: 1408 1 29 en
+: 1409 1 29  if
+: 1411 1 27  my
+: 1412 3 29  fab
+: 1415 2 31 ric
+: 1417 4 29  choice
+: 1422 2 27  was
+: 1424 3 27  per
+: 1427 3 22 fect
+- 1431
+: 1431 1 22 Got
+: 1432 1 24 ta
+: 1433 1 27  get
+: 1435 1 29  them
+: 1436 2 29  all
+: 1439 3 22  done
+: 1443 2 24  by
+: 1445 3 27  to
+: 1448 4 27 night
+- 1453
+: 1455 1 29 Pin
+: 1456 1 29 kie
+: 1458 1 29  Pie,
+: 1459 1 27  the
+: 1461 3 29  co
+: 1464 2 31 lor's
+: 1467 2 29  too
+: 1470 1 27  ob
+: 1472 3 27 tru
+: 1475 3 22 sive
+- 1479
+: 1479 1 22 Wait
+: 1481 1 24  un
+: 1482 1 27 til
+: 1484 1 29  you
+: 1485 2 29  see
+: 1488 2 22  it
+: 1491 2 24  in
+: 1494 2 27  the
+: 1497 3 27  light
+- 1501
+: 1502 5 27 I'm
+: 1508 3 27  sew
+: 1511 9 27 ing
+: 1521 5 29  them
+: 1527 6 31  to
+: 1533 3 27 ge
+: 1537 11 27 ther
+- 1550
+F 1556 1 24 Don't
+F 1558 1 24  you
+F 1559 1 24  think
+F 1561 1 24  my
+F 1563 2 24  gown
+- 1566
+F 1566 1 24 Would
+F 1567 1 24  be
+F 1569 2 24  more
+F 1571 5 24  me
+- 1576
+F 1576 1 24 With
+F 1578 2 24  some
+F 1581 9 24  lollipops?
+- 1592
+F 1594 3 24 Well,
+F 1598 1 24  I
+F 1599 2 24  think...
+- 1602
+F 1602 7 24 Balloons?
+- 1610
+F 1610 5 24 Well...
+- 1616
+F 1618 2 24 Do
+F 1622 6 24  it!
+- 1629
+: 1631 4 27 Hour
+: 1636 3 27  by
+: 1640 4 27  ho
+: 1645 6 20 ur,
+: 1655 4 27  one
+: 1660 3 29  more
+: 1664 8 31  change
+- 1673
+: 1674 5 27 I'm
+: 1679 2 27  sew
+: 1681 3 27 ing
+: 1685 2 27  them
+: 1688 3 27  to
+: 1691 5 27 ge
+: 1696 4 22 ther,
+: 1703 5 27  take
+: 1709 4 29  great
+: 1713 8 27  pains
+- 1723
+: 1731 2 32 Flu
+: 1733 2 32 tter
+: 1736 2 32 shy,
+: 1739 2 27  you're
+: 1742 1 29  put
+: 1743 2 29 ting
+: 1746 2 27  me
+: 1748 1 29  in
+: 1749 2 31  a
+: 1753 3 32  bind
+- 1756
+: 1756 3 32 Rain
+: 1760 2 32 bow
+: 1763 2 32  Dash,
+: 1766 2 34  what
+: 1769 2 32  is
+: 1771 2 32  on
+: 1773 2 32  your
+: 1776 4 32  mind
+- 1781
+: 1781 1 32 Oh
+: 1782 1 32  my
+: 1784 2 32  gosh,
+: 1787 2 27  there's
+: 1789 3 29  simp
+: 1792 2 27 ly
+: 1795 2 29  not
+: 1798 2 31  much
+: 1801 3 32  time
+- 1805
+: 1805 1 32 Don't
+: 1807 2 32  for
+: 1809 3 32 get,
+: 1814 1 34  App
+: 1815 2 34 le
+: 1818 2 32 jack's
+: 1821 2 29  duds
+- 1824
+: 1824 2 31 Must
+: 1826 12 32  shi
+: 1838 14 34 -i
+* 1852 21 34 -ine
+- 1874
+: 1876 3 29 Dress
+: 1880 4 29 ma
+: 1884 3 27 king's
+: 1888 3 27  ea
+: 1891 5 22 sy
+- 1898
+: 1900 3 22 Eve
+: 1903 2 27 ry
+: 1906 2 27  cus
+: 1908 2 24 to
+: 1910 2 29 mer's
+: 1913 6 27  call
+- 1921
+: 1924 2 29 Brings
+: 1926 1 29  a
+: 1927 2 29  whole
+: 1930 3 29  new
+: 1934 2 27  re
+: 1937 2 27 vi
+: 1939 4 22 sion
+- 1944
+: 1946 2 22 Have
+: 1948 1 22  to
+: 1949 2 27  pick
+: 1951 1 27  up
+: 1952 1 27  the
+: 1954 4 27  pace
+- 1959
+: 1959 2 27 Still
+: 1961 2 27  hold
+: 1963 1 27  to
+: 1964 2 27  my
+: 1967 3 29  vi
+* 1970 5 27 sion
+- 1977
+F 1988 4 24 That
+F 1993 7 24  constellation
+F 2001 1 24  is
+F 2002 6 24  Canis
+F 2010 8 24  Major,
+F 2020 4 24  not
+F 2024 7 24  Minor
+- 2033
+F 2041 5 24 French
+F 2046 3 24  haute
+F 2050 8 24  couture,
+F 2059 9 24  please
+- 2070
+F 2083 5 24 Eeeh...
+- 2090
+F 2110 2 24 What
+F 2113 1 24  if
+F 2114 1 24  it
+F 2116 6 24  rains?
+F 2129 11 24  Galoshes!
+- 2142
+F 2153 2 24 More
+F 2156 7 24  balloons!
+F 2166 1 24  Oh
+F 2168 2 24  no,
+F 2171 2 24  that's
+F 2174 1 24  too
+F 2175 2 24  many
+F 2178 5 24  balloons
+- 2184
+F 2184 2 24 More
+F 2187 6 24  candy!
+F 2198 1 24  Oh,
+F 2199 1 24  less
+F 2201 5 24  candy
+- 2207
+F 2209 1 24 Oh
+F 2210 3 24  wait,
+F 2214 2 24  I
+F 2217 4 24  know!
+F 2221 10 24  Streamers!
+- 2233
+F 2238 9 24 Streamers?
+- 2249
+F 2251 4 24 Whose
+F 2256 4 24  dress
+F 2260 1 24  is
+F 2262 5 24  this?
+- 2269
+F 2273 6 24 Streamers
+F 2279 2 24  it
+F 2282 3 24  is
+- 2287
+F 2338 5 24 What?
+- 2344
+F 2345 2 24 Aren't
+F 2348 1 24  you
+F 2350 1 24  going
+F 2351 1 24  to
+F 2353 1 24  tell
+F 2355 1 24  me
+- 2356
+F 2356 1 24 To
+F 2358 2 24  change
+F 2361 4 24  something
+F 2365 3 24  too?
+- 2370
+F 2374 5 24 No,
+F 2380 2 24  I
+F 2382 1 24  just
+F 2384 2 24  want
+- 2386
+F 2386 1 24 My
+F 2387 2 24  dress
+F 2389 1 24  to
+F 2391 2 24  be...
+F 2394 7 24  cool
+- 2403
+F 2407 1 24 Do
+F 2408 1 24  you
+F 2409 1 24  not
+F 2410 1 24  like
+F 2412 1 24  the
+F 2414 3 24  color?
+- 2419
+F 2424 2 24 The
+F 2427 4 24  color's
+F 2433 6 24  fine
+- 2440
+F 2440 2 24 Just
+F 2442 2 24  make
+F 2444 1 24  it
+F 2445 2 24  look
+F 2447 5 24  cooler
+- 2454
+F 2456 1 24 Do
+F 2457 1 24  you
+F 2458 1 24  not
+F 2459 2 24  like
+F 2462 1 24  the
+F 2463 4 24  shape?
+- 2468
+F 2470 1 24 The
+F 2472 3 24  shape's
+F 2476 3 24  fine
+- 2480
+F 2480 2 24 Just
+F 2482 2 24  make
+F 2486 1 24  the
+F 2487 2 24  whole
+F 2490 4 24  thing,
+- 2495
+F 2495 1 24 You
+F 2496 3 24  know,
+F 2502 7 24  cooler
+- 2511
+F 2518 2 24 It
+F 2521 2 24  needs
+F 2524 1 24  to
+F 2525 1 24  be
+F 2526 2 24  about
+F 2529 5 24  20%
+F 2535 7 24  cooler.
+- 2544
+: 2563 1 22 All
+: 2564 1 22  we
+: 2565 1 24  e
+: 2567 1 27 ver
+: 2568 3 29  want
+: 2572 2 31  is
+: 2575 2 29  in
+: 2577 2 27 de
+: 2580 3 27 ci
+: 2584 2 27 sion
+- 2587
+: 2587 1 22 All
+: 2588 1 22  we
+: 2590 1 24  real
+: 2591 1 27 ly
+: 2593 3 27  like
+: 2597 2 20  is
+: 2599 2 22  what
+: 2602 2 27  we
+: 2604 4 27  know
+- 2609
+: 2611 1 22 Got
+: 2613 1 22 ta
+: 2614 1 24  ba
+: 2616 1 27 lance
+: 2618 3 29  sty
+: 2621 2 31 le
+: 2623 2 29  with
+: 2626 2 27  ad
+: 2629 4 27 her
+: 2633 3 27 ence
+- 2636
+: 2636 1 22 Ma
+: 2637 1 22 king
+: 2639 1 24  sure
+: 2640 1 27  we
+: 2642 3 27  make
+: 2646 2 20  a
+: 2648 3 22  good
+: 2652 2 27  a
+: 2654 3 27 ppear
+: 2657 2 27 ance
+- 2660
+: 2660 2 27 Even
+: 2662 1 27  if
+: 2664 1 27  you
+: 2666 3 27  simp
+: 2669 2 20 ly
+: 2672 2 22  have
+: 2675 2 27  to
+: 2677 4 27  fudge
+: 2682 2 27  it
+- 2684
+: 2684 1 27 Make
+: 2686 1 27  sure
+: 2688 1 27  that
+: 2689 1 27  it
+: 2690 3 29  stays
+: 2694 3 31  wi
+: 2697 2 29 thin
+: 2700 2 27  our
+: 2702 3 27  bud
+: 2705 2 27 get
+- 2708
+: 2709 1 27 Got
+: 2711 1 27  to
+: 2712 1 27  o
+: 2714 1 27 ver
+: 2715 2 27 come
+: 2718 2 22  in
+: 2721 3 22 ti
+: 2724 3 27 mi
+: 2727 2 27 da
+: 2729 2 27 tion
+- 2732
+: 2733 1 32 Re
+: 2734 1 32 mem
+: 2736 1 32 ber
+: 2737 1 32  it's
+: 2740 2 32  all
+: 2743 1 27  in
+: 2744 1 29  the
+: 2746 2 32  pre
+: 2748 3 34 sen
+: 2751 3 34 ta
+* 2755 17 34 tion
+- 2774
+: 2792 3 31 Piece
+: 2795 3 27  by
+: 2799 3 27  piece,
+: 2805 3 29  snip
+: 2808 2 27  by
+: 2811 3 27  snip
+- 2815
+: 2817 2 27 Croup,
+: 2820 3 22  dock,
+: 2823 3 27  haunch,
+: 2829 3 29  shoul
+: 2832 2 27 ders,
+: 2835 2 27  hip
+- 2839
+: 2841 2 31 Bolt
+: 2844 2 27  by
+: 2847 3 27  bolt,
+: 2853 3 29  primmed
+: 2857 2 27  and
+: 2859 2 27  pressed
+- 2863
+: 2865 2 27 Yard
+: 2868 2 22  by
+: 2871 5 27  yard,
+: 2878 3 29  al
+: 2881 2 27 ways
+: 2884 3 27  stressed
+- 2888
+: 2890 2 27 And
+: 2893 2 27  that's
+: 2896 2 27  the
+: 2899 5 29  art
+: 2905 3 27  of
+: 2908 5 32  the
+* 2915 43 34  dress
+E
+E
