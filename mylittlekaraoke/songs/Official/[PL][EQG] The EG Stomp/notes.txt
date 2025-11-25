@@ -1,0 +1,276 @@
+#ENCODING:UTF8
+#TITLE:EG Stomp [PL]
+#ARTIST:Equestria Girls
+#CREATOR:Imagination
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:Polish
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:299.17
+#GAP:16253
+#COMMENT:http://www.mylittlekaraoke.com
+: 0 3 8 Hu
+: 4 3 6 -u
+: 8 2 4 -u
+: 10 2 1 -u
+: 16 4 6  ye
+: 21 8 4 ah!
+- 29
+: 31 5 8 To
+: 37 4 6  my
+: 42 5 4  Equ
+: 48 3 4 es
+: 52 3 4 tri
+* 57 5 6 a
+: 65 11 4  Girls
+- 78
+: 80 4 4 chce
+: 85 3 -1 my
+: 90 8 3  krzy
+: 99 2 4 czeć,
+: 105 11 4  że
+- 119
+: 121 4 1 Przy
+: 126 3 3 jaźń
+: 133 4 4  to
+* 145 7 11  jest
+: 154 4 6  ma
+: 159 5 4 gia
+: 165 3 4  niech
+- 169
+: 171 9 6 po
+: 181 4 6 pro
+: 186 5 6 wa
+: 192 2 4 dzi
+: 197 2 4  Cię
+- 199
+: 201 6 8 To
+: 208 4 6  my
+: 213 4 4  Equ
+: 219 4 4 es
+: 224 2 4 tri
+: 228 6 6 a
+: 236 11 4  Girls,
+- 248
+: 250 5 4 o
+: 256 2 -1 bok
+: 260 8 3  cie
+* 269 3 4 bie
+: 276 6 4  ja
+- 290
+: 293 4 4 I
+: 298 2 4  pr
+: 301 2 4 zy
+: 304 3 9 ja
+: 309 4 9 źni
+: 315 4 8  ma
+: 320 4 8 gię
+: 325 4 6  każ
+* 330 4 4 da
+: 335 6 1  z nas
+: 343 7 6  zna...
+- 356
+F 359 12 4  Yeah!
+- 375
+F 377 5 0 Twi
+F 383 4 0 light
+F 388 4 0  Spar
+F 394 7 0 kle
+- 401
+F 402 2 0 dużo
+F 405 2 0  wdzię
+F 408 2 0 ku
+F 411 4 0  ma
+- 426
+F 430 5 0 Flut
+F 437 1 0 ter
+F 439 7 0 shy
+F 447 3 0  każdy
+F 451 6 0  zwie
+F 458 4 0 rzak
+F 463 6 0  zna
+- 471
+F 473 5 0 Ap
+F 479 3 0 ple
+F 482 5 0 jack
+F 490 2 0  za
+F 493 2 0 wsze
+F 496 4 0  po
+F 500 4 0 móc
+F 505 7 0  chce
+- 514
+F 516 3 0 Ra
+F 520 3 0 ri
+F 524 2 0 ty
+F 527 4 0  wie
+F 534 3 0  jak
+F 538 4 0  u
+F 544 2 0 brać
+F 547 5 0  się
+- 552
+F 554 3 0 Ra
+F 557 3 0 in
+F 560 3 0 bow
+F 565 5 0  Da
+F 571 4 0 sh
+F 576 2 0  umie
+F 579 4 0  w
+F 584 3 0  piłkę
+F 588 2 0  gr
+F 591 6 0 ać
+- 599
+F 601 3 0 A
+F 605 2 0  Pin
+F 608 3 0 kie
+F 613 4 0  Pie
+F 618 4 0  uwiel
+F 625 2 0 bia
+F 628 3 0  się
+F 632 8 0  śmiać
+- 640
+: 641 5 4 Klej
+: 647 4 3 no
+: 652 5 4 ty
+: 663 5 4  har
+* 669 4 3 mo
+: 674 8 4 nii,
+- 686
+: 688 4 4 o
+: 694 3 4 ne
+: 699 5 4  łą
+* 705 4 8 czą
+: 711 3 6  mo
+: 715 4 4 cno
+: 720 6 4  nas
+- 729
+: 731 4 4 Nie
+: 736 2 1 ch
+: 739 5 4  bę
+: 747 3 1 dzie
+* 753 4 4  co
+: 759 3 1  ma
+: 765 7 6  być,
+- 777
+: 779 4 4 przy
+: 785 3 4 ja
+: 789 2 4 ź
+: 792 4 8 ni
+* 797 3 6  nad
+: 801 3 4 szedł
+: 807 3 4  czas
+- 810
+: 812 3 4  ...Equ
+: 817 4 4 es
+: 822 2 4 tri
+: 827 4 6 a
+: 834 10 4  Girls
+- 847
+: 849 4 4 chce
+: 855 2 -1 my
+: 860 9 3  krzy
+: 870 3 3 czeć,
+: 875 10 4  że
+- 889
+: 891 3 1 Przy
+: 896 2 3 jaźń
+: 901 10 4  to
+: 913 8 11  jest
+* 923 4 6  ma
+: 928 4 4 gia
+: 935 3 4  niech
+- 939
+: 941 6 6 po
+: 950 3 6 pro
+: 955 4 6 wa
+: 961 2 4 dzi
+: 967 2 4  Cię
+- 969
+: 971 5 8 To
+: 977 4 6  my
+: 982 3 4  Equ
+: 987 5 4 es
+: 993 2 4 tri
+: 997 7 6 a
+: 1005 11 4  Girls
+- 1017
+: 1019 4 4 prze
+* 1024 4 -1 ko
+: 1029 8 3 na
+: 1040 3 4 my
+: 1044 13 4  Cię
+- 1068
+: 1072 4 4 Przy
+: 1077 5 9 jaźń
+: 1084 4 8  zmie
+: 1090 3 8 nia
+: 1094 4 6  ka
+: 1100 3 4 -a
+: 1104 4 1 żdy
+: 1111 13 6  dzień
+- 1134
+: 1141 5 8 To
+: 1147 5 6  my
+: 1153 4 4  Equ
+: 1158 4 4 es
+: 1164 2 4 tri
+* 1167 7 6 a
+: 1176 11 4  Girls
+- 1190
+: 1192 3 4 chce
+: 1196 3 -1 my
+: 1202 7 3  krzy
+: 1211 4 4 czeć,
+: 1217 9 4  że
+- 1231
+: 1233 3 1 Przy
+: 1238 3 3 jaźń
+: 1243 9 4  to
+: 1255 8 11  jest
+: 1266 3 6  ma
+: 1271 4 4 gia
+: 1276 4 4  niech
+- 1282
+: 1284 7 6 po
+: 1292 3 6 pro
+* 1298 4 6 wa
+: 1303 2 4 dzi
+: 1308 3 4  Cię
+- 1312
+: 1314 4 8 To
+: 1319 4 6  my
+: 1324 4 4  Equ
+: 1329 5 4 es
+: 1335 2 4 tri
+: 1338 7 6 a
+: 1348 9 4  Girls
+- 1361
+: 1363 3 4 o
+: 1368 2 -1 bok
+: 1373 6 3  cie
+: 1382 3 4 bie
+* 1387 7 4  ja
+- 1401
+: 1404 3 4 I
+: 1409 4 4  przy
+: 1415 3 9 ja
+: 1420 4 9 źni
+: 1426 3 8  ma
+: 1431 4 6 gię
+* 1437 4 6  każ
+: 1442 3 4 da
+: 1447 4 4  z nas
+: 1453 2 1  z
+: 1456 13 6 na
+- 1472
+: 1474 3 4 Equ
+: 1479 5 8 es
+: 1485 2 6 tri
+: 1488 3 6 a
+: 1492 3 4 -a
+* 1497 2 4  Gi
+* 1500 2 6 -i
+* 1503 19 4 -irls
+E

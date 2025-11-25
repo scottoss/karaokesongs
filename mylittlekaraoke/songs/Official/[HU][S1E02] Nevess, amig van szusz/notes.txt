@@ -1,0 +1,223 @@
+﻿#TITLE:Nevess, amíg van szusz
+#ARTIST:Én Kicsi Pónim
+#LANGUAGE:Hungarian
+#MP3:song.mp3
+#VIDEO:video.avi
+#VIDEOGAP:-0.3
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:436
+#GAP:230
+#CREATOR:Smilley
+#GENRE:Pony
+#EDITION:My Little Pony
+#UPDATED:17-06-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+F 0 13 1 Jaj,
+F 14 15 1  lányok!
+F 29 5 1  Nem
+F 36 21 1  értitek?
+- 65
+: 71 6 -2 Mi
+: 77 5 -2 kor
+: 83 6 3  es
+: 90 4 3 te
+: 95 3 3  a
+: 98 5 3  Nap
+: 106 4 7  a
+* 110 8 8 lud
+: 119 6 7 ni
+: 125 11 3  tért
+- 143
+: 143 7 3 Kis
+: 151 8 3 lány
+: 160 4 3 ko
+: 165 7 7 rom
+: 174 18 5 ba
+* 193 4 7 -a
+: 197 6 5 -a
+: 204 28 3 -an
+- 234
+F 234 14 1 Mondjátok,
+F 248 6 1  hogy
+F 254 8 1  nem...
+- 265
+: 265 6 3 Ár
+: 272 8 3 nyék
+: 281 6 3  volt
+: 288 5 7  és
+: 294 5 8  sö
+: 300 6 7 tét
+: 307 7 3 ség
+- 316
+F 316 0 2 És
+: 318 7 -2  én
+: 325 8 3  ös
+: 333 6 3 sze
+: 339 5 3 ku
+* 344 4 3 po
+* 348 6 7 rod
+: 355 22 5 ta
+: 377 4 7 -a
+: 381 6 5 -a
+: 387 28 3 -am
+- 419
+F 419 5 1 De
+F 425 14 1  igen...
+- 439
+: 439 4 7 A
+: 447 6 8  pár
+: 454 4 7 na
+: 461 4 3  a
+: 465 12 8 lá
+: 477 6 7  búj
+* 485 10 3 tam
+- 499
+: 499 6 7 Az
+: 508 6 8  árny
+: 515 6 7 ké
+: 522 8 3 pek
+: 531 4 8  e
+: 535 20 7 lől
+- 558
+: 558 5 7 De
+: 564 4 7  a
+: 569 4 8  na
+: 573 4 8 gyi
+: 579 5 8  sze
+: 585 8 12 rint
+: 593 4 10  ez
+: 598 8 3  nem
+: 607 7 5  jó
+: 615 10 7  út
+- 628
+: 630 4 7  "Ne
+: 635 8 5  légy
+: 644 8 3  gyá
+: 652 6 7 va
+* 660 30 5  nyúl!"
+- 688
+F 688 7 3 Hát
+F 696 9 3  akkor?
+- 707
+: 707 4 5 Így
+: 711 8 3  szólt:
+: 721 12 10  "Pin
+: 735 12 7 kie,
+: 751 5 8  u
+: 756 4 7 no
+: 763 10 5 kám
+: 775 4 3  ne
+: 781 12 -2  félj!
+- 794
+: 794 9 3 Győzd
+: 803 6 3  le
+: 809 8 5  fé
+: 818 7 7 lel
+: 826 5 5 me
+: 831 7 3 det!
+- 841
+: 842 12 10 Meg
+: 855 15 7 lásd,
+: 871 3 7  ha
+: 874 4 8  ne
+: 878 8 7 vetsz
+: 887 7 5  raj
+: 895 6 3 ta
+- 903
+: 904 6 7 nem
+: 910 6 5  lesz
+: 917 9 3  töb
+: 928 4 3 bé
+: 933 8 5  sem
+* 941 5 7 mi
+: 947 36 5  vész."
+- 988
+F 992 14 10 Ha!
+F 1008 13 5  Ha!
+F 1024 10 -2  Ha!
+- 1062
+* 1106 26 10 Hát,
+: 1136 7 8  ne
+: 1143 6 8 vess
+: 1152 5 12  a
+: 1158 6 8 míg
+: 1166 7 10  van
+: 1174 16 7  szusz
+- 1194
+: 1197 5 3 Ka
+: 1202 10 3 cagj,
+: 1213 5 7  a
+: 1218 5 3 míg
+: 1225 10 5  csak
+: 1237 16 5  tudsz
+- 1256
+: 1258 7 8 Nin
+: 1266 6 8 csen
+: 1273 8 12  töb
+: 1281 6 8 bé
+: 1288 11 10  szel
+: 1300 11 7 lem
+- 1315
+: 1319 7 3 Kön
+: 1326 6 3 nye
+: 1333 8 7 id
+: 1343 5 3   fe
+: 1348 10 5 lejtsd
+* 1360 14 5  el
+- 1378
+: 1380 7 8 Kun
+: 1387 9 8 cogj,
+: 1396 6 12  mint
+: 1404 4 8  egy
+: 1411 6 10  bo
+: 1417 17 7 hóc
+- 1436
+: 1439 8 3 Az
+: 1448 6 3  ott
+: 1454 8 7  csak
+: 1463 5 3  egy
+: 1471 8 5  pok
+: 1479 12 5 ró
+: 1491 6 3 -óc
+- 1497
+F 1497 4 7 S
+F 1501 8 8  hogyha
+F 1509 7 8  nagyon
+F 1516 9 8  félsz
+- 1524
+F 1524 8 8 Akkor
+F 1532 4 7  ne
+F 1536 11 7  remegjen
+F 1547 3 7  a
+F 1550 7 7  térd
+- 1562
+F 1562 5 9 Tűnj
+F 1567 3 9  el
+F 1570 9 10  szellem,
+F 1579 8 10  tágulj
+F 1587 7 10  tőlem
+- 1595
+F 1595 3 10 De
+F 1598 4 10  ha
+F 1602 3 10  nem
+F 1605 3 10  mész,
+F 1608 4 10 van
+F 1612 3 10  itt
+F 1615 5 10  sok,
+F 1620 3 10  mi
+F 1623 3 10  szép
+- 1626
+F 1626 9 10 Mondom,
+F 1635 4 10  hogy
+F 1639 4 10  ez
+F 1643 2 10  a
+F 1645 10 10  legjobb,
+F 1655 3 10  ne
+F 1658 4 10  tégy
+F 1662 6 10  mást
+F 1668 10 10  csak
+- 1714
+: 1756 9 15 Ne
+: 1765 130 15 vess!
+E

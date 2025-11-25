@@ -1,0 +1,82 @@
+#ENCODING:UTF8
+#TITLE:Kolęda serdeczności
+#ARTIST:Mój Mały Kucyk
+#CREATOR:Profpatsch/Vengir
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:Polish
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:360
+#GAP:0
+#UPDATED:07-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 147 11 26 Przy
+: 159 10 26 ja
+: 169 12 28 źni
+: 181 12 30  pło
+: 193 10 33 mień
+: 203 13 33  w ser
+: 216 6 31 cach
+: 222 4 30  się
+: 228 6 28  tli
+- 237
+: 241 10 33 Do
+: 252 10 33 da
+: 263 5 31 je
+: 268 5 30  nam
+: 273 12 28  sił
+: 285 6 26  w le
+: 291 5 28 psze
+: 297 12 30  i
+: 309 4 31  gor
+: 313 6 30 sze
+: 320 11 28  dni
+- 335
+: 340 5 26 Choć
+: 345 10 30  mię
+: 355 11 31 dzy
+: 366 12 33  na
+* 379 10 38 mi
+* 389 10 37  kłó
+: 399 7 33 tnie
+: 407 5 35  też
+: 412 18 33  są
+- 434
+: 437 10 35 Ra
+: 447 7 31 dość
+: 454 5 35  po
+: 459 6 33 ma
+: 465 5 30 ga
+: 470 9 30  nam
+: 479 12 31  prze
+: 491 13 33 trwać
+: 504 58 33  to
+- 563
+: 564 10 26 Gdy
+: 574 11 26  masz
+: 585 10 28  przy
+: 596 7 30 ja
+: 603 5 30 ciół
+: 608 11 33  tak
+: 619 13 33  wier
+: 632 4 31 ny
+: 636 5 30 ~
+: 641 9 28  krąg
+- 652
+: 656 6 33 Nie
+: 662 12 33 stra
+: 674 7 31 szny
+: 681 7 30  zły
+: 688 8 28  czas
+- 699
+: 702 10 33 Już
+: 712 12 33  nic
+: 724 5 31  nie
+: 729 7 33  roź
+: 736 11 35 dzie
+: 747 11 37 li
+: 759 99 38  nas
+E

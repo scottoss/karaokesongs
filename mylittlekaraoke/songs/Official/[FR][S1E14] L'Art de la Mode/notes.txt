@@ -1,0 +1,740 @@
+#TITLE:L'Art de la Mode
+#ARTIST:Mon Petit Poney
+#MP3:song.mp3
+#BPM:185
+#GAP:4378
+#CREATOR:LardonCru, Renard
+#GENRE:Pony
+#LANGUAGE:French
+#EDITION:My Little Pony
+#COVER:cover.png
+#BACKGROUND:background.png
+: 0 3 27 Point
+: 5 3 29  par
+: 11 4 27  point,
+: 19 1 22  pour
+: 20 1 24  tout
+: 22 1 27  bien
+: 24 2 29  as
+: 27 2 29 sem
+: 30 9 27 bler
+- 46
+: 49 4 27 A
+: 55 2 29 vec
+: 60 3 27  soin,
+: 69 1 22  dé
+: 70 1 24 cou
+: 72 1 27 per
+: 74 1 29  le
+: 75 1 30  mo
+: 78 2 32 dèle
+: 81 2 29  pièce
+: 84 2 27  par
+: 87 2 27  pièce
+- 89
+: 91 1 27 Pren
+: 93 1 27 dre
+: 94 1 27  garde
+: 96 1 29  que
+: 98 1 29  la
+: 100 2 31  coupe
+: 104 2 29  soit
+: 107 5 27  par
+: 113 2 22 faite
+- 115
+: 117 1 22 Choi
+: 118 1 24 sir
+: 119 1 27  les
+: 120 1 29  cou
+: 122 4 29 leurs
+: 126 2 31  a
+: 128 2 29 vec
+: 131 2 29  sa
+: 134 5 29 gesse
+- 139
+: 141 1 29 Re
+: 142 1 29 prendre
+: 144 1 29  les
+: 145 1 27  me
+: 147 1 29 sures
+: 149 1 31  en
+: 152 2 29  quel
+: 155 2 27 que
+: 158 3 27  se
+: 161 2 22 condes
+- 163
+: 165 1 22 Faire
+: 166 1 24  bien
+: 168 1 27  a
+: 170 1 27 ten
+: 172 2 29 tion
+: 175 2 31  que les
+: 177 3 29  pièces
+: 181 2 27  cor
+: 183 3 27 res
+: 186 3 27 pondent
+- 192
+: 194 2 22 C'est
+: 196 3 27  l'ha
+: 199 8 27 bit
+: 208 7 29  de
+: 215 7 31  Twi
+* 226 23 27 light
+- 259
+: 269 3 27 Trait
+: 274 3 29  par
+: 278 6 27  trait,
+: 287 2 22  pour
+: 289 1 24  soi
+: 291 1 27 gner
+: 292 1 27  les
+: 294 4 29  dé
+: 298 12 27 tails
+- 316
+: 319 3 27 Maille
+: 324 3 29  par
+: 327 5 27  maille
+- 335
+: 337 1 22 Et
+: 339 1 24  que
+: 340 1 27  ra
+: 342 1 27 jou
+: 343 2 29 ter
+: 346 2 30  comme
+: 349 3 29  ac
+: 353 3 27 ces
+: 357 3 27 soires
+- 360
+: 362 1 23 Plus
+: 363 1 24  so
+: 365 1 26 phis
+: 367 1 27 ti
+: 368 2 29 qué
+: 370 2 31  ou
+: 373 2 29  bien
+: 376 2 27  plus
+: 379 3 27  cri
+: 383 2 22 ard
+- 385
+: 387 1 22  Même
+: 388 1 24  si
+: 389 1 27  c'est
+: 391 1 29  pas
+: 393 3 31  trop
+: 396 3 32  sa
+: 399 3 29  tasse
+: 403 2 27  de
+: 405 4 27  thé
+- 409
+: 411 1 22 Com
+: 413 1 24 ment
+: 414 1 27  vou
+: 416 1 24 drait
+: 418 2 27 -elle
+: 420 2 24  être
+: 422 2 27  ha
+: 426 3 29 bil
+* 429 4 31 llée
+- 434
+: 436 1 27 Faut
+: 438 1 24  con
+: 439 1 27 naî
+: 441 1 24 tre
+: 442 1 27  ses
+: 444 2 24  af
+: 447 3 27 fi
+: 451 2 29 ni
+: 453 6 27 tés
+- 459
+: 461 4 22 C'est
+: 467 3 27  l'ha
+: 470 6 27 bit
+: 478 5 27  d'Ap
+: 484 5 31 ple
+* 491 29 27 jack
+- 530
+: 538 4 29 C'est
+: 543 6 29  pas
+: 549 3 27  com
+: 553 2 27 pli
+: 555 4 22 qué
+- 561
+: 563 1 22 Pour
+: 565 1 27  Pin
+: 567 1 27 kie
+: 568 1 27  Pie
+: 571 3 27  c'est
+: 574 3 29  du
+: 577 6 27  rose
+- 586
+: 588 2 29 Flut
+: 590 2 29 ter
+: 592 3 29 shy
+: 596 3 29  de la
+: 599 2 27  lé
+: 602 3 27 gè
+: 605 3 22 reté
+- 609
+F 611 2 24 On
+F 615 2 24  mélange
+F 619 2 24  tout
+F 621 2 24  ce n'est que
+F 623 2 24  de la bonne
+F 625 4 24  qualité
+- 630
+F 632 2 24  T'aimes
+F 634 1 24  pas
+F 636 1 24  mon
+F 638 8 24  idée ?
+- 658
+: 684 5 27 Ra
+: 691 3 29 vis
+: 695 6 27 sante,
+: 703 2 22  ou
+: 705 2 24  im
+: 708 2 27 per
+: 711 4 29 ti
+: 715 12 31 nente
+- 732
+: 734 5 27 Que
+: 740 3 29  choi
+: 744 5 27 sir,
+F 750 4 24  n'est-ce
+F 754 5 24  pas
+F 760 2 24  séduisant
+F 762 5 24  à
+F 768 5 24  mourir
+- 776
+: 778 1 29 Faut
+: 779 1 29  que ce
+: 781 2 29  soit
+: 783 2 27  beau
+: 785 2 29  de
+: 789 2 31  la
+: 791 2 29  tête
+: 794 2 27  aux
+: 796 5 27  pieds
+- 801
+: 802 2 27 Un
+: 805 1 27  peu
+: 806 1 27  de
+: 807 1 24  ma
+: 808 3 27 gie
+: 811 2 24  et
+: 814 2 27  c'est
+: 817 2 24  ga
+: 819 5 27 gné
+- 825
+: 827 1 22 Même
+: 828 1 24  si
+: 830 1 27  ça
+: 831 1 29  re
+: 832 3 31 monte
+: 836 3 31  sur
+: 840 2 29  les
+: 842 2 27  cô
+: 844 5 27 tés
+- 849
+: 851 3 27 Ça
+: 854 2 24  ne
+: 856 3 27  va
+: 860 2 24  pas
+: 862 3 27  l'em
+: 866 2 29 bê
+: 868 5 31 ter
+- 873
+: 875 4 22 C'est
+: 880 4 27  l'ha
+: 885 5 27 bit
+: 894 5 29  de Rain
+: 899 8 31 bow
+: 910 32 27  Dash
+- 954
+: 958 2 31 Pièce
+: 961 2 27  par
+: 963 5 27  pièce,
+: 970 3 29  ton
+: 974 2 27  sur
+: 976 4 27  ton
+- 981
+: 983 3 27 L'ar
+: 986 2 22 rière
+: 989 5 27  train,
+: 995 3 29  é
+: 998 3 27 paules,
+: 1002 3 27  hanches
+- 1005
+: 1007 2 31 Point
+: 1010 2 27  par
+: 1013 2 27  point,
+: 1019 2 29  com
+: 1023 2 27 pres
+: 1026 1 27 sé
+- 1029
+: 1031 3 27 Trait
+: 1035 2 22  par
+: 1037 4 27  trait,
+: 1043 3 29  de la
+: 1046 2 27  mé
+: 1049 3 27 thode
+- 1054
+: 1056 2 27 C'est
+: 1059 3 27  tout
+: 1062 2 27  ça
+: 1066 4 29  l'art
+: 1070 3 27  de
+: 1074 4 33  la
+* 1082 55 35  mode
+- 1149
+F 1176 4 24 Les
+F 1180 1 24  étoiles
+F 1182 4 24  sur
+F 1186 1 24  ma
+F 1188 1 24  cein
+F 1189 3 24 ture
+- 1192
+F 1193 1 24 Doivent
+F 1195 1 24  être
+F 1196 1 24  plus
+F 1197 6 24  justement
+F 1204 5 24  représentée
+- 1211
+F 1213 5 24 Orion
+F 1219 2 24  a
+F 1222 3 24  trois
+F 1226 3 24  étoiles
+- 1229
+F 1230 1 24 Sur
+F 1231 2 24  sa
+F 1234 5 24  ceinture,
+F 1239 2 24  pas
+F 1241 5 24  quatre
+- 1256
+: 1264 5 27 Point
+: 1270 2 29  par
+: 1273 8 27  point,
+: 1282 1 22  pour
+: 1284 1 24  tout
+: 1286 1 27  bien
+: 1288 1 24  as
+: 1290 2 29 sem
+: 1293 11 27 bler
+- 1307
+: 1309 4 27 Va
+: 1313 5 29 -et
+: 1319 6 27 -vient
+- 1325
+: 1327 1 22 Mais
+: 1330 1 27  le
+: 1332 1 24  cli
+: 1333 2 27 ent
+: 1335 1 29  a
+: 1337 2 31  tou
+: 1340 3 29 jours
+: 1343 2 27  rai
+: 1346 4 27 son
+- 1350
+: 1352 1 27 Même
+: 1354 1 27  si
+: 1355 1 27  mes
+: 1357 1 27  choix
+: 1358 3 29  é
+: 1361 2 31 taient
+: 1363 4 29  sans
+: 1368 2 27  doute
+: 1370 3 27  par
+: 1373 3 22 faits
+- 1376
+: 1377 1 22 Ce
+: 1378 1 24  soir
+: 1379 1 27  il
+: 1381 1 29  faut
+: 1382 2 29  que
+: 1385 3 22  nous
+: 1389 2 24  ter
+: 1391 3 27 mi
+: 1394 4 27 nions
+- 1399
+: 1401 1 29 Ces
+: 1402 1 29  co
+: 1404 1 29 lo
+: 1405 1 27 ris
+: 1407 3 29  Pin
+: 1410 2 31 kie
+: 1413 2 29  ne sont
+: 1416 1 27  pas
+: 1418 3 27  dis
+: 1421 3 23 crêts
+- 1424
+: 1425 1 23 Faut
+: 1427 1 24  que
+: 1428 1 27  tu
+: 1430 1 29  re
+: 1431 2 29 gardes
+: 1434 2 23  d'un
+: 1437 2 24  peu
+: 1440 2 27  plus
+: 1443 3 27  près
+- 1447
+: 1449 5 27 Faut
+: 1455 3 27  as
+: 1458 9 27 sembler
+: 1468 5 29  ça
+: 1474 6 31  vite
+: 1484 19 27  fait
+- 1505
+F 1507 1 24 Tu
+F 1509 1 24  ne crois
+F 1510 1 24  pas que
+F 1512 1 24  ma
+F 1514 2 24  robe
+- 1516
+F 1517 1 24 me
+F 1518 3 24  ressemblerait
+F 1522 5 24  plus avec
+- 1527
+F 1527 1 24 des
+F 1529 2 24  bonbons
+F 1532 9 24  dessus ?
+- 1541
+F 1541 3 24 Et bien,
+F 1545 1 24  je
+F 1546 2 24  pense...
+- 1548
+F 1549 7 24 Ou des ballons ?
+- 1557
+F 1559 5 24 C'est-à-dire...
+- 1564
+F 1565 2 24 Oui,
+F 1567 6 24  faisons ça !
+- 1575
+: 1577 4 27 Heure
+: 1582 3 27  par
+: 1586 6 27  heure,
+: 1600 4 27  le
+: 1605 3 29  temps
+: 1610 8 31  passe
+- 1618
+: 1620 3 27 Faut
+: 1623 2 27  as
+: 1625 3 27 sem
+: 1628 2 27 bler
+: 1630 3 27  ça
+: 1633 5 29  vite
+: 1638 4 27  fait,
+: 1649 5 27  quelle
+: 1655 4 29  an
+: 1659 8 27 goisse
+- 1673
+: 1675 2 32 Flu
+: 1677 2 32 tter
+: 1680 2 32 shy,
+: 1683 2 27  ex
+: 1686 1 29 plique
+: 1687 2 29  moi
+: 1690 2 27  ce
+: 1692 1 29  qui
+: 1693 2 31  se
+: 1697 3 32  passe
+- 1700
+: 1700 3 32 Rain
+: 1704 2 32 bow
+: 1707 2 32  Dash,
+: 1710 2 34  qu'est-ce
+: 1713 2 32  qui
+: 1715 2 29  te
+: 1717 2 31  tra
+: 1720 4 32 casse
+- 1724
+: 1725 1 32 C'est
+: 1726 1 32  pas
+: 1728 2 32  vrai,
+: 1731 2 27  le
+: 1733 3 29  temps
+: 1736 2 27  s'é
+: 1739 2 29 coule
+: 1742 2 31  trop
+: 1745 3 32  vite
+- 1748
+: 1749 1 32 J'ai
+: 1751 2 32  bien
+: 1753 3 32  en
+: 1758 1 34 vie
+: 1759 2 34  de
+: 1762 2 32  pren
+: 1765 2 29 dre
+- 1767
+: 1768 2 31 La
+: 1770 12 32  fu
+: 1782 11 34 i
+* 1793 21 34 te
+- 1816
+: 1818 3 29 C'est
+: 1822 4 29  pas
+: 1826 3 27  com
+: 1830 3 27 pli
+: 1833 5 22 qué
+- 1838
+: 1840 3 22 Mais
+: 1843 2 27  quand
+: 1846 2 27  tout
+: 1848 2 27  le monde
+: 1850 2 29  s'en
+: 1853 6 27  mêle
+- 1861
+: 1863 2 29 Et
+: 1865 1 29  que
+: 1866 2 29  tout le
+: 1869 3 29  monde
+: 1873 2 27  donne
+: 1876 2 27  son
+: 1878 4 22  idée
+- 1885
+: 1887 2 22 Tout
+: 1889 1 22  se
+: 1890 2 27  mé
+: 1892 1 27 lange
+: 1893 1 27  pêle
+: 1894 3 27 -mêle
+- 1897
+: 1899 2 27 Comment
+: 1901 2 27  re
+: 1903 1 27 lever
+: 1904 2 27  ce
+: 1907 3 29  dé
+* 1910 5 27 fi
+- 1926
+F 1930 5 24 Voici la
+F 1935 12 24  constellation
+F 1948 2 24  du
+F 1950 6 24  Grand
+F 1957 8 24  Chien,
+F 1967 4 24  pas du
+F 1971 4 24  Petit
+- 1976
+F 1978 7 24 Nous parlons
+F 1986 5 24  de haute
+F 1991 7 24  couture,
+F 1998 9 24  s'il-te-plaît
+- 2017
+F 2024 5 24 Euh...
+- 2039
+F 2051 2 24 Et
+F 2054 1 24  si
+F 2055 1 24  il
+F 2057 6 24  pleut ?
+F 2066 8 24  Des bottes
+F 2074 9 24  en caoutchouc !
+- 2089
+F 2092 2 24 Plus de
+F 2095 7 24  ballons !
+F 2107 2 24  Non,
+F 2110 3 24  quand même
+F 2114 1 24  pas
+F 2115 2 24  trop de
+F 2117 5 24  ballons
+- 2122
+F 2123 2 24 Plus de
+F 2126 6 24  bonbons !
+F 2137 1 24  Ou
+F 2138 1 24  plutôt
+F 2140 5 24  moins
+- 2146
+F 2148 1 24 At
+F 2149 3 24 tends,
+F 2153 2 24  je
+F 2156 4 24  sais !
+F 2160 10 24  Des serpentins !
+- 2174
+F 2176 9 24 Des serpentins ?
+- 2187
+F 2189 4 24 C'est
+F 2194 4 24  pour
+F 2198 1 24  qui
+F 2200 5 24  la robe ?
+- 2208
+F 2210 4 24 Va pour
+F 2215 3 24  des
+F 2219 5 24  serpentins
+- 2248
+F 2275 5 24 Quoi ?
+- 2281
+F 2283 2 24 Toi
+F 2286 1 24  aussi
+F 2288 1 24  tu
+F 2289 1 24  vas
+F 2291 1 24  me
+F 2293 1 24  demander
+- 2294
+F 2296 1 24 de
+F 2298 2 24  changer
+F 2301 4 24  quelque
+F 2305 3 24  chose?
+- 2308
+F 2310 5 24 Non,
+F 2316 2 24  je
+F 2318 1 24  veux
+F 2320 2 24  seulement
+- 2322
+F 2322 1 24 qu'elle
+F 2323 2 24  soit
+F 2325 1 24  su
+F 2327 2 24 per
+F 2330 7 24  chouette
+- 2339
+F 2341 1 24 Com
+F 2342 1 24 ment
+F 2343 1 24  trouves
+F 2344 1 24 -tu
+F 2346 1 24  la
+F 2349 3 24  couleur ?
+- 2356
+F 2358 2 24 Bien,
+F 2363 3 24  j'veux
+F 2366 3 24  juste
+F 2369 17 24  qu'elle soit le plus chouette possible
+- 2388
+F 2390 2 24 La
+F 2392 3 24  forme
+F 2395 2 24  te
+F 2397 4 24  plaît ?
+- 2402
+F 2404 1 24 La
+F 2406 3 24  forme
+F 2409 4 24  est bien
+- 2413
+F 2414 2 24 J'veux
+F 2417 2 24  juste
+F 2420 3 24  que le
+F 2424 4 24  résultat
+F 2430 3 24  soit
+F 2438 7 24  très chouette
+- 2451
+F 2454 3 24 Il faut
+F 2457 3 24  qu'ce soit
+F 2461 1 24  en
+F 2462 1 24 vi
+F 2463 2 24 ron
+F 2465 5 24  20%
+F 2471 6 24  plus chouette
+- 2487
+: 2494 1 22 Nous
+: 2495 1 22  ne
+: 2496 1 24  vou
+: 2498 1 27 lons
+: 2499 3 29  que
+: 2503 2 31  ce
+: 2506 2 29  que
+: 2508 2 27  nous
+: 2511 3 27  ai
+: 2515 2 27 mons
+- 2517
+: 2518 1 22 J'n'ar
+: 2519 1 22 rive
+: 2521 1 24  pas
+: 2522 1 27  à
+: 2524 3 27  prendre
+: 2528 2 20  une
+: 2530 2 22  dé
+: 2533 2 27 ci
+: 2535 4 27 sion
+- 2540
+: 2542 1 22 Ce
+: 2544 1 22  n'est
+: 2545 1 24  pas
+: 2547 1 27  fa
+: 2549 3 29 cile
+: 2552 2 31  de
+: 2554 2 29  gar
+: 2557 2 27 der
+: 2560 4 27  son
+: 2564 3 27  style
+- 2567
+: 2567 1 22 Tout
+: 2568 1 22  en
+: 2570 1 24  ét
+: 2571 1 27 ant
+: 2573 3 27  sûre
+: 2577 2 20  d'être
+: 2579 3 22  sub
+: 2584 2 27 tile
+- 2589
+: 2591 2 27 Ça
+: 2593 1 27  ser
+: 2595 1 27 ait
+: 2597 3 27  plus
+: 2600 2 20  simple
+: 2603 2 22  de
+: 2606 2 27  tout
+: 2608 4 27  bou
+: 2613 2 27 siller
+- 2615
+: 2615 1 27 Mais
+: 2616 1 27  tout
+: 2618 1 27  en
+: 2619 1 27  res
+: 2620 3 29 pec
+: 2624 3 31 tant
+: 2627 2 29  no
+: 2630 2 27 tre
+: 2632 3 27  bud
+: 2635 2 27 get
+- 2638
+: 2640 2 27 Ser
+: 2642 1 27 ais-je
+: 2643 1 27  à
+: 2645 1 27  la
+: 2646 2 27  hau
+: 2649 2 20 teur
+: 2652 3 22  de
+: 2655 3 27  cette
+: 2658 2 27  mis
+: 2660 2 27 sion
+- 2662
+: 2664 1 32 Parce
+: 2665 1 32  que
+: 2667 1 32  tout
+: 2671 2 32  est
+: 2674 1 32  dans
+: 2675 1 32  la
+: 2677 2 32  pré
+: 2679 3 34 sen
+: 2682 3 34 ta
+* 2686 17 34 tion
+- 2715
+: 2719 3 31 Pièce
+: 2722 3 27  par
+: 2726 3 27  pièce,
+: 2732 3 29  ton
+: 2735 2 27  sur
+: 2738 3 27  ton
+- 2742
+: 2744 2 27 L'arr
+: 2747 3 24 ière-
+: 2750 3 27  train,
+: 2756 3 29  ép
+: 2759 2 27 aules
+: 2762 2 27  hanches
+- 2766
+: 2768 2 31 Ça
+: 2771 2 27  s'em
+: 2774 3 27 balle,
+: 2780 3 29  com
+: 2784 2 27 pres
+: 2786 2 27 sé
+- 2789
+: 2791 2 27 Trait
+: 2794 2 22  par
+: 2797 5 27  trait,
+: 2804 3 29  pas
+: 2807 2 27  d'mé
+: 2810 3 27 thode
+- 2814
+: 2816 2 27 C'est
+: 2819 2 27  tout
+: 2822 2 27  ça
+: 2825 5 29  l'art
+: 2831 3 27  de
+: 2834 5 32  la
+* 2842 43 34  mode
+E

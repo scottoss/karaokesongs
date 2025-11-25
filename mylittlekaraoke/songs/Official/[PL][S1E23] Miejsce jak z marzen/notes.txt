@@ -1,0 +1,115 @@
+﻿#TITLE:Miejsce jak z marzeń
+#ARTIST:Mój Mały Kucyk
+#MP3:song.mp3
+#BPM:180
+#GAP:0
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#GENRE:Pony
+#EDITION:My Little Pony
+#LANGUAGE:Polish
+#ENCODING:UTF8
+#CREATOR:LardonCru, Vengir
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 32 2 24 Czy
+: 36 2 26  wie
+: 40 2 28 rzył
+: 44 3 26  ktoś
+: 52 3 28  w ta
+: 56 2 29 kie
+: 59 3 31  miej
+: 63 4 31 sce
+: 68 2 28  jak
+: 71 4 33  z ma
+: 77 2 31 rzeń?
+- 80
+: 84 3 24 Że
+: 87 2 26  do
+: 90 2 28 bry
+: 92 4 26  los
+: 102 3 28  ta
+: 105 3 29 ki
+: 109 3 31  cud
+: 114 3 31  mi
+: 119 4 28  po
+: 124 3 33 ka
+: 129 4 34 że
+- 135
+: 137 4 34 Gdzieś
+: 145 2 31  po
+: 148 2 27 śród
+: 152 4 24  drzew
+: 157 3 26  kró
+: 161 2 27 lik
+: 164 4 29  mknie
+: 171 2 29  i
+: 174 2 26  wie
+: 178 6 24 wiór
+: 185 3 22 ka
+- 190
+: 192 4 34 W krąg
+: 198 4 31  pta
+: 202 2 27 ków
+: 207 3 24  śpiew
+: 213 4 26  pysz
+: 217 3 27 ny
+: 221 4 29  miód
+: 228 2 29  ro
+: 232 2 26 bi
+: 235 5 33  pszczół
+: 242 2 31 ka
+- 246
+* 249 16 33 Pszczół
+* 266 40 31 ka!
+- 308
+: 320 12 31 O,
+: 332 2 31  jest
+: 336 2 28  miej
+: 339 1 33 sce
+: 340 2 31  jak
+: 342 2 28  to
+- 346
+: 351 2 29  Co
+: 354 1 31  zach
+: 356 3 33 wy
+: 360 2 33 ca
+: 363 3 33  mnie
+: 370 1 33  no
+: 372 1 29  bo
+: 373 1 35  cu
+: 375 2 31 dów
+: 378 1 29  ma
+: 380 4 26  sto
+- 389
+: 390 1 33 Od
+: 392 1 33 na
+: 394 3 33 la
+: 398 2 33 złam
+: 402 2 36  dziś
+: 404 1 35  raj
+: 405 1 33  cu
+: 407 2 31 dow
+: 409 1 28 ny
+: 413 2 35  ze
+: 415 2 33  snu
+- 420
+: 425 2 29 I
+: 428 1 28  z ra
+: 430 2 26 doś
+: 433 3 28 ci
+: 436 3 29  wiel
+: 439 2 30 kiej
+: 443 2 30  aż
+: 446 2 31  brak
+: 449 2 32  mi
+: 452 2 35  tchu
+- 458
+: 460 2 31 Bo
+: 464 2 26  chcę
+: 473 5 28  być
+: 483 6 29  tyl
+: 490 6 31 ko
+* 500 45 36  tu!
+E

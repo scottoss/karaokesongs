@@ -1,0 +1,452 @@
+﻿#ENCODING:UTF8
+#TITLE:A varrás egy csoda (stresszes)
+#ARTIST:Én Kicsi Pónim
+#MP3:stresszes.mp3
+#START:1
+#BPM:235.36
+#GAP:1953
+#EDITION:My little Pony
+#GENRE:Pony
+#LANGUAGE:Hungarian
+#COVER:cover.png
+#BACKGROUND:background.png
+#CREATOR:Smilley
+﻿#ENCODING:UTF8
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+F 0 6 1 Az
+F 6 6 1  övemen
+F 12 2 1  a
+F 14 8 1  csillagok
+- 23
+F 23 12 1 szabályosak
+F 35 9 1  legyenek
+- 49
+F 49 3 1 Az
+F 52 8 1  Orionon
+F 60 5 1  három
+F 66 5 1  csillag
+F 71 3 1  van,
+F 75 4 1  nem
+F 79 5 1  négy
+- 95
+: 109 5 4 Kezd
+: 115 5 6 jük
+: 121 11 4  hát,
+: 133 2 0  tűz
+: 135 2 0 zük
+: 137 2 4  öss
+: 139 2 4 ze
+: 141 4 6  gyor
+: 147 14 4 san
+- 165
+: 169 5 4 Tud
+: 176 5 6 juk
+: 182 8 4  jól
+- 191
+: 191 3 0 Az
+: 194 2 0  ügy
+: 196 3 4 fél
+: 199 2 4 nek
+: 201 3 6  min
+: 205 3 8 dig
+: 208 2 6  i
+: 210 2 6 ga
+: 212 3 4 za
+: 216 5 4  van
+- 223
+: 223 2 6 Hi
+: 225 2 6 á
+: 227 2 6 ba
+: 229 3 4  volt
+: 232 3 6  á
+: 235 3 8 lom
+: 238 5 6 szép
+: 243 2 4  a
+: 246 4 4  kel
+: 250 3 0 me
+- 254
+: 254 3 -1 Kész
+: 257 2 -1  kell
+: 259 2 4  len
+: 261 2 6 ni
+* 263 3 6  min
+: 266 3 -1 den
+: 269 3 1 nek
+: 273 3 4  es
+: 277 4 4 te
+- 284
+: 284 2 4 Pin
+: 286 2 4 kie,
+: 288 2 4  ez
+: 290 1 4  a
+: 292 4 6  szín
+: 296 3 8  rossz,
+: 300 4 6  mondj
+: 304 3 4  le
+: 308 3 4  ró
+: 311 3 -1 la
+- 314
+: 314 2 1 Te
+: 316 2 1 gyük
+: 318 2 4  i
+: 320 2 4 de
+: 322 3 6  gyor
+: 326 4 -1 san
+: 330 3 1  a
+: 334 4 4  fény
+: 339 4 4 be
+- 345
+: 346 6 4 Mind
+: 353 4 4  meg
+: 358 7 4 var
+: 365 5 4 rom
+: 371 4 6  es
+* 377 10 8 té
+: 387 4 4 -é
+: 392 21 4 re
+- 418
+F 418 3 1 Nem
+F 421 6 1  gondolod,
+F 427 3 1  hogy
+F 430 4 1  kéne
+F 434 3 1  rá
+F 437 4 1  pár
+F 441 9 1  nyalóka?
+- 459
+F 464 4 1 Hát, 
+F 471 7 1 szerintem...
+- 478
+F 478 10 1 Lufik?
+- 491
+F 491 4 1 Hát...
+- 495
+F 495 8 1 Éljen!
+- 503
+: 503 4 1 Az
+: 507 3 4  i
+: 510 7 4 dő
+* 518 11 4  úgy
+: 535 7 4  el
+: 543 3 6 ro
+: 547 11 8 han
+- 560
+: 560 5 4 Most
+: 567 3 4  ös
+: 571 3 4 sze
+: 575 3 4 öl
+: 579 4 6 töm
+: 583 4 4  gyor
+: 588 6 -1 san,
+: 597 7 4  s rend
+: 604 6 6 ben
+: 611 6 4  van
+- 628
+: 633 2 9 Flu
+: 635 2 9 tter
+: 638 4 9 shy,
+: 642 2 4  te
+: 645 3 8  za
+: 648 4 4 varsz,
+: 652 3 6  légy
+: 656 3 6  csend
+: 659 3 8 ben
+: 663 4 9  már
+- 668
+: 668 4 9 Rain
+: 672 3 9 bow
+: 675 3 9  Dash,
+: 678 2 9  az
+: 681 2 11  e
+: 683 4 9 szed
+: 687 3 8  hol
+: 690 4 9  jár
+- 697
+: 697 4 9 Jaj,
+: 701 2 9  a
+: 703 2 9  mun
+: 705 2 9 ka
+: 708 3 9  még
+: 711 2 6  min
+: 713 3 6 dig
+: 716 4 8  nincs
+: 720 4 9  kész
+- 727
+: 727 3 9 Ös
+: 731 2 9 sze
+: 733 3 9 áll
+: 736 3 11  egy
+: 739 4 9 szer
+: 743 4 8  majd
+: 748 4 8  min
+: 753 5 9 den
+: 758 10 9  ré
+: 769 18 11 -é
+* 788 20 11 -ész
+- 810
+: 810 3 4 A
+: 813 4 6  var
+: 818 6 6 rás
+: 827 5 4  kön
+: 833 6 -1 nyű
+- 842
+: 843 3 1 Nem
+: 846 3 4  lesz
+: 850 4 4  sem
+: 854 3 6 mi
+: 858 8 4  vész
+- 865
+: 868 3 4 Na,
+: 871 3 4  de
+: 874 3 6  kap
+: 877 5 6 kod
+: 885 2 4 ni
+: 889 4 4  ször
+: 894 5 -1 nyű
+- 900
+: 900 2 4 Me
+: 902 2 4 gint
+: 904 3 4  si
+: 907 3 4 et
+: 910 2 4 ni
+: 912 3 4  kell
+- 915
+: 915 3 4 Van
+: 919 5 4  még
+: 924 1 4  a
+: 925 2 4 mi
+: 927 5 6  fél
+* 933 7 4 kész
+- 946
+F 960 3 1 Ez
+F 963 2 1  a
+F 965 8 1  csillagkép
+F 973 3 1  a
+F 976 5 1  Nagy
+F 981 5 1  Kutya,
+F 988 4 1  nem
+F 992 2 1  a
+F 995 9 1  Kicsi.
+- 1017
+F 1027 7 1 Francia
+F 1034 5 1  haute
+F 1039 10 1  couture,
+F 1051 12 1  légyszi.
+- 1065
+F 1082 7 1 Eeeh...
+- 1095
+F 1113 3 1 Mi
+F 1116 4 1  van,
+F 1120 2 1  ha
+F 1122 8 1  esik? 
+F 1137 15 1 Kalucsni!
+- 1152
+F 1166 4 1 Még
+F 1170 3 1  több
+F 1173 9 1  lufit!
+F 1184 4 1  Nem,
+F 1188 3 1  nem,
+F 1191 3 1  ez
+F 1194 2 1  túl
+F 1196 3 1  sok
+- 1201
+F 1201 4 1 Több
+F 1205 8 1  cukorkát!
+F 1220 11 1  Kevesebbet!
+- 1235
+F 1235 4 1 Várj!
+F 1241 6 1  Tudom!
+F 1249 19 1  Szerpentint!
+- 1271
+F 1271 17 1 Szerpentint?
+- 1291
+F 1296 5 1 Kié
+F 1301 2 1  ez
+F 1303 2 1  a
+F 1305 6 1  ruha?
+- 1313
+F 1316 9 1 Hogyne,
+F 1326 11 1  szerpentin.
+- 1359
+F 1398 2 1  Mi 
+F 1400 6 1 az?
+- 1408
+F 1410 2 1 Te
+F 1412 2 1  is
+F 1414 2 1  azt
+F 1416 4 1  akarod
+- 1420
+F 1420 2 1 hogy
+F 1422 9 1  igazítsak
+F 1432 6 1  rajta?
+- 1440
+F 1445 3 1 Nem,
+F 1448 4 1  csak
+F 1452 2 1  azt
+F 1454 5 1  akarom
+- 1459
+F 1459 3 1  hogy
+F 1462 6 1  menő
+F 1468 8 1  legyen.
+- 1480
+F 1483 4 1 Nem
+F 1487 5 1  tetszik
+F 1492 2 1  a
+F 1494 7 1  szín?
+- 1503
+F 1503 3 1 A
+F 1506 6 1   színe
+F 1512 7 1  remek,
+- 1519
+F 1519 3 1  csak
+F 1523 8 1  legyen
+F 1531 9 1  menőbb.
+- 1542
+F 1545 4 1 Nem
+F 1549 5 1  tetszik
+F 1554 2 1  a
+F 1556 6 1  szabása?
+- 1562
+F 1562 1 1 A
+F 1564 7 1  szabása
+F 1572 3 1  jó,
+- 1578
+F 1580 3 1 csak
+F 1583 4 1  legyen
+F 1587 2 1  az
+F 1589 6 1  egész,
+- 1595
+F 1595 7 1 tudod...,
+F 1605 9 1  menőbb.
+- 1620
+F 1623 5 1 Legyen
+F 1629 4 1  úgy
+F 1634 5 1  20
+F 1639 9 1  százalékkal
+F 1648 8 1  menőbb.
+- 1660
+: 1672 3 0 Na
+: 1675 2 0 gyon
+: 1677 2 4  ne
+: 1679 3 6 héz
+: 1682 4 6  eb
+: 1686 3 8 ben
+: 1689 4 6  most
+: 1693 2 4  a
+: 1696 4 4  dön
+: 1701 4 4 tés
+- 1704
+: 1704 3 -1 Csak
+: 1707 2 -1  az
+: 1709 2 1  a
+: 1711 2 4 mi
+: 1713 3 4  tet
+: 1716 4 -1 szik,
+: 1720 3 1  az
+: 1723 4 4  lesz
+: 1727 4 4  jó
+- 1733
+: 1733 1 -1 A
+: 1734 2 -1  ru
+: 1736 2 -1 ha
+: 1738 2 2  le
+: 1740 2 4 gyen
+: 1742 4 6  stí
+* 1746 2 8 lu
+: 1748 4 6 sos
+: 1753 4 4  és
+: 1758 3 4  el
+: 1762 2 4 més
+- 1764
+: 1764 2 -1 És
+: 1767 2 -1  csi
+: 1769 2 -1 nos
+: 1771 1 4 ra
+: 1772 4 4  szab
+: 1776 4 -1 ja
+: 1780 4 1  most
+: 1784 3 4  az
+: 1788 3 4  ol
+: 1792 4 4 ló
+- 1796
+: 1796 1 4 Ha
+: 1797 1 4  e
+: 1798 3 4 set
+: 1801 3 4 leg
+: 1804 4 4  új
+: 1808 3 -1 ra
+: 1811 4 1  meg
+: 1816 3 4  kell
+: 1819 4 4  varr
+: 1823 1 4 ni
+- 1824
+: 1826 3 4 Sem
+: 1829 2 4 mi
+: 1831 2 4  gond
+: 1833 2 4  mert
+: 1835 3 6  pénzt
+: 1838 3 8  azt
+: 1842 2 6  tud
+: 1844 5 4 nánk
+: 1850 2 4  ad
+: 1853 3 4 ni
+- 1856
+: 1856 3 4 Ké
+: 1859 2 4 szül
+: 1861 2 4 je
+: 1863 3 4 tek,
+: 1866 3 4  van
+* 1869 2 -1  még
+: 1872 3 1  sok
+: 1876 3 4 -sok
+: 1879 4 4  gon
+: 1884 2 4 dom
+- 1886
+F 1886 2 9 S
+: 1888 2 9  ne
+: 1890 2 9  fe
+: 1892 2 9 ledd
+- 1894
+: 1894 3 9 Hogy
+: 1899 3 6 ha
+: 1902 4 9  kész,
+: 1906 6 9  majd
+: 1913 3 11  ho
+* 1916 24 11 zom
+- 1946
+: 1960 4 8 Öl
+: 1964 4 4 tés
+: 1968 6 4 ről
+: 1976 4 6  öl
+: 1980 3 4 tés
+: 1984 4 4 re
+- 1992
+: 1992 3 6 Vá
+: 1996 4 0 gás
+: 2000 6 4 ról
+: 2008 3 4  vá
+: 2011 4 4 gás
+: 2015 4 4 ra
+- 2019
+: 2022 3 8 Da
+: 2025 3 4 rab
+: 2029 6 4  rongy,
+: 2038 4 6  ne
+: 2042 3 1  ag
+: 2046 5 4 gódj
+- 2053
+: 2054 3 6 Így
+: 2057 3 1  lesz
+: 2061 4 4  ma
+: 2068 5 4  szép
+: 2073 3 4  ru
+: 2076 3 4 ha
+- 2082
+: 2083 3 4 A
+: 2086 5 4  var
+: 2091 4 4 rás
+: 2096 4 6  az
+: 2101 6 4  egy
+: 2107 6 9  cso
+* 2115 55 11 da
+E

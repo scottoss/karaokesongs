@@ -1,0 +1,117 @@
+#TITLE:Toutes Ces Merveilles
+#ARTIST:Mon Petit Poney
+#MP3:song.mp3
+#BPM:187
+#GAP:0
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#GENRE:Pony
+#EDITION:My Little Pony
+#LANGUAGE:French
+#MUSIC_BY: Daniel Ingram, Steffan Andrews, Élisabeth Guinand
+#CREATOR:LardonCru, Renard
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 28 2 24 Quel
+: 32 2 26  bel
+: 36 2 28  en
+: 40 3 26 droit,
+: 48 3 28  d'où
+: 52 2 29  viennent
+: 55 4 31  tou
+: 60 4 31 tes
+: 64 2 28  ces
+: 67 4 33  mer
+: 73 3 31 veilles?
+- 80
+: 82 3 24 Quel
+: 85 2 26  est
+: 89 2 28  ce
+: 93 4 26  charme
+: 102 3 28  qui
+: 105 3 29  à
+: 109 5 31  pré
+: 114 3 31 sent
+: 119 4 28  m'é
+: 124 4 33 mer
+: 129 4 34 veille
+- 135
+: 137 5 34 Des
+: 143 2 34  é
+: 148 2 31 cu
+: 151 3 27 reuils,
+: 156 4 24  des
+: 161 3 26  la
+: 165 2 27 pins
+: 171 3 29  qui
+: 174 2 29  s'é
+: 178 4 26 vei
+: 183 2 24 ll
+: 185 2 22 ent
+- 189
+: 190 3 26 Des
+: 194 4 31  oi
+: 198 2 27 seaux
+: 203 3 24  qui
+: 208 4 26  volent
+: 214 3 27  et
+: 218 4 29  de
+: 223 4 29  gen
+: 227 2 26 tilles
+: 233 3 33  a
+: 238 7 31 beilles
+- 248
+* 250 15 33 A
+* 266 40 31 beilles !
+- 310 315
+: 323 10 31 Oh,
+: 335 3 31  quel
+: 339 2 28  en
+: 342 1 33 droit
+: 343 2 31  fan
+: 345 2 28 tas
+: 348 2 24 tique
+- 352
+: 354 2 29 Et
+: 357 1 31  je
+: 359 3 33  dois
+: 363 2 33  tout
+: 366 4 33  ça
+: 372 1 33  à
+: 375 1 29  cette
+: 376 1 35  course
+: 378 2 31  é
+: 381 1 29 ner
+: 383 3 26 gique
+- 388
+: 390 1 33 Si
+: 391 1 33  j'a
+: 392 3 33 vais
+: 396 2 33  su
+: 398 4 33  que la
+: 403 5 36  Terre
+: 409 2 33  ca
+: 411 2 31 chait
+: 414 2 28  tant
+: 419 2 35  de mys
+: 422 2 33 tères
+- 426
+: 428 2 29 Je
+: 431 1 28  serais
+: 432 3 26  venue
+: 436 3 28  plus
+: 440 3 29  tôt,
+: 445 2 30  c'est
+: 449 2 30  tel
+: 452 2 31 le
+: 455 2 32 ment
+: 458 2 35  beau
+- 462
+: 464 2 31 Oui,
+: 469 3 26  j'a
+: 476 5 28 dore
+: 488 8 29  cet
+: 497 7 31  en
+* 506 59 36 droit !
+E

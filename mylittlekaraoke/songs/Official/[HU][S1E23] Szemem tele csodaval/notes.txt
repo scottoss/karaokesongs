@@ -1,0 +1,123 @@
+﻿#ENCODING:UTF8
+#TITLE:Szemem tele csodával
+#ARTIST:Én Kicsi Pónim
+#CREATOR:Smilley
+#EDITION:My little Pony
+#GENRE:Pony
+#LANGUAGE:Hungarian
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:314
+#GAP:1640
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 8 1 Men
+: 10 6 3 nye
+: 16 5 5 i
+: 22 11 3  táj
+- 35
+: 35 4 5 Sze
+: 40 5 6 mem
+: 48 5 8  te
+: 54 6 8 le
+: 62 6 5  cso
+* 69 9 10 dá
+: 79 8 8 val
+- 90
+: 92 6 1 Bű
+: 100 6 3 bá
+: 107 6 5 jos
+: 114 10 3  hely
+- 128
+: 128 4 5 Csu
+: 132 4 6 pa
+: 138 8 8  szí
+: 148 6 8 nes
+: 155 5 5  va
+: 161 9 10 ráz
+* 172 10 11 zsal
+- 186
+: 188 7 11 Mó
+: 197 6 8 kus
+: 204 4 4  a
+: 209 10 1  fán
+- 221
+: 221 4 3 Nyu
+: 225 4 4 szi
+: 231 7 6  köly
+: 240 7 6 kök
+: 248 3 3  a
+: 254 8 1  fű
+* 263 6 -1 ben
+- 275
+: 277 8 11 Fenn
+: 288 4 8  a
+: 293 4 4  ma
+* 299 11 1 dár
+- 313
+: 315 4 3 I
+: 319 4 4 de
+: 323 10 6 lenn
+: 335 6 6  ki
+: 342 6 3 csi
+* 349 12 10  mé
+: 362 8 8 hek
+- 373
+: 375 27 10 Él
+: 402 54 8 nek
+- 474
+: 494 22 8 Ó,
+: 517 4 8  csu
+: 522 3 5 da
+* 525 5 10  gyö
+: 530 3 8 nyö
+: 533 4 5 rű
+: 538 7 1  táj
+- 545
+: 546 5 6 Ott
+: 552 3 8  az
+: 557 6 10  ég
+: 564 4 10 ben
+: 569 5 10  sok
+- 576
+: 577 6 10 Szár
+* 583 4 7 nyas
+: 587 4 12  pe
+: 591 3 10 ga
+: 595 3 6 zus
+: 599 7 3  száll
+- 608
+: 610 4 8 Most
+: 615 2 9  hogy
+: 617 6 11  lát
+: 624 6 11 tam
+: 631 8 14  már
+- 640
+: 640 4 12 Ezt
+: 644 4 10  a
+: 648 4 7  csu
+: 652 4 5 da
+* 656 4 12  he
+: 662 6 10 lyet
+- 670
+: 671 4 9 Ma
+: 675 2 9 ra
+: 677 4 6 dok
+: 681 6 3  itt
+: 687 5 5  to
+: 692 8 6 vább
+- 701
+: 701 7 7 És
+: 709 4 8  so
+: 713 5 10 se
+: 719 4 11  me
+* 723 6 12 gyek
+- 731
+: 731 7 6 Itt
+: 742 12 3  él
+: 755 11 5 ni
+: 769 15 6  sze
+: 785 15 8 re
+: 801 100 13 tek!
+E

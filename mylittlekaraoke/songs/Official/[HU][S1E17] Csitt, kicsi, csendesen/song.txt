@@ -1,0 +1,140 @@
+﻿#ENCODING:UTF8
+#TITLE:Csitt, kicsi, csendesen
+#ARTIST:Én Kicsi Pónim
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:Hungarian
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#BPM:250.54
+#GAP:714
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 2 6 4 Csitt,
+: 10 3 9  ki
+: 14 3 9 csi,
+: 18 5 9  csen
+* 25 2 11 de
+: 28 5 9 sen!
+- 38
+: 38 4 6 Hajtsd
+: 43 2 6  le
+: 46 4 9  most
+* 52 3 6  a
+: 57 3 4  fe
+: 61 4 2 je
+: 66 6 1 det!
+- 77
+: 78 7 4 Csitt,
+: 86 3 9  ki
+: 90 4 9 csi,
+: 95 5 9  csen
+: 101 4 11 de
+: 105 5 9 sen!
+- 113
+: 117 6 3 Szép
+* 126 5 11  éj
+: 131 5 9 jel
+: 137 4 8  kö
+: 141 5 9 ze
+: 147 7 8 leg
+- 168
+F 179 4 0 Ezt
+F 184 12 0  ismerem!
+- 201
+F 202 9 0 Ó,
+F 213 7 0 ennek
+F 220 11 0  örülök!
+- 233
+F 233 7 0 Akkor
+F 240 9 0  énekeld
+F 249 9 0  velem!
+- 268
+: 324 6 9 Csitt,
+: 330 5 9  ki
+: 335 4 9 csi,
+: 339 5 11  csen
+: 344 2 13 de
+: 346 6 9 sen!
+- 353
+: 353 5 14 Hajtsd
+: 358 2 14  le
+: 360 4 14  szé
+: 364 4 14 pen
+* 368 5 13  kis
+: 373 2 11  fe
+: 375 4 9 jed!
+- 385
+: 385 4 9 Csitt,
+: 392 3 9  ki
+: 395 4 9 csi,
+: 400 5 11  csen
+: 405 2 13 de
+* 407 6 9 sen!
+- 414
+: 414 2 9 Az
+: 416 4 11  éj
+: 420 3 11 jel
+: 423 3 13  kö
+: 426 3 11 ze
+: 429 13 11 leg
+- 453
+: 457 4 13 Az
+: 461 5 14  á
+: 467 6 14 lom
+: 474 5 13  el
+: 479 3 11 so
+: 482 7 9 dor
+- 490
+: 490 4 9 Új
+: 494 4 9  nap
+: 498 4 9  vár
+: 503 3 11  hol
+: 506 4 13 nap
+: 511 7 13  rád
+- 521
+: 521 2 11 Az
+: 523 7 14  á
+: 530 6 14 lom
+: 537 4 13  el
+: 542 5 11 so
+: 547 4 9 dor
+- 552
+: 552 3 11 Az
+: 555 3 11  é
+: 558 3 11 des
+: 561 6 13  szun
+* 567 2 11 nya
+: 569 27 16 dás
+- 598
+: 599 6 10 Csitt,
+: 607 8 10  hát,
+: 615 3 12  csen
+: 619 2 14 de
+: 621 6 10 sen!
+- 629
+: 630 4 15 Hajtsd
+: 634 2 15  le
+: 637 4 15  szé
+: 641 3 15 pen
+: 645 4 14  kis
+: 649 3 12  fe
+: 652 5 10 jed
+- 659
+: 662 5 10 Csitt,
+: 669 6 10  hát,
+: 676 4 12  csen
+: 681 2 14 de
+: 683 5 10 sen!
+- 689
+: 689 3 10 Az
+: 692 4 12  éj
+: 696 3 12 jel
+: 699 4 14  kö
+: 703 3 12 ze
+: 706 50 17 leg!
+- 760
+F 760 10 8 Hú!
+E
