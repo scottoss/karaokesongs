@@ -1,0 +1,234 @@
+#TITLE:You're In My Head Like A Catchy Song
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#VIDEOGAP:0.1
+#BPM:300
+#GAP:7050
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:10-aug-2017
+: 0 3 -3 We're
+: 4 6 4  far
+: 12 3 6  a
+: 18 11 6 part
+: 35 2 2  in
+: 38 6 4  eve
+: 45 5 6 ry
+: 52 3 4  wa
+: 56 7 6 -ay
+- 69
+: 71 2 2 But
+: 75 7 4  you're
+: 84 4 6  the
+: 90 5 4  best
+: 97 11 2  part
+: 111 4 4  of
+: 116 8 6  my
+: 125 11 4  day
+- 141
+: 143 2 -3 And
+: 146 8 4  sure
+: 156 3 6  as
+: 161 2 4  I
+: 164 9 6 -I
+: 181 8 4  breathe
+: 191 4 6  the
+* 197 12 9  air
+- 215
+: 218 4 4 I
+: 224 2 4  kno
+: 227 5 6 -ow
+: 233 6 4  we
+: 242 6 2  are
+: 250 3 2  the
+: 254 3 4  per
+: 260 4 6 fect
+: 267 8 4  pair
+- 279
+: 281 4 2 On
+: 286 2 2  a
+: 290 4 11  prick
+: 295 3 9 ly
+: 299 4 11 -y
+: 304 8 9  path
+: 313 9 2  that
+* 326 13 11  goes
+: 341 9 9  on
+: 353 3 2  for
+: 357 44 6  miles
+- 411
+: 425 4 2 But
+: 430 2 2  it's
+: 434 3 11  worth
+: 438 2 9  i
+: 441 5 11 -it
+: 448 14 9  just
+: 465 2 2  to
+: 470 13 11  se
+: 484 10 9 -e
+: 495 3 2  you
+: 501 26 6  smi
+: 528 4 7 -i
+: 533 3 6 -i
+: 537 2 4 -i
+: 540 2 6 -i
+: 544 15 4 -ile
+- 569
+: 573 3 -3 And
+: 577 7 4  I
+: 586 3 6  can
+: 590 10 6 not
+: 609 3 -3  be
+* 613 8 4  pulled
+: 622 3 6  a
+: 626 2 4 pa
+: 629 9 6 -art
+- 646
+: 649 5 4 From
+: 657 5 6  the
+: 663 7 4  hold
+: 671 10 2  you
+: 683 6 4  have
+: 690 2 4  on
+: 693 5 6  my
+* 699 9 4  heart
+- 714
+: 716 3 -3 And
+: 720 6 4  e
+: 727 5 6 ven
+: 734 8 9  if
+: 752 2 2  the
+: 755 6 4  world
+: 764 6 6  tells
+* 772 5 9  us
+: 782 3 4  it's
+: 787 4 4  wro
+: 792 14 2 -ong
+- 812
+: 815 3 -3 You're
+: 819 4 -3  in
+: 824 2 -3  my
+: 827 2 4  he
+: 830 6 6 -ad
+: 838 4 6  like
+: 843 2 6  a
+: 846 3 4  cat
+: 852 2 2 chy
+: 855 3 4 -y
+: 860 12 2  song
+- 873
+F 875 7 0 Wow!
+F 883 3 0  It's
+F 888 9 0  just...
+F 902 12 0  wow!
+- 914
+F 915 2 0 Do
+F 918 2 0  you
+F 921 2 0  like
+F 925 4 0  it?
+F 935 3 0  Be
+F 939 6 0  honest
+F 946 5 0  now!
+- 957
+F 959 3 0 It's
+F 963 3 0  the
+F 967 6 0  best
+F 974 4 0  gift
+F 979 2 0  you
+F 982 5 0  could've
+F 988 5 0  given
+F 994 5 0  me!
+- 1005
+: 1007 7 4 Sea
+: 1015 6 6 sons
+: 1022 2 4  cha
+: 1025 8 6 -ange
+: 1040 3 -3  and
+: 1044 4 4  leaves
+: 1050 4 6  may
+: 1056 2 4  fa
+: 1059 8 6 -all
+- 1073
+: 1075 3 2 But
+: 1079 7 4  I'll
+: 1088 3 6  be
+: 1092 5 4  with
+: 1101 9 2  you
+: 1115 4 4  through
+: 1120 6 6  them
+: 1129 11 4  all
+- 1144
+: 1146 3 -3 And
+: 1150 7 4  rain
+: 1158 4 6  or
+: 1164 3 4  shi
+: 1168 11 6 -ine,
+: 1187 5 4  you'll
+: 1193 5 6  al
+: 1199 2 6 wa
+* 1202 5 9 -ays
+: 1209 7 4  be
+: 1217 5 4  mi
+: 1223 20 2 -i
+: 1244 2 4 -i
+: 1247 4 6 -i
+: 1253 21 4 -ine
+- 1281
+: 1284 5 2 On
+: 1290 2 2  a
+: 1293 3 11  prick
+: 1297 3 9 ly
+: 1301 4 11 -y
+: 1307 8 9  path
+: 1316 10 2  that
+: 1329 13 11  goes
+: 1344 9 9  on
+: 1356 3 2  for
+: 1360 3 4  mi
+: 1364 35 6 -iles
+- 1409
+: 1427 4 2 You're
+: 1432 3 2  the
+: 1436 5 11  on
+: 1442 2 9 ly
+: 1445 3 11 -y
+* 1450 13 9  one
+: 1469 2 2  who
+: 1473 8 11  makes
+: 1482 4 11  it
+: 1487 7 9  all
+: 1495 7 2  worth
+: 1503 26 6 whi
+: 1530 4 7 -i
+: 1535 4 6 -i
+: 1540 2 4 -i
+: 1543 3 6 -i
+: 1547 23 4 -ile
+- 1581
+: 1585 3 -3 And
+: 1589 6 4  you
+: 1596 5 6  should
+: 1602 3 4  no
+: 1606 11 6 -ot
+* 1623 7 4  blame
+: 1632 4 6  me,
+: 1637 4 4  to
+: 1642 10 6 -o
+- 1656
+: 1658 4 -3 If
+: 1663 6 4  I
+: 1670 4 6  can't
+: 1676 5 4  help
+: 1683 4 2  fal
+: 1688 4 2 lin'
+: 1693 3 -3  in
+* 1698 6 4  love
+: 1706 5 6  with
+: 1716 11 4  you...
+E

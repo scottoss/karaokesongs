@@ -1,0 +1,217 @@
+#TITLE:Battle for Sugar Belle - Big Mac
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:400
+#GAP:2550
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:03-aug-2017
+: 0 4 -3 We'll
+: 6 7 1  take
+: 16 4 4  a
+: 23 10 6  walk
+: 35 8 4  down
+* 45 13 1  by
+: 60 3 -3  the
+: 65 4 -1  ri
+: 70 28 -3 ver
+- 116
+: 163 9 -1 Watch
+: 175 4 1  the
+: 184 4 -1  sun
+: 191 6 -3 set
+: 204 11 -3  from
+: 218 2 -6  the
+: 223 6 -1  fi
+: 231 10 1 -eld
+- 281
+: 320 4 -3 We'll
+: 326 7 1  plant
+: 335 4 4  the
+* 344 9 6  seeds
+: 354 8 9  of
+: 363 4 1  lo
+: 369 9 -1 -ove
+: 379 2 -3  to
+: 384 3 -1 get
+: 389 37 -3 her
+- 440
+: 460 3 -3 And
+: 465 4 -1  wa
+: 470 4 -1 ter
+: 475 3 -1  'em
+: 479 14 -1  right
+: 495 3 -3  for
+: 499 2 -3  a
+: 503 4 -1  real
+: 508 3 -1 ly
+: 516 11 -3  good
+: 533 24 -3  yield
+- 580
+: 605 4 1 Su
+: 610 4 4 gar
+: 615 20 6  Belle,
+* 643 6 6  sweet
+: 650 4 4  as
+: 658 19 1  pie
+- 685
+: 691 6 1 You're
+: 698 3 4  the
+: 702 4 6  app
+: 708 8 6 le
+: 720 6 6  of
+: 729 8 4  my
+: 744 5 1  e
+: 750 9 -1 -eye
+- 773
+: 779 3 1 A
+: 785 7 6  cher
+: 794 4 6 ry
+: 799 10 6  blos
+: 810 5 6 som
+: 817 2 6  in
+: 820 2 8  a
+: 826 17 9  field
+: 846 3 4  of
+* 851 5 4  rye
+: 857 4 6 -e
+: 863 25 4 -e
+- 900
+: 915 6 -3 And
+: 924 7 1  when
+: 932 5 4  the
+: 942 5 6  hei
+: 948 11 6 fer's
+* 960 9 6  milked
+: 974 5 4  and
+: 981 14 1  fed
+- 1005
+: 1014 4 -3 And
+: 1019 2 -3  the
+: 1023 8 -1  pigs
+: 1035 8 -1  are
+: 1045 11 1  in
+: 1058 2 -1  the
+: 1062 24 -1  sty
+- 1097
+: 1105 7 -5 Won't
+: 1113 4 -1  you
+: 1118 8 -1  be
+: 1129 5 -1  the
+* 1135 4 1 -ere
+: 1144 15 -3  by
+: 1164 7 -1  my
+: 1174 5 -1  si
+: 1180 28 -3 -ide?
+- 2500
+: 2561 6 -7 Su
+: 2571 5 -7 gar
+: 2579 7 -5  Belle,
+: 2588 6 -5  when
+: 2596 5 -3  I
+* 2603 7 0  look
+: 2615 8 -2  in
+: 2626 4 -2  your
+: 2635 26 -7  eyes
+- 2665
+F 2674 10 0  *cough*
+: 2686 3 5  I
+: 2693 7 5  see
+: 2701 4 5  the
+: 2707 7 3  co
+: 2715 14 2 lor...
+: 2746 46 -5  blue
+- 2804
+: 2818 6 0 And
+: 2825 3 0  it
+: 2832 6 0  re
+: 2840 9 0 minds
+: 2851 5 -2  me
+: 2858 5 -2  of
+: 2864 4 -3  the
+: 2871 18 -7  sky
+: 2891 5 -3  a
+: 2899 19 0 bove
+- 2935
+F 2945 8 0 Uh,
+: 2954 7 5  which
+: 2962 6 0  is
+: 2971 5 0  al
+: 2983 9 0 so
+: 3013 49 5  blue
+- 3500
+: 3529 4 3 I've
+: 3534 3 3  been
+: 3539 5 3  wri
+: 3545 3 1 tin'
+: 3551 6 -1  this
+* 3561 9 1  song
+: 3573 4 1  for
+: 3579 6 1  yo
+: 3586 7 3 -u
+- 3604
+: 3611 3 3 Sear
+: 3616 3 6 chin'
+: 3622 4 6  for
+: 3628 2 6  the
+: 3634 4 6  per
+: 3639 4 1 fe
+: 3644 4 3 -ect
+: 3650 23 -1  rhyme
+- 3681
+: 3693 5 -1 For
+: 3699 2 -1  the
+: 3706 11 3  words
+* 3719 5 6  I
+: 3729 5 6  wan
+: 3735 2 3 na
+: 3741 4 3  sa
+: 3746 5 8 -a
+: 3752 10 6 -ay
+- 3770
+: 3789 4 -1 Some
+: 3794 4 -1 thin',
+: 3802 5 3  summ
+: 3809 7 6  summ
+: 3820 7 6  summ...,
+: 3837 6 3  Be
+: 3844 31 -1  mine
+- 4380
+: 4412 6 3  Su
+* 4419 3 3 gar
+: 4423 46 3  Belle!
+- 4480
+: 4489 5 1 Ro
+: 4495 5 3 ses
+: 4502 6 1  are
+* 4509 11 -1  red
+: 4521 3 -1  and
+: 4527 6 -1  vio
+: 4535 5 -1 lets
+: 4541 3 -6  are
+: 4545 17 3  blue!
+- 4700
+: 4725 5 4 Su
+: 4731 4 4 gar
+: 4736 5 1  Be
+: 4742 16 3 -elle!
+- 4805
+: 4805 5 6 Su
+: 4811 3 4 gar
+: 4815 25 4  Belle!
+- 4870
+: 4883 6 7 Su
+: 4890 3 5 gar
+: 4894 21 5  Be
+: 4916 3 7 -elle!
+- 4940
+: 4968 3 5  ...Be
+: 4972 44 6 -e
+F 5017 36 0 -ell...
+E

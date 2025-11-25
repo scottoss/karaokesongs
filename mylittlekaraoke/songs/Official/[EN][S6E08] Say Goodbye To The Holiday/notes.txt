@@ -1,0 +1,342 @@
+#TITLE:Say Goodbye to the Holiday
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#FIX:Dex
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:400.05
+#GAP:2862
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:04-dec-2016
+F 0 8 0 I
+F 19 6 0  hate
+F 28 7 0  Hearth's
+F 36 6 0  War
+F 42 3 0 ming
+F 46 9 0  Eve
+- 67
+F 71 5 0 All
+F 77 3 0  of
+F 81 4 0  E
+F 85 6 0 ques
+F 91 4 0 tri
+F 95 3 0 a
+F 99 3 0  would
+F 103 3 0  be
+F 108 4 0  bet
+F 112 4 0 ter
+F 117 4 0  off
+- 124
+F 126 3 0 If
+F 130 3 0  we
+F 134 6 0  just
+F 145 5 0  skipped
+F 153 3 0  the
+F 157 4 0  day
+F 162 7 0  al
+F 169 5 0 to
+F 174 4 0 ge
+F 178 5 0 ther
+- 193
+: 220 5 7 Hap
+: 228 5 7 py
+: 235 7 7  Hearth's
+: 247 7 7  War
+: 256 7 4 ming,
+- 266
+: 268 5 4 They
+: 279 10 6  say
+: 293 4 6  in
+: 298 4 6  the
+: 306 9 6  street
+- 325
+: 334 4 4 Hap
+: 341 6 4 py
+: 348 8 4  Hearth's
+: 362 5 4  War
+: 369 10 1 ming,
+- 381
+F 383 5 1 They
+F 390 6 0  think
+F 398 5 0  they're
+F 405 8 0  so
+F 418 12 0  sweet
+- 439
+: 443 10 1 Words
+: 457 5 3  said
+: 464 4 4  so
+: 470 5 3  of
+: 476 3 1 ten
+: 482 5 1  that
+: 488 4 1  they
+* 495 7 -2  lack
+: 507 5 -2  a
+: 513 4 -4 ny
+: 519 6 -1  mea
+: 526 8 -2 ning
+- 541
+: 544 6 -4 Why
+: 553 3 -4  should
+: 557 4 -4  I
+: 564 5 -2  join
+: 570 6 -1  in
+- 579
+: 581 5 -2 When
+: 587 6 -4  I
+: 594 5 -2  could
+: 601 5 -2  be
+: 608 4 -2  in
+: 613 5 -4 ter
+: 619 6 -1 ve
+: 626 10 -2 ning?
+- 642
+: 645 5 1 Eve
+: 651 5 1 ry
+: 658 5 1 po
+: 664 4 3 ny
+: 670 6 4  loves
+: 678 5 4  this
+: 685 5 3  cur
+: 692 6 1 sed
+: 700 10 -1  ho
+* 712 7 3 li
+: 725 7 -4 day
+- 736
+: 738 5 -4 But
+: 744 4 -4  would
+: 751 5 -5  they
+: 758 5 -5  be
+: 765 4 -5  bet
+: 770 5 -5 ter
+: 779 10 -5  off
+- 793
+: 795 4 -4 With
+: 801 4 -2  it
+: 807 7 -1  out
+: 816 6 -2  of
+: 824 9 -4  the
+: 838 34 -4  way?
+- 882
+F 916 11 0 Well,
+: 946 12 6  o
+: 971 76 7 kay
+- 1057
+: 1061 9 2 Say
+: 1074 7 2  good
+* 1088 7 7 bye
+: 1100 3 2  to
+: 1104 4 2  the
+: 1110 5 3  ho
+: 1116 4 2 li
+: 1121 12 2 day
+- 1142
+: 1145 4 2 With
+: 1150 3 2  my
+: 1154 9 3  ma
+: 1166 10 7 gic,
+: 1180 9 6  I'll
+: 1192 6 2  e
+* 1202 8 0 rase
+: 1215 6 2  it
+- 1231
+: 1243 4 2 The
+: 1248 9 2  grea
+: 1258 6 2 test
+: 1270 9 7  gift
+: 1283 4 2  that
+: 1288 4 2  I
+* 1293 5 3  give
+: 1300 3 2  to
+: 1305 12 2 day
+- 1321
+: 1323 4 2 And
+: 1329 3 2  eve
+: 1333 4 2 ry
+: 1338 6 0 po
+: 1345 4 2 ny
+: 1351 7 3  will
+: 1361 7 2  have
+: 1373 7 -2  to
+: 1385 7 -3  face
+: 1397 5 -5  it
+- 1412
+: 1419 9 7 No
+: 1431 19 9  more
+: 1452 6 9  lit
+: 1459 13 9 tle
+: 1476 17 9  games
+: 1498 18 10  for
+: 1520 19 9  you
+: 1543 10 7  to
+: 1555 7 2 -o
+: 1565 31 2  play
+- 1606
+: 1637 5 3 Af
+: 1643 4 3 ter
+: 1649 6 3  you
+: 1659 7 2  say
+: 1670 7 2  good
+: 1683 9 9 bye
+: 1694 4 9  to
+: 1699 4 9  the
+: 1705 5 10  ho
+: 1711 5 7 li
+: 1718 15 7 day
+- 1759
+: 1831 7 0 Good
+: 1842 9 0 bye,
+* 1855 7 3  Hearth's
+: 1866 7 2  War
+: 1875 5 0 ming,
+: 1882 4 0  you
+: 1889 4 -4  had
+: 1894 4 -4  a
+: 1900 6 0  good
+: 1910 9 -5  run
+- 1922
+: 1924 7 -5 Good
+: 1934 10 0 bye,
+: 1946 8 3  Hearth's
+: 1959 4 2  Wa
+: 1964 4 0 -ar
+: 1969 6 0 ming,
+: 1976 4 0  it's
+: 1981 5 7  o
+: 1988 3 7 ver,
+* 1993 6 3  you're
+: 2005 10 0  done
+- 2024
+: 2028 5 5 Fi
+: 2034 2 5 nal
+: 2037 4 5 ly
+: 2043 5 7  set
+* 2051 9 8  free
+: 2063 4 5  from
+: 2069 3 3  your
+: 2075 8 0  forced
+: 2087 4 0  ce
+: 2092 4 3 leb
+: 2098 7 2 ra
+: 2109 6 0 tions
+- 2120
+: 2122 4 2 No
+: 2127 5 2  need
+: 2133 4 2  to
+: 2139 4 3  re
+: 2145 8 5 ply
+: 2157 4 3  to
+: 2162 5 2  your
+: 2168 6 0  trite
+: 2179 4 0  in
+: 2184 5 3 vi
+: 2190 5 2 ta
+: 2196 5 0 -a
+: 2202 6 0 tions
+- 2214
+: 2216 4 5 Ca
+: 2221 4 5 len
+: 2226 6 7 dar
+: 2237 4 8  shor
+: 2242 4 8 ter
+: 2249 4 7  by
+: 2254 4 5  a
+* 2262 7 7  sin
+: 2272 7 3 gle
+F 2285 7 0  day
+- 2297
+: 2299 3 0 Is
+: 2303 4 0  my
+* 2310 6 2  ma
+* 2322 5 2 gic
+: 2332 3 2  u
+: 2336 4 0 -up
+: 2344 4 0  to
+: 2349 4 0  the
+: 2355 7 2  test?
+- 2372
+: 2390 5 0 Time
+: 2397 4 2  to
+* 2403 18 3  see,
+: 2428 17 7  I
+: 2451 18 2  can't
+: 2475 18 0  de
+: 2499 72 2 lay
+- 2581
+: 2592 9 2 Say
+: 2603 8 2  good
+: 2616 8 7 bye
+: 2628 4 2  to
+: 2633 4 2  the
+: 2639 5 3  ho
+: 2645 5 2 li
+: 2651 10 2 day
+- 2667
+: 2669 5 2 Pre
+: 2675 3 2 pare
+: 2680 3 2  the
+* 2686 8 3  spell,
+: 2698 8 7  no
+: 2709 7 6  he
+: 2720 6 2 si
+: 2731 7 0 ta
+: 2744 11 2 tion
+- 2764
+: 2768 7 2 All
+: 2777 9 2  me
+: 2788 9 2 mo
+: 2801 8 7 ry
+: 2814 6 2  shall
+* 2824 5 3  fade
+: 2830 4 2  a
+: 2835 11 2 way
+- 2856
+: 2860 5 2 See
+: 2866 4 2  E
+: 2871 5 0 ques
+: 2877 4 2 tri
+: 2882 4 3 a's
+: 2887 4 3  new
+: 2894 6 2  trans
+: 2905 7 -2 for
+: 2916 5 -3 ma
+: 2922 5 -5 -a
+: 2929 10 -5 tion
+- 2949
+: 2953 8 7 No
+: 2965 27 9  more
+: 2996 12 9  shall
+: 3010 19 9  a
+: 3032 19 10 ny
+: 3055 12 9 po
+: 3069 10 7 -o
+: 3081 14 7 ny
+: 3104 42 2  say
+- 3157
+F 3161 7 0 Hap
+F 3168 3 0 py
+F 3174 8 0  Hearth's
+F 3185 7 0  War
+F 3192 8 0 ming!
+- 3209
+F 3212 5 0 Hmm
+F 3218 4 0  hmm
+F 3223 3 0  hmm
+F 3227 4 0  hmm
+F 3234 5 0  hmm!
+- 3249
+: 3271 14 3 Af
+* 3290 16 2 ter
+: 3313 21 9  to
+: 3337 103 10 day
+- 3450
+: 3477 15 14 Af
+: 3498 18 12 ter
+: 3522 10 9  to
+: 3533 10 7 -o
+: 3548 90 7 day
+E

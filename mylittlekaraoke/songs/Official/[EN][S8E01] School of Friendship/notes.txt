@@ -1,0 +1,407 @@
+#TITLE:School of Friendship
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#VIDEO:video.mp4
+#BPM:400
+#GAP:3304
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:06-apr-2018
+: 0 3 -3 The
+: 7 9 -3  School
+: 18 3 -1  of
+: 22 4 1  Friend
+: 29 4 -3 ship,
+: 44 6 4  first
+: 55 5 3  day
+: 61 3 4  of
+: 66 8 4  class
+- 85
+: 89 7 7 Will
+: 99 6 7  we
+: 109 4 6  fa
+: 114 3 4 -il
+: 121 6 2  or
+: 130 9 1  will
+: 142 7 4  we
+: 153 7 4  pass?
+- 170
+: 174 14 -3 Stu
+: 190 4 -1 dents
+: 196 6 1  come
+: 206 7 -3  from
+: 217 11 7  far
+: 229 7 7  and
+: 238 13 6  wide
+- 259
+: 262 7 7 Brand
+: 271 5 6 -ne
+: 277 3 4 -ew
+: 281 8 2  friends
+: 294 7 -3  here
+: 304 19 0  by
+* 326 14 2  our
+: 347 11 0  side
+- 384
+: 450 3 7 Take
+: 454 2 7  a
+: 458 7 7  breath,
+: 471 3 5  look
+: 475 2 4  a
+: 478 8 5 round,
+: 489 4 5  it's
+: 494 2 4  a
+: 498 10 5 ma
+: 510 8 7 zing
+- 524
+: 526 3 0 I
+: 530 5 0  can't
+: 536 3 2  be
+* 542 9 4 lieve
+: 553 4 2  that
+: 558 4 0  it's
+: 565 17 7  real
+- 592
+: 606 9 9 Stu
+: 617 4 9 dents
+: 623 3 7  ga
+: 628 8 7 lore,
+: 638 4 9  new
+: 643 3 11  i
+* 649 8 12 deas
+: 660 4 7  to
+: 665 3 5  ex
+: 672 6 4 plore
+- 680
+: 682 4 4 Can't
+: 687 4 6  con
+: 694 9 7 tain
+: 704 3 7  the
+: 708 4 7  ex
+: 713 5 9 cite
+: 719 5 7 ment
+: 726 11 6  I
+* 747 18 2  feel
+- 791
+: 833 5 7 Can't
+: 839 5 7  mess
+: 846 5 7  up,
+: 855 4 5  can't
+: 860 3 4  af
+: 865 10 5 ford
+: 877 3 5  a
+: 881 4 4  mis
+: 888 8 5 take
+: 897 13 7  now
+- 916
+: 919 3 2 Think
+: 924 4 4  "suc
+: 931 6 4 cess",
+: 941 4 2  keep
+: 947 2 0  it
+* 952 10 7  firm
+: 963 5 5 ly
+: 969 3 4  in
+: 975 9 2  sight
+- 993
+: 997 6 9 Make
+: 1006 5 9  sure
+: 1012 2 7  to
+: 1018 6 7  do
+: 1028 8 11  things
+* 1039 9 12  by
+: 1050 5 7  the
+: 1060 6 4  book
+- 1078
+: 1082 5 4 Make
+: 1093 4 4  sure
+: 1098 3 0  to
+: 1104 4 2  do
+: 1110 4 0  it
+: 1116 13 2  all
+F 1136 9 0  right
+- 1198
+: 1557 3 0 The
+: 1564 10 0  School
+: 1575 3 2  of
+: 1580 3 4  Friend
+: 1585 5 0 ship,
+: 1600 6 7  must
+: 1609 4 6  get
+: 1615 2 7  to
+: 1620 8 7  class
+- 1638
+: 1645 8 10 Will
+: 1655 6 10  we
+: 1664 5 9  fa
+: 1670 5 7 -il
+: 1678 6 5  or
+: 1687 7 4  will
+: 1698 6 7  we
+: 1707 9 7  pass?
+- 1727
+: 1731 13 0 Stu
+: 1747 4 2 dents
+: 1753 8 4  learn
+: 1763 7 0 ing
+: 1774 7 10  from
+: 1784 6 10  the
+: 1794 8 9  best
+- 1814
+: 1818 6 10 Tak
+: 1828 7 9 ing
+: 1837 8 5  notes
+: 1850 6 0  to
+: 1860 18 3  pass
+: 1882 13 5  the
+: 1902 9 3  test
+- 1913
+: 1915 3 3 Wait,
+: 1920 4 3  hold
+: 1926 6 3  on!
+: 1935 4 3  Not
+: 1940 4 2  like
+: 1946 7 3  that!
+: 1958 4 3  Just
+: 1963 3 2  a
+: 1967 10 3  se
+: 1979 11 5 cond!
+- 1998
+: 2001 4 3 I'm
+: 2006 3 3  not
+: 2013 7 3  sure
+: 2022 5 3  if
+: 2028 4 5  that
+: 2033 9 6  me
+: 2043 5 5 thod's
+: 2049 2 3  ap
+: 2053 14 5 proved
+- 2073
+: 2076 5 2 Let
+: 2082 4 2  me
+: 2087 5 2  take
+: 2093 2 2  a
+: 2097 7 6  look!
+F 2108 6 0  Yup,
+F 2119 5 0  right
+F 2126 3 0  here
+F 2131 3 0  in
+F 2135 3 0  the
+F 2139 10 0  book
+- 2158
+F 2162 5 0 Come
+F 2168 11 0  on!
+: 2180 4 1  We
+: 2185 4 1  just
+: 2191 4 1  got
+: 2196 4 1  in
+: 2201 3 1  the
+: 2206 20 2  groove!
+- 2236
+: 2260 4 4 Can't
+: 2267 4 4  mess
+: 2272 3 4  up,
+: 2281 5 4  can't
+: 2288 3 4  af
+: 2292 11 3 ford
+: 2305 2 3  a
+* 2309 3 1  mis
+: 2315 5 3 take
+: 2324 12 4  now
+- 2344
+: 2347 4 -3 We
+: 2353 2 -3  are
+: 2358 4 -3  sha
+: 2363 4 -3 ping
+: 2370 7 -1  young
+: 2379 10 0  minds
+: 2391 4 -1  to
+: 2396 2 -3  ig
+: 2400 12 -1 nite
+- 2420
+: 2423 11 5 Do
+: 2435 5 5  it
+: 2444 9 4  like
+: 2456 5 11  it
+: 2465 10 12  says
+: 2477 3 7  in
+: 2481 3 5  the
+* 2487 6 4  book
+: 2497 7 0  now
+- 2507
+: 2509 5 4 Make
+: 2519 4 4  sure
+: 2525 3 0  you're
+: 2530 6 2  do
+: 2537 4 0 ing
+: 2543 9 2  it
+: 2562 4 0  right
+- 2568
+: 2570 3 3 There's
+: 2576 9 3  not
+: 2587 3 3  an
+: 2591 5 3  e
+: 2597 5 2 qua
+: 2606 5 0 tion
+: 2612 3 0  on
+: 2617 4 -1  how
+: 2622 2 0  to
+: 2627 6 0  have
+: 2637 8 5  fun
+- 2652
+: 2655 2 3 The
+: 2659 5 0  stu
+: 2665 4 0 dents
+: 2672 5 2  look
+* 2683 7 5  bored
+: 2693 4 2  now,
+: 2699 4 0  oh,
+: 2704 4 -1  what
+: 2709 5 0  have
+: 2717 4 0  I
+: 2725 5 3  done?
+- 2732
+: 2734 5 0 Can't
+: 2745 7 0  teach
+: 2756 5 2  be
+: 2762 4 2 in'
+: 2768 4 3  ho
+: 2773 4 3 nest,
+: 2780 4 2  not
+: 2789 7 0  sure
+: 2801 3 2  what
+: 2805 3 2  to
+: 2812 6 -1  do
+- 2820
+: 2822 4 2 I'm
+: 2827 5 2  quite
+: 2833 3 2  cer
+: 2839 3 2 tain
+: 2843 7 3  I'm
+: 2852 9 2  lost
+- 2863
+: 2865 4 -1 None
+: 2871 3 -1  of
+: 2877 6 -1  us
+: 2887 5 -1  has
+: 2893 2 -1  a
+: 2898 5 0  clue!
+- 2904
+: 2906 9 0 School
+: 2916 3 2  of
+: 2920 4 4  Friend
+: 2927 5 0 ship,
+: 2936 4 0  a
+: 2941 8 6 no
+: 2952 8 6 ther
+: 2963 7 7  class
+- 2980
+: 2984 7 10 Wish
+: 2997 6 10  it
+: 3006 5 9  we
+: 3012 4 7 -re
+: 3019 8 5  more
+: 3029 10 4  of
+: 3040 6 7  a
+: 3050 8 7  blast
+- 3068
+: 3072 13 0 Thought
+: 3087 4 2  this
+: 3093 9 4  school
+: 3105 7 0  would
+: 3115 9 10  be
+: 3125 9 10  more
+: 3136 10 9  fun
+- 3155
+: 3158 7 10 Can't
+: 3168 7 9  wait
+: 3179 8 5  for
+: 3191 7 0  our
+* 3200 8 3  clas
+: 3212 6 0 ses
+: 3223 7 2  to
+: 3233 7 -1  be
+: 3242 9 0  done
+- 3253
+: 3255 4 3 Can't
+: 3260 4 3  mess
+: 3266 4 3  up,
+: 3277 4 3  can't
+: 3282 4 3  af
+: 3287 10 2 ford
+: 3299 3 2  a
+: 3303 4 0  mis
+: 3309 6 2 take
+: 3319 10 3  now
+- 3338
+: 3342 7 0 No
+: 3353 4 5  way
+: 3358 3 5  to
+: 3364 5 0  have
+: 3374 7 3  fun
+- 3382
+: 3384 6 0 Oh,
+: 3396 4 3  what
+: 3401 3 3  have
+: 3407 6 0  I
+: 3417 6 2  done?
+- 3426
+: 3428 4 3 Think
+: 3433 4 3  "suc
+: 3439 6 3 cess",
+: 3449 5 0  keep
+: 3455 3 0  it
+* 3460 9 7  firm
+: 3471 3 5 ly
+: 3475 3 3  in
+: 3481 13 5  sight
+- 3501
+: 3504 7 3 Wish
+: 3515 5 0  that
+: 3525 7 2  we
+: 3535 9 0  could
+* 3548 9 3  leave
+: 3559 7 0  our
+: 3567 10 2  desks
+- 3587
+: 3594 9 -4 Lis
+: 3605 6 -2 ten
+: 3613 6 0  to
+: 3623 6 -4  this
+: 3632 8 6  one
+: 3644 7 6  re
+: 3653 10 5 quest
+- 3672
+: 3675 8 6 Make
+: 3687 8 5  things
+: 3697 8 3  fun,
+: 3709 7 0  we're
+* 3719 8 6  real
+: 3730 5 5 ly
+: 3740 9 3  stressed
+- 3759
+: 3768 5 3 Make
+: 3774 4 3  sure
+: 3780 3 3  to
+: 3785 7 2  do
+: 3796 8 11  things
+* 3807 8 12  by
+: 3817 7 7  the
+: 3827 8 5  book
+: 3839 60 3  now
+- 3910
+: 3914 9 6 Can
+: 3925 7 5  we
+: 3936 8 3  tell
+: 3947 8 0  her
+: 3958 5 6  this
+: 3968 8 5  thing
+: 3979 7 3  is
+: 3990 7 2  a
+: 3999 8 3  mess?
+E

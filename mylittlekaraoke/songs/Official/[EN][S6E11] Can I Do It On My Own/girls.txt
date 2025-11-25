@@ -1,0 +1,223 @@
+#TITLE:Can I Do It On My Own (Fluttershy / Rainbow Dash)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:fluttershy rainbow dash.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#VIDEOGAP:0.1
+#BPM:350.09
+#GAP:2937
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:12-jun-2016
+F 0 5 0 O
+F 5 6 0 K,
+F 17 3 0  you
+F 21 2 0  know
+F 24 2 0  what
+F 27 2 0  you
+F 30 3 0  have
+F 34 2 0  to
+F 37 7 0  do,
+F 45 7 0  right?
+- 121
+F 143 29 0 *glare*
+- 250
+F 313 4 0 You
+F 318 4 0  think
+F 323 3 0  he
+F 327 3 0  can
+F 331 3 0  do
+F 336 3 0  it?
+- 345
+: 353 3 5 Eve
+: 357 2 5 ry
+: 361 3 5 po
+: 365 3 5 ny
+: 369 5 5  has
+* 377 8 8  times
+: 386 6 5  in
+: 394 5 3  their
+: 402 10 1  lives
+- 417
+: 420 3 1 When
+: 424 2 1  their
+: 427 6 3  hearts
+: 435 4 1  are
+: 443 5 1  filled
+: 451 4 1  with
+: 460 10 -4  doubt
+- 600
+: 618 2 5 Bu
+: 621 4 7 -ut
+: 626 2 7  if
+: 629 3 7  you
+: 633 5 7  just
+: 641 5 8  take
+: 649 4 7  that
+: 657 4 5  first
+* 664 8 3  step
+- 677
+: 682 2 -2 The
+: 686 6 3  next
+: 695 5 3  one
+: 703 2 3  wi
+: 706 8 5 -ill
+* 715 3 7  ap
+: 719 14 7 pear
+- 742
+: 748 3 7 And
+: 752 2 7  you
+: 757 7 7  find
+: 765 2 7  you
+: 768 3 7  can
+* 772 10 8  walk,
+: 790 5 10  then
+: 797 10 10  run
+- 817
+: 822 5 8 Then
+: 829 33 13  fly
+: 863 31 6 -y
+: 895 29 8 -y
+- 932
+: 940 3 8 In
+: 945 3 8 to
+: 949 2 8  the
+: 953 4 8  stra
+* 959 5 7 tos
+: 967 72 7 phere
+- 1060
+: 1081 3 -2 You've
+: 1085 4 3  got
+: 1090 7 5  to
+* 1101 7 7  give
+: 1109 5 5  it
+: 1116 4 3  your
+: 1123 6 3  best
+- 1136
+: 1140 4 -2 So
+: 1147 4 3  you
+: 1155 14 2  can
+* 1171 5 2  pass
+: 1179 4 3  the
+: 1187 6 3  test
+- 1200
+: 1211 4 3 Give
+: 1217 9 5  it
+: 1228 5 7  e
+: 1235 5 10 ve
+: 1242 4 10 ry
+* 1249 11 5 thing
+: 1266 4 3  that
+: 1274 3 3  yo
+: 1278 3 5 -u've
+: 1283 29 5  go
+: 1313 14 7 -ot
+- 1332
+: 1337 2 3 And
+: 1341 8 5  we
+* 1351 6 7  know
+: 1360 4 5  you
+: 1367 5 3  can
+: 1375 7 3  win
+- 1387
+: 1392 5 10 You
+: 1399 4 8  just
+: 1407 13 7  have
+* 1423 4 5  to
+: 1430 4 3  be
+: 1437 9 3 gin
+- 1451
+: 1462 4 3 Have
+: 1467 7 5  to
+: 1478 6 7  give
+: 1487 4 10  it
+: 1493 5 10  your
+: 1501 6 5  ve
+: 1509 5 3 ry
+: 1517 10 5  best
+: 1533 31 5  sho
+: 1565 21 7 -ot
+- 1845
+: 1865 6 7 But
+: 1872 4 7  if
+: 1879 5 7  you
+: 1886 6 7  fight
+: 1894 6 8  through
+: 1903 6 10  with
+* 1912 13 10  all
+: 1927 4 8  of
+: 1935 4 7  your
+: 1942 8 3  might
+- 1955
+: 1959 7 12 You
+: 1967 5 10  will
+: 1974 14 10  find
+: 1990 5 10  that
+: 1998 6 10  you
+: 2006 13 10  can't
+* 2022 12 7  go
+: 2037 34 5  wrong
+- 2078
+: 2084 5 3 That
+: 2092 4 3  you
+: 2099 5 3  could
+: 2107 8 10  do
+: 2116 13 10  it
+* 2131 15 8  all
+: 2148 3 7  a
+: 2154 16 7 long
+- 2175
+: 2180 2 7 Eve
+: 2183 3 7 ry
+: 2188 3 7 po
+: 2192 3 7 ny
+: 2196 6 7  has
+: 2203 4 8  ti
+* 2208 4 10 -imes
+: 2214 4 7  in
+: 2220 5 5  their
+: 2229 11 3  lives
+- 2243
+: 2246 3 3 When
+: 2250 3 3  their
+: 2254 6 5  hearts
+: 2262 4 3  are
+* 2269 6 3  filled
+: 2277 5 3  with
+: 2285 12 -2  doubt
+- 2304
+: 2312 7 7 But
+: 2320 3 7  if
+: 2325 2 7  you
+: 2329 5 7  just
+: 2337 8 10  give
+: 2346 4 7  it
+: 2352 4 5  yo
+: 2357 4 3 -ur
+: 2363 6 3  all
+- 2374
+: 2376 2 -2 You'll
+: 2381 7 3  start
+: 2390 5 3  to
+* 2397 7 5  work
+: 2406 7 7  it
+: 2415 12 7  out
+- 2630
+: 2649 5 -3 Then
+: 2657 32 -2  fly
+: 2690 33 0 -y
+: 2724 34 2 -y
+- 2870
+: 2891 3 10 You
+: 2895 3 10  can
+: 2899 4 10  do
+: 2904 3 10  it
+: 2908 3 10  on
+* 2912 6 12  your
+: 2920 26 9  o
+: 2947 38 10 -own
+E

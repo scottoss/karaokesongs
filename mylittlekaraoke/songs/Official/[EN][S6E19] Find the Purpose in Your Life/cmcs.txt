@@ -1,0 +1,148 @@
+#TITLE:Find the Purpose in Your Life (Instrumental) (as the CMCs)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#MP3:cmcs.mp3
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:400
+#GAP:8003
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:28-aug-2016
+: 0 3 8 Like
+: 4 2 8  a
+: 8 3 8  ra
+: 13 4 8 cer
+: 19 3 8  at
+: 24 2 8  the
+* 29 9 10  start
+: 39 4 8 ing
+: 44 8 8  line
+- 54
+: 56 3 8 You're
+: 63 5 8  chomp
+: 70 3 8 in'
+: 74 4 8  at
+: 80 4 8  the
+: 87 6 8  bit
+- 100
+: 105 6 8 You
+: 113 3 8  are
+: 118 5 8  here
+: 124 2 8  to
+: 128 6 8  find
+: 135 4 8  your
+: 142 5 10  pur
+: 149 5 8 pose
+- 156
+: 158 9 8 And
+: 168 3 8  the
+: 174 5 8  place
+: 182 2 8  you
+: 185 4 8  real
+: 190 2 3 ly
+* 193 3 5 -y
+: 198 8 3  fit
+- 212
+: 216 4 1 And
+: 221 5 1  un
+: 228 4 3 til
+: 233 3 3  you
+: 238 6 6  find
+* 246 4 6  your
+: 252 5 5  place
+: 260 4 3  in
+: 265 8 1  life
+- 275
+: 277 4 1 You're
+: 283 5 5  ne
+: 290 3 8 ver
+: 294 5 8  gon
+: 300 4 5 na
+* 306 7 8  quit
+- 320
+: 324 5 1 We
+: 331 4 1  can
+: 337 5 1  help
+: 344 3 1  you
+: 348 6 1  find
+: 356 7 5  the
+: 366 5 3  pur
+: 373 3 3 pose
+: 378 3 3  in
+: 383 3 1  your
+: 387 8 1  life
+- 441
+: 1456 4 9 That's
+: 1462 2 9  the
+: 1467 13 9  spi
+: 1481 5 11 rit!
+- 1488
+: 1490 6 11  You
+: 1497 5 11  ough
+: 1503 3 8 ta
+: 1510 5 8  see
+: 1516 4 8  what
+: 1523 6 6  you
+: 1530 5 4  do
+: 1536 9 4  best!
+- 1556
+: 1565 7 9 Try
+: 1573 5 9  it
+: 1580 11 9  all,
+: 1593 4 11  pick
+: 1599 5 11  your
+: 1606 6 11  fave
+: 1614 5 8  and
+: 1620 6 8  leave
+: 1627 5 8  be
+: 1633 7 6 hind
+: 1641 5 4  the
+: 1647 11 4  rest
+- 1668
+: 2200 5 1 Can
+: 2207 4 1  we
+: 2214 4 1  help
+: 2219 3 1  her
+: 2223 7 1  find
+* 2232 7 5  the
+: 2242 4 3  pur
+: 2247 3 3 pose
+: 2254 4 3  in
+: 2259 3 1  her
+: 2263 7 1  life?
+- 2320
+: 2655 4 8 She's
+: 2661 4 8  so
+: 2668 6 8  good
+: 2675 5 6  at
+* 2681 7 8  things,
+: 2689 3 8  it's
+: 2695 6 8  frigh
+: 2703 6 3 tening
+- 2716
+: 2724 5 8 Cu
+: 2730 4 8 tie
+: 2736 5 8  Mark
+: 2744 3 8  Cru
+: 2750 5 8 sa
+: 2758 5 8 ders,
+- 2769
+: 2773 4 8 I
+: 2779 4 8  think
+: 2784 5 8  we've
+: 2791 7 10  got
+: 2799 4 10  a
+: 2805 6 10  pro
+: 2813 8 11 blem!
+- 3490
+F 3497 3 0 Now
+F 3502 6 0  how
+F 3509 4 0  we
+F 3514 5 0  gonna
+F 3520 8 0  do
+F 3529 12 0  this?
+E

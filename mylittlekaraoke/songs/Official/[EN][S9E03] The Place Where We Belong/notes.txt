@@ -1,0 +1,262 @@
+#TITLE:The Place Where We Belong
+#ARTIST:My Little Pony
+#CREATOR:Renard
+#GENRE:Pony
+#LANGUAGE:English
+#EDITION:My Little Pony
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:378
+#GAP:9799
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:01-may-2019
+: 0 5 12 We
+: 7 4 12  ce
+: 13 4 7 le
+: 20 9 7 brate
+: 32 4 5  our
+: 38 7 5  friend
+: 51 34 7 ship
+- 94
+: 98 3 12 We
+: 104 4 12  ce
+: 110 3 7 le
+: 116 8 7 brate
+: 128 3 5  the
+: 135 40 7  tree
+- 185
+: 193 3 0 The
+: 198 5 0  me
+: 204 4 0 mo
+: 210 7 2 ries
+: 218 2 0 ~
+: 223 4 0  in
+: 230 6 2 side
+: 237 2 0 ~
+: 242 22 0  us
+- 271
+: 274 4 12 We'll
+: 280 12 12  build
+: 296 5 7  for
+: 303 15 7  all
+: 321 4 5  to
+: 328 47 7  see
+- 382
+: 385 3 12 The
+: 391 4 12  tree
+: 397 4 7  brought
+: 403 7 7  us
+: 415 3 5  to
+: 421 10 5 ge
+: 434 31 7 ther
+- 475
+: 482 4 12 And
+: 489 4 12  e
+: 494 4 7 ven
+: 500 5 7  though
+: 507 5 5  it's
+: 517 7 5  gone
+: 525 35 7 ~
+- 570
+: 578 4 0 Our
+: 584 5 0  mo
+: 590 4 0 nu
+: 596 9 2 ment
+: 608 4 0  of
+: 615 7 2  friend
+: 626 27 0 ship
+- 654
+: 656 4 12 Can
+: 662 13 12  make
+: 679 4 7  the
+: 686 6 7  gift
+: 698 10 5  live
+: 711 28 7  on
+- 742
+: 744 3 4 A
+: 750 4 4  piece
+: 757 4 7  from
+: 763 6 7  me
+: 770 5 9 ~
+- 785
+: 793 3 0 A
+: 799 4 0  piece
+: 806 8 2  from
+: 818 15 2  you
+- 838
+: 840 4 0 We'll
+: 847 4 0  use
+: 854 3 2  the
+: 860 7 4  tree
+: 872 7 7  and
+: 883 5 2  we'll
+: 889 3 0 ~
+: 896 7 2  make
+: 908 17 0  do
+- 934
+: 937 3 4 If
+: 942 4 4  things
+: 948 4 7  don't
+: 954 5 7  fit
+: 960 6 9 ~
+- 976
+: 985 4 0 There's
+: 992 4 0  lots
+: 999 6 2  of
+: 1009 15 2  glue
+- 1034
+: 1038 4 12 Friends
+: 1044 4 14  don't
+: 1051 8 16  quit
+: 1064 4 16  in
+: 1070 4 14  the
+: 1076 7 12  end
+- 1086
+: 1088 3 9 And
+* 1093 4 9  to
+* 1099 5 16 ge
+* 1105 4 16 ther
+: 1112 6 14  we'll
+: 1122 7 12  see
+: 1134 7 11  this
+: 1146 5 12  through
+- 1152
+: 1154 3 12 It's
+: 1158 5 12  hard
+: 1165 3 7  to
+: 1170 6 7  say
+: 1179 8 5  fare
+: 1190 33 4 well
+- 1233
+: 1249 3 0 To
+: 1254 5 0  some
+: 1260 4 0 thing
+: 1266 5 4  you
+: 1273 8 5  hold
+: 1285 5 6  dear
+: 1291 32 7 ~
+- 1333
+: 1345 4 12 But
+: 1351 4 12  good
+: 1357 4 12 bye
+: 1364 5 14  is
+: 1370 3 14 n't
+: 1375 4 12  for
+: 1382 5 14 e
+: 1388 4 12 ~
+: 1394 21 12 ver
+- 1421
+: 1424 4 12 As
+: 1431 13 12  long
+: 1447 4 7  as
+: 1454 8 7  we
+: 1465 9 4  are
+: 1478 31 7  here
+- 1519
+: 1544 8 5 The
+: 1556 8 5  tree
+: 1568 8 4  is
+: 1580 8 4  in
+: 1592 8 12  our
+: 1604 9 12  me
+: 1616 9 7 mo
+: 1627 24 5 ry
+: 1652 23 4 ~
+- 1700
+: 1735 7 5 Its
+: 1746 8 5  roots
+: 1758 8 4  have
+: 1770 9 4  grown
+: 1783 8 12  deep
+: 1795 8 12  in
+: 1807 8 7  our
+: 1819 44 5  hearts
+- 1888
+: 1928 7 9 Its
+: 1939 10 11  bran
+: 1951 8 12 ches
+: 1963 8 12  raise
+: 1975 8 7  our
+: 1987 5 5  spi
+: 1993 4 4 rits,
+: 2000 9 4  to
+: 2011 10 9 ge
+: 2023 8 7 ther
+: 2036 7 5  we're
+: 2047 8 4  all
+: 2059 34 7  bound
+- 2103
+: 2119 9 14 For
+: 2130 11 14 e
+: 2143 12 12 ver
+: 2167 9 16  it
+: 2179 12 12  stands
+- 2198
+: 2201 9 17 Lost
+: 2214 8 16  but
+: 2226 9 12  now
+: 2239 8 7  it's
+* 2252 70 14  found
+- 2327
+: 2329 4 0 So
+: 2335 4 4  lift
+: 2341 4 7  a
+: 2347 7 7  beam
+: 2355 5 9 ~
+- 2370
+: 2378 3 0 And
+: 2384 4 0  build
+: 2391 5 2  it
+: 2403 12 2  strong
+- 2422
+: 2425 4 0 Work
+: 2431 3 0  as
+: 2437 4 2  a
+: 2444 8 4  team,
+: 2456 6 7  it
+: 2466 5 2  won't
+: 2473 4 0 ~
+: 2480 7 2  take
+: 2491 14 0  long
+- 2517
+: 2521 4 0 Hey
+: 2527 4 4  Sil
+: 2533 4 7 ver
+: 2539 7 7 stream
+: 2547 8 9 ~
+- 2564
+: 2568 4 0 I
+: 2575 4 0  think
+: 2582 7 2  that's
+: 2594 11 2  wrong
+- 2614
+: 2617 4 4 We'll
+: 2623 4 4  live
+: 2629 4 8  the
+: 2636 8 8  dream
+: 2648 7 11  and
+: 2659 5 8  sing
+: 2665 4 4 ~
+: 2672 8 9  our
+: 2684 15 9  song
+- 2709
+: 2726 4 14 And
+: 2732 7 16  make
+: 2743 8 14  the
+: 2755 8 12  tree
+: 2766 5 9  some
+: 2772 4 9 thing
+: 2778 8 16  all
+: 2790 8 14  can
+: 2803 8 12  see
+- 2814
+: 2816 3 9 In
+: 2821 4 9  a
+: 2828 24 14  place
+: 2863 8 12  where
+: 2876 19 14  we
+: 2899 21 14  be
+* 2923 73 12 long!
+E

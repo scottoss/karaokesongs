@@ -1,0 +1,46 @@
+#TITLE:Piece of Cake
+#ARTIST:My Little Pony
+#GENRE:Pony
+#EDITION:My Little Pony
+#LANGUAGE:English
+#CREATOR:Renard
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:400.00
+#GAP:325
+#UPDATED:20-nov-2016
+#COMMENT:http://www.mylittlekaraoke.com/
+F 0 11 0 Af
+F 12 5 0 ter
+F 19 22 0  all
+- 48
+: 51 7 10 It's
+: 62 5 10  a
+: 69 5 10  piece
+: 76 5 10  of
+: 84 10 10  cake
+: 98 8 10  to
+- 108
+: 110 5 9 Bake
+: 117 5 9  a
+: 124 5 9  pret
+* 131 5 9 ty
+: 138 12 9  cake
+- 152
+F 154 4 0 Oh
+- 166
+F 169 5 0 We're
+F 177 3 0  on
+F 182 4 0  a
+F 189 6 0  sche
+F 195 3 0 du
+F 198 4 0 le
+- 204
+F 206 4 0 No
+F 212 4 0  time
+F 218 2 0  for
+F 221 3 0  a
+F 225 6 0  song
+E

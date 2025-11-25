@@ -1,0 +1,283 @@
+#TITLE:Friends Are Always There For You
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:400
+#GAP:6390
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:06-dec-2015
+* 0 3 6 I
+: 5 4 6  ne
+: 10 5 6 ver
+: 19 5 6  thought
+: 29 6 6  that
+: 39 11 9  I
+: 52 4 6  would
+: 58 8 4  find
+: 67 3 2  a
+: 72 22 2  place
+- 120
+: 154 3 1 To
+: 159 4 6  step
+: 164 7 6  right
+: 174 14 6  in
+: 193 3 2  and
+: 198 5 2  start
+: 204 3 4  a
+: 209 3 2 -ga
+: 213 31 4 -in
+- 270
+: 311 3 6 I
+: 316 4 6  ne
+: 321 4 6 ver
+: 329 7 6  thought
+: 338 6 6  that
+: 348 11 9  I
+: 363 5 6  could
+: 369 6 4  just
+: 377 4 2  be
+: 382 29 2 gin
+- 421
+: 450 8 4 Right
+: 461 5 4  where
+: 467 7 4  I
+: 476 7 2  left
+: 486 13 2  off
+: 501 3 4  and
+* 505 3 4  ma
+* 509 5 6 -a
+* 515 4 4 -ake
+: 521 3 2  a
+: 527 40 2  friend
+- 593
+: 625 4 4 Do
+: 630 5 6 -on't
+: 636 3 6  e
+: 640 4 6 ver
+: 645 8 6  think
+: 656 4 6  that
+: 661 3 6  it
+: 665 6 4  might
+: 674 4 2  be
+: 680 4 4  to
+: 685 6 2 -o
+: 694 23 2  late
+- 743
+: 775 4 4 You
+: 780 3 6  don't
+: 784 5 6  have
+: 790 2 6  to
+: 793 5 4  wa
+: 799 7 6 -it,
+- 812
+: 814 3 2 There's
+: 820 6 2  no
+: 828 4 4  mis
+: 834 4 2 ta
+: 839 4 4 -akes
+: 844 2 4  with
+: 848 3 6  the
+: 853 10 4  friends
+: 864 5 2  you
+: 873 25 2  make
+- 908
+: 930 4 4 A
+: 935 5 6  friend
+: 941 8 6 ship's
+: 951 7 6  on
+: 959 7 6 ly
+: 969 13 9  made
+: 984 8 6  of
+: 994 8 4  what
+* 1003 4 4  yo
+* 1008 5 6 -u
+* 1014 7 2 -u
+: 1024 18 2  bring
+- 1054
+: 1058 4 -3 And
+: 1063 3 -3  if
+: 1067 3 -3  you
+: 1071 5 0  do
+: 1077 7 2  it
+: 1085 9 2  ri
+: 1095 4 0 -i
+: 1100 5 -3 -ight,
+: 1110 4 4  you
+: 1115 4 4  can
+: 1120 4 6  do
+: 1126 7 4  a
+: 1134 6 2 ny
+: 1145 31 2 thing
+- 1186
+: 1207 8 2 Just
+: 1218 26 2  use
+* 1247 9 4  your
+: 1257 19 2  eyes
+- 1282
+: 1284 6 1 This
+: 1295 22 2  time,
+: 1322 3 2  no
+: 1326 6 4 -o
+: 1334 17 2  lies
+- 1357
+: 1360 8 1 Just
+: 1372 23 2  don't
+: 1400 10 4  dis
+: 1411 35 4 guise
+- 1456
+: 1460 6 9 Who
+: 1468 5 9  you
+: 1474 8 9  are
+: 1484 5 6  in
+: 1492 15 7 si
+: 1510 35 9 -ide
+- 1550
+: 1552 3 2 Be
+: 1557 7 2 cause
+: 1565 8 4  your
+: 1575 28 9  friends
+: 1604 6 9  are
+* 1614 5 9  al
+* 1620 7 6 ways
+: 1629 6 6  there
+: 1637 7 6  for
+: 1648 5 6  yo
+: 1654 20 4 -u
+- 1684
+: 1691 5 2 You
+: 1697 7 2  don't
+: 1705 7 4  have
+: 1716 7 6  to
+: 1725 9 6  be
+: 1735 4 4  the
+: 1743 10 2  same
+- 1757
+: 1759 6 2 For
+: 1769 5 9  friend
+: 1775 6 9 ship
+: 1783 9 6  to
+: 1793 7 6  be
+: 1802 6 6  tru
+: 1809 30 4 -e
+- 1849
+: 1861 4 2 Be
+: 1866 8 2 cause
+: 1875 8 4  your
+: 1886 25 9  friends
+: 1915 6 9  are
+: 1924 5 9  al
+: 1930 7 6 ways
+* 1939 7 6  there
+: 1948 8 6  for
+: 1958 6 6  yo
+: 1965 19 4 -u
+- 1993
+: 1997 4 2 A
+: 2002 6 2 round
+: 2010 4 2  the
+: 2016 9 4  world,
+: 2027 5 6  it's
+: 2036 7 6  still
+: 2046 5 4  the
+: 2055 12 2  same
+- 2073
+: 2075 3 2 To
+: 2079 5 2 get
+: 2085 6 2 her
+: 2094 7 4  you
+: 2104 7 6  have
+: 2114 6 6  more
+: 2123 7 4  to
+: 2133 12 2  gain
+- 2150
+: 2152 4 2 There's
+: 2157 4 2  no
+: 2162 7 2 thing
+: 2171 12 2  that
+: 2185 5 -3  a
+* 2195 7 2  friend
+: 2204 4 2  wo
+: 2209 5 4 -o
+: 2215 7 2 -on't
+: 2224 20 2  do
+- 2253
+: 2257 4 2 Ev
+: 2262 6 2 'ry
+: 2272 8 2 where
+: 2282 4 4  yo
+: 2287 5 6 -u
+: 2294 20 6  go
+- 2324
+: 2332 8 2 Friend
+: 2341 7 2 ship
+: 2351 7 2  there
+: 2360 3 4  wi
+* 2364 5 6 -ill
+: 2371 17 6  grow
+- 2396
+: 2399 3 2 When
+: 2403 3 2  you
+: 2408 8 2  find
+* 2418 6 2  it,
+: 2428 6 2  it's
+: 2437 4 4  the
+: 2442 3 6 -e
+: 2448 16 6  key
+- 2474
+: 2482 7 2 Friends
+: 2491 4 4  can
+: 2496 5 6  change
+: 2502 4 9  the
+* 2507 8 9  world,
+: 2516 6 6  you
+: 2525 8 4  se
+: 2535 16 2 -e
+- 2561
+: 2565 8 2 Ev
+: 2575 7 2 'ry
+: 2584 8 2 where
+: 2595 4 4  yo
+: 2599 4 6 -u
+: 2605 18 6  go
+- 2633
+: 2641 8 2 Friend
+: 2651 6 2 ship
+* 2662 6 2  there
+: 2671 4 4  wi
+: 2675 4 6 -ill
+: 2681 17 6  grow
+- 2707
+: 2710 4 2 When
+: 2715 4 2  you
+: 2720 8 2  find
+: 2729 7 2  it,
+: 2739 7 2  it's
+: 2748 7 4  the
+* 2758 12 4  key
+- 2776
+: 2778 8 2 Friends
+: 2787 4 6  can
+* 2792 10 6  change
+: 2804 7 2  the
+: 2813 34 2  world
+- 2853
+: 2856 7 2 Friends
+: 2865 4 6  can
+: 2870 9 6  change
+: 2881 7 2  the
+: 2889 32 9  world
+- 2929
+: 2932 8 2 Friends
+: 2942 5 6  can
+: 2948 8 6  change
+: 2958 8 2  the
+: 2968 13 2  world,
+* 2983 12 6  you
+: 3001 120 14  see
+E

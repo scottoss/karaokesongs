@@ -1,0 +1,413 @@
+#TITLE:Blank Flanks Forever
+#ARTIST:My Little Pony
+#CREATOR:Renard
+#GENRE:Pony
+#LANGUAGE:English
+#EDITION:My Little Pony
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#MP3:song.mp3
+#BPM:360
+#GAP:4028
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:12-nov-2017
+: 0 4 -1 "Cu
+: 5 4 -1 tie
+: 10 4 -1  marks
+: 17 5 -4  are
+: 25 6 -1  great,"
+: 40 5 -4  they
+: 49 7 -6  say
+- 62
+F 65 8 0 Pfft,
+F 82 10 0  yeah
+F 97 7 0  right!
+- 114
+: 126 3 -1 They
+: 130 3 -1  make
+: 134 3 -1  you
+: 138 5 -1  spe
+: 145 5 -4 cial
+: 154 9 -1  in
+: 169 5 -4  your
+* 178 21 1  way
+- 209
+: 222 2 -2 But
+: 225 4 -1  that
+: 232 4 -1  spe
+: 240 5 1 cial
+: 248 5 3  mark
+: 256 5 1  that's
+: 264 5 -1  just
+: 273 3 -4  for
+: 278 11 1  you
+- 301
+: 305 3 -1 Will
+: 310 3 1  e
+: 314 4 3 rase
+: 321 4 1  the
+: 328 5 -1  stuff
+: 337 5 -4  you
+: 346 33 1  like
+: 391 6 6  to
+: 400 7 -1  do
+- 411
+F 413 5 0 So,
+F 425 3 0  no
+F 431 3 0  more
+F 436 4 0  paint
+F 442 7 0 ing?
+- 452
+F 454 3 0 No
+F 458 3 0  more
+F 462 3 0  ha
+F 465 3 0 i
+F 468 7 0 ku?
+- 477
+F 479 5 0 Rum
+F 484 3 0 ble,
+F 490 7 0  stop!
+F 502 3 0  That's
+F 506 4 0  just
+F 512 4 0  not
+F 519 8 0  true!
+- 537
+: 544 3 -1 So
+: 549 3 -1  you're
+: 554 5 -1  good
+: 561 4 -4  at
+: 570 11 -1  charm
+: 584 5 -4 ing
+: 593 7 -6  snakes
+- 610
+F 623 3 0 Too
+F 628 6 0  bad!
+- 644
+: 672 3 -1 Or
+: 676 3 -1  you
+: 681 4 -1  bake
+: 688 7 -4  de
+: 697 12 -1 li
+: 712 5 -4 cious
+: 720 6 1  cakes
+- 735
+F 738 3 0 Oh
+F 743 7 0  well!
+- 774
+: 802 3 3 May
+: 806 3 3 be
+: 810 5 3  there
+: 817 5 6  are
+: 824 5 8  lots
+: 831 4 6  of
+: 838 10 3  things
+- 853
+: 855 4 8 That
+: 861 4 6  you
+: 867 6 3  like
+: 874 6 1 ~
+: 884 3 -1  to
+: 889 14 1  do
+- 909
+: 912 3 -4 Well
+: 916 3 -4  your
+: 921 3 -1  op
+: 925 3 -1 tions
+: 929 4 -1  get
+: 936 4 -1  pret
+: 941 4 -4 ty
+: 949 7 -1  stark
+- 966
+: 978 3 -1 Once
+: 982 3 -1  you
+: 987 3 2  got
+: 993 4 2  that
+: 1000 5 1  cu
+: 1006 4 -1 tie
+: 1014 7 1  mark
+- 1031
+: 1057 4 3 Blank
+: 1064 5 3  flanks
+: 1073 4 1  are
+: 1080 4 3  bet
+: 1086 5 6 ter
+- 1092
+: 1094 3 3 No
+: 1098 3 3 po
+: 1102 3 3 ny
+: 1107 3 6  to
+: 1111 4 8  tell
+: 1117 3 6  you
+: 1122 3 3  who
+: 1126 3 3  you
+: 1131 4 1  have
+: 1137 4 1  to
+: 1143 14 -1  be
+- 1167
+: 1185 5 3 Blank
+: 1193 5 3  flanks
+: 1201 5 1  are
+: 1209 4 3  bet
+: 1214 7 6 ter
+- 1224
+: 1226 4 3 Keep
+: 1233 5 6  your
+: 1241 6 8  spi
+: 1249 5 6 rit
+: 1257 4 3  soar
+: 1263 4 -1 ing
+* 1272 25 6  free
+- 1306
+: 1310 3 1 So
+: 1314 3 3  lis
+: 1318 3 3 ten
+: 1322 3 3  up
+: 1328 4 3  'cause
+: 1336 4 3  I
+: 1342 4 3  ain't
+: 1349 7 1  ly
+: 1358 4 -1 ing
+- 1364
+: 1366 3 -1 Don't
+: 1371 4 3  need
+: 1378 3 3  no
+: 1385 4 3  mark,
+: 1393 5 6  so
+: 1401 4 3  why
+: 1407 5 3  keep
+: 1414 7 1  try
+: 1422 5 -1 ing?
+- 1431
+: 1433 3 -4 If
+: 1438 3 -1  you
+: 1443 4 -1  like
+: 1450 4 -1  just
+: 1457 4 1  be
+: 1463 5 3 ing
+: 1471 11 -1  you
+- 1490
+: 1493 3 -4 Then
+: 1497 4 -2  keep
+: 1502 2 -1 ing
+: 1506 4 -1  that
+: 1513 5 -1  blank
+: 1520 6 -4  flank
+: 1529 4 1  blank
+- 1535
+: 1537 3 -1 Is
+: 1541 3 -4  the
+: 1546 5 2  thing
+: 1552 46 1 ~
+: 1609 4 6  to
+: 1616 9 -1  do
+- 1635
+F 1657 3 0 Cu
+F 1661 3 0 tie
+F 1665 4 0  marks
+F 1672 4 0  don't
+F 1679 3 0  li
+F 1683 3 0 mit
+F 1688 6 0  you
+- 1702
+F 1705 2 0 They
+F 1708 3 0  on
+F 1711 3 0 ly
+F 1715 3 0  show
+F 1719 3 0  you
+F 1723 3 0  what
+F 1727 3 0  you
+F 1732 7 0  can
+F 1742 4 0  do
+- 1756
+F 1767 5 0 But…
+F 1778 2 0  What
+F 1781 3 0  if
+F 1785 3 0  you
+F 1789 3 0  can't
+F 1793 2 0  do
+F 1796 2 0  a
+F 1800 6 0  thing?
+- 1816
+F 1829 4 0 These
+F 1835 3 0  cu
+F 1838 3 0 tie
+F 1842 3 0  marks
+F 1848 4 0  are
+F 1855 6 0  frus
+F 1862 5 0 trat
+F 1868 6 0 ing!
+- 1883
+: 1886 3 -4 You
+: 1890 3 -1  say
+: 1894 3 -1  there's
+: 1899 4 -1  no
+: 1905 4 -1 thing
+: 1914 7 -1  you
+: 1929 5 -4  can
+: 1937 10 -6  do?
+- 1952
+F 1954 5 0 Yeah,
+F 1967 3 0  e
+F 1973 4 0 xact
+F 1979 5 0 ly!
+- 1994
+: 2014 3 -4 A
+: 2018 5 -1  blank
+: 2026 4 -1  flank
+: 2032 3 -4  is
+: 2037 3 -4  the
+: 2041 9 -1  way
+: 2057 5 -4  for
+: 2066 26 3  you
+- 2102
+: 2126 3 1 It's
+: 2131 5 3  no
+: 2138 4 3  work
+: 2145 4 3  to
+: 2153 4 3  just
+: 2161 5 6  be
+: 2169 4 8  who
+: 2175 4 6  you
+: 2182 5 3  are
+- 2195
+: 2198 2 3 No
+: 2202 3 8  hunt
+: 2208 5 6  to
+: 2217 4 3  be
+: 2224 4 1  some
+: 2232 4 3  cu
+: 2238 4 1 tie
+: 2246 8 -1  star
+- 2259
+: 2261 3 -4 You're
+: 2265 3 -2  per
+: 2269 3 -1 fect
+: 2274 4 -1  just
+: 2281 5 -1  be
+: 2287 4 -4 ing
+: 2294 10 -1  you
+- 2314
+: 2321 5 -1 Don't
+: 2328 4 2  bo
+: 2333 4 2 ther
+: 2338 4 1  with
+: 2344 4 1  what
+: 2352 4 -1  you
+* 2360 4 6  can
+* 2366 5 2 not
+: 2374 9 1  do
+- 2393
+: 2401 5 3 Blank
+: 2409 5 3  flanks
+: 2417 5 1  are
+: 2425 4 3  bet
+: 2430 5 6 ter
+- 2436
+: 2438 3 3 No
+: 2442 3 3 po
+: 2445 3 3 ny
+: 2449 3 6  to
+: 2454 5 8  tell
+: 2461 4 6  you
+: 2466 3 6  who
+: 2470 3 6  you
+: 2475 4 3  have
+: 2482 4 1  to
+: 2488 13 -1  be
+- 2511
+: 2528 5 3 Blank
+: 2537 6 3  flanks
+: 2545 5 1  are
+: 2552 5 3  bet
+: 2558 6 6 ter
+- 2567
+: 2569 5 3 Keep
+: 2577 5 6  your
+: 2586 4 8  spi
+: 2593 5 6 rit
+: 2602 4 3  soar
+: 2608 4 -1 ing
+* 2617 26 6  free
+- 2650
+: 2653 3 1 So
+: 2657 3 3  lis
+: 2661 3 3 ten
+: 2665 4 3  up
+: 2673 4 3  'cause
+: 2682 4 3  I
+: 2688 3 3  ain't
+: 2694 7 1  ly
+: 2702 4 -1 ing
+- 2708
+: 2710 3 -1 Don't
+: 2715 4 3  need
+: 2722 4 3  no
+: 2729 4 3  mark
+: 2737 5 6  so
+: 2745 4 3  why
+: 2751 4 3  keep
+: 2759 6 1  try
+: 2766 5 -1 ing?
+- 2776
+: 2778 3 -4 If
+: 2782 3 -2  you
+: 2786 4 -1  like
+: 2794 5 -1  just
+: 2802 4 1  be
+: 2808 5 3 ing
+: 2816 10 -1  you
+- 2834
+: 2837 3 -4 Then
+: 2841 3 -2  keep
+: 2845 3 -1 ing
+: 2849 3 -1  that
+: 2856 5 -1  blank
+: 2865 4 -4  flank
+: 2873 4 2  blank
+- 2879
+: 2881 3 -1 Is
+: 2885 3 -4  the
+: 2890 5 2  thing
+: 2896 45 1 ~
+: 2952 6 6  to
+: 2961 8 -1  do!
+- 2993
+F 3018 5 0 That's
+F 3026 5 0  it,
+F 3034 5 0  blank
+F 3042 8 0  flanks!
+- 3060
+F 3072 4 0 Be
+F 3079 4 0  proud
+F 3085 3 0  of
+F 3089 4 0  who
+F 3095 4 0  you
+F 3100 12 0  are!
+- 3122
+F 3131 3 0 You
+F 3135 3 0  don't
+F 3139 3 0  need
+F 3145 4 0  some
+F 3152 4 0  pho
+F 3158 5 0 ny
+F 3165 4 0  po
+F 3172 3 0 ny
+- 3175
+F 3177 3 0 Tel
+F 3180 3 0 ling
+F 3184 3 0  you
+F 3188 3 0  you're
+F 3193 5 0  just
+F 3202 5 0  one
+F 3213 10 0  thing!
+- 3233
+F 3240 7 0 Blank
+F 3250 8 0  flanks
+F 3271 5 0  for
+F 3277 6 0 e
+F 3284 30 0 ver!
+- 3324
+F 3352 5 0 Blank
+F 3361 7 0  flanks!
+E

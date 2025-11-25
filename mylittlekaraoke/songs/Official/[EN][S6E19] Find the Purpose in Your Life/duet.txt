@@ -1,0 +1,449 @@
+#TITLE:Find the Purpose in Your Life (Duet)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#MP3:song.mp3
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:400
+#GAP:8003
+#DUETSINGERP1:The CMCs
+#DUETSINGERP2:Gabby
+#P1:The CMCs
+#P2:Gabby
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:28-aug-2016
+P1
+: 0 3 8 Like
+: 4 2 8  a
+: 8 3 8  ra
+: 13 4 8 cer
+: 19 3 8  at
+: 24 2 8  the
+* 29 9 10  start
+: 39 4 8 ing
+: 44 8 8  line
+- 54
+: 56 3 8 You're
+: 63 5 8  chomp
+: 70 3 8 in'
+: 74 4 8  at
+: 80 4 8  the
+: 87 6 8  bit
+- 100
+: 105 6 8 You
+: 113 3 8  are
+: 118 5 8  here
+: 124 2 8  to
+: 128 6 8  find
+: 135 4 8  your
+: 142 5 10  pur
+: 149 5 8 pose
+- 156
+: 158 9 8 And
+: 168 3 8  the
+: 174 5 8  place
+: 182 2 8  you
+: 185 4 8  real
+: 190 2 3 ly
+* 193 3 5 -y
+: 198 8 3  fit
+- 212
+: 216 4 1 And
+: 221 5 1  un
+: 228 4 3 til
+: 233 3 3  you
+: 238 6 6  find
+* 246 4 6  your
+: 252 5 5  place
+: 260 4 3  in
+: 265 8 1  life
+- 275
+: 277 4 1 You're
+: 283 5 5  ne
+: 290 3 8 ver
+: 294 5 8  gon
+: 300 4 5 na
+* 306 7 8  quit
+- 320
+: 324 5 1 We
+: 331 4 1  can
+: 337 5 1  help
+: 344 3 1  you
+: 348 6 1  find
+: 356 7 5  the
+: 366 5 3  pur
+: 373 3 3 pose
+: 378 3 3  in
+: 383 3 1  your
+: 387 8 1  life
+- 441
+: 1456 4 9 That's
+: 1462 2 9  the
+: 1467 13 9  spi
+: 1481 5 11 rit!
+- 1488
+: 1490 6 11  You
+: 1497 5 11  ough
+: 1503 3 8 ta
+: 1510 5 8  see
+: 1516 4 8  what
+: 1523 6 6  you
+: 1530 5 4  do
+: 1536 9 4  best!
+- 1556
+: 1565 7 9 Try
+: 1573 5 9  it
+: 1580 11 9  all,
+: 1593 4 11  pick
+: 1599 5 11  your
+: 1606 6 11  fave
+: 1614 5 8  and
+: 1620 6 8  leave
+: 1627 5 8  be
+: 1633 7 6 hind
+: 1641 5 4  the
+: 1647 11 4  rest
+- 1668
+: 2200 5 1 Can
+: 2207 4 1  we
+: 2214 4 1  help
+: 2219 3 1  her
+: 2223 7 1  find
+* 2232 7 5  the
+: 2242 4 3  pur
+: 2247 3 3 pose
+: 2254 4 3  in
+: 2259 3 1  her
+: 2263 7 1  life?
+- 2320
+: 2655 4 8 She's
+: 2661 4 8  so
+: 2668 6 8  good
+: 2675 5 6  at
+* 2681 7 8  things,
+: 2689 3 8  it's
+: 2695 6 8  frigh
+: 2703 6 3 tening
+- 2716
+: 2724 5 8 Cu
+: 2730 4 8 tie
+: 2736 5 8  Mark
+: 2744 3 8  Cru
+: 2750 5 8 sa
+: 2758 5 8 ders,
+- 2769
+: 2773 4 8 I
+: 2779 4 8  think
+: 2784 5 8  we've
+: 2791 7 10  got
+: 2799 4 10  a
+: 2805 6 10  pro
+: 2813 8 11 blem!
+- 3490
+F 3497 3 0 Now
+F 3502 6 0  how
+F 3509 4 0  we
+F 3514 5 0  gonna
+F 3520 8 0  do
+F 3529 12 0  this?
+P2
+: 497 5 8 A
+: 504 3 8  grif
+: 511 4 8 fon
+: 517 3 8  mi
+: 522 4 8 xes
+* 528 6 10  li
+: 535 4 8 on's
+: 542 6 8  strength
+- 550
+: 552 4 8 With
+: 560 3 8  wing
+: 564 5 8 ed
+: 570 4 8  ea
+: 576 6 8 gle's
+* 583 8 8  might
+- 595
+: 600 7 1 When
+: 608 4 1  I
+: 615 4 8  final
+: 620 3 8 ly
+: 625 5 8  find
+: 632 3 8  my
+: 638 4 10  pur
+: 645 3 8 pose
+- 650
+: 652 4 8 Then
+: 663 4 1  my
+* 669 3 8  cu
+* 674 3 8 tie
+* 678 7 8  mark's
+: 687 3 5  in
+: 693 9 3  sight
+- 716
+: 718 3 1 Cru
+: 725 4 3 sa
+: 731 4 3 ders,
+: 736 4 6  I
+: 741 5 6  won't
+: 748 5 5  let
+: 755 4 3  you
+: 761 8 1  down
+- 771
+: 773 4 1 I've
+: 779 4 5  just
+: 786 3 8  be
+: 790 6 8 gun
+: 797 3 5  to
+: 801 8 8  fight
+- 816
+: 821 3 1 You're
+: 826 3 1  go
+: 830 2 1 nna
+: 833 5 1  help
+: 840 3 1  me
+: 845 6 1  find
+: 852 7 5  the
+: 863 4 3  pur
+: 869 3 3 pose
+: 874 3 3  in
+: 879 2 1  my
+: 883 8 1  life
+- 942
+: 1002 6 8 Got
+: 1009 3 8  a
+: 1014 6 8  job
+: 1021 6 6  that's
+: 1028 5 8  just
+: 1034 5 8  no
+* 1041 8 11  fun?
+- 1053
+: 1056 7 8 Call
+: 1064 5 8  on
+: 1070 4 8  me,
+: 1075 7 11  I'll
+: 1083 7 10  get
+: 1091 3 8  it
+: 1096 7 8  done
+- 1107
+: 1110 6 8 Caul
+: 1117 5 8 dron's
+: 1123 5 8  stuck
+: 1132 4 6  and
+: 1137 7 8  needs
+: 1145 3 8  a
+: 1151 9 11  mix?
+- 1164
+: 1166 6 8 I'm
+: 1173 5 8  the
+: 1179 5 8  one
+: 1186 5 11  who's
+: 1193 4 10  got
+: 1199 3 8  the
+: 1206 8 8  fix
+- 1218
+: 1221 4 8 Help
+: 1227 4 8  you
+: 1233 7 8  teach
+: 1242 4 6  pre
+: 1247 6 8 -cal
+: 1255 4 8 cu
+: 1261 6 3 lus
+- 1272
+: 1275 6 8 Scrub
+: 1282 4 8  the
+: 1288 8 8  floors,
+: 1297 4 6  won't
+: 1303 7 8  make
+: 1311 3 8  a
+: 1317 6 3  fuss
+- 1326
+: 1330 6 8 Clea
+: 1337 4 8 ring
+: 1344 6 8  kelp?
+: 1352 3 6  Just
+: 1357 9 8  give
+: 1367 2 8  a
+* 1371 7 11  yelp
+- 1382
+: 1384 3 8 Ra
+: 1388 4 8 ring
+: 1393 4 8  to
+: 1399 5 8  go,
+: 1406 7 11  rea
+: 1414 4 10 dy
+: 1420 4 8  to
+: 1426 9 8  help!
+- 1448
+: 1675 5 4 I'll
+: 1683 5 4  try
+: 1690 6 4  a
+: 1697 9 6 ny
+: 1710 10 8 thing
+- 1723
+: 1725 4 4 To
+: 1731 4 4  get
+: 1738 4 8  my
+: 1745 6 6  cu
+: 1752 4 4 tie
+: 1758 9 4  mark
+- 1772
+: 1779 6 6 Keep
+: 1787 4 6  up
+: 1793 5 4  with
+: 1800 4 6  me,
+* 1807 4 8  Cru
+: 1815 5 6 sa
+: 1822 5 4 ders
+- 1832
+: 1835 5 9 We're
+: 1841 5 9  just
+: 1849 4 9  get
+: 1855 7 9 ting
+: 1863 4 11  our
+* 1869 8 11  start
+- 1881
+: 1883 5 8 Rock
+: 1889 3 8  you
+: 1893 5 8  lit
+: 1899 4 8 tle
+* 1905 7 10  ones
+: 1914 2 8  to
+: 1920 6 8  sleep
+- 1928
+: 1930 5 8 While
+: 1937 6 8  han
+: 1944 4 8 ging
+: 1949 3 8  up
+: 1954 4 8  the
+: 1961 8 8  sheets
+- 1974
+: 1979 4 5 I
+: 1985 4 6  can
+: 1992 4 8  help
+: 1999 3 8  you
+: 2004 4 8  with
+: 2010 4 8  your
+: 2017 5 10  hea
+: 2023 4 8 vy
+: 2030 6 8  load
+- 2039
+: 2041 5 8 Walk
+: 2049 4 8  Gran
+: 2054 3 8 ny
+: 2059 5 8  'cross
+: 2066 2 5  the
+: 2073 7 3  street
+- 2089
+: 2096 4 1 I'll
+: 2102 6 3  run
+: 2110 3 3  you
+: 2114 7 6  'round
+: 2122 3 6  the
+: 2128 4 5  ba
+: 2136 4 3 ses
+: 2142 5 1  fast
+- 2149
+: 2151 7 1 It's
+: 2160 4 8  real
+: 2165 4 8 ly
+: 2170 5 8  no
+: 2177 4 5  big
+: 2184 7 8  feat
+- 2196
+: 2378 7 8 Cheer
+: 2387 7 8  you
+: 2395 4 8  if
+: 2400 5 6  you're
+: 2407 5 8  fee
+: 2413 5 8 lin'
+: 2420 7 11  low
+- 2430
+: 2433 5 8 Plant
+: 2441 4 8  your
+: 2447 6 8  gar
+: 2455 5 11 den,
+: 2461 5 10  make
+: 2468 4 8  it
+: 2475 8 8  grow
+- 2486
+: 2488 7 8 Write
+: 2496 3 8  a
+: 2501 5 8  piece
+: 2509 5 6  for
+: 2515 6 8  your
+: 2523 5 8  quar
+: 2530 7 11 tet
+- 2541
+: 2544 5 8 Fil
+: 2550 8 8 lin'
+: 2559 6 8  in
+* 2566 5 11  on
+: 2573 5 10  cla
+: 2580 4 8 ri
+: 2586 5 8 net
+- 2597
+: 2600 4 8 Bake
+: 2606 4 8  that
+: 2613 6 8  cake
+: 2621 3 6  as
+: 2627 5 8  fast
+: 2635 3 8  as
+: 2640 5 8  light
+: 2646 5 3 ning
+- 2653
+: 2835 6 9 Build
+: 2842 4 9  a
+: 2849 13 9  boat
+: 2863 8 11  and
+: 2875 6 11  sail
+: 2882 6 8  it
+: 2889 6 8  out
+: 2896 4 8  ac
+: 2902 6 6 ross
+: 2910 2 4  the
+: 2917 9 4  sea
+- 2938
+: 2945 3 9 Need
+: 2951 3 9  some
+: 2959 7 9  help?
+: 2971 4 9  Yo
+: 2976 5 11 -u
+: 2985 5 11  know
+: 2992 4 8  that
+: 2998 4 8  you
+: 3005 5 8  can
+: 3012 4 6  co
+: 3017 2 4 -unt
+: 3021 6 4  on
+: 3028 11 4  me
+- 3050
+: 3055 6 9 C
+: 3062 4 9 M
+: 3069 11 9 Cs,
+: 3083 3 9  yo
+: 3087 7 11 -u're
+: 3096 6 11  gon
+: 3103 5 8 na
+: 3110 5 8  help
+: 3116 3 8  me
+* 3123 12 6  find
+: 3138 10 4  my
+: 3151 5 6  pur
+: 3158 42 6 po
+: 3201 9 4 -ose
+- 3214
+: 3216 3 8 The
+: 3221 5 8  pur
+: 3227 7 8 pose
+: 3235 11 9  in
+* 3248 11 11  my
+: 3261 86 8  life
+- 3353
+: 3358 4 9 In
+: 3364 12 11  my
+: 3377 103 16  life
+E

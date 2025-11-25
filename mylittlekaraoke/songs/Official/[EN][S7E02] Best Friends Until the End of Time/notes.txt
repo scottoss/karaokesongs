@@ -1,0 +1,361 @@
+#TITLE:Best Friends Until the end of Time
+#ARTIST:My Little Pony
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:265
+#GAP:37
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:29-jun-2017
+F 0 1 0 I
+F 2 3 0  wish
+F 6 3 0  that
+F 10 3 0  Star
+F 13 3 0 light
+F 17 2 0  was
+F 20 2 0  here
+F 23 2 0  to
+F 26 2 0  see
+- 28
+F 29 3 0 How
+F 34 4 0  strong
+F 39 4 0  friend
+F 43 3 0 ships
+F 47 2 0  can
+F 50 2 0  be
+- 52
+F 53 1 0 When
+F 55 2 0  we
+F 58 3 0  trust
+F 62 2 0  each
+F 65 2 0  o
+F 67 1 0 thers
+- 68
+F 69 2 0 And
+F 72 3 0  work
+F 76 2 0  to
+F 78 2 0 ge
+F 80 4 0 ther
+- 93
+F 97 3 0 You've
+F 102 4 0  all
+F 108 3 0  taught
+F 113 4 0  me
+F 119 3 0  so
+F 123 6 0  much!
+- 139
+: 158 4 5 Friend
+: 162 3 5 ship
+: 166 3 7  used
+: 170 3 7  to
+: 174 3 2  make
+: 178 3 0  me
+: 182 5 0  so
+: 190 3 2  quea
+: 194 3 3 sy,
+: 198 3 2  quea
+: 202 4 3 sy
+- 215
+: 219 3 5 But
+: 223 3 5  you
+: 227 3 5  made
+: 231 4 7  it
+: 238 5 2  all
+: 246 6 0  so
+: 255 3 2  ea
+: 259 3 2 sy,
+: 263 3 0  ea-
+: 267 4 -2 sy
+- 282
+: 286 3 5 Now
+: 290 3 5  I
+: 294 6 7  don't
+: 303 3 2  have
+: 307 3 0  to
+: 311 5 0  say
+: 319 3 2  what
+: 323 3 3  I'm
+: 327 3 2  think
+: 331 4 3 ing
+- 344
+: 347 3 5 You
+: 351 3 5  al
+: 355 3 5 rea
+: 359 5 7 dy
+: 367 3 2  know
+: 371 3 0  with
+: 375 5 0 out
+: 383 3 2  e
+: 387 3 2 ven
+: 391 3 0  blink
+: 395 4 -2 ing
+- 405
+: 407 4 5 You
+: 415 5 5  girls
+: 422 3 2  are
+: 426 3 2  the
+: 430 4 5  ap
+: 435 5 2 ple
+: 443 6 5  of
+: 451 4 7  my
+: 456 2 5 ~
+: 459 6 5  eye
+- 469
+: 471 5 5 The
+: 479 5 5  race
+: 487 3 2  that
+: 491 6 5  does
+: 499 6 2 n't
+: 508 5 10  end
+: 515 3 9  in
+: 519 3 7  a
+: 524 6 5  tie
+- 532
+: 534 5 5 You
+: 543 5 5  are
+: 551 3 1  the
+: 555 6 5  fun
+: 563 5 1 nel
+: 571 5 5  cake
+: 579 3 7  at
+: 583 3 7  my
+: 588 3 5  fair
+- 593
+: 595 3 5 The
+: 599 6 5  warm
+: 608 5 5  hug
+: 615 3 2  of
+: 619 3 2  a
+: 623 4 9  fuz
+: 628 4 10 zy
+* 636 11 10  bear
+- 653
+: 656 5 10 Best
+: 664 9 10  friends
+: 692 3 7  un
+: 696 3 10 til
+: 700 3 7  the
+: 704 6 10  end
+: 712 6 12  of
+: 720 4 10  time
+: 725 7 7 ~
+- 742
+: 756 3 10 We'll
+: 760 3 10  have
+: 764 3 7  each
+: 768 4 10  o
+: 773 5 12 ther's
+* 781 9 14  backs
+- 800
+: 821 3 10 And
+: 825 3 10  let
+: 829 3 7  our
+: 833 6 10  true
+: 841 5 12  selves
+* 849 3 10  shine
+* 853 6 7 ~
+- 869
+: 892 3 14 And
+: 896 3 14  that's
+: 900 3 12  be
+: 904 4 10 cause
+: 912 7 10  e
+: 920 4 9 very
+: 925 5 7 thing
+: 932 3 5  we
+: 936 8 7  need
+- 947
+: 949 3 7 Is
+: 953 3 7  all
+: 957 3 5 ~
+: 961 6 7  right
+: 969 4 10  here
+- 974
+: 976 5 10 When
+: 984 4 10  we're
+: 989 5 12  with
+: 996 3 10  our
+: 1001 8 10  team
+- 1019
+F 1031 7 0 Star
+F 1039 13 0 light!
+- 1052
+F 1054 3 0 A
+F 1058 3 0  spark
+F 1063 3 0  of
+F 1068 3 0  ma
+F 1072 2 0 gic
+F 1075 2 0  could
+F 1078 2 0  be
+- 1080
+F 1082 3 0 Ve
+F 1085 3 0 ry
+F 1089 3 0  help
+F 1093 3 0 ful
+F 1098 2 0  right
+F 1101 2 0  a
+F 1103 4 0 bout
+F 1108 7 0  now!
+- 1125
+F 1129 4 0 I
+F 1140 10 0  can't…!
+- 1160
+: 1172 3 5 I
+: 1176 3 5  sim
+: 1180 3 5 ply
+: 1184 3 7  can't
+: 1188 3 2  i
+: 1192 3 0 ma
+: 1196 3 0 gine
+: 1200 6 0  there'd
+: 1208 3 2  be
+: 1212 3 3  a
+: 1216 3 2  day
+* 1220 4 3 ~
+- 1232
+: 1235 4 -2 Where
+: 1240 3 5  I
+: 1244 3 5  would
+: 1248 5 7 n't
+: 1256 3 2  want
+: 1260 3 0  to
+: 1264 4 0  be
+: 1272 3 2  walk
+: 1276 3 0 ing
+: 1280 4 0  your
+: 1285 6 -2  way
+- 1297
+: 1300 3 5 What
+: 1304 3 5 e
+: 1308 3 5 ver
+: 1312 5 7  new
+: 1321 3 2  pro
+: 1325 3 0 blems
+: 1329 5 0  there
+: 1337 3 2  may
+: 1341 3 3  be,
+: 1345 3 2  may
+: 1349 4 3  be
+- 1361
+: 1364 3 5 Our
+: 1368 3 5  friend
+: 1372 3 5 ship
+: 1377 7 7  is
+: 1386 2 2  al
+: 1389 3 0 ways
+: 1393 5 0  the
+: 1401 3 2  door
+: 1405 3 0  with
+: 1409 3 0  the
+: 1413 6 -2  key
+- 1422
+: 1424 6 5 You
+: 1433 5 5  are
+: 1441 3 2  the
+: 1445 7 5  jewels
+: 1454 2 2  in
+: 1457 3 2  my
+: 1461 5 5  friend
+: 1469 5 7 ship
+: 1477 7 5  crown
+- 1487
+: 1489 5 5 The
+: 1497 5 5  sparks
+: 1505 3 2  that
+: 1509 5 5  make
+: 1517 6 2  my
+* 1525 6 10  world
+: 1533 3 9  go
+: 1537 3 7 ~
+: 1542 6 5  'round
+- 1551
+: 1553 5 5 We
+: 1561 5 5  bring
+: 1569 3 2  the
+: 1573 5 5  best
+: 1581 5 2  out,
+: 1589 5 5  that's
+: 1597 5 7  our
+: 1605 4 5  goal
+- 1611
+: 1613 4 5 There's
+: 1618 4 5  no
+: 1625 3 5  tel
+: 1629 3 2 ling
+: 1633 4 2  how
+: 1641 4 0  far
+: 1646 5 -2  we'll
+: 1653 9 -2  go
+- 1670
+: 1673 6 10 Best
+: 1682 10 10  friends
+: 1710 3 7  un
+: 1714 3 10 til
+: 1718 3 7  the
+: 1722 6 10  end
+: 1730 6 12  of
+: 1738 3 10  time
+: 1742 7 7 ~
+- 1759
+: 1773 3 10 We'll
+: 1777 4 10  have
+: 1782 3 7  each
+: 1787 3 10  o
+: 1791 5 12 ther's
+* 1799 9 14  backs
+- 1818
+: 1838 3 10 And
+: 1842 3 10  let
+: 1846 3 7  our
+: 1850 6 10  true
+: 1858 6 12  selves
+* 1866 3 10  shine
+* 1870 8 7 ~
+- 1888
+: 1911 3 14 And
+: 1915 3 14  that's
+: 1919 3 12  be
+: 1923 4 10 cause
+: 1931 6 10  e
+: 1938 3 9 very
+: 1942 6 7 thing
+: 1951 3 5  we
+: 1955 7 7  need
+- 1964
+: 1966 3 7 Is
+: 1970 3 7  all
+: 1974 3 5 ~
+: 1979 6 7  right
+: 1987 4 10  here
+- 1993
+: 1995 6 10 When
+: 2003 3 10  we're
+: 2007 5 12  with
+: 2014 3 10  our
+: 2019 11 10  team!
+- 2047
+F 2069 4 0 That
+F 2074 5 0  was
+F 2084 8 0  lo
+F 2092 8 0 vely
+F 2108 4 0  but
+- 2121
+F 2125 2 0 You
+F 2128 2 0  know
+F 2131 2 0  the
+F 2134 3 0  game
+F 2138 2 0  is
+F 2140 2 0 n't
+F 2143 3 0  o
+F 2146 2 0 ver
+F 2149 2 0  un
+F 2151 2 0 til
+F 2154 2 0  you
+F 2157 3 0  turn
+F 2161 4 0  that
+F 2167 8 0  key?
+E

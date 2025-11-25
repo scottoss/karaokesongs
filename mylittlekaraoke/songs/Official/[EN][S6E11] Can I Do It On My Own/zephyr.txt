@@ -1,0 +1,151 @@
+#TITLE:Can I Do It On My Own (Zephyr Breeze)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:zephyr.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#VIDEOGAP:0.1
+#BPM:350.09
+#GAP:2937
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:12-jun-2016
+F 69 5 0 Beg
+F 75 2 0  for
+F 78 6 0  help,
+F 88 3 0  then
+F 93 4 0  quit
+F 98 2 0  when
+F 101 2 0  I
+F 104 3 0  get
+F 108 7 0  frus
+F 115 4 0 tra
+F 119 4 0 ted
+- 165
+F 185 3 0 Just
+F 190 7 0  kid
+F 197 8 0 ding!
+F 211 3 0  To
+F 214 2 0 tal
+F 217 3 0  op
+F 220 3 0 po
+F 223 3 0 site
+F 227 2 0  of
+F 230 6 0  that,
+F 241 3 0  got
+F 245 2 0  it
+- 450
+: 485 4 -4 Frus
+: 493 4 -4 tra
+: 501 4 -4 tion
+: 510 7 -2  builds
+: 519 4 -4  up
+: 527 3 -7  in
+* 534 8 -9 side
+- 547
+: 550 3 1 And
+: 554 2 1  it
+: 558 7 1  makes
+: 567 5 1  you
+: 574 8 3  wan
+: 583 2 1 na
+: 592 9 -4  shout
+- 1590
+: 1621 6 3 There
+: 1628 3 3  are
+: 1636 7 3  times
+: 1645 5 3  when
+: 1651 5 3  you
+* 1657 10 3  wa
+: 1668 6 -2 -ant
+: 1675 4 -2  to
+: 1683 7 -2  give
+: 1692 4 -2  up
+- 1702
+: 1706 6 -5 When
+: 1714 3 -4  you
+: 1722 12 -2  think
+: 1737 6 -2  that
+: 1746 4 0  you
+* 1754 11 -2  can't
+: 1770 7 -5  go
+: 1778 6 -7 -o
+: 1786 6 -5  o
+: 1793 44 -7 -on
+- 2420
+: 2444 2 -3 And
+: 2447 3 -3  I
+: 2452 4 -3  know
+: 2457 2 -3  I
+: 2460 5 -3  can't
+: 2469 6 -2  give
+: 2477 4 -2  up
+* 2485 4 0  too
+: 2492 7 0  soon
+- 2505
+: 2510 3 -3 Get
+: 2514 3 -5  my
+: 2521 6 -5 self
+* 2529 8 -3  in
+: 2539 3 -5  the
+: 2546 13 -7  zone
+- 2565
+: 2575 3 -3 And
+: 2579 2 -3  I
+: 2583 3 -3  find
+: 2587 2 -3  I
+: 2591 5 -3  can
+: 2600 9 -2  walk,
+: 2616 5 0  then
+* 2624 13 0  run
+- 2642
+: 2649 5 -3 Then
+: 2657 32 -2  fly
+: 2690 33 0 -y
+: 2724 34 2 -y
+- 2762
+: 2765 3 -2 I
+: 2769 3 -2  can
+: 2773 3 -2  do
+: 2778 3 -2  it
+: 2782 3 -2  on
+* 2786 9 -3  my
+: 2797 58 -3  own
+F 2858 10 0 -ah
+- 2980
+: 3017 3 4 I
+: 3021 3 4  can
+: 3025 3 4  do
+: 3029 3 4  it
+: 3034 3 4  on
+: 3038 5 5  my
+: 3046 72 5  own
+- 3130
+: 3143 3 -2 I
+: 3147 3 -2  can
+* 3151 3 -2  do
+: 3155 3 -2  it
+: 3159 3 -2  on
+: 3163 7 -3  my
+: 3172 28 -7  own
+- 3220
+F 3231 3 0 I
+F 3235 3 0  did
+F 3239 3 0  it!
+- 3248
+F 3252 3 0 I
+F 3256 4 0  ac
+F 3260 3 0 tua
+F 3263 3 0 lly
+F 3267 4 0  fi
+F 3271 3 0 nished
+F 3275 6 0  some
+F 3281 4 0 thing
+- 3288
+F 3291 3 0 By
+F 3295 6 0  my
+F 3301 7 0 self!
+E

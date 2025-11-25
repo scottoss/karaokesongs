@@ -1,0 +1,323 @@
+#TITLE:Friendship Always Wins
+#ARTIST:My Little Pony
+#CREATOR:Renard
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:240
+#GAP:535
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:06-apr-2018
+: 0 3 2 This
+: 4 3 2  brand
+: 8 3 -3  new
+: 12 3 2  school
+: 16 3 4  of
+: 20 3 4  friend
+: 24 3 2 ship
+- 31
+: 33 3 2 Is
+: 37 3 2  home
+: 41 3 -3  to
+: 45 3 1  e
+: 49 3 2 very
+: 53 6 2 one
+- 63
+: 65 3 2 We're
+: 69 3 2  learn
+: 73 3 -3 ing
+: 77 3 1  how
+: 81 3 2  to
+: 86 5 -3  trust
+- 95
+: 97 3 2 We're
+: 101 3 2  here
+: 105 3 -3  to
+: 109 3 1  all
+: 114 5 2  have
+: 122 5 2  fun
+- 128
+: 130 3 2 With
+: 134 3 2  friend
+: 138 3 2 ship
+: 143 5 2  ties
+: 151 3 2  that
+: 155 6 4  bind
+* 164 23 6  us
+- 196
+: 199 4 2 Tight
+: 204 3 2 er
+: 208 3 9  than
+: 212 2 6 ~
+: 216 3 6  the
+: 220 3 4  strong
+: 224 3 2 est
+: 229 18 -1  bonds
+- 257
+: 261 3 2 We're
+: 265 3 2  hoof-
+: 269 3 -3 in-
+: 273 4 2 hoof
+: 278 16 4 ~
+: 295 12 2 ~
+- 314
+: 317 3 2 In
+: 322 5 6  hand
+: 329 6 4  in
+: 337 5 2  hoof
+: 345 5 -1  in
+: 353 5 6  wing
+: 361 6 4  or
+: 370 6 2  e
+: 378 7 1 ven
+: 394 10 2  claw
+- 436
+: 520 2 2 There's
+: 523 2 2  a
+: 526 2 2  grif
+: 529 3 -3 fon
+: 533 3 2  in
+: 537 3 4  the
+: 541 3 -1  gar
+: 545 3 -3 den
+- 551
+: 553 2 2 Hip
+: 555 2 2 po
+: 557 3 2 griffs
+: 562 3 -3  hang
+: 566 3 1  in
+: 570 3 2  the
+: 574 7 2  hall
+- 584
+F 586 1 2 And
+: 588 2 2  the
+: 591 2 2  door
+: 594 3 -3  will
+: 598 3 1  be
+: 602 3 2  o
+: 606 3 -1 pen
+F 610 2 -3  to
+- 612
+: 614 5 6 All
+: 621 3 4  crea
+: 625 3 2 tures
+: 630 3 1  great
+: 634 3 2  and
+: 639 6 -3  small
+- 648
+: 650 2 4 And
+: 653 2 4  a
+: 656 2 4  yak
+: 659 3 -1  or
+: 663 3 3  two
+: 667 3 4  or
+: 671 4 4  three
+- 678
+: 680 3 8 Sing
+: 684 3 6  in
+: 688 3 4  per
+: 692 3 8 fect
+* 696 3 11  har
+* 700 3 13 mo
+* 704 2 13 ny
+- 707
+: 709 2 1 That
+: 712 3 6  might
+: 716 3 6  have
+: 720 3 6  been
+: 724 3 4  a
+: 728 3 4  change
+: 733 4 1 ling
+- 738
+F 740 1 -1 But
+: 742 2 -1  it
+: 745 3 3  kind
+: 749 3 3  of
+: 753 3 3  looks
+: 757 3 -1  like
+: 762 13 4  me
+* 777 20 6 ~
+- 809
+: 813 3 4 This
+: 817 3 4  school
+: 821 3 4  of
+: 825 3 8  friend
+: 829 3 11 ship
+: 833 3 8  is
+: 838 4 4  for
+: 846 6 6  all
+: 854 3 4  of
+: 858 4 6  us
+: 863 3 8 ~
+- 868
+: 870 3 4 A
+: 874 3 6  place
+: 878 4 6  where
+: 883 3 6  we
+: 887 3 4  be
+: 891 3 4 long
+: 895 3 1 ~
+- 900
+: 902 4 4 Where
+* 907 3 11  we
+: 911 3 8  all
+: 915 3 6  learn
+: 919 3 8  to
+: 923 3 6  share
+: 927 3 4  and
+: 931 6 4  trust
+- 942
+: 944 3 4 The
+: 948 3 4  on
+: 952 3 4 ly
+: 956 3 8  rule
+: 960 3 11  here
+: 964 3 8  is
+: 968 3 11  to
+* 972 5 13  find
+: 980 5 11  your
+: 988 3 8  way
+: 992 4 6 ~
+- 998
+: 1000 3 4 And
+: 1004 3 6  friend
+: 1008 4 6 ship
+: 1013 3 6  al
+: 1017 3 4 ways
+: 1021 5 4  wins
+: 1029 3 1  at
+: 1033 3 -1  the
+: 1037 3 8  end
+: 1041 14 6 ~
+: 1057 3 4  of
+: 1061 3 1  the
+: 1065 6 4  day
+- 1103
+: 1204 3 4 Some
+: 1208 3 4  things
+: 1212 3 -1  you
+: 1216 3 3  just
+: 1221 9 4  can't
+: 1233 6 1  teach
+: 1241 3 -1  with
+: 1245 9 -1  books
+- 1265
+: 1269 3 4 Some
+: 1273 3 4  things
+: 1277 3 -1  you
+: 1281 4 3  on
+: 1286 5 4 ly
+: 1294 3 8  know
+: 1298 15 6 ~
+- 1323
+: 1334 3 8 So
+: 1338 3 8  trust
+: 1342 3 8  your
+* 1346 6 11  heart
+: 1354 5 9  and
+: 1362 3 9  let
+: 1367 5 8  us
+: 1374 4 6  lead
+: 1379 4 4 ~
+- 1385
+: 1387 3 4 And
+: 1391 3 4  your
+: 1396 5 6  friend
+: 1403 3 6 ship's
+: 1407 6 8 ~
+: 1416 3 6  sure
+: 1420 3 4  to
+: 1424 24 6  grow
+- 1460
+: 1464 3 4 And
+: 1468 3 4  once
+: 1472 3 4  we
+: 1476 6 4  mas
+: 1484 3 4 ter
+: 1489 6 3  kind
+: 1497 13 4 ness
+- 1515
+: 1517 3 -1 We
+: 1521 3 -1  will
+: 1526 6 1  spread
+: 1534 4 1  it
+: 1541 3 4  'cross
+: 1546 5 1  this
+: 1554 24 3  land
+- 1584
+: 1587 3 13 And
+: 1591 5 13  give
+: 1598 6 13  the
+: 1606 6 11  gift
+: 1614 6 8  that's
+: 1622 7 13  ours
+: 1631 6 11  to
+: 1639 5 8  share
+- 1646
+: 1648 6 4 So
+: 1656 6 6  o
+: 1664 9 8 thers
+: 1676 3 6  un
+: 1680 3 4 der
+: 1685 35 11 stand
+- 1723
+: 1725 3 4 This
+: 1729 3 4  school
+: 1733 3 4  of
+: 1737 3 8  friend
+: 1741 3 11 ship
+: 1745 3 8  is
+: 1749 4 4  for
+: 1757 6 6  all
+: 1765 3 4  of
+: 1769 3 6  us
+: 1773 5 8 ~
+- 1780
+: 1782 3 4 A
+: 1786 3 6  place
+: 1790 3 6  where
+: 1794 3 6  we
+: 1798 3 4  be
+: 1802 3 4 long
+: 1806 4 1 ~
+- 1812
+: 1814 3 4 Where
+: 1818 3 11  we
+: 1822 3 8  all
+: 1826 3 6  learn
+: 1830 3 8  to
+: 1834 3 6  share
+: 1838 3 4  and
+: 1842 6 4  trust
+- 1853
+: 1855 3 4 The
+: 1859 3 4  on
+: 1863 3 4 ly
+: 1867 3 8  rule
+: 1871 3 11  here
+: 1875 3 8  is
+: 1879 3 11  to
+* 1883 6 13  find
+: 1891 5 11  your
+: 1899 3 8  way
+: 1903 5 6 ~
+- 1910
+: 1912 3 4 And
+: 1916 3 6  friend
+: 1920 3 6 ship
+: 1924 3 6  al
+: 1928 3 4 ways
+: 1932 5 4  wins
+: 1940 3 1  at
+: 1944 3 -1  the
+: 1949 3 7  end
+: 1953 13 6 ~
+: 1969 3 11  of
+: 1973 3 13  the
+: 1977 5 16  day
+E
+#

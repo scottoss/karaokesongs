@@ -1,0 +1,242 @@
+#TITLE:Luna's Future
+#ARTIST:My Little Pony
+#CREATOR:rainbowderpy, Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#YEAR:2016
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:320.27
+#GAP:4380
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:23-may-2016
+: 0 8 -3 I
+: 10 7 -3  see
+: 19 4 -3  a
+: 27 8 4  cold
+: 37 7 4  wind's
+: 46 8 5  blo
+: 55 10 4 wing
+: 71 31 -3  through
+- 123
+: 154 5 -3 I
+: 161 5 -3  see
+: 170 7 -1  days
+: 179 3 -1  nei
+: 182 4 -1 ther
+* 188 6 0  fun
+: 196 5 -1  nor
+: 206 30 0  free
+- 257
+: 287 5 -3 I
+: 294 8 -3  see
+: 304 4 -3  a
+: 311 7 4  fu
+: 320 6 4 ture
+* 329 8 5  caused
+: 340 12 4  by
+: 356 31 -3  you
+- 397
+: 428 6 -3 I
+: 436 7 -3  see
+: 445 6 -3  a
+* 454 6 -1  path
+: 463 7 -1  not
+: 473 6 0  meant
+: 482 6 -1  to
+: 490 4 0  be
+: 495 3 -1 -e
+: 499 25 -3 -e
+- 534
+: 552 6 0 The
+: 561 8 2  fu
+: 569 7 2 ture
+: 578 7 2  should
+: 587 6 2  be
+: 597 14 4  filled
+* 615 14 5  with
+: 633 7 4  ma
+: 643 26 0 gic
+- 679
+: 686 7 0 Dreams
+: 695 6 0  and
+: 704 7 -1  wish
+: 713 22 -1 es
+: 757 7 2  brought
+* 766 5 -1  to
+: 774 5 0  li
+: 780 4 -1 -i
+: 785 24 -3 -ife
+- 819
+: 829 5 0 But
+: 837 5 0  the
+: 846 8 2  days
+: 856 7 2  a
+: 864 7 2 head
+: 873 7 2  are
+: 882 15 0  dark
+: 900 13 -1  and
+: 917 7 0  tra
+: 927 28 -3 gic
+- 965
+: 980 6 0 No
+: 989 13 0  time
+: 1006 15 0  for
+: 1023 10 0  ho
+: 1034 6 -1 -ope
+: 1042 11 -1  when
+* 1059 16 0  all
+: 1078 9 -1  is
+: 1095 10 -5  strife
+- 1115
+: 1123 7 -1 What
+: 1131 8 0 e
+: 1140 5 0 ver
+: 1148 7 0  might
+: 1157 6 2  have
+: 1166 16 -1  been
+- 1190
+: 1193 3 2 All
+: 1197 3 4  the
+: 1201 7 5  dreams
+: 1210 7 5  that
+: 1219 4 5  po
+: 1224 3 4 -o
+: 1228 6 4 nies
+: 1238 20 -1  share
+- 1265
+: 1268 5 -1 Be
+: 1273 3 -1 cause
+: 1277 4 -1  of
+: 1282 6 0  you,
+: 1291 6 0  Snow
+: 1299 6 2 fall
+: 1309 17 -1  Frost
+- 1333
+: 1336 3 -1 Now
+: 1340 3 -1  the
+: 1344 4 0  fu
+: 1348 4 0 ture
+: 1353 3 0  is
+: 1357 3 0  a
+* 1362 6 0  cold
+: 1371 6 -1  night
+: 1379 16 -3 ma
+: 1397 20 9 -are
+- 1419
+F 1421 5 0 Win
+F 1426 4 0 di
+F 1430 7 0 goes?
+- 1439
+F 1441 3 0 They
+F 1445 4 0  aren't
+F 1451 5 0  re
+F 1456 3 0 al!
+- 1461
+F 1463 4 0 It's
+F 1468 3 0  just
+F 1472 1 0  a
+F 1474 2 0  lit
+F 1476 3 0 tle
+F 1480 4 0  fil
+F 1484 4 0 lies'
+F 1490 4 0  sto
+F 1494 4 0 ry
+- 1502
+F 1504 3 0 They
+F 1508 3 0  are
+F 1512 5 0  all
+F 1518 5 0  too
+F 1524 5 0  re
+F 1529 4 0 al,
+F 1536 5 0  Snow
+F 1541 6 0 fall
+- 1549
+F 1551 2 0 And
+F 1554 4 0  your
+F 1559 4 0  ac
+F 1564 6 0 tions
+F 1572 2 0  will
+F 1575 3 0  al
+F 1578 4 0 low
+F 1583 5 0  them
+F 1590 3 0  to
+F 1594 3 0  re
+F 1597 6 0 turn
+- 1612
+F 1616 3 0 The
+F 1620 4 0  fu
+F 1624 3 0 ture
+F 1628 2 0  of
+F 1631 3 0  E
+F 1634 4 0 ques
+F 1639 3 0 tri
+F 1642 2 0 a
+F 1645 4 0  shall
+F 1650 3 0  be
+F 1654 4 0  bathed
+- 1660
+F 1662 2 0 In
+F 1665 3 0  a
+F 1669 6 0  blan
+F 1675 4 0 ket
+F 1680 3 0  of
+F 1684 3 0  e
+F 1687 4 0 ter
+F 1691 5 0 nal
+F 1700 11 0  snow
+- 1716
+F 1718 7 0 No!
+F 1735 3 0  I
+F 1739 3 0  ne
+F 1742 3 0 ver
+F 1746 3 0  meant
+F 1750 2 0  for
+F 1753 2 0  this
+F 1756 2 0  to
+F 1759 4 0  hap
+F 1763 3 0 pen
+- 1770
+F 1772 2 0 I
+F 1775 2 0  didn't
+F 1778 3 0  un
+F 1781 4 0 der
+F 1785 8 0 stand!
+- 1801
+F 1804 2 0 I
+F 1807 2 0  did
+F 1809 2 0 n't
+F 1812 4 0  see
+F 1817 3 0  how
+F 1821 5 0  im
+F 1826 4 0 por
+F 1830 3 0 tant
+F 1835 6 0  Hearth's
+F 1842 3 0  War
+F 1845 2 0 ming
+F 1848 4 0  Eve
+F 1853 5 0  was
+- 1867
+F 1871 6 0 Please
+F 1880 4 0  spi
+F 1884 4 0 rit,
+F 1895 3 0  I
+F 1899 3 0  have
+F 1902 4 0 n't
+F 1907 4 0  cast
+F 1912 3 0  the
+F 1916 5 0  spell
+F 1922 6 0  yet
+- 1935
+F 1938 3 0 Is
+F 1942 3 0  there
+F 1946 4 0  still
+F 1951 12 0  time?
+- 1968
+F 1970 3 0 I'm
+F 1975 8 0  sor
+F 1983 8 0 ry!
+E
