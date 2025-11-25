@@ -1,0 +1,207 @@
+#TITLE:Rappin' History of the Wonderbolts
+#ARTIST:My Little Pony
+#MP3:song.mp3
+#BPM:736
+#GAP:0
+#CREATOR:Dreamland200
+#GENRE:Pony
+#YEAR:2014
+#LANGUAGE:English
+#EDITION:My Little Pony
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#UPDATED:22-may-2014
+#COMMENT:http://www.mylittlekaraoke.com
+F 296 7 24 Well,
+F 304 8 24  back
+F 313 7 24  in
+F 321 7 24  an
+F 328 7 24 cient
+F 337 6 24  times,
+F 344 6 24  there
+F 351 6 24  were
+F 358 7 24  the
+F 367 9 24  Won
+F 376 8 24 der
+F 384 8 24 bolts
+F 393 6 24  of
+F 400 19 24  old
+- 422
+F 426 5 24 A
+F 434 7 24  ge
+F 442 6 24 ne
+F 448 7 24 ral
+F 457 7 24  named
+F 466 7 24  Fi
+F 473 9 24 re
+F 482 7 24 fly,
+F 490 7 24  a
+F 497 8 24 maz
+F 505 7 24 ing
+F 513 6 24  and
+F 520 4 24  so
+- 526
+F 529 17 24 Bold!
+- 551
+F 557 5 24 She
+F 563 7 24  brought
+F 571 6 24  them
+F 578 8 24  all
+F 587 7 24  to
+F 594 7 24 ge
+F 601 8 24 ther,
+F 612 8 24  spread
+F 620 7 24 ing
+F 629 6 24  u
+F 635 7 24 ni
+F 642 5 24 ty
+- 649
+F 651 5 24 In
+F 658 13 24  flight!
+- 677
+F 683 7 24 Per
+F 690 8 24 form
+F 698 7 24 ing
+F 706 6 24  at
+F 713 7 24  their
+F 721 9 24  ve
+F 730 6 24 ry
+F 737 9 24  best
+F 747 5 24  with
+F 753 7 24  won
+F 760 5 24 der
+- 767
+F 769 8 24 And
+F 778 7 24  with
+F 786 14 24  might!
+- 804
+F 809 8 24 There's
+F 819 9 24  Ad
+F 828 8 24 mir
+F 836 7 24 al
+F 844 8 24  Fair
+F 853 8 24  Wea
+F 861 7 24 ther
+F 869 5 24  and
+F 875 5 24  the
+F 881 7 24  Co
+F 888 4 24 lo
+F 892 4 24 nel
+- 897
+F 899 7 24 Pur
+F 906 8 24 ple
+F 915 12 24  Dart!
+- 933
+F 939 6 24 Gave
+F 946 8 24  Won
+F 954 8 24 der
+F 962 7 24 bolts
+F 970 6 24  a
+F 977 6 24  bit
+F 984 6 24  of
+F 993 10 24  steel
+F 1004 6 24  al
+F 1010 7 24 ong
+F 1018 4 24  with
+- 1024
+F 1026 8 24 Lots
+F 1035 7 24  of
+F 1043 15 24  heart!
+- 1063
+F 1069 6 24 An
+F 1076 7 24  ad
+F 1083 7 24 mir
+F 1090 5 24 al
+F 1096 7 24  named
+F 1104 8 24  Fair
+F 1112 7 24 y
+F 1120 8 24  Flight
+F 1129 3 24  and
+F 1133 4 24  a
+F 1138 7 24  ge
+F 1145 7 24 ner
+F 1152 7 24 al
+F 1162 7 24  called
+F 1170 8 24  Flash!
+- 1182
+F 1186 8 24 Helped
+F 1195 7 24  the
+F 1203 10 24  'bolts
+F 1218 9 24  fly
+F 1232 10 24  su
+F 1242 5 24 per
+F 1249 8 24  high
+- 1259
+F 1261 7 24 With
+F 1269 14 24  style
+F 1286 5 24  and
+F 1292 8 24  pan
+F 1300 13 24 ache!
+- 1319
+F 1325 5 24 Com
+F 1330 9 24 man
+F 1339 7 24 der
+F 1347 7 24  Ea
+F 1354 7 24 sy
+F 1364 8 24  Gli
+F 1372 7 24 der
+F 1380 7 24  was
+F 1388 6 24  the
+F 1395 6 24  real
+F 1402 7 24  cream
+F 1410 4 24  of
+- 1415
+F 1417 7 24 The
+F 1426 13 24  crop!
+- 1444
+F 1449 7 24 For
+F 1457 7 24  with
+F 1465 8 24  her
+F 1474 6 24  wic
+F 1480 8 24 ked
+F 1489 7 24  moves,
+F 1498 2 24  the
+F 1501 6 24  Won
+F 1507 4 24 der
+F 1511 8 24 bolts
+F 1524 12 24  soared
+F 1537 4 24  to
+- 1542
+F 1544 8 24 The
+F 1553 17 24  top!
+- 1577
+F 1584 9 29 Won
+F 1593 10 25 der
+F 1603 11 20 bolts,
+F 1617 19 29  yeah
+F 1636 9 30 ~!
+- 1648
+F 1651 8 24 Won
+F 1659 8 24 der
+F 1667 12 24 bolts
+F 1682 18 24  Huh!
+- 1707
+F 1714 8 24 Won
+F 1722 7 24 der
+F 1729 12 24 bolts,
+F 1747 24 24  yeah!
+- 1775
+F 1779 8 24 Won
+F 1787 9 24 der
+F 1796 10 24 bolts
+F 1810 18 24  Uh!
+- 1832
+F 1837 6 24 That
+F 1844 6 24  is
+F 1851 7 24  my
+F 1859 8 24  rap
+F 1867 9 24 pin'
+F 1877 11 24  His
+F 1891 10 24 t'ry
+F 1906 7 24  of
+F 1914 7 24  the
+F 1922 8 24  Won
+F 1930 10 24 der
+F 1940 13 24 bolts!
+E

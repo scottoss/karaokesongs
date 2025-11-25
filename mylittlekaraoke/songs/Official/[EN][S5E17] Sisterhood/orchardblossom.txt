@@ -1,0 +1,130 @@
+#TITLE:Sisterhood (as Orchard Blossom)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#GENRE:Pony
+#LANGUAGE:English
+#EDITION:My Little Pony
+#MP3:song.mp3
+#VIDEO:video.mp4
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:400
+#GAP:6911
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:13-mar-2016
+: 0 6 2 We
+: 7 5 6  all
+: 13 3 6  lo
+: 17 8 9 -ove
+: 26 4 2  our
+: 33 4 6  bro
+: 38 20 9 thers
+- 68
+: 80 4 6 And
+: 85 4 9  our
+: 93 5 11  fat
+: 99 7 9 hers
+: 108 13 9  and
+: 122 3 4  mo
+: 126 2 2 -ot
+: 129 8 2 hers
+- 143
+: 145 4 2 We
+: 152 5 6  ho
+: 158 6 9 nor
+: 166 11 9  them
+: 179 12 6  like
+* 192 12 11  eve
+: 206 7 9 ry
+: 218 6 9  fam
+: 225 4 6 'ly
+: 233 36 4  should
+- 279
+: 300 3 2 But
+: 306 4 4  there's
+: 312 5 6  some
+: 319 5 9 thin'
+: 325 4 9  that's
+* 332 9 9  quite
+: 345 4 6  u
+: 351 13 11 nique
+- 376
+: 380 4 9 When
+: 385 3 9  my
+: 392 4 11  sis
+: 398 10 11 ter's
+* 412 8 14  there
+: 423 4 9  with
+: 430 14 9  me
+- 454
+: 458 6 2 And
+: 465 3 4  we
+: 471 11 6  share
+: 483 4 2  that
+* 490 10 9  spe
+: 504 5 6 cial
+: 511 13 4  bond
+: 525 3 2  of
+: 532 6 6  si
+: 539 5 4 -is
+: 545 5 2 ter
+: 551 29 2 hood
+- 606
+: 652 4 9 Sis
+: 660 3 9 te
+: 664 6 11 -er
+: 672 39 9 hood
+- 737
+: 811 5 9 Sis
+: 819 9 16 ter
+: 832 42 14 hood
+- 900
+: 963 4 2 It's
+: 971 6 11  not
+: 978 4 9  al
+: 984 5 9 ways
+* 991 4 9  per
+: 998 10 6 fect
+- 1016
+: 1019 3 2 You
+: 1023 5 4  might
+: 1031 7 6  fight
+: 1039 4 6  or
+: 1044 5 6  be
+* 1051 4 4  mis
+: 1059 4 4 un
+: 1064 2 2 der
+: 1070 17 2 stood
+- 1096
+: 1099 3 2 But
+: 1103 6 4  to
+: 1111 6 6 get
+: 1118 4 6 her
+: 1124 7 2  you'll
+* 1133 10 9  al
+: 1144 6 6 ways
+: 1151 13 4  have
+: 1169 6 6  si
+: 1176 6 4 -is
+: 1184 6 2 ter
+: 1192 37 9 hood
+- 1239
+: 1252 5 9 Sis
+: 1259 9 13 ter
+: 1270 48 14 hood
+- 1328
+: 1332 5 2 Sis
+: 1339 10 11 ter
+: 1351 42 9 hood
+- 1403
+: 1411 3 9 Sis
+: 1417 8 18 te
+: 1426 3 16 -er
+: 1431 41 14 hood
+- 1482
+: 1490 6 -6 Si
+: 1498 5 -8 -is
+: 1504 5 -10 ter
+: 1510 65 -10 hoo
+F 1576 14 0 dah!
+E

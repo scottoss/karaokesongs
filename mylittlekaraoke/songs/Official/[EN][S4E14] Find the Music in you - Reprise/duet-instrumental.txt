@@ -1,0 +1,217 @@
+#TITLE:Find the Music in You - Reprise (Duet) (Instrumental)
+#ARTIST:My Little Pony
+#MP3:instrumental.mp3
+#BPM:400
+#GAP:0
+#CREATOR:Smilley
+#GENRE:Pony
+#LANGUAGE:English
+#EDITION:My Little Pony
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#DUETSINGERP1:Fluttershy
+#DUETSINGERP2:Backing vocals
+#P1:Fluttershy
+#P2:Backing vocals
+#COMMENT:http://www.mylittlekaraoke.com
+#UPDATED:09-fev-2015
+P1
+: 8 4 28 There's
+: 14 6 28  mu
+: 21 5 25 sic
+: 29 3 25  in
+: 33 4 21  the
+: 38 6 23  tree
+: 48 8 26 tops
+- 60
+: 64 4 25 And
+: 69 3 26  there's
+: 73 4 28  mu
+* 78 6 33 sic
+: 86 4 30  in
+: 91 4 26  the
+: 97 15 28  vale
+- 117
+: 122 6 28 And
+: 130 6 28  all
+: 138 4 25  a
+: 144 7 25 round
+: 153 4 21  the
+: 159 3 26  mu
+: 163 5 25 sic
+: 169 7 26  fills
+: 178 3 30  the
+: 184 18 28  sky
+- 220
+: 238 6 28 There's
+: 246 5 28  mu
+: 252 6 25 sic
+: 260 5 26  by
+: 267 4 28  the
+: 272 4 30  ri
+* 279 8 28 ver
+- 293
+: 298 2 26 And
+: 301 3 28  there's
+: 305 5 30  mu
+* 311 5 33 sic
+: 318 3 30  in
+: 323 4 26  the
+: 329 8 28  grass
+- 347
+: 356 3 28 And
+: 360 2 30  the
+: 363 5 31  mu
+: 369 6 33 sic
+: 376 8 33  makes
+: 385 2 31  your
+: 388 5 30  heart
+* 394 11 28  soar
+: 406 3 28  in
+: 410 5 26  re
+: 416 39 28 ply
+- 500
+: 545 4 28 You've
+: 551 5 28  got
+: 557 4 28  to
+: 562 5 28  look
+: 569 4 33  in
+* 577 7 33 side
+: 585 3 28  and
+: 592 25 28  find
+- 639
+: 661 3 28 The
+: 665 5 28  mu
+: 671 6 33 sic
+: 678 8 33  deep
+: 687 5 28  in
+* 694 9 33 side
+: 705 35 35  you
+- 759
+: 777 5 35 'Cause
+: 784 6 35  when
+: 791 4 30  you
+: 796 6 35  look
+: 804 3 30  in
+: 809 7 35 side
+: 817 7 37  you'll
+* 827 6 35  se
+* 834 4 30 -e
+: 839 15 30  it
+- 874
+: 893 6 27 You're
+: 900 4 25  gon
+: 905 4 23 na
+* 911 8 25  find
+: 922 6 27  it
+: 929 4 25  gon
+: 934 5 23 na
+: 942 58 30  find
+- 1004
+: 1007 5 32 Got
+: 1013 2 32  the
+: 1016 5 32  mu
+: 1022 8 30 sic
+- 1033
+: 1035 5 37 Got
+: 1041 3 37  the
+: 1045 5 37  mu
+: 1051 7 35 sic
+- 1061
+: 1063 6 39 Got
+: 1070 3 39  the
+: 1074 5 39  mu
+* 1081 8 35 sic
+: 1091 10 37  in
+: 1103 11 39  you
+P2
+: 15 10 21 Mu
+: 27 10 25 sic
+: 40 6 23  tree
+: 49 10 26 tops
+- 65
+: 70 9 30 Mu
+: 84 8 30 sic
+: 96 12 30  va
+: 109 13 28 -ale
+- 126
+: 130 6 21 The
+: 143 10 21  mu
+: 155 7 26 sic
+: 165 12 26  fills
+: 180 4 30  the
+* 186 10 28  sky
+: 201 8 28 -y
+: 212 12 25 -y
+- 235
+: 245 8 21 Mu
+: 258 8 25 sic
+: 271 7 26  ri
+: 280 9 26 ver
+- 296
+: 302 12 30 Mu
+: 315 11 30 sic
+: 329 9 30  oh
+: 340 10 28  oh
+- 356
+: 361 20 19 Ah
+: 391 16 18  ah
+: 418 12 20  ah
+* 433 15 21  ah
+: 450 12 23  ah
+- 463
+: 464 6 30 When
+: 471 6 32  you
+* 479 12 33  find
+: 494 11 30  you've
+: 507 18 26  got
+: 529 4 25  the
+: 536 5 26  mu
+: 545 7 28 sic
+- 573
+: 593 15 26 Find
+: 610 9 25  you've
+: 624 19 26  got
+: 647 4 25  the
+: 652 7 26  mu
+: 660 30 25 sic
+- 700
+: 709 12 28 Find
+: 725 9 27  you've
+: 740 19 28  got
+: 762 5 27  the
+: 768 5 28  mu
+: 776 30 27 sic
+- 817
+: 827 12 28 Find
+: 842 10 27  you've
+: 855 20 28  got
+: 878 4 27  the
+: 884 5 28  mu
+: 893 22 27 sic
+- 929
+: 943 11 32 Find
+: 957 7 35  you've
+* 965 9 37  got
+: 981 4 39  the
+: 987 6 37  mu
+: 994 8 35 sic
+- 1004
+: 1006 5 32 Got
+: 1012 4 32  the
+: 1017 5 32  mu
+: 1023 8 30 sic
+- 1033
+: 1034 4 37 Got
+: 1040 4 37  the
+: 1045 5 37  mu
+: 1051 8 35 sic
+- 1061
+: 1063 5 39 Got
+: 1070 3 39  the
+: 1074 6 39  mu
+: 1082 4 35 sic
+: 1088 12 37  in
+* 1102 8 39  you
+E

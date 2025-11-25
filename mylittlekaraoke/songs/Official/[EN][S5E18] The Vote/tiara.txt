@@ -1,0 +1,317 @@
+#TITLE:The Vote (As Diamond Tiara and Silver Spoon)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.jpg
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:400
+#GAP:2730
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATE:16-oct-2015
+F 427 5 0 A
+F 434 5 0  vote
+F 440 4 0  for
+F 446 7 0  Dia
+F 453 5 0 mond
+F 459 6 0  Tia
+F 465 5 0 ra
+F 471 5 0  is
+F 477 3 0  a
+F 481 6 0  vote
+- 488
+F 490 6 0 For
+F 498 13 0  more
+F 514 7 0  Dia
+F 521 8 0 mond
+F 531 9 0  Tia
+F 541 10 0 ra
+- 1529
+: 1589 5 -3 I
+: 1596 4 2  don't
+: 1601 3 2  be
+: 1605 3 2 lieve
+: 1610 3 -3  what
+: 1614 2 -3  I
+: 1617 3 -3  am
+: 1621 6 0  hea
+: 1628 4 2 ring
+- 1634
+: 1636 4 -3 I'm
+: 1641 4 2  the
+: 1646 3 2  on
+: 1650 2 2 ly
+* 1653 3 2  one
+: 1657 3 -3  you
+: 1661 4 -3  should
+: 1666 3 -3  be
+: 1670 7 0  chee
+: 1678 4 2 ring
+- 1684
+F 1686 4 0 Pip
+F 1691 7 0 squeak,
+F 1699 8 0  try
+F 1708 6 0  Pips
+F 1716 8 0 -weak,
+F 1725 5 0  don't
+F 1731 5 0  you
+F 1737 9 0  think?
+- 1756
+: 1773 2 4 But
+: 1776 2 4  a
+: 1779 9 4  dia
+: 1789 6 4 mond
+: 1796 3 4  is
+: 1800 3 6  per
+* 1804 7 6 fec
+: 1813 5 4 tion
+- 1819
+: 1821 4 4 It's
+: 1828 7 9  na
+: 1836 5 4 tu
+: 1842 4 4 ral
+: 1849 3 6  se
+* 1853 6 6 lec
+: 1860 3 4 tion
+- 1865
+: 1867 4 4 So
+: 1872 3 4  your
+* 1877 6 7  vote
+: 1884 3 5  bet
+: 1888 2 5 ter
+: 1891 3 4  be
+: 1895 5 7  for
+: 1901 4 5  me
+- 1907
+F 1909 3 0 Not
+F 1913 3 0  the
+F 1917 5 0  wea
+F 1923 5 0 kest
+F 1929 8 0  link
+- 1960
+: 2022 13 2 Eve
+: 2036 9 4 ry
+: 2046 12 5 po
+: 2060 6 7 ny
+* 2068 16 9  has
+: 2086 5 5  their
+: 2092 14 4  lit
+: 2107 4 5 tle
+: 2114 8 4  sec
+: 2123 13 0 rets
+- 2146
+F 2150 4 0 I
+F 2155 6 0  know
+F 2162 8 0  you
+F 2171 10 0  do
+- 2191
+: 2204 6 2 A
+: 2211 10 2  vote
+: 2227 7 4  for
+: 2237 11 5  me
+: 2251 8 7  will
+: 2260 8 9  help
+: 2275 6 5  you
+* 2282 10 4  keep
+: 2298 6 5  them
+: 2307 17 4  safe
+- 2330
+F 2332 8 0 Like
+F 2341 5 0  your
+F 2348 6 0  cree
+F 2354 4 0 py
+F 2360 7 0  su
+F 2367 4 0 per
+F 2374 12 0  strength
+- 2393
+: 2396 5 4 Or
+: 2403 9 5  your
+* 2413 6 9  mane
+: 2421 6 5  ex
+: 2428 6 8 ten
+: 2435 3 4 sion
+- 2439
+: 2441 2 4 A
+: 2444 3 4  lit
+: 2447 2 4 tle
+: 2452 7 9  thing
+: 2461 5 4  I
+: 2467 6 4  won't
+: 2476 6 5  men
+: 2483 5 4 tion
+- 2490
+: 2492 3 2 Or
+: 2496 4 2  those
+: 2501 5 2  frea
+: 2507 6 5 kish
+: 2515 7 2  large
+* 2524 8 4  teeth
+: 2534 4 0  in
+: 2539 7 -1  your
+: 2549 6 -3  face
+- 3118
+F 3121 10 0 Stop!
+- 3135
+F 3137 3 0 E
+F 3140 5 0 very
+F 3145 4 0 po
+F 3149 3 0 ny
+F 3153 3 0  who
+F 3157 4 0  has
+F 3161 3 0 n't
+F 3165 4 0  vo
+F 3169 3 0 ted,
+F 3175 5 0  lis
+F 3180 4 0 ten
+F 3185 6 0  up!
+- 3201
+: 3208 5 2 Pip
+: 3215 6 2  makes
+: 3223 4 0  pro
+: 3227 4 0 mi
+: 3232 5 2 ses
+: 3238 5 2  he
+: 3245 7 0  can't
+: 3254 4 2  keep
+- 3260
+: 3262 5 2 But
+* 3269 6 5  I
+: 3276 5 4  can
+: 3282 6 0  do
+: 3290 9 2  more
+- 3311
+F 3315 4 0 You
+F 3320 5 0  could
+F 3326 5 0  real
+F 3331 4 0 ly
+F 3336 3 0  use
+F 3340 2 0  a
+F 3343 3 0  new
+F 3347 5 0  book
+F 3353 8 0  bag
+- 3370
+: 3374 7 1 'Cause
+: 3382 7 0  I'll
+: 3390 7 1  make
+: 3398 5 1  things
+: 3404 7 0  hap
+: 3412 5 1 pen
+- 3418
+: 3420 4 1 That
+: 3426 9 0  none
+: 3436 5 1  of
+: 3442 5 1  you
+* 3448 8 4  here
+: 3457 7 3  can
+: 3465 6 0  af
+: 3472 10 1 ford
+- 3484
+F 3486 7 0 To
+F 3494 11 0  do,
+F 3510 8 0  like
+F 3519 6 0  e
+F 3525 6 0 ver
+- 3541
+: 3563 3 4 Would
+: 3567 3 4 n't
+: 3571 6 4  you
+: 3578 3 4  like
+: 3582 2 8  a
+: 3585 2 10  lit
+: 3587 3 10 tle
+: 3591 4 10  some
+: 3595 3 10 thing
+: 3599 6 11  sweet?
+- 3607
+: 3609 2 4 Here's
+: 3612 2 4  a
+: 3615 3 4  pa
+: 3618 4 4 ra
+: 3622 4 4 sol
+: 3627 2 8  to
+: 3630 3 10  hide
+: 3634 3 10  you
+: 3638 2 10  from
+: 3641 2 10  the
+: 3644 5 11  heat
+- 3651
+: 3653 4 9 Who
+: 3660 7 9  says
+: 3668 5 9  tha
+: 3674 3 8 -at
+: 3678 5 8  I
+* 3684 5 9  can't
+: 3692 4 8  be
+: 3699 10 6  nice?
+- 3719
+: 3736 5 2 But
+: 3743 6 6  first
+: 3750 7 6  there's
+* 3758 6 6  one
+: 3766 8 5  thing
+- 3779
+: 3781 5 5 An
+: 3789 3 8  it
+: 3793 3 8 sy
+: 3797 3 8 -bit
+: 3801 2 8 sy
+: 3804 2 8  lit
+: 3807 2 8 tle
+: 3812 8 7  string
+- 3824
+: 3826 7 6 And
+: 3835 6 2  vo
+: 3842 6 2 ting
+: 3849 6 5  for
+: 3857 8 1  me
+: 3866 5 1  is
+: 3872 4 1  the
+: 3879 10 6  price
+- 3899
+: 3934 6 9 I've
+: 3941 4 8  a
+: 3947 7 9  ti
+: 3955 5 8 ny
+: 3961 6 5  sug
+* 3969 7 6 ges
+: 3979 12 1 tion
+- 4003
+: 4007 8 5 That
+: 4016 10 6  you
+: 4029 7 6  should
+* 4038 11 8  be
+: 4051 5 11  a
+: 4058 24 9 ware
+- 4092
+: 4113 7 9 You
+: 4121 6 8  could
+: 4128 8 8  pro
+: 4137 5 6 bab
+: 4143 6 5 ly
+: 4150 6 6  win
+: 4158 5 6  this
+: 4165 7 5  e
+: 4173 5 6 lec
+: 4180 7 1 tion
+- 4194
+: 4197 11 9 If
+: 4210 6 8  you
+: 4219 14 9  showed
+: 4234 6 8  them
+* 4241 14 9  all
+: 4256 8 8  you
+: 4265 10 9  rea…
+- 4277
+F 4279 4 0 I
+F 4284 2 0  don't
+F 4287 5 0  re
+F 4292 5 0 call
+F 4299 6 0  ask
+F 4305 4 0 ing
+F 4311 5 0  you
+F 4317 3 0  to
+F 4322 8 0  speak!
+E

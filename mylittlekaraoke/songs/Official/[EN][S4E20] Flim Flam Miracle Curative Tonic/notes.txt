@@ -1,0 +1,560 @@
+#TITLE:Flim Flam Miracle Curative Tonic
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#MP3:song.mp3
+#VIDEO:video.mp4
+#START:41
+#BPM:400
+#GAP:42128
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#COVER:cover.png
+#BACKGROUND:background.png
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 6 -4 There's
+: 7 5 -5  ail
+: 13 6 -5 ments
+: 20 5 -6  all
+: 26 3 -5  a
+: 30 7 -3 round
+: 38 2 -5  us
+- 40
+: 42 2 -5 In
+: 45 3 -6  eve
+: 50 4 -6 ry
+: 56 5 -5 thing
+: 62 4 0  we
+* 67 6 0  touch
+: 75 3 -3  and
+: 81 8 -5  see
+- 97
+: 100 4 -5 A
+: 106 5 -6  sick
+: 113 4 -5 ness
+: 120 4 -5  that
+: 126 5 -5  lies
+: 133 4 -5  wai
+: 138 4 -5 ting
+: 143 7 -6  there
+- 152
+: 154 3 -5 In
+: 158 5 -6  eve
+: 164 3 0 ry
+: 170 7 0  breath
+: 178 4 -5  you
+* 184 14 -2  breathe
+- 201
+: 203 3 -3 Dis
+: 207 7 -4 ease
+: 215 4 -4  will
+: 221 4 -5  up
+: 226 4 -4  and
+: 232 5 -2  grab
+: 238 4 -4  you
+- 244
+: 246 3 -3 As
+: 250 2 -3  it
+: 257 6 -4  crawls
+: 264 5 0  from
+: 270 6 0  land
+: 277 4 -3  and
+: 283 12 -4  sea
+- 300
+: 302 3 -4 It's
+: 306 2 -4  a
+: 309 3 -4 ma
+: 315 4 -4 zing
+: 321 6 -5  how
+: 329 3 -5  in
+: 333 5 -4 fec
+: 340 4 -4 ted
+: 345 3 -5  that
+- 350
+: 352 4 -5 The
+: 358 4 -5  na
+: 363 2 0 tu
+: 366 4 0 ral
+* 371 6 0  world
+: 378 3 -4  and
+: 384 6 -5  all
+: 391 5 -5  its
+: 397 5 -3  things
+: 403 6 -5  can
+: 412 18 0  be
+- 433
+F 435 6 -5 Now
+F 442 2 -5  I
+F 445 17 -5  understand
+F 463 4 -5  that
+F 470 4 -5  some
+F 475 2 -5  of
+F 478 2 -5  you
+- 481
+F 483 6 -5 Don't
+F 490 6 -5  think
+F 497 4 -5  you're
+F 504 8 -5  sick
+- 513
+F 515 5 -5 But
+F 522 20 -5  twisted
+F 543 10 -5  hooves
+F 554 3 -5  and
+F 558 9 -5  aching
+F 568 5 -5  joints
+- 574
+F 576 6 -5 Don't
+F 583 8 -5  heal
+F 592 5 -5  all
+F 598 5 -5  that
+F 605 12 -5  quick
+- 618
+F 620 14 -5 Consider
+F 635 5 -5  just
+F 641 5 -5  how
+F 647 16 -5  dangerous
+F 664 5 -5  this
+F 670 8 -5  world
+F 679 8 -5  is!
+- 688
+F 690 6 -5 You
+F 697 8 -5  might
+- 706
+: 708 10 -4 Slip
+: 719 5 -4  and
+: 725 10 -5  fall,
+: 737 4 -5  break
+: 744 2 -5  or
+: 748 9 -6  sprain
+- 759
+: 761 5 -4 Some
+: 767 6 0 thing
+* 775 4 0  here
+: 781 3 -4  to
+: 787 7 -5 night
+- 797
+: 799 7 -6 But
+: 810 3 -5  lu
+: 815 3 -5 cki
+: 819 8 -5 ly
+: 830 5 -5  for
+: 836 4 -5  you
+- 841
+: 843 5 -5 We've
+: 849 4 -6  got
+: 855 4 -5  the
+* 861 5 -3  thing
+: 868 5 -5  you
+: 874 17 -5  need
+- 902
+: 906 3 -5 And
+: 910 3 -5  it's
+: 915 4 -5  ea
+: 920 4 0 si
+: 926 4 0 er
+: 932 6 -5  when
+: 939 4 -5  all
+: 945 4 -2  you
+* 950 7 -2  need's
+: 958 4 -5  the
+: 964 33 -3  cure
+- 1004
+: 1007 5 -3 The
+: 1013 6 0  Flim
+: 1020 5 0  Flam
+: 1026 2 0  Mi
+: 1030 2 0 ra
+: 1033 4 0 cle
+* 1039 5 2  Cu
+: 1045 6 2 ra
+: 1052 11 0 tive
+: 1064 5 0  To
+: 1072 23 -5 nic
+- 1104
+: 1107 4 -5 Is
+: 1113 5 -4  just
+: 1120 3 -4  what
+: 1124 2 -4  the
+: 1127 5 -5  doc
+: 1133 5 -5 tor
+: 1139 7 -4  or
+: 1147 5 -4 dered,
+: 1153 6 -5  I'm
+* 1164 10 0  sure
+- 1176
+F 1178 5 -5 Now
+F 1184 3 -5  I
+F 1188 4 -5  know
+F 1193 4 -5  our
+F 1198 8 -5  claims
+F 1207 6 -5  seem
+F 1214 16 -5  fantastical
+- 1232
+F 1234 22 -5 Impractical
+- 1257
+F 1259 20 -5 Improbable
+- 1280
+F 1282 25 -5 Impossible
+- 1313
+F 1316 10 -5 And
+F 1327 20 -5  magical!
+- 1353
+F 1356 9 -5 So
+F 1366 4 -5  we
+F 1371 11 -5  welcome
+F 1383 10 -5  every
+F 1394 15 -5  suffering
+F 1410 5 -5  pony
+- 1416
+F 1418 2 -5 To
+F 1421 4 -5  make
+F 1426 3 -5  their
+F 1430 5 -5  way
+F 1436 3 -5  up
+F 1440 2 -5  to
+F 1443 3 -5  the
+F 1447 10 -5  stage
+- 1459
+F 1461 6 -5 Now
+F 1468 6 -5  don't
+F 1475 11 -5  crowd!
+- 1488
+F 1490 8 -5 And
+F 1499 4 -5  we'll
+F 1507 5 -5  prove
+F 1513 3 -5  our
+F 1517 9 -5  tonic's
+F 1527 13 -5  effectiveness
+- 1542
+F 1544 10 -5 Before
+F 1555 5 -5  your
+F 1561 8 -5  very
+F 1570 12 -5  eyes
+- 1584
+F 1586 7 -5 You
+F 1594 10 -5  there!
+- 1608
+F 1610 5 -5  Come
+F 1616 3 -5  up
+F 1620 6 -5  here,
+F 1627 4 -5  good
+F 1633 9 -5  sir!
+- 1647
+F 1649 9 -5 I'll
+F 1659 8 -5  wager
+F 1668 5 -5  you're
+F 1676 10 -5  tired
+F 1687 2 -5  of
+F 1690 4 -5  those
+F 1695 9 -5  crutches,
+F 1705 3 -5  my
+F 1709 10 -5  friend?
+- 1721
+F 1723 8 -5 Try
+F 1732 7 -5  taking
+F 1740 2 -5  a
+F 1743 7 -5  sip
+F 1756 6 -5  of
+F 1767 12 -5  this!
+- 1832
+: 2195 7 -5 That's
+: 2206 11 -4  why
+: 2218 9 -3  you're
+: 2230 9 -2  so
+: 2241 5 -3  lu
+: 2247 8 -5 cky
+- 2265
+: 2273 6 -3 We've
+: 2280 5 -6  got
+: 2286 4 -5  the
+: 2292 5 -3  thing
+: 2300 3 -5  for
+: 2305 12 -5  you
+- 2327
+: 2335 6 -5 Just
+: 2343 7 -5  come
+* 2351 6 0  on
+: 2358 2 0  up
+- 2361
+: 2363 5 -5 We've
+: 2369 5 -3  al
+: 2375 4 -5 ways
+: 2381 5 -2  got
+: 2388 5 -5  some
+: 2394 29 -3  more
+- 2432
+: 2435 4 0 Of
+: 2440 2 0  the
+: 2443 4 0  Flim
+: 2450 5 0  Flam
+: 2457 2 0  Mi
+: 2460 3 0 ra
+: 2464 4 0 cle
+: 2469 5 2  Cu
+: 2476 5 2 ra
+: 2482 9 0 tive
+: 2493 7 0  To
+* 2502 18 -5 nic
+- 2531
+: 2535 3 -5 I
+: 2539 5 -5  won't
+: 2546 5 -4  need
+: 2552 5 -4  these
+: 2558 5 -5  cru
+: 2564 5 -5 tches
+: 2570 5 -4  to
+* 2577 6 -4  dance
+: 2585 4 -5  out
+: 2590 4 -5  the
+: 2596 23 0  door
+- 2628
+F 2632 5 -5 Now
+F 2638 7 -5  how
+F 2646 1 -5  do
+F 2648 4 -5  ya
+F 2654 7 -5  like
+F 2662 12 -5  that?
+- 2677
+F 2679 8 -5 I
+F 2689 11 -5  don't
+- 2705
+F 2707 6 -5 There's
+F 2714 8 -5  somethin'
+F 2724 7 -5  funny
+F 2732 6 -5  about
+F 2741 4 -5  this
+F 2747 11 -5  whole
+F 2763 8 -5  thing
+- 2797
+: 2836 9 -3 Now
+: 2851 4 -3  some
+: 2856 4 -3  of
+: 2861 6 -3  you
+* 2868 5 -1  may
+: 2878 6 -3  suf
+: 2885 6 -3 fer
+- 2896
+: 2898 7 -3 From
+: 2909 4 -3  fee
+: 2914 6 -3 lings
+: 2921 4 -3  of
+: 2926 4 -1  des
+: 2936 13 -3 pair
+- 2954
+: 2956 6 -3 You're
+: 2965 5 -3  old,
+: 2973 5 -1  you're
+: 2980 6 -1  tired,
+: 2987 4 -3  your
+: 2992 7 -3  legs
+: 3000 5 -8  won't
+: 3006 3 -8  work
+- 3010
+: 3012 6 -8 There's
+: 3021 6 -4  gray
+: 3028 5 -4 ing
+: 3034 4 -4  in
+* 3039 6 -8  your
+: 3048 17 -3  hair
+- 3067
+: 3069 5 -3 Just
+: 3077 6 -1  lis
+: 3084 6 -1 ten
+: 3091 5 -1  and
+* 3097 5 1  I'll
+: 3106 8 -3  tell
+: 3115 8 -3  you
+- 3125
+: 3127 4 -8 That
+: 3134 5 -3  you
+: 3140 5 -3  don't
+: 3146 7 -3  need
+: 3154 6 -1  to
+: 3162 17 -5  fear
+- 3181
+: 3183 6 -5 Your
+: 3190 6 -4  ears
+: 3197 5 -4  will
+: 3203 5 -5  work,
+: 3209 5 -5  your
+: 3215 4 -4  mus
+: 3220 5 -4 cles
+: 3226 4 -5  tone
+- 3231
+: 3233 7 -5 Your
+: 3241 6 -4  eyes
+: 3248 4 0  will
+: 3253 5 0  see
+: 3259 5 -5  so
+: 3266 17 2  clear
+- 3288
+: 3290 4 -5 Luc
+: 3295 2 -5 ki
+: 3298 7 -5 ly
+: 3309 4 -5  for
+: 3316 3 -5  us
+- 3320
+: 3322 5 -5 You've
+: 3328 4 -6  got
+: 3334 3 -5  the
+: 3340 4 -3  thing
+: 3347 4 -5  we
+* 3352 15 -5  need
+- 3377
+: 3385 7 -5 The
+: 3393 4 -5  ans
+: 3399 5 0 wers
+: 3405 4 0  to
+: 3411 4 -5  our
+: 3417 3 -5  prob
+* 3424 5 -2 lems
+: 3431 4 -2  in
+: 3436 3 -5  a
+: 3441 35 -3  jar
+- 3483
+: 3486 5 -3 The
+: 3492 6 0  Flim
+: 3499 5 0  Flam
+: 3505 2 0  Mi
+: 3508 3 0 ra
+: 3512 4 0 cle
+: 3518 5 2  Cu
+: 3524 4 2 ra
+: 3529 11 0 tive
+: 3542 4 0  To
+: 3549 22 -5 nic
+- 3582
+: 3586 3 -5 Is
+: 3590 3 -5  the
+: 3594 6 -4  grea
+: 3601 5 -4 test
+: 3608 3 -5  e
+: 3612 4 -5 ver
+: 3617 4 -4  mi
+: 3622 3 -4 ra
+: 3626 4 -4 cle
+* 3633 6 -5  by
+: 3643 13 0  far
+- 3658
+F 3660 5 -5 It
+F 3667 9 -5  cures
+F 3677 3 -5  the
+F 3681 11 -5  reins,
+F 3693 3 -5  the
+F 3698 8 -5  spurs
+- 3708
+F 3710 3 -5 And
+F 3714 2 -5  the
+F 3717 18 -5  Clydesdale
+F 3738 7 -5  fur
+F 3746 5 -5  blight
+- 3753
+F 3755 19 -5 Hooferia
+F 3775 4 -5  and
+F 3780 16 -5  horsentery
+- 3798
+F 3800 9 -5 Cured
+F 3810 3 -5  in
+F 3815 6 -5  just
+F 3822 3 -5  a
+F 3826 9 -5  night
+- 3837
+F 3839 6 -5 You've
+F 3846 4 -5  got
+F 3852 10 -5  swollen
+F 3863 8 -5  hooves
+F 3873 4 -5  and
+F 3878 13 -5  hindquarters
+- 3893
+F 3895 4 -5 Or
+F 3900 9 -5  terrible
+F 3911 15 -5  bridle-bit
+F 3927 11 -5  cleft
+- 3940
+F 3942 11 -5 Saunter
+F 3957 7 -5  sitz
+F 3965 3 -5  and
+F 3969 8 -5  gallop
+F 3978 5 -5  plop
+- 3984
+F 3986 4 -5 Or
+F 3993 5 -5  give
+F 3999 4 -5  your
+F 4005 8 -5  tail
+F 4015 5 -5  some
+F 4021 10 -5  heft
+- 4033
+F 4035 13 -5 Mane
+F 4049 8 -5  loss,
+F 4058 8 -5  hay
+F 4067 8 -5  fever,
+F 4076 4 -5  or
+F 4081 13 -5  terrible
+F 4096 22 -5  tonsillitis
+- 4120
+F 4122 6 -5 You
+F 4130 5 -5  heard
+F 4136 2 -5  it
+F 4139 6 -5  here,
+F 4146 8 -5  folks!
+- 4158
+F 4160 4 -5 This
+F 4165 2 -5  is
+F 4168 2 -5  the
+F 4171 5 -5  only
+F 4177 6 -5  place
+F 4184 2 -5  in
+F 4187 2 -5  all
+F 4190 1 -5  of
+F 4192 16 -5  Equestria
+F 4210 6 -5  you'll
+F 4220 6 -5  find
+F 4229 5 -5  it
+- 4243
+: 4246 5 -1 It
+: 4253 6 -3  can
+: 4260 6 -3  make
+: 4267 3 -3  you
+: 4271 7 -4  shor
+: 4280 3 -3 ter,
+: 4285 6 -3  tal
+: 4292 4 -1 ler,
+- 4297
+: 4299 5 0 Or
+: 4305 4 2  e
+* 4310 5 2 ven
+: 4316 5 0  grow
+: 4323 13 -1  old
+- 4340
+: 4342 4 -5 But
+: 4348 7 -4  who'd
+: 4356 5 -4  want
+: 4362 2 -5  that?
+- 4365
+: 4367 5 -1 When
+: 4374 5 0  with
+: 4380 4 0  one
+: 4386 8 -1  drink
+- 4395
+: 4397 8 -5 You
+: 4406 5 -5  can
+: 4412 9 -5  be
+: 4423 7 -4  young
+: 4431 4 -4  a
+: 4436 6 -4 gain
+- 4444
+F 4446 32 -5 SOLD!
+- 4484
+F 4486 30 -5 Congratulations,
+F 4517 7 -5  Granny
+F 4525 7 -5  Smith!
+- 4537
+F 4539 7 -5 You
+F 4547 5 -5  just
+F 4554 6 -5  made
+F 4561 3 -5  the
+F 4566 13 -5  purchase
+F 4581 2 -5  of
+F 4584 3 -5  a
+F 4588 20 -5  lifetime!
+E

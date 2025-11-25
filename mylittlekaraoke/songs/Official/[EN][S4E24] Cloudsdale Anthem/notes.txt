@@ -1,0 +1,211 @@
+#TITLE:Cloudsdale Anthem (by Spike)
+#ARTIST:My Little Pony
+#MP3:song.mp3
+#BPM:400
+#GAP:2737
+#CREATOR:Renard
+#GENRE:Pony
+#YEAR:2014
+#LANGUAGE:English
+#EDITION:My Little Pony
+#VIDEO:video.mp4
+#COVER:cover.png
+#BACKGROUND:background.png
+#UPDATED:06-may-2014
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 8 9 Oh
+: 10 6 14  we're
+: 17 4 14  the
+: 22 5 14  Won
+: 27 4 16 der
+: 31 8 18 bolts
+: 42 9 16  and
+: 53 10 18  we're
+: 65 6 18  su
+: 71 5 21 per
+: 77 6 26  fast
+- 85
+: 87 6 26 And
+: 94 4 26  we're
+: 99 7 25  from
+: 109 9 25  Clouds
+: 119 3 23 dale
+- 123
+: 125 3 23 Which
+: 129 2 23  is
+: 132 1 23  a
+: 134 2 23  part
+: 137 3 23  of
+: 141 3 23  E
+: 144 5 21 ques
+: 150 4 21 tri
+: 154 6 21 a
+: 162 2 21  ah
+: 164 3 21 ah
+- 173
+: 175 8 21 That
+: 185 9 23  we
+: 196 8 14  like
+: 208 7 16  best
+: 218 6 16  and
+: 225 4 16  we're
+: 230 7 18  proud
+: 239 6 18  and
+: 246 4 19  we're
+: 251 8 21  fast
+- 260
+: 262 4 21 And
+: 267 4 21  we
+: 272 5 19  like
+: 278 2 19  it
+: 281 3 19  be
+: 284 4 19 cause
+: 289 3 19  it
+: 293 4 16  real
+: 297 6 18 ly
+: 304 5 16  has
+: 310 6 16  nice
+: 318 18 14  trees
+- 345
+: 348 4 9 Yeah
+: 353 2 9  and
+: 356 4 9  we
+: 361 3 14  love
+: 365 4 14  the
+: 370 9 14  town
+: 380 4 14  be
+: 384 5 16 cause
+: 391 4 16  it's
+: 398 5 19  so
+: 404 8 18  cool
+: 413 5 18  and
+- 422
+: 424 5 18 And
+: 430 2 18  we
+: 433 5 18  like
+: 439 4 18  to
+: 444 9 19  fly
+: 455 6 19  real
+: 461 4 21 ly
+: 466 5 24  fast
+- 477
+: 479 6 21 And
+: 489 6 19  e
+: 495 4 19 very
+: 499 5 19 thing
+: 505 4 19  like
+: 510 6 19  that
+- 526
+: 543 7 18 I
+: 553 6 18  kind
+: 559 3 19 a
+: 563 6 19  wish
+: 570 4 19  this
+: 575 8 21  was
+: 585 12 21  o
+: 597 7 26 ver
+- 605
+: 607 6 26 'Cause
+: 614 3 26  it
+: 618 10 23  is
+- 637
+: 640 8 16 n't
+- 657
+: 661 12 14 yet
+- 683
+: 696 4 14 o
+: 700 7 14 ver
+- 717
+: 731 7 14 now
+- 747
+: 751 8 14 Oh
+: 759 7 9 ~
+- 769
+: 771 8 14 We're
+: 780 3 14  the
+: 784 5 14  Won
+: 789 4 14 der
+: 793 8 16 bolts
+: 803 5 16  and
+: 809 5 16  we're
+: 815 7 18  su
+: 822 5 21 per
+: 828 7 25  fast
+: 835 6 26 ~
+- 847
+: 849 7 19 And
+: 858 8 23  we're
+: 868 10 23  cloud--
+: 879 9 21  From
+: 889 9 18  Clouds
+: 899 15 16 dale
+- 924
+: 932 8 16 We
+: 942 7 18  like
+: 950 3 18  it
+: 954 7 18  there
+- 964
+: 966 4 18 'Cause
+: 971 5 18  it's
+: 977 5 19  real
+: 982 4 19 ly
+: 987 6 21  nice
+- 997
+: 999 5 21 And
+: 1005 4 21  the
+: 1010 9 26  trees
+: 1020 9 26  are
+: 1030 10 23  cool
+: 1041 4 19  and
+: 1046 5 19  I
+: 1052 5 16  hope
+: 1058 4 16  this
+: 1063 2 16  is
+: 1066 4 16  o
+: 1070 4 16 ver
+: 1075 20 13  now
+- 1104
+F 1107 10 12 and
+- 1127
+: 1134 5 16 It
+: 1140 7 16  keeps
+: 1150 7 16  go
+: 1157 3 16 ing
+: 1161 9 18  on
+: 1171 6 18  la
+: 1178 3 18  la
+: 1182 7 18  la
+- 1193
+: 1195 7 18 And
+: 1203 4 18  we
+: 1208 5 19  real
+: 1213 7 19 ly
+- 1226
+: 1228 8 23 Love
+: 1237 6 21  the
+: 1245 7 18  town
+: 1252 10 16 ~
+- 1272
+: 1284 3 9 So
+: 1288 3 9  I
+: 1292 7 18  wish
+: 1301 8 18  that
+: 1313 10 19  this
+- 1329
+: 1331 19 21 Song
+- 1359
+: 1363 9 18 Was
+: 1373 4 18  o
+: 1377 9 16 ver
+: 1390 13 14  now
+- 1413
+: 1428 5 14 O
+: 1433 13 16 ver
+- 1456
+: 1473 12 14 now
+- 1511
+: 1579 5 13 O
+: 1584 8 14 ver
+- 1602
+: 1619 10 14 now
+E

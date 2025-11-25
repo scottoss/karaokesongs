@@ -1,0 +1,182 @@
+#TITLE:Let The Rainbow Remind You (Instrumental)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#LANGUAGE:English
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#LANGUAGE:English
+#EDITION:My Little Pony
+#GENRE:Pony
+#BPM:400
+#GAP:8970
+#UPDATED:19-may-2014
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 11 6 Each
+: 12 7 4  one
+: 20 5 2  of
+: 26 4 2  us
+: 31 4 -1  has
+: 37 5 2  some
+: 43 4 4 thing
+* 48 6 4  spe
+: 56 14 2 cial
+- 78
+: 81 5 -1 That
+: 87 6 2  makes
+: 94 4 4  us
+: 101 5 4  diffe
+: 107 17 2 rent
+- 129
+: 131 4 -1 That
+: 137 7 -1  makes
+: 145 3 -1  u
+: 149 6 2 -us
+* 156 23 2  rare
+- 189
+: 202 9 6 We
+: 213 7 4  have
+: 221 3 2  a
+: 225 6 2  light
+: 233 3 -1  that
+* 238 7 2  shines
+: 246 5 4  with
+: 252 5 4 in
+: 258 13 2  us
+- 279
+: 282 5 -1 That
+: 288 4 2  we
+: 294 6 4  were
+: 302 4 4  al
+: 307 15 2 ways
+- 328
+: 331 6 2 Meant
+: 338 3 -1  to
+* 344 18 6  sha
+: 363 5 4 -a
+: 369 25 2 -are
+- 403
+: 407 5 2 And
+: 413 4 2  when
+: 418 5 6  we
+: 425 6 7  come
+: 432 3 7  to
+: 437 4 7 get
+: 444 7 6 her
+- 455
+: 457 5 2 Com
+: 463 5 2 bine
+: 469 4 4  the
+* 475 4 6  light
+: 480 4 6  that
+: 487 7 4  shines
+: 495 4 2  with
+: 500 9 2 in
+- 511
+: 513 6 2 There
+: 520 3 4  is
+: 524 4 6  no
+: 529 6 6 thing
+: 538 3 4  we
+: 543 7 2  can't
+: 551 3 2  do
+- 555
+: 557 5 -3 There
+: 564 3 2  is
+: 569 5 4  no
+: 575 6 6  bat
+: 582 4 6 tle
+* 588 4 4  we
+: 593 5 2  can't
+: 600 9 2  win
+- 611
+: 613 5 2 When
+: 619 5 6  we
+: 625 5 7  come
+: 631 5 7  to
+: 637 4 7 get
+* 644 8 9 her
+- 654
+: 656 5 -3 There'll
+: 663 5 2  be
+: 669 2 4  a
+* 674 7 6  star
+: 682 4 6  to
+: 687 7 4  guide
+: 695 3 2  the
+: 699 9 2  way
+- 710
+: 712 5 2 It's
+: 720 3 -1  in
+: 724 8 2 side
+: 733 3 -1  us
+: 739 6 2  eve
+: 746 10 4 ry
+: 757 17 2  day
+- 780
+: 782 6 2 See
+: 789 4 -1  it
+: 794 27 2  now,
+: 831 5 2  see
+* 837 5 -1  it
+: 844 32 2  now
+- 884
+: 887 5 9 Let
+: 894 3 9  the
+* 899 13 9  rain
+: 913 19 6 bo
+: 933 3 4 -ow
+: 937 5 4  re
+: 943 12 4 mind
+: 956 23 2  you
+- 985
+: 987 5 2 That
+: 994 3 4  to
+: 999 6 4 get
+: 1006 4 2 her
+: 1013 4 2  we
+: 1018 5 -1  will
+: 1025 5 2  al
+* 1031 10 6 ways
+: 1044 31 6  shine
+- 1084
+: 1087 6 9 Let
+: 1094 5 9  the
+: 1100 12 9  rain
+: 1113 20 6 bo
+: 1134 4 4 -ow
+: 1139 3 4  re
+: 1143 13 4 mind
+: 1158 10 6  yo
+* 1169 14 2 -u
+- 1186
+: 1188 6 2 That
+: 1195 4 4  for
+: 1201 4 4 e
+: 1206 4 2 ver
+: 1212 5 2  this
+: 1219 5 -1  will
+: 1225 5 2  be
+: 1232 10 2  our
+: 1244 6 1  ti
+: 1251 29 2 -ime
+- 1333
+: 1488 5 2 Let
+: 1494 5 2  the
+: 1500 13 9  rain
+: 1514 17 6 bo
+: 1533 5 4 -ow
+: 1539 5 4  re
+: 1545 13 4 mind
+: 1559 24 2  you
+- 1587
+: 1589 5 2 That
+: 1596 5 4  to
+: 1603 5 4 get
+: 1611 5 2 her
+: 1619 7 2  we
+: 1628 5 -1  will
+: 1634 9 2  al
+* 1645 28 6 ways
+: 1675 57 2  shine
+E

@@ -1,0 +1,121 @@
+#TITLE:Find the Music in You - Reprise (Instrumental)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:400
+#GAP:318
+#LANGUAGE:English
+#GENRE:Pony
+#EDITION:My Little Pony
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 4 4 There's
+: 6 6 4  mu
+: 13 5 1 sic
+: 21 3 1  in
+: 25 4 -3  the
+: 30 6 -1  tree
+: 40 8 2 tops
+- 52
+: 56 4 1 And
+: 61 3 2  there's
+: 65 4 4  mu
+* 70 6 9 sic
+: 78 4 6  in
+: 83 4 2  the
+: 89 15 4  vale
+- 109
+: 114 6 4 And
+: 122 6 4  all
+: 130 4 1  a
+: 136 7 1 round
+: 145 4 -3  the
+: 151 3 2  mu
+: 155 5 1 sic
+: 161 7 2  fills
+: 170 3 6  the
+: 176 18 4  sky
+- 206
+: 230 6 4 There's
+: 238 5 4  mu
+: 244 6 1 sic
+: 252 5 2  by
+: 259 4 4  the
+: 264 4 6  ri
+* 271 8 4 ver
+- 285
+: 290 2 2 And
+: 293 3 4  there's
+: 297 5 6  mu
+* 303 5 9 sic
+: 310 3 6  in
+: 315 4 2  the
+: 321 8 4  grass
+- 337
+: 348 3 4 And
+: 352 2 6  the
+: 355 5 7  mu
+: 361 6 9 sic
+: 368 8 9  makes
+: 377 2 7  your
+: 380 5 6  heart
+* 386 11 4  soar
+: 398 3 4  in
+: 402 5 2  re
+: 408 39 4 ply
+- 490
+: 537 4 4 You've
+: 543 5 4  got
+: 549 4 4  to
+: 554 5 4  look
+: 561 4 9  in
+* 569 7 9 side
+: 577 3 4  and
+: 584 25 4  find
+- 630
+: 653 3 4 The
+: 657 5 4  mu
+: 663 6 9 sic
+: 670 8 9  deep
+: 679 5 4  in
+* 686 9 9 side
+: 697 35 11  you
+- 752
+: 769 5 11 'Cause
+: 776 6 11  when
+: 783 4 6  you
+: 788 6 11  look
+: 796 3 6  in
+: 801 7 11 side
+: 809 7 13  you'll
+* 819 6 11  se
+* 826 4 6 -e
+: 831 15 6  it
+- 870
+: 885 6 3 You're
+: 892 4 1  gon
+: 897 4 -1 na
+* 903 8 1  find
+: 914 6 3  it
+: 921 4 1  gon
+: 926 5 -1 na
+: 934 58 6  find
+- 997
+: 999 5 8 Got
+: 1005 2 8  the
+: 1008 5 8  mu
+: 1014 8 6 sic
+- 1025
+: 1027 5 13 Got
+: 1033 3 13  the
+: 1037 5 13  mu
+: 1043 7 11 sic
+- 1053
+: 1055 6 15 Got
+: 1062 3 15  the
+: 1066 5 15  mu
+* 1073 8 11 sic
+: 1083 10 13  in
+: 1095 11 15  you
+E

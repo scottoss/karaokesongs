@@ -1,0 +1,73 @@
+#TITLE:Applejack's Lullaby
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#VIDEO:video.mp4
+#BPM:400
+#GAP:854
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:24-apr-2015
+: 0 6 -1 Hush
+: 10 5 -1  now,
+: 17 2 -1  lit
+: 20 4 -1 tle
+: 26 6 -1  sis
+: 36 8 1 ter
+- 44
+: 46 4 -1 You're
+* 51 5 -1  loved
+: 59 5 -2  by
+: 66 7 -2  all,
+: 74 3 -4  you
+: 78 8 -2  know
+- 96
+: 104 3 -6 You'll
+: 108 4 1  ne
+: 114 2 1 ver
+: 118 5 1  lose
+: 126 4 1  their
+: 133 6 1  friend
+: 141 10 3 ship
+- 153
+: 155 4 1 No
+: 161 4 1  mat
+: 166 3 -1 ter
+: 171 3 -1  where
+: 176 3 -2  you
+: 181 9 -1  go
+- 200
+: 209 3 -6 There
+: 214 4 3  ain't
+: 220 4 3  no
+* 228 7 3  call
+: 237 3 1  to
+: 243 5 3  wor
+: 249 7 6 ry
+- 263
+: 266 5 4 So
+: 274 5 4  don't
+: 281 4 1  you
+: 287 8 1  cry
+: 296 3 3  or
+: 302 9 4  fret
+- 321
+: 330 3 4 A
+: 335 4 3  cu
+: 340 3 3 tie
+: 345 7 3  mark
+: 355 6 1  won't
+: 363 7 1  change
+: 372 8 -1  you
+- 389
+: 392 4 -1 No
+: 397 6 -2  mat
+: 404 4 -6 ter
+* 410 9 3  what
+: 421 5 1  you
+: 427 9 -1  get
+E

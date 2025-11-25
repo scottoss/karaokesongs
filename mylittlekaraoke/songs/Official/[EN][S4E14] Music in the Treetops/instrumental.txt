@@ -1,0 +1,114 @@
+#TITLE:Music in the Treetops (Instrumental)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:400
+#GAP:13132
+#LANGUAGE:English
+#GENRE:Pony
+#EDITION:My Little Pony
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 5 4 There's
+: 7 5 4  mu
+: 14 5 1 sic
+: 21 6 1  in
+: 30 3 -3  the
+: 35 4 -1  tree
+* 40 7 2 tops
+- 52
+: 54 4 1 And
+: 59 3 2  there's
+: 63 6 4  mu
+* 72 8 9 sic
+: 83 3 6  in
+: 87 4 2  the
+: 92 11 4  vale
+- 111
+: 114 5 4 And
+: 122 6 4  all
+: 129 3 1  a
+: 134 7 1 round
+: 143 5 -3  me
+* 149 7 2  mu
+: 157 4 1 sic
+: 163 8 2  fills
+: 173 2 6  the
+: 177 34 4  sky
+- 221
+: 229 5 4 There's
+: 236 7 4  mu
+: 244 5 1 sic
+: 250 9 2  by
+: 260 4 4  the
+* 265 4 6  ri
+: 271 6 4 ver
+- 283
+: 285 3 1 And
+: 289 5 4  there's
+: 296 4 6  mu
+: 302 8 9 sic
+: 313 4 6  in
+* 318 3 2  the
+: 322 11 4  grass
+- 339
+: 342 5 4 And
+: 348 3 6  the
+: 352 6 7  mu
+: 359 5 9 sic
+: 365 10 9  makes
+: 376 3 7  your
+* 380 7 6  heart
+: 390 9 4  soar
+: 402 3 4  in
+: 406 3 2  re
+: 410 40 4 ply
+- 460
+: 467 28 9 Ah
+: 496 28 8  ah
+: 526 11 9  ah
+* 539 12 13  ah
+: 552 12 11  ah
+: 565 12 8  ah
+- 580
+: 582 28 9 Ah
+: 612 25 8  ah
+: 639 13 9  ah
+: 653 12 14  ah
+: 667 17 11  ah
+- 693
+: 697 4 7 Ah
+: 706 3 11  ah
+: 710 8 14  ah
+: 726 3 6  ah
+: 735 3 9  ah
+* 739 9 13  ah
+- 754
+: 756 4 7 Ah
+: 764 3 11  ah
+: 769 8 16  ah
+: 778 5 14  ah
+: 785 3 6  ah
+: 792 3 9  ah
+: 798 8 13  ah
+- 809
+: 811 13 11 Ah
+: 826 14 6  ah
+: 842 11 2  ah
+: 855 11 4  ah
+- 868
+: 870 4 4 Ah
+: 878 3 1  ah
+: 884 10 9  ah
+: 898 4 6  ah
+: 908 3 2  ah
+: 913 9 11  ah
+- 926
+: 928 4 6 Ah
+: 937 3 2  ah
+: 942 12 9  ah
+* 956 12 11  ah
+: 972 12 16  ah
+: 986 36 21  ah
+E

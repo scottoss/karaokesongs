@@ -1,0 +1,367 @@
+#TITLE:The Super Duper Party Pony (Instrumental)
+#ARTIST:My Little Pony
+#CREATOR:Renard/Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#YEAR:2014
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:300.68
+#GAP:2609
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 3 -3 The
+: 4 4 -1  Su
+: 9 3 -1 per
+: 13 3 -1  Du
+: 16 3 -1 per
+* 21 3 -3  Par
+* 24 3 -6 ty
+: 29 3 -6  Po
+: 32 2 -6 ny
+- 34
+: 36 3 -8 That
+: 40 3 -8  po
+: 44 3 -6 ny
+: 48 3 -8  is
+: 52 7 -3  me
+- 62
+: 64 3 -3 I
+: 68 3 -1  al
+: 72 3 -1 ways
+: 76 3 2  knew
+: 80 3 2  that
+: 84 3 -3  was
+- 87
+: 89 2 -6 The
+: 92 4 -6  kind
+: 97 2 -6  of
+: 100 3 -8  po
+: 104 4 -8 ny
+* 109 3 -6  I
+: 113 3 -8  would
+: 117 8 -10  be
+- 137
+F 141 3 0 Come
+F 145 4 0  on,
+F 150 4 0  po
+F 154 5 0 nies!
+F 161 3 0  Who
+F 165 3 0  here
+F 169 3 0  likes
+F 173 3 0  to
+F 177 5 0  par
+F 182 6 0 ty?
+- 193
+F 195 10 0 Ha-ha!
+F 206 5 0  You
+F 212 3 0  do,
+F 217 2 0  I
+F 220 3 0  can
+F 224 9 0  tell!
+- 238
+: 240 4 -3 When
+: 245 3 -3  I
+: 249 3 -3  was
+: 253 2 -3  but
+: 256 2 -1  a
+: 259 3 -3  lit
+: 262 3 -3 tle
+: 266 3 -3  colt
+- 270
+: 272 3 -3  I
+: 276 3 -1  just
+: 280 3 -5  wan
+* 284 3 2 ted
+: 288 3 -1  to
+: 292 4 -3  play
+- 302
+: 305 3 -4 But
+: 309 2 -3  ev
+: 312 3 -3 ery
+: 316 3 -3 po
+: 320 3 -3 ny
+: 324 3 -3  told
+: 328 2 -3  me
+- 330
+F 331 5 0 "Cheese,
+F 337 2 0  that
+F 340 3 0  fun
+F 344 2 0  just
+F 347 4 0  wastes
+F 352 3 0  the
+F 356 5 0  day"
+- 367
+: 369 2 -8 But
+: 372 4 -6  when
+: 377 3 -6  I
+: 381 3 -6  threw
+* 385 3 -6  a
+: 389 3 -1  par
+: 393 3 -6 ty
+- 396
+: 398 3 -6 And
+: 402 2 -6  I
+: 405 3 -2  bus
+: 409 2 -2 ted
+: 412 3 -2  out
+: 416 4 -2  some
+F 421 5 -1  moves
+- 430
+: 432 3 2 The
+: 436 4 2  po
+: 441 3 -1 nies
+: 445 2 -1  fi
+: 448 3 -1 nally
+* 452 3 -3  saw
+: 456 2 -6  the
+: 459 4 -6  light
+- 463
+: 465 3 -6 And
+: 469 3 -8  got
+: 473 3 -8  in
+: 476 3 -6 to
+: 480 3 -8  the
+: 484 7 -10  groove
+- 501
+: 513 3 -3 The
+: 517 3 -1  Su
+: 521 3 -1 per
+* 525 3 14  Du
+: 529 3 -1 per
+: 533 4 -3  Par
+: 538 3 -6 ty
+: 542 3 -6  Po
+: 546 2 -6 ny
+- 548
+: 549 3 -8 That
+: 553 3 -8  po
+: 557 3 -6 ny
+: 561 3 -8  is
+* 565 7 -3  me
+- 575
+: 577 3 -3 You'll
+: 581 3 -1  ne
+: 585 3 -1 ver
+: 589 3 2  meet
+: 593 3 2  a
+: 597 3 -3 no
+: 601 2 -6 ther
+- 603
+: 605 3 -6 Par
+: 609 3 -6 ty
+: 613 3 -8  po
+: 617 3 -8 ny
+F 621 3 0  quite
+F 625 3 0  like
+F 629 9 0  Cheese!
+- 648
+F 652 3 0 Hey,
+F 656 2 0  good
+F 659 3 0  loo
+F 662 2 0 kin',
+F 665 3 0  want
+F 669 2 0  some
+F 672 2 0  ma
+F 674 2 0 yon
+F 676 7 0 naise?
+- 687
+F 689 4 0 My
+F 694 3 0  par
+F 697 4 0 ties
+F 702 3 0  are
+F 706 3 0  all
+F 710 3 0  off
+F 714 2 0  the
+F 717 2 0  hook
+- 720
+F 722 2 0 I
+F 725 3 0  ne
+F 728 3 0 ver
+F 733 3 0  plan
+F 737 3 0  them
+F 741 3 0  by
+F 745 3 0  the
+F 749 2 0  book
+- 751
+F 752 3 0 I
+F 756 4 0  start
+F 761 3 0  out
+F 765 2 0  fun,
+F 768 3 0  then
+F 772 3 0  whoop
+F 775 3 0 sie
+F 779 3 0  dai
+F 782 4 0 sy
+- 787
+F 789 2 0 Ev
+F 791 2 0 ery
+F 793 2 0 bo
+F 795 2 0 dy
+F 798 2 0  just
+F 801 3 0  gets
+F 805 6 0  cra
+F 811 5 0 zy!
+- 820
+F 822 2 0 Bored
+F 825 2 0  of
+F 828 4 0  snacks
+F 833 4 0  made
+F 838 2 0  by
+F 841 2 0  your
+F 844 5 0  mom?
+- 852
+F 854 2 0 How
+F 857 2 0  'bout
+F 860 1 0  a
+F 862 3 0  gi
+F 865 4 0 ant
+F 870 3 0  par
+F 873 3 0 ty
+F 877 6 0  bomb?
+- 884
+F 886 4 0 Huge
+F 891 3 0  pi
+F 894 4 0 ña
+F 898 3 0 tas
+F 902 2 0  filled
+F 905 3 0  with
+F 909 3 0  cake
+- 912
+F 914 2 0 Or
+F 917 4 0  dive
+F 922 3 0  in
+F 925 3 0 to
+F 929 3 0  my
+F 933 4 0  fruit
+F 938 3 0  punch
+F 942 5 0  lake!
+- 957
+: 977 3 -3 The
+: 981 3 -1  Su
+: 986 3 -1 per
+: 990 3 2  Du
+: 994 3 -1 per
+: 998 3 -3  Par
+: 1002 3 -6 ty
+: 1006 3 -6  Po
+: 1010 2 -6 ny
+- 1012
+: 1014 3 -8 That
+: 1018 3 -8  po
+: 1022 3 -6 ny
+: 1026 3 -8  is
+F 1030 6 0  me
+- 1040
+: 1042 3 -3 You'll
+: 1046 3 -1  ne
+: 1050 3 -1 ver
+* 1054 3 2  meet
+: 1058 3 -1  a
+: 1062 3 -3 no
+: 1066 2 -6 ther
+- 1068
+: 1070 3 -6 Par
+: 1074 3 -6 ty
+: 1078 8 -8  po
+: 1087 6 -8 ny
+: 1094 6 -6  quite
+: 1102 5 -8  like
+: 1108 30 -6  Cheese
+- 1143
+F 1145 8 0 C'mon,
+F 1155 7 0  kid,
+F 1163 3 0  take
+F 1167 1 0  it
+F 1169 2 0  for
+F 1172 1 0  a
+F 1174 10 0  spin!
+- 1204
+: 1234 3 -3 Oh,
+: 1238 3 -3  when
+: 1242 3 -3  I
+: 1246 4 -3  throw
+: 1251 2 -3  a
+* 1254 3 -3  Cheese
+: 1258 3 -3  par
+: 1262 2 -3 ty
+- 1264
+: 1266 3 -3 Be
+: 1270 3 -1  sure
+: 1274 3 -5  to
+* 1278 3 2  not
+: 1282 3 -1  be
+: 1286 9 -3  lame
+- 1297
+F 1299 2 0 And
+F 1302 3 0  miss
+F 1306 3 0  my
+F 1310 3 0  pie
+F 1314 4 0  fights,
+F 1319 3 0  wa
+F 1322 2 0 cky
+F 1325 4 0  kites
+- 1329
+F 1331 1 0 And
+F 1333 5 0  strea
+F 1338 4 0 mers
+F 1343 2 0  in
+F 1346 3 0  your
+F 1350 11 0  mane
+- 1364
+: 1366 3 -6 Fiz
+: 1370 3 -6 zy
+: 1374 4 -6  drinks,
+: 1379 3 -6  Ha
+: 1382 4 -1 wai
+: 1387 2 -6 ian
+* 1390 3 -6  shirts
+- 1393
+: 1395 3 -6 And
+: 1399 3 -2  brie
+: 1403 3 -2  fon
+: 1407 3 -2 due
+: 1411 2 -2  de
+: 1414 6 -1 light
+- 1425
+: 1427 3 -3 You
+: 1431 3 -1  know
+: 1435 3 -1  that
+: 1439 2 2  with
+: 1442 3 2  Cheese
+: 1446 3 -3  Sand
+: 1450 2 -6 wich
+- 1452
+: 1454 3 -6 You'll
+: 1458 3 -6  be
+: 1462 8 -8  par
+: 1471 7 -8 ty
+: 1479 7 -6 ing
+: 1488 5 -8  all
+* 1494 4 -10  night!
+- 1538
+F 1609 5 0 That's
+F 1615 5 0  right!
+F 1621 4 0  That's
+F 1626 3 0  my
+F 1630 4 0  gua
+F 1634 5 0 ran
+F 1640 6 0 tee!
+- 1649
+: 1651 3 -3 The
+: 1655 3 -1  Su
+: 1659 3 -1 per
+: 1663 3 -1  Du
+: 1667 4 -1 per
+: 1672 3 -3  Par
+: 1676 3 -6 ty
+: 1680 3 -6  Po
+: 1684 2 -6 ny
+- 1686
+: 1687 3 -8 That
+: 1691 4 -8  po
+: 1696 3 -6 ny
+: 1700 4 -8  is
+: 1705 34 -3  me
+E

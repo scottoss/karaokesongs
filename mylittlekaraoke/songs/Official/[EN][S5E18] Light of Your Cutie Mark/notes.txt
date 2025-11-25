@@ -1,0 +1,330 @@
+#TITLE:Light of Your Cutie Mark
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:400
+#GAP:1200
+#EDITION:My Little Pony
+#LANGUAGE:English
+#GENRE:Pony
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATE:18-oct-2015
+F 0 4 0 Where
+F 5 3 0  is
+F 9 5 0  she
+F 18 5 0  go
+F 23 3 0 ing?
+- 31
+F 33 4 0 Where
+F 38 2 0  do
+F 41 2 0  you
+F 45 9 0  think?
+- 64
+F 68 3 0 C
+F 71 8 0 'mon,
+F 82 9 0  af
+F 91 3 0 ter
+F 95 8 0  her!
+- 108
+F 110 7 0 Wait!
+F 124 7 0  I'm
+F 132 3 0  com
+F 135 4 0 ing
+F 141 9 0  too!
+- 159
+: 163 4 4 Cu
+: 168 4 4 tie
+: 173 7 4  Mark
+: 185 4 2  Cru
+: 190 5 2 sa
+: 196 7 4 ders
+- 205
+: 207 3 4 Get
+: 212 10 7  out
+: 223 4 7  of
+* 229 4 9  my
+: 234 8 4 -y
+: 243 5 2  wa
+: 250 13 4 -ay
+- 289
+: 329 5 4 Those
+: 335 4 4  po
+: 340 4 4 nies
+: 345 4 4  need
+: 350 4 4  to
+: 355 4 4  know
+: 360 4 4  the
+: 365 6 4  truth
+- 373
+: 375 5 0 And
+: 381 5 -1  they'll
+: 387 4 0  hear
+: 392 3 0  it
+: 396 5 -1  from
+: 402 9 0  me
+: 413 6 -1 -e
+- 445
+F 493 12 0 STOP!
+- 511
+: 513 6 4 Dia
+: 520 4 4 mond
+: 525 6 2  Ti
+: 532 4 2 a
+: 537 7 4 ra,
+: 547 5 4  this
+: 553 4 2  is
+: 558 7 7  not
+: 568 4 4  the
+: 574 19 4  way
+- 619
+: 669 5 4 We
+: 675 4 4  know
+: 680 5 4  you're
+: 686 4 4  bet
+: 691 4 4 ter
+: 696 5 2  than
+: 702 7 4  this
+* 717 6 -1  hos
+: 726 4 0 ti
+: 733 8 4 li
+: 744 12 4 ty
+- 782
+: 845 8 4 You
+: 856 6 4  don't
+: 863 3 4  e
+: 867 5 4 ven
+: 874 17 6  know
+: 893 6 6  me
+: 900 4 7 -e
+* 906 10 7  at
+: 917 4 7  a
+: 922 5 4 -all
+- 929
+: 931 10 4 Don't
+: 944 4 4  un
+: 948 4 4 der
+: 952 6 4 stand
+: 959 3 4  the
+: 963 5 11  mea
+* 969 10 11 ning
+: 980 5 9  of
+: 990 9 7  my
+: 1001 7 4  fall
+- 1013
+: 1015 5 4 What
+: 1021 4 4  my
+: 1027 5 4  fami
+: 1033 4 4 ly
+: 1038 5 4  would
+: 1044 9 6  think
+: 1054 5 6  if
+: 1060 6 6  I
+: 1067 7 6  e
+: 1076 6 7 ver
+- 1088
+: 1090 6 11 Fail
+: 1097 10 11  at
+: 1108 9 9  a
+: 1118 4 7 ny
+: 1123 28 7 thing
+- 1161
+: 1187 5 11 I'm
+: 1193 3 11  a
+: 1198 5 11  dia
+: 1204 4 11 mond
+: 1209 5 9  that
+: 1215 13 11  means
+* 1229 4 14  you
+: 1235 10 9  ne
+: 1246 7 7 ver
+: 1257 5 7  break
+- 1264
+: 1266 5 11 No
+: 1272 4 11  mat
+: 1278 4 11 ter
+: 1284 5 11  what
+: 1290 3 11  may
+: 1294 5 9  the
+: 1300 9 11  cost
+: 1311 4 11  of
+: 1316 4 14  the
+: 1321 11 9  path
+: 1333 7 7  I
+: 1343 6 4  take
+- 1352
+: 1354 5 11 What
+: 1359 4 11 e
+: 1363 5 11 ver
+: 1369 5 11  I
+: 1375 3 11  have
+: 1379 3 9  to
+: 1384 9 11  do
+- 1398
+: 1400 5 6 To
+: 1407 10 6  win
+: 1418 4 6  in
+: 1424 4 7  the
+: 1429 25 7  end
+- 1480
+F 1527 10 9 STOP!
+- 1545
+: 1548 6 4 This
+: 1555 4 2  is
+: 1560 8 4  not
+* 1570 8 7  the
+: 1581 7 6  ans
+: 1591 12 4 wer
+- 1610
+F 1613 8 5 WAIT!
+- 1630
+: 1634 5 4 And
+: 1640 4 2  it's
+: 1645 10 4  plain
+: 1656 8 12 ly
+: 1667 16 11  seen
+- 1685
+F 1687 4 0 LIS
+F 1693 10 0 TEN!
+- 1710
+: 1713 5 4 You
+: 1719 5 4  can't
+: 1725 3 2  re
+: 1731 9 4 deem
+: 1742 7 7  your
+: 1752 5 6 self
+- 1759
+: 1761 5 4 But
+: 1767 4 4  by
+* 1773 6 11  hel
+* 1780 9 11 ping
+: 1790 7 9  o
+: 1798 6 7 thers,
+: 1805 4 7  not
+: 1810 5 6  by
+: 1816 4 7  be
+: 1822 8 9 ing
+: 1833 15 4  mean
+- 1858
+: 1869 7 6 We
+: 1879 5 6  know
+: 1885 5 6  you
+: 1891 8 7  want
+* 1902 7 7  friends
+: 1912 4 4  who
+: 1917 4 4  ad
+: 1922 5 9 mi
+: 1929 5 7 re
+: 1937 8 7  you
+- 1951
+: 1953 7 7 You
+: 1964 5 7  wan
+: 1970 4 7 na
+: 1975 5 7  be
+: 1981 4 9  the
+* 1987 5 11  star
+: 1993 4 11  with
+: 1998 5 11  all
+: 2004 3 11  the
+: 2008 5 9  po
+: 2014 6 7 wer
+: 2023 6 7  too
+- 2032
+: 2034 4 6 But
+: 2039 6 6  there's
+: 2046 3 6  a
+: 2050 5 6  bet
+: 2056 5 6 ter
+* 2062 10 7  way
+- 2080
+: 2083 5 4 There's
+: 2089 3 4  a
+* 2093 4 9  bet
+* 2098 7 7 ter
+: 2108 32 7  wa
+: 2141 9 9 -a
+: 2151 25 11 -ay
+- 2186
+: 2211 7 7 There's
+: 2221 4 7  so
+: 2227 6 2  much
+: 2236 8 4  more
+: 2247 8 7  still
+: 2258 7 9  left
+: 2269 9 7  to
+- 2283
+: 2285 10 11 Learn
+: 2296 4 11  a
+: 2301 9 9 bout
+* 2312 6 7  your
+: 2322 12 7 self
+- 2344
+: 2348 7 11 See
+: 2356 6 11  the
+: 2364 9 11  light
+: 2375 7 14  that
+: 2386 12 9  shines
+: 2399 7 7  in
+: 2408 10 7  you
+- 2425
+: 2428 5 2 We
+: 2434 5 2  know
+: 2440 4 4  you
+: 2445 6 7  can
+: 2452 5 9  be
+: 2460 8 11  some
+: 2470 9 9 po
+: 2482 7 7 ny
+: 2494 13 7  else
+- 2517
+: 2551 4 7 You
+: 2557 4 2  can
+: 2563 7 7  stop
+* 2573 8 9  right
+: 2585 13 9  now
+- 2608
+: 2615 6 7 And
+: 2626 9 11  try
+: 2636 4 11  a
+: 2641 9 14 no
+: 2651 8 6 ther
+: 2663 13 7  start
+- 2686
+: 2694 5 2 You'll
+: 2700 5 4  fina
+: 2706 5 7 lly
+: 2712 5 9  free
+: 2718 6 9  your
+: 2726 10 9 self
+: 2737 6 7  from
+: 2744 4 7  the
+: 2749 14 7  dark
+- 2775
+: 2779 5 2 And
+: 2785 4 4  see
+: 2790 4 7  the
+: 2796 12 7  light
+- 2819
+: 2823 4 2 And
+: 2829 4 4  see
+: 2834 4 7  the
+* 2839 5 9  light
+: 2845 4 9  of
+: 2850 4 11  your
+: 2856 4 9  cu
+: 2861 4 7 tie
+: 2867 18 7  mark
+- 2938
+F 3049 3 0 E
+F 3052 5 0 very
+F 3058 5 0 po
+F 3064 6 0 ny!
+F 3075 7 0  I
+F 3083 5 0  have
+F 3089 2 0  an
+F 3092 4 0  an
+F 3096 9 0 noun
+F 3106 6 0 cement.
+E

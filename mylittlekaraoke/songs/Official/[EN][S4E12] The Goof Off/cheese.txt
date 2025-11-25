@@ -1,0 +1,205 @@
+#TITLE:The Goof Off (as Cheese)
+#ARTIST:My Little Pony
+#CREATOR:Renard/Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#YEAR:2014
+#MP3:cheese.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:400
+#GAP:1531
+#COMMENT:http://www.mylittlekaraoke.com/
+: 427 3 2 If
+: 431 4 2  you
+: 436 3 2  wan
+: 440 4 2 na
+: 446 9 -1  be
+: 458 3 -1  the
+* 462 7 2  life
+: 471 3 2  of
+: 475 3 2  the
+: 479 5 -1  par
+: 485 3 -3 ty
+- 488
+: 489 3 -5 But
+: 493 3 -5  you're
+: 497 4 2  fee
+: 502 3 2 ling
+: 506 5 2  just
+: 512 2 2  a
+: 515 4 -1  lit
+: 519 4 -3 tle
+* 525 5 -5  up
+: 532 10 -3 tight
+- 551
+: 559 5 -5 Call
+: 565 3 -5  the
+: 569 5 -5  doc
+: 574 3 -5 tor,
+: 578 3 -5  beg
+: 582 3 -3  and
+* 586 8 -1  plead
+- 593
+F 594 5 0 "Doc
+F 600 3 0 tor,
+F 605 3 0  tell
+F 609 3 0  me
+F 613 4 0  what
+F 618 3 0  I
+F 622 8 0  need"
+- 629
+: 631 3 -1 Try
+: 635 3 0  to
+: 639 4 2  put
+: 644 3 2  a
+: 648 3 2  lit
+: 652 3 2 tle
+* 656 10 14  cheese
+: 667 3 -5  in
+: 671 3 -1  your
+: 675 10 -5  knees!
+- 1160
+: 1204 4 5 Just
+: 1209 3 5  let
+: 1213 3 5  your
+: 1217 3 0 self
+: 1221 4 0  go
+* 1226 4 5  flop
+: 1232 5 5 py
+- 1239
+: 1239 4 5 For
+: 1244 4 7  now
+: 1249 4 7  this
+: 1254 3 2  is
+: 1258 4 2  your
+: 1263 9 7  chance
+- 1274
+: 1276 3 4 Pre
+: 1279 4 4 tend
+: 1284 3 4  you
+: 1288 3 4  have
+: 1293 4 4  no
+: 1298 4 4  bones
+- 1302
+: 1302 4 4  and
+: 1307 3 4  do
+: 1311 3 2  the
+: 1315 4 0  rub
+: 1319 4 0 ber
+: 1324 3 2  chic
+: 1328 4 4 ken
+* 1333 9 5  dance!
+- 1352
+F 1360 5 0 Hit
+F 1366 5 0  it,
+F 1373 8 0  Bone
+F 1382 15 0 less!
+- 1760
+: 1773 4 0 'Cause
+: 1778 5 2  I
+: 1785 4 0  like
+: 1790 3 -1  to
+: 1794 3 0  make
+: 1798 3 -1  you
+: 1802 4 -3  smile,
+* 1807 4 -1  smile,
+: 1812 7 -5  smile
+- 1820
+: 1822 4 -5 Yes
+: 1827 3 -1  I
+: 1831 8 -3  do
+- 1842
+: 1844 3 -5 It
+: 1848 4 2  fills
+: 1853 3 2  my
+: 1857 4 0  heart
+: 1862 2 -1  with
+: 1865 4 0  sun
+: 1870 4 -1 shine
+: 1875 3 -3  all
+: 1879 3 -1  the
+: 1883 6 -5  while
+- 1891
+: 1893 3 -5 Yes
+: 1897 3 -1  it
+: 1901 9 -3  does
+- 1914
+: 1916 3 0 'Cause
+: 1921 3 2  all
+: 1925 3 2  I
+: 1929 3 0  real
+: 1933 3 -1 ly
+: 1937 3 0  need's
+: 1941 2 -1  a
+: 1944 4 -3  smile,
+: 1949 4 -1  smile,
+: 1954 6 -5  smile
+- 1962
+: 1964 3 -5 From
+: 1968 4 -3  these
+* 1973 3 -1  hap
+* 1977 3 -1 py
+: 1981 5 -1  friends
+: 1987 3 -3  of
+: 1991 9 -5  mine
+- 2031
+F 2033 2 0 What
+F 2035 1 0  do
+F 2036 2 0  you
+F 2039 10 0  mean?
+- 2051
+F 2053 4 0 I
+F 2058 3 0  have
+F 2062 3 0  no
+F 2065 3 0  i
+F 2068 4 0 dea
+F 2072 3 0  what
+F 2075 3 0  you're
+F 2078 4 0  tal
+F 2082 4 0 king
+F 2087 2 0  ab
+F 2089 6 0 out
+- 2260
+: 2270 4 4 Why
+: 2275 4 5  should
+: 2280 3 5  you
+: 2284 3 5  com
+: 2288 3 5 pro
+: 2292 10 2 mise?
+- 2305
+F 2305 4 0  Try
+F 2310 4 0  this
+F 2315 4 0  one
+F 2320 2 0  on
+F 2323 3 0  for
+F 2327 11 0  size
+- 2339
+F 2341 4 0 'Cause
+F 2346 4 0  no
+F 2350 4 0 thing
+F 2355 3 0  quite
+F 2358 4 0  says
+F 2364 5 0  cheer
+- 2372
+F 2372 4 0 Like
+F 2377 3 0  the
+F 2382 4 0  ring
+F 2387 3 0 ing
+F 2391 3 0  in
+F 2395 4 0  your
+F 2400 8 0  ear
+- 2408
+F 2409 3 0 Of
+F 2412 3 0  the
+F 2416 5 0  Cheese
+F 2422 4 0  Su
+F 2428 5 0 preme
+F 2435 4 0  Can
+F 2439 4 0 non
+F 2444 4 0 ball
+F 2448 5 0  Sur
+F 2454 19 0 prise!
+E

@@ -1,0 +1,197 @@
+#TITLE:The Spectacle (Instrumental)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:400
+#GAP:3720
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#YEAR:2016
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:09-mar-2016
+: 0 5 1 Time
+: 7 4 1  for
+: 13 3 3  the
+* 18 6 4  spec
+: 26 3 1 ta
+: 31 8 1 cle
+- 45
+: 48 5 1 Time
+: 55 5 1  for
+: 62 2 1  the
+: 67 6 1  sho
+* 75 7 3 -ow
+- 93
+: 97 4 1 The
+: 105 6 1  lights
+: 112 2 3  are
+* 117 11 4  bright
+: 129 5 4  and
+: 136 3 1  the
+: 142 5 4  co
+: 149 9 6 lors
+: 160 5 4  glo
+: 166 11 1 -ow
+- 187
+: 197 5 1 I'm
+: 203 4 1  not
+: 209 5 3  just
+: 216 4 4  a
+: 222 3 1 ny
+: 227 7 1 po
+: 236 5 1 ny
+- 245
+: 247 4 8 I
+: 252 5 8  think
+: 259 4 6  you
+: 265 4 6  kno
+: 271 10 8 -ow
+- 290
+: 294 5 8 The
+: 301 7 8  time
+: 309 5 6  is
+: 315 12 8  now,
+: 328 5 8  it's
+: 334 4 6  a
+: 339 5 8 bout
+: 346 4 8  to
+: 356 5 8  blo
+: 362 55 9 -o
+: 422 4 9 -o
+: 430 3 9 -o
+: 434 3 9 -o
+: 438 20 9 -ow!
+- 468
+: 486 5 3 Razz
+: 492 5 3 le
+: 498 5 3  dazz
+: 504 8 1 le
+- 522
+: 535 6 3 Glitz
+: 543 4 3  and
+: 548 4 3  gla
+: 554 9 4 -am
+- 573
+: 584 6 3 Turn
+: 591 4 3  it
+: 597 6 3  all
+: 604 5 1  up,
+: 622 4 1  it's
+: 628 4 3  a
+* 634 5 3  spec
+: 640 4 1 ta
+: 646 3 1 cl
+: 650 3 1 -l
+: 654 4 1 -le
+- 668
+: 683 4 3 Razz
+: 689 4 3 le
+: 695 5 3  dazz
+: 701 6 1 le
+- 717
+: 732 6 3 Glitz
+: 739 3 3  and
+: 744 6 3  gla
+: 751 7 4 -am
+- 768
+: 781 6 3 Turn
+: 788 4 3  it
+* 794 5 3  all
+: 801 5 1  up,
+: 819 5 1  it's
+: 826 3 3  a
+: 831 5 3  spec
+: 837 5 1 ta
+: 843 14 1 cle
+- 867
+: 880 6 9 Give
+: 887 5 9  me
+* 893 6 9  mo
+: 900 17 8 -ore
+- 926
+: 929 5 6 Razz
+: 936 5 6 le
+: 942 5 6  dazz
+: 949 8 8 le
+- 967
+: 978 6 4 Glit
+: 985 4 4 ter
+* 992 9 1  eyes,
+: 1004 4 4  big
+: 1009 5 3  sur
+: 1015 9 1 prise
+- 1026
+: 1028 10 9 Lights,
+: 1041 6 9  came
+: 1048 9 8 ras
+- 1065
+: 1068 9 6 Ah
+* 1079 10 13 -ah
+: 1090 8 6 -ah
+: 1102 18 8 -ah
+: 1121 6 6 -ah
+: 1128 4 8 -ah
+: 1134 4 9 -ah
+: 1140 18 8 -ah
+- 1162
+: 1164 12 8 Ah
+: 1177 10 8  ah
+: 1189 10 8  ah
+: 1202 5 8  a
+: 1208 4 8 -a
+: 1214 5 8 -a
+: 1220 2 8 -a
+: 1223 2 8 -a
+: 1226 2 8 -a
+: 1229 3 8 -a
+: 1233 2 8 -a
+: 1236 2 8 -a
+: 1239 3 8 -a
+: 1245 5 8 -ah
+- 1260
+: 1275 6 3 Razz
+: 1282 4 3 le
+* 1288 5 3  dazz
+: 1294 7 1 le
+- 1311
+: 1324 6 3 Glitz
+: 1331 3 3  and
+: 1336 7 3  gla
+: 1344 6 4 -am
+- 1360
+: 1373 6 3 Turn
+: 1380 5 3  it
+: 1386 5 3  all
+: 1392 6 1  up,
+: 1411 4 1  it's
+: 1416 4 3  a
+: 1422 6 3  spec
+: 1429 4 1 ta
+: 1434 4 1 cl
+: 1439 4 1 -l
+: 1444 3 1 -le
+- 1457
+: 1466 5 3 Hear
+: 1472 5 3  the
+* 1479 5 1  app
+: 1485 14 1 lause
+- 1511
+: 1515 5 3 Here
+: 1521 6 3  to
+: 1528 5 4  im
+: 1534 10 4 press
+- 1554
+: 1564 5 3 Not
+: 1571 4 3  just
+: 1577 4 3  a
+: 1583 4 3  po
+: 1589 6 1 ny,
+: 1601 5 1  I
+: 1608 4 1  am
+: 1614 5 1  the
+* 1621 9 1  Coun
+: 1632 11 1 tess!
+E
