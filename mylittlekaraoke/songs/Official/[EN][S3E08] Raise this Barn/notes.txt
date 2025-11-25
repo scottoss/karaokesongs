@@ -1,0 +1,445 @@
+#TITLE:Raise This Barn
+#ARTIST:My Little Pony
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#VIDEOGAP:0.2
+#BPM:259.23
+#GAP:1257
+#CREATOR:Smilley
+#UPDATED:13-may-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+F 0 33 2 Yahoo!
+- 40
+: 47 5 2 Raise
+: 52 3 2  this
+: 56 6 2  barn
+- 64
+: 64 4 7 Raise
+: 68 2 7  this
+: 72 7 7  barn
+- 80
+: 80 5 6 One,
+: 88 5 6  two,
+: 96 5 6  three,
+: 104 3 4  four
+- 108
+: 108 2 1 To
+: 112 4 2 ge
+: 117 2 2 ther
+: 120 3 2  we
+: 124 3 6  can
+* 128 4 7  raise
+: 132 2 7  this
+: 136 5 7  barn
+- 144
+: 145 4 6 One,
+* 153 4 9  two,
+: 161 5 1  three,
+: 169 4 2  four
+- 175
+: 177 2 2 Up,
+: 181 2 2  up,
+: 185 2 2  up,
+: 192 3 7  go
+: 196 2 7  the
+* 200 6 7  beams
+- 208
+: 208 2 6 Ham
+: 210 2 6 mer
+: 212 3 6  those
+: 216 5 6  joints,
+- 224
+: 224 4 6 Work
+: 229 2 4  in
+: 232 5 4  teams
+- 239
+: 240 2 2 Turn
+: 242 2 2  'em
+: 245 2 2  round
+: 248 3 2  quick
+: 252 2 6  by
+: 254 1 6  the
+: 256 4 7  right
+: 260 3 7  el
+* 264 4 9 bow
+- 270
+: 271 3 6 Grab
+: 274 1 6  a
+: 275 3 6  new
+: 279 4 9  part
+: 284 3 4 ner
+- 288
+: 288 2 1 Here
+: 291 3 1  we
+* 295 4 2  go
+- 309
+F 323 4 0 Come
+F 328 4 0  on,
+F 333 4 0  Apple
+F 338 8 0  family
+- 350
+F 352 4 0 Let's
+F 356 4 0  get
+F 362 4 0  to
+F 366 3 0  it!
+F 371 35 0  Whoo-hoo!
+- 410
+: 432 4 2 Raise
+: 436 2 2  this
+: 440 6 2  barn
+- 447
+: 447 5 7 Raise
+: 452 2 7  this
+: 455 7 7  barn
+- 463
+: 463 5 6 One,
+: 471 4 6  two,
+: 479 5 6  three,
+: 487 3 4  four
+- 491
+: 491 3 1 To
+: 495 4 2 ge
+: 499 3 2 ther
+: 503 3 2  we
+: 507 3 6  can
+: 511 4 7  raise
+: 515 2 7  this
+* 519 5 7  barn
+- 527
+: 527 5 6 One,
+: 535 4 9  two,
+: 543 5 1  three,
+: 551 4 2  four
+- 558
+: 559 1 2 Fi
+: 560 3 2 nish
+: 564 1 2  the
+: 567 3 2  frame
+- 570
+: 570 2 4 Re
+: 574 3 7 cyc
+: 578 4 7 ling
+: 582 5 7  wood
+- 591
+: 591 2 6 Wor
+: 594 3 6 king
+: 599 3 6  hard,
+: 603 3 6  you're
+* 607 4 6  do
+: 611 3 4 ing
+: 615 4 4  good
+- 621
+: 623 2 2 Turn
+: 625 2 2  'em
+: 627 3 2  round
+: 631 3 2  quick
+: 634 2 6  by
+: 637 1 6  the
+: 639 4 7  right
+: 643 3 7  el
+* 647 3 9 bow
+- 654
+F 654 4 0 Grab
+F 658 1 0  a
+F 659 2 0  new
+F 662 4 0  part
+F 666 3 0 ner
+- 670
+F 671 3 0 Here
+F 674 3 0  we
+F 678 4 0  go
+- 683
+F 684 7 0 Yeah!
+- 693
+F 698 19 0 Whoo
+F 719 6 0 -whee!
+- 735
+: 751 4 9 Raise
+: 755 3 9  this
+* 759 3 9  ba
+: 762 3 6 -arn
+- 766
+: 766 5 11 Raise
+: 771 3 9  this
+: 774 5 9  barn
+- 780
+: 782 5 9 One,
+: 790 5 9  two,
+: 798 5 7  three,
+: 806 5 6  four
+- 812
+: 812 2 8 To
+* 814 4 9 ge
+: 818 3 9 ther
+: 822 3 9  we
+: 826 3 6  can
+: 830 4 11  raise
+: 834 3 9  this
+: 839 6 9  barn
+- 846
+: 846 5 6 One,
+: 854 5 9  two,
+: 862 4 1  three,
+: 870 5 2  four
+- 877
+: 877 5 2 Slats
+: 883 2 2  of
+: 886 3 2  wood
+: 889 4 6  come
+* 894 3 7  off
+: 898 2 7  the
+: 901 6 7  ground
+- 908
+: 910 4 6 Hold
+: 914 3 6  'em
+: 918 4 6  up
+: 922 2 6  and
+: 926 4 6  nail
+* 930 3 4  'em
+: 934 5 4  down
+- 940
+: 942 2 2 Turn
+: 944 2 2  'em
+: 946 4 2  round
+: 950 3 2  quick
+: 954 2 6  by
+: 956 1 6  the
+: 957 4 7  left
+: 961 3 7  el
+: 965 4 9 bow
+- 973
+: 973 3 6 Grab
+: 976 2 6  a
+: 978 2 6  new
+* 981 4 9  part
+: 985 3 4 ner
+- 990
+: 990 3 1 Here
+: 993 3 1  we
+: 997 5 2  go
+- 1004
+F 1012 3 0 Come
+F 1015 4 0  on,
+F 1020 7 0  Apples!
+- 1030
+F 1032 3 0 Get
+F 1035 2 0  her
+F 1037 9 0  done!
+- 1055
+: 1069 4 12 Look
+: 1074 3 12  at
+: 1078 3 12  us,
+: 1082 2 7  we're
+: 1085 4 7  fa
+: 1089 3 7 mi
+* 1093 8 9 ly
+- 1100
+: 1100 3 9 Wor
+: 1103 3 9 king
+: 1106 2 9  to
+: 1109 3 9 ge
+: 1113 3 6 ther
+* 1117 3 11  thank
+: 1121 4 9 ful
+: 1126 3 9 ly
+- 1130
+: 1130 3 7 We
+: 1134 3 7  Ap
+: 1137 4 7 ples
+: 1142 3 7  we
+: 1146 3 4  are
+: 1150 3 11  proud
+: 1153 3 9  to
+: 1157 5 9  say
+- 1164
+: 1165 3 9 Stick
+: 1168 3 9  to
+: 1172 3 9 ge
+: 1175 2 9 ther
+: 1177 2 6  the
+* 1181 4 11  po
+: 1185 3 9 ny
+: 1189 5 9  way
+- 1196
+: 1197 3 2 Bow
+: 1200 1 2  to
+: 1201 3 2  your
+: 1205 3 2  par
+: 1209 3 6 tner,
+* 1213 4 7  cir
+: 1217 3 7 cle
+: 1221 5 9  right
+- 1229
+: 1229 4 6 Get
+: 1234 3 6  down
+: 1238 2 6  if
+: 1241 3 6  you're
+: 1245 4 6  scared
+: 1249 2 4  of
+* 1252 6 4  heights
+- 1260
+: 1261 3 2 For
+: 1265 3 2 ward,
+: 1269 3 2  back
+: 1273 3 6  and
+: 1277 4 7  twirl
+: 1281 3 7  a
+* 1284 5 9 round
+- 1288
+: 1288 3 9 The
+: 1292 5 6  barn's
+: 1297 2 6  gon
+: 1299 2 6 na
+: 1301 4 9  be
+: 1305 2 4  the
+: 1308 3 1  best
+: 1312 3 1  in
+: 1316 5 2  town
+- 1322
+F 1322 8 0 Yeah!
+- 1335
+F 1338 29 0 Yee-haw!
+F 1369 17 0  Attagirl!
+- 1380
+F 1387 5 0 All
+F 1392 7 0  right! 
+F 1400 5 0 Let's
+F 1406 4 0  get
+F 1411 5 0  to
+F 1417 2 0  it!
+- 1430
+: 1452 5 2 Raise
+: 1457 2 2  this
+: 1460 7 2  barn
+- 1468
+: 1468 5 7 Raise
+: 1473 2 7  this
+: 1476 7 7  barn
+- 1485
+: 1485 5 6 One,
+: 1493 5 6  two,
+: 1501 5 6  three,
+: 1508 3 4  four
+- 1513
+: 1513 2 2 To
+: 1515 5 2 ge
+: 1520 4 2 ther
+: 1524 3 2  we
+: 1528 3 6  can
+: 1532 4 7  raise
+: 1536 3 7  this
+: 1540 6 7  barn
+- 1548
+: 1548 5 6 One,
+: 1556 5 9  two,
+: 1564 5 1  three,
+: 1572 4 2  four
+- 1578
+F 1579 5 0 Take
+F 1584 3 0  your
+F 1587 8 0  brushes
+- 1595
+F 1595 5 0 Young
+F 1600 2 0  and
+F 1603 6 0  old
+- 1610
+: 1611 2 2 To
+: 1613 3 6 ge
+: 1616 4 6 ther
+: 1620 3 6  paint
+: 1624 2 6  it
+* 1628 4 6  bright
+: 1632 3 4  and
+: 1635 5 4  bold
+- 1642
+: 1644 2 2 Turn
+: 1646 2 2  'em
+: 1648 3 2  round
+: 1651 4 2  quick
+: 1655 3 6  by
+: 1658 1 6  the
+: 1659 4 7  left
+: 1664 2 7  el
+: 1666 5 9 bow
+- 1674
+: 1675 3 6 Grab
+: 1678 1 6  a
+: 1679 3 6  new
+: 1683 5 9  part
+: 1688 3 4 ner
+- 1691
+: 1691 3 1 Here
+: 1695 3 1  we
+: 1699 5 2  go
+- 1708
+: 1778 3 1 We
+: 1782 4 2  raised
+: 1788 3 2  this
+: 1792 5 2  barn
+- 1798
+: 1798 3 6 We
+: 1802 6 7  raised
+: 1809 3 7  this
+: 1815 7 7  barn
+- 1824
+: 1826 6 6 Yes,
+* 1836 9 6  we
+: 1848 13 4  did
+- 1864
+: 1865 4 1 To
+: 1870 5 2 ge
+: 1875 4 2 ther
+: 1881 3 2  we
+: 1885 4 6  sure
+: 1891 6 7  raised
+: 1898 4 7  this
+: 1903 9 7  barn,
+- 1913
+: 1913 8 6 Yes
+: 1925 6 6  we
+: 1931 4 4 -e
+* 1936 12 2  did
+- 1950
+: 1959 3 9 Be
+: 1962 3 9 ing
+: 1965 3 9  to
+: 1969 5 9 ge
+: 1975 4 6 ther
+* 1981 5 11  counts
+: 1988 3 9  the
+: 1992 6 9  most
+- 2000
+: 2001 3 7 We
+: 2004 5 9  all
+: 2009 5 9  came
+: 2014 6 9  here
+: 2020 4 9  from
+: 2025 5 9  coast
+: 2031 4 7  to
+: 2036 8 7  coast
+- 2047
+: 2049 5 6 All
+: 2054 5 6  we
+: 2059 6 6  need
+: 2065 3 2  to
+: 2070 7 7  strive
+: 2077 3 7  to
+: 2082 22 9  be
+- 2108
+: 2111 5 2 Is
+: 2116 12 6  part
+: 2128 4 6  of
+: 2132 6 4  the
+: 2138 4 4  Ap
+: 2142 8 2 ple
+: 2158 16 7  fa
+: 2176 16 9 mi
+* 2193 48 14 ly
+- 2249
+F 2252 9 0 Yeah!
+E

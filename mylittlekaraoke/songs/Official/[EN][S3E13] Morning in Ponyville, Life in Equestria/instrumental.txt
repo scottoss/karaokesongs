@@ -1,0 +1,203 @@
+#TITLE:Morning in Ponyville / Life in Equestria (Instrumental)
+#ARTIST:My Little Pony
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#BPM:373.36
+#GAP:8680
+#CREATOR:Smilley
+#UPDATED:13-may-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 8 2 Mor
+: 9 4 2 ning
+: 14 4 2  in
+: 21 6 4  Po
+: 28 4 6 ny
+* 33 7 7 ville
+: 43 4 6  shim
+: 49 27 2 mers
+- 75
+: 86 9 2 Mor
+: 97 4 2 ning
+: 102 4 2  in
+: 107 5 4  Po
+: 113 4 2 ny
+: 118 7 4 ville
+* 128 16 5  shi
+: 145 5 2 -i
+: 153 9 4 -ines
+- 165
+: 167 3 -3 And
+: 173 8 2  I
+: 182 4 2  know
+: 187 3 2  for
+: 193 4 4  ab
+: 198 4 6 so
+: 203 7 7 lute
+: 214 4 6  cer
+: 220 20 2 tain
+- 248
+: 253 4 4 That
+: 258 3 5  eve
+: 263 3 5 ry
+: 268 4 5 thing
+: 273 3 5  is
+: 278 5 4  cer
+: 284 3 2 tain
+* 289 10 4 ly
+: 306 42 2  fine
+- 368
+: 376 3 -3 There's
+: 380 2 1  the
+: 385 3 2  ma
+: 389 5 2 yor
+: 401 4 2  en
+: 406 4 4  route
+: 411 3 6  to
+* 416 7 7  her
+: 426 6 6  of
+: 433 12 2 fice
+- 452
+: 459 4 -3 There's
+: 464 3 1  the
+: 469 5 2  so
+: 475 3 2 fa
+: 479 8 2  clerk
+: 490 5 4  sel
+: 496 4 6 ling
+: 502 6 7  some
+: 511 13 6  quills
+- 525
+F 525 10 0 Morning,
+F 535 6 0  kid!
+- 546
+: 549 4 2 My
+: 556 8 2  Po
+* 566 7 9 ny
+: 575 10 2 ville
+: 586 4 2  is
+: 591 4 2  so
+: 597 5 5  gen
+: 603 4 2 tle
+: 609 6 5  and
+: 617 11 2  still
+- 632
+: 635 4 2 Can
+: 640 5 5  things
+: 647 3 5  e
+: 651 4 5 ver
+: 656 4 5  go
+: 662 8 5  wrong?
+- 673
+: 673 4 2 I
+: 678 5 2  don't
+: 684 4 4  think
+: 689 4 4  that
+: 695 3 4  the
+* 698 6 6 -ey
+: 705 12 4  will.
+- 759
+: 812 9 6 Mor
+: 823 6 2 ning
+: 830 3 2  in
+: 834 4 2  Po
+: 839 4 4 ny
+: 844 7 6 ville
+: 853 6 7  shim
+: 860 26 9 mers
+- 892
+: 897 10 9 Mor
+: 908 5 6 ning
+: 914 3 2  in
+: 918 6 4  Po
+: 925 4 6 ny
+* 930 6 7 ville
+: 940 15 9  shi
+: 956 5 6 -i
+: 963 9 7 -ines
+- 976
+: 978 4 4 And
+: 983 9 6  I
+: 993 4 2  know
+: 999 4 2  for
+: 1004 4 2  ab
+: 1009 3 4 so
+* 1013 9 6 lute
+: 1024 4 4  cer
+: 1030 22 2 tain
+- 1060
+: 1064 4 2 That
+: 1069 5 5  eve
+: 1075 3 5 ry
+: 1080 4 5 thing
+: 1085 3 5  is
+: 1089 4 4  cer
+: 1094 3 2 tain
+: 1099 15 4 ly...
+- 1300
+: 1374 7 2 Life
+: 1386 5 2  in
+: 1392 4 2  Equ
+: 1397 5 4 es
+: 1403 4 6 tri
+: 1408 4 7 a
+* 1417 5 6  shim
+: 1423 26 9 mers
+- 1454
+: 1459 8 14 Life
+: 1471 5 9  in
+: 1477 3 6  Equ
+: 1481 5 7 es
+: 1487 5 9 tri
+* 1494 4 11 a
+: 1503 15 9  shi
+* 1519 4 6 -i
+: 1524 10 7 -ines
+- 1540
+: 1542 3 4 And
+: 1548 7 6  I
+: 1558 3 2  know
+: 1563 3 2  for
+: 1568 4 2  ab
+: 1573 4 4 -so
+* 1578 9 6 lute
+: 1589 4 4  cer
+: 1596 22 2 tain
+- 1624
+: 1629 4 4 That
+: 1635 8 5  eve
+: 1644 9 9 ry
+: 1656 18 9 thi
+: 1676 20 7 -ing
+- 1706
+: 1713 3 4 Yes
+: 1719 9 5  eve
+: 1730 7 9 ry
+: 1740 15 9 thi
+: 1760 16 10 -ing
+- 1786
+: 1799 3 4 Yes
+: 1805 8 5  eve
+: 1815 8 7 ry
+: 1824 10 9 thing
+: 1835 7 12  is
+: 1844 15 11  cer
+* 1865 37 14 tain
+: 1909 19 16 ly
+: 1931 41 16  fi-
+: 1973 23 14 ine
+- 2001
+: 2006 7 13 It's
+: 2016 86 14  fine
+- 2126
+F 2137 9 0 Yes,
+F 2155 11 0  everything
+F 2166 3 0  is
+F 2169 4 0  gonna
+F 2174 4 0  be
+F 2182 7 0  just
+F 2194 14 0  fine
+E

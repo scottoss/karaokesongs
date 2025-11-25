@@ -1,0 +1,106 @@
+#TITLE:I've got to find a way (Instrumental)
+#ARTIST:My Little Pony
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#BPM:400
+#GAP:8720
+#CREATOR:Smilley
+#UPDATED:13-may-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 1 7 5 I
+: 9 11 7  have
+: 21 10 5  to
+* 34 14 2  find
+: 51 10 5  a
+: 62 20 5  way
+- 97
+: 108 5 5 To
+: 116 8 7  make
+: 128 11 5  this
+* 140 12 2  all
+: 155 5 0  o
+: 160 4 -2 -o
+: 168 21 -2 kay
+- 199
+: 208 3 10 I
+: 214 7 10  can't
+: 222 6 10  be
+: 228 8 9 lieve
+: 238 6 5  this
+: 246 14 2  small
+: 263 5 5  mi
+: 268 5 7 -is
+: 276 28 5 take
+- 315
+: 320 8 2 Could
+: 328 6 5 've
+: 335 7 5  caused
+: 343 11 2  so
+: 356 12 -2  much
+* 370 6 0  he-
+* 376 6 -2 art
+: 382 17 -2 ache
+- 401
+: 403 11 -2 Oh
+: 417 83 5  why,
+- 505
+: 508 7 -2 Oh
+: 521 34 5  why
+* 556 4 3 -e
+* 561 6 2 -y
+* 567 7 3 -e
+: 574 17 2 -y
+- 603
+: 625 22 7 Lo
+: 653 23 9 sing
+* 677 22 10  pro
+: 699 5 7 -o
+: 706 12 7 mise
+- 721
+: 727 6 5 I
+: 735 11 15  don't
+: 747 7 14  kno
+: 754 6 10 -ow
+: 761 10 10  what
+* 774 12 14  to
+: 787 37 12  do
+- 829
+: 840 27 7 See
+: 868 25 10 king
+* 896 18 12  ans
+: 919 14 9 wers
+- 935
+: 939 6 14 I
+: 946 15 15  fear
+: 962 5 14  I
+: 967 3 12 -I
+: 973 13 12  won't
+: 987 10 10  get
+: 998 29 7  through
+- 1035
+: 1040 6 3 To
+: 1046 5 5 -o
+: 1052 56 5  you
+- 1120
+: 1147 10 -2 Oh
+: 1160 80 5  why,
+- 1246
+: 1253 13 -2 Oh
+: 1267 31 5  why
+* 1300 6 3 -e
+* 1307 6 2 -y
+* 1314 7 3 -e
+: 1322 34 2 -y
+- 1371
+F 1422 6 0 Oh
+F 1432 14 0  Spike,
+- 1458
+F 1465 5 0 What
+F 1470 4 0  have
+F 1474 4 0  I
+F 1478 10 0  done?
+E

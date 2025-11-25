@@ -1,0 +1,178 @@
+#TITLE:Love Is in Bloom
+#ARTIST:My Little Pony
+#CREATOR:Moonsparkle
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#YEAR:2012
+#MP3:song.mp3
+#VIDEO:video.mp4
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:495.86
+#GAP:5330
+#MUSIC_BY:Daniel Ingram, Steffan Andrews, Megan McCarthy, Rebecca Shoichet
+#UPDATED:2015-04-10
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 11 10 Love
+: 13 8 8  i
+: 22 6 5 -is
+: 30 12 5  in
+: 45 19 6  bloom
+- 74
+: 94 5 1 A
+: 103 2 3  beau
+: 105 3 5 ti
+: 109 13 6 ful
+: 126 20 6  bride
+- 155
+: 158 11 1 A
+: 175 12 10  hand
+: 190 8 8 so
+: 198 5 6 -me
+: 206 20 5  groom
+- 228
+: 230 6 5 Two
+: 238 14 6  hearts
+- 259
+: 262 3 10 Be
+: 269 8 8 co
+: 279 5 5 -om
+: 287 13 5 ing
+: 302 15 6  one
+- 327
+: 358 3 5 A
+: 364 16 6  bond
+* 390 5 10  that
+* 398 7 8  ca
+* 407 4 6 -an
+: 413 11 6 not
+: 430 4 10  be
+: 434 11 11 -e
+: 446 12 10  un
+: 461 8 8 do
+: 470 5 6 -ne
+: 478 6 6  be
+: 485 9 6 cause
+- 500
+: 502 23 11 Love
+: 527 4 6  is
+: 535 28 13  in
+: 567 7 8  blo
+: 574 35 6 -om
+- 618
+: 622 5 1 A
+* 630 7 10  beau
+* 638 4 10 ti
+* 645 5 10 ful
+: 653 16 10  bride,
+: 671 8 6  a
+: 686 13 8  hand
+: 703 7 6 so
+: 710 5 5 -me
+: 718 14 5  groom
+- 733
+: 735 3 1 I
+: 741 9 5  said,
+: 759 23 11  love
+: 784 4 6  is
+: 791 29 13  in
+: 823 8 8  blo
+: 831 33 6 -om
+- 874
+: 878 4 1 You're
+: 885 8 10  star
+: 894 7 10 ting
+: 903 5 10  a
+: 910 12 10  life
+- 924
+: 926 14 6 And
+: 943 11 8  ma
+: 958 6 6 ki
+: 964 8 5 -ing
+: 975 17 5  room
+- 997
+: 999 6 5 For
+: 1007 8 6  us
+- 1081
+F 1170 16 0 Twilight!
+- 1196
+F 1206 6 0 None
+F 1212 5 0  of
+F 1217 8 0  this
+F 1225 5 0  would
+F 1230 3 0  have
+F 1233 4 0  been
+F 1237 14 0  possible
+- 1252
+F 1254 10 0 Without
+F 1264 9 0  you,
+F 1273 6 0  little
+F 1279 13 0  sis
+- 1302
+F 1319 7 0 Love
+F 1326 5 0  ya,
+F 1338 13 0  Twily
+- 1361
+F 1386 6 0 Love
+F 1392 6 0  you
+F 1398 6 0  too,
+F 1409 4 0  B.
+F 1413 4 0 B.
+F 1417 5 0 B.
+F 1422 7 0 F.
+F 1429 7 0 F.
+- 1502
+F 1644 4 0 Ready
+F 1648 4 0  to
+F 1652 6 0  go?
+- 1668
+F 1679 17 0 Oh,
+F 1696 12 0  almost
+F 1708 20 0  forgot!
+- 1761
+F 1842 25 0 MIIIIIIIIIIIIIINE!
+- 1933
+: 2038 23 11 Love
+: 2063 4 6  is
+: 2070 28 13  in
+: 2102 6 8  blo
+: 2109 36 6 -om
+- 2154
+: 2157 3 1 A
+: 2165 7 10  beau
+: 2173 4 10 ti
+: 2180 6 10 ful
+: 2190 15 10  bride,
+: 2206 10 6  a
+* 2222 11 8  hand
+* 2237 7 6 so
+* 2244 5 5 -me
+: 2254 13 5  groom
+- 2268
+: 2270 3 1 I
+: 2276 10 5  said,
+: 2293 24 11  love
+: 2319 4 6  is
+: 2326 27 13  in
+: 2357 8 8  blo
+: 2365 34 6 -om
+- 2410
+: 2414 3 1 You're
+: 2420 9 10  star
+: 2430 6 10 ting
+: 2438 5 10  a
+: 2445 11 10  life
+- 2459
+: 2461 8 6 And
+: 2477 12 8  ma
+: 2493 6 6 ki
+: 2499 6 5 -ing
+: 2510 14 5  room
+- 2531
+* 2534 23 10 For
+: 2559 80 6  us
+- 2649
+: 2664 8 5 For
+: 2674 135 6  us
+E

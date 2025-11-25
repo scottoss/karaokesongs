@@ -1,0 +1,238 @@
+#TITLE:Cheese Confesses
+#ARTIST:My Little Pony
+#CREATOR:Renard/Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#VIDEOGAP:0.1
+#BPM:400
+#GAP:2412
+#COMMENT:http://www.mylittleokaraoke.com/
+: 0 5 9 I
+: 8 8 11  fear
+: 18 4 11  I
+* 25 10 11  told
+: 40 3 11  a
+: 44 4 9  lit
+: 50 4 6 tle
+: 56 11 6  fib
+- 73
+: 76 4 6 A
+: 81 6 4 bout
+: 89 5 4  my
+: 99 5 6  po
+: 106 4 4 ny
+: 113 18 9  past
+- 139
+: 142 6 9 I
+: 151 6 11  hope
+: 160 5 11  that
+* 169 6 14  when
+: 178 4 14  you
+: 186 5 9  hear
+: 192 4 6  the
+: 199 8 6  truth
+- 213
+: 215 5 6 You
+: 223 6 4  will
+: 231 5 4  not
+* 241 13 6  be
+: 255 4 4  a
+: 260 16 4 ghast
+- 285
+: 289 4 9 I
+: 294 9 10  was
+: 304 5 10 n't
+: 313 6 10  quite
+: 321 4 10  the
+* 330 5 14  su
+: 339 5 9 per
+: 347 7 9  par
+: 357 5 6 ty
+: 365 8 8  po
+: 374 7 8 ny
+: 384 7 8  like
+: 393 5 4  I
+: 403 19 9  claimed
+- 426
+: 428 3 9 The
+: 434 7 11  fact
+: 444 6 11  is
+: 453 7 14  that
+: 462 6 14  I
+: 471 5 9  was
+: 477 5 6  so
+: 485 11 6  shy
+- 501
+: 503 5 6 No
+: 511 12 4 po
+: 524 15 4 ny
+: 541 17 6  knew
+* 560 8 6  my
+: 569 7 4 -y
+: 580 36 2  name
+- 642
+: 689 4 6 I
+: 695 7 6  stum
+: 704 4 9 bled
+: 709 5 9  in
+: 718 4 9 to
+* 726 4 11  Po
+: 731 3 9 ny
+: 736 7 9 ville
+- 746
+: 748 6 9 One
+: 755 5 11  af
+: 761 3 11 ter
+: 766 7 14 noon
+: 775 4 11  by
+: 783 10 9  chance
+- 802
+: 805 5 4 And
+: 812 6 6  found
+: 820 4 9  the
+: 827 5 9  big
+: 833 6 6 gest
+: 841 4 11  e
+: 846 5 9 ver
+: 855 7 9  ce
+: 863 6 11 le
+: 870 6 9 bra
+: 877 6 9 tion
+: 884 8 12  par
+: 893 5 9 ty
+* 900 11 14  dance
+- 921
+: 929 6 9 Eve
+: 936 3 12 ry
+: 940 8 12 thing
+: 950 6 12  was
+* 958 4 14  per
+: 963 6 12 fect
+- 971
+: 973 6 12 Cheer
+: 980 5 12  was
+: 988 4 9  fil
+: 993 4 12 ling
+: 999 6 12  up
+: 1007 4 14  the
+: 1015 11 7  place
+- 1035
+: 1038 2 8 And
+: 1041 3 8  I
+: 1045 6 9  saw
+: 1053 6 12  that
+: 1060 5 12  eve
+: 1066 5 9 ry
+* 1073 5 14 po
+: 1079 4 12 ny
+: 1084 7 12  had
+- 1093
+: 1095 4 9 A
+: 1100 9 11  smile
+: 1111 5 7  u
+* 1117 7 12 pon
+: 1126 4 7  their
+: 1132 12 14  face
+- 1151
+: 1154 5 2 I
+: 1161 7 4  vowed
+: 1169 5 7  that
+: 1176 4 7  day
+: 1181 3 7  to
+: 1185 12 7  change
+: 1198 6 5  my
+: 1205 8 5  life
+- 1215
+: 1217 3 4 The
+: 1221 6 4  past
+: 1229 3 7  I
+: 1233 4 7  did
+: 1240 6 4  set
+: 1248 11 0  free
+- 1268
+: 1272 5 4 For
+: 1279 5 7  now
+* 1286 5 7  Cheese
+: 1292 6 7  Sand
+: 1300 5 7 wich
+: 1307 3 9  was
+- 1312
+: 1314 3 7  A
+: 1318 11 7  par
+: 1330 6 4 ty
+: 1338 4 7  po
+: 1343 4 9 ny
+: 1348 7 12  full
+* 1356 6 14  of
+: 1364 16 12  glee
+- 1386
+: 1388 3 7 A
+: 1394 6 9  su
+: 1401 4 12 per
+: 1406 5 12  du
+: 1416 6 12 per
+: 1424 4 14  par
+: 1429 4 12 ty
+: 1435 7 12  po
+: 1443 6 7 ny
+- 1452
+: 1454 6 9 That's
+: 1461 4 12  what
+: 1466 8 12  I
+* 1475 5 14  be
+: 1482 16 12 came
+- 1502
+: 1504 5 12 I
+: 1511 5 12  tra
+: 1517 6 12 veled
+: 1525 9 12  all
+: 1535 5 12  Equ
+: 1541 5 11 es
+: 1547 4 9 tri
+: 1552 5 9 a
+- 1562
+: 1564 7 9 And
+: 1572 8 11  all
+: 1581 6 7  did
+: 1588 7 12  know
+* 1598 7 7  my
+: 1607 24 14  name
+- 1641
+: 1659 5 9 But
+: 1665 5 11  that
+: 1672 7 12  ne
+: 1680 5 12 ver
+: 1687 9 12  would
+: 1699 7 14  have
+: 1709 6 12  hap
+: 1716 8 7 pened
+: 1727 7 7  on
+: 1735 9 4  my
+: 1746 10 4  own
+- 1758
+: 1760 4 4 I'll
+: 1765 6 4  tell
+: 1772 5 -1  you
+: 1779 14 0  why
+- 1803
+: 1844 3 2 For
+: 1849 3 2  the
+: 1854 6 2  one
+: 1862 4 9  who
+* 1867 8 9  threw
+: 1876 7 9  that
+: 1885 6 9  par
+: 1892 9 6 ty
+- 1903
+: 1905 5 6 It
+: 1913 7 2  was
+: 1922 14 7  you,
+* 1941 9 9  Pin
+* 1951 7 7 kie
+: 1961 30 7  Pie
+E

@@ -1,0 +1,158 @@
+#TITLE:I've got to find a way (Extended)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#VIDEO:video.mp4
+#BPM:319.85
+#GAP:8707
+#LANGUAGE:English
+#GENRE:Pony
+#EDITION:My Little Pony
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 6 5 I
+: 7 7 7  have
+: 16 7 5  to
+: 26 11 2  find
+* 39 7 5  a
+: 48 20 5  way
+- 77
+: 85 4 5 To
+: 92 7 7  make
+: 101 7 5  this
+: 111 11 2  all
+: 123 4 0  o
+: 128 4 -2 -o
+: 134 15 -2 kay
+- 157
+: 166 2 10 I
+: 170 5 10  can't
+: 176 4 10  be
+: 181 7 9 lieve
+: 189 6 5  this
+: 196 11 2  small
+: 209 3 5  mi
+* 213 4 7 -is
+: 219 19 5 take
+- 246
+: 255 6 2 Could
+: 262 4 5  have
+: 267 6 5  caused
+: 274 7 2  so
+: 283 8 -2  much
+: 293 5 0  he
+: 299 4 -2 -art
+: 304 12 -2 ache
+- 319
+: 321 7 -2 Oh
+: 331 63 5  why,
+: 405 6 -2  oh
+: 415 27 5  why
+: 443 4 3 -e
+: 448 3 2 -y
+* 452 5 3 -e
+: 458 23 2 -y?
+- 495
+: 505 4 5 Some
+: 511 5 5 thing
+: 517 4 5  is
+* 522 6 7  wrong,
+: 530 4 5  it's
+: 537 8 2  plain
+: 548 8 5  to
+: 558 20 5  see
+- 586
+: 592 4 5 This
+: 597 5 5  is
+: 603 2 5 n't
+* 608 5 7  how
+: 615 7 5  it's
+: 623 10 2  meant
+: 634 5 0  to
+: 640 4 -2 -o
+: 645 17 -2  be
+- 670
+: 677 3 2 And
+: 682 4 10  you
+: 687 4 10  can't
+: 693 5 9  see
+: 699 7 5  it
+: 708 8 2  like
+: 719 10 7  I
+: 730 21 5  do
+- 757
+: 762 5 2 It's
+: 768 4 2  not
+: 773 4 5  the
+* 778 5 5  life
+: 784 6 2  that's
+: 794 7 -2  meant
+: 803 3 -2  fo
+: 807 5 0 -or
+: 815 11 -2  you
+- 830
+: 832 8 -2 Oh
+: 842 62 5  why,
+: 917 7 -2  oh
+* 927 26 5  why
+: 954 4 3 -e
+: 959 4 2 -y
+: 964 5 3 -e
+: 971 25 2 -y?
+- 1001
+: 1009 20 5 Lo
+: 1032 16 9 sing
+* 1054 13 10  pro
+: 1069 5 7 -o
+: 1075 11 7 mise
+- 1090
+: 1093 4 5 I
+: 1098 9 15  don't
+: 1108 5 14  kno
+: 1114 4 10 -ow
+: 1119 9 10  what
+* 1129 9 14  to
+: 1140 28 12  do
+- 1176
+: 1182 16 7 See
+: 1204 18 10 king
+* 1226 16 12  ans
+: 1246 10 9 wers
+- 1261
+: 1263 3 14 I
+: 1267 10 15  fear
+: 1279 3 14  I
+: 1283 4 12 -I
+: 1289 10 12  won't
+* 1301 7 10  get
+: 1309 24 7  through
+- 1342
+: 1342 4 3  To
+* 1347 4 5 -o
+: 1353 51 5  you
+- 1418
+: 1430 6 -2 I'll
+: 1438 62 5  try
+- 1502
+: 1508 4 -2 I'm
+: 1513 3 -2  gon
+* 1517 3 -2 na
+: 1523 28 5  try
+: 1552 4 3 -e
+: 1557 3 2 -y
+: 1561 4 3 -e
+: 1567 22 2 -y
+- 1594
+: 1600 6 -2 I'll
+: 1609 65 5  try
+- 1677
+: 1679 3 -2 I'm
+: 1684 3 -2  gon
+: 1688 3 -2 na
+: 1693 29 5  try
+: 1723 4 3 -e
+: 1728 3 2 -y
+: 1733 3 3 -e
+* 1738 44 2 -y
+E

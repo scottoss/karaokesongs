@@ -1,0 +1,220 @@
+#TITLE:Ballad of the Crystal Empire (Instrumental)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEOGAP:0,3
+#BPM:446.38
+#GAP:8765
+#UPDATED:14-sep-2014
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 8 0 Prin
+: 10 8 0 cess
+: 20 8 0  Ca
+: 30 8 -5 dence
+: 40 10 2  needs
+* 52 6 4  our
+: 61 9 0  help
+- 77
+: 77 4 4 Her
+: 82 8 4  ma
+: 92 4 4 gic
+: 101 6 4  will
+: 110 7 7  not
+: 120 8 7  last
+: 131 4 2  fo
+: 136 5 4 -or
+: 142 4 2 e
+: 146 8 0 ver
+- 158
+: 162 6 4 I
+: 170 6 4  think
+: 180 6 4  we
+: 188 4 2  can
+* 194 8 7  do
+: 204 6 4  it
+- 214
+: 216 6 2 But
+: 226 6 4  we
+: 236 7 4  need
+: 245 3 0  to
+: 250 8 2  work
+: 261 10 4  to
+: 273 5 2 ge
+: 281 10 0 ther
+- 296
+: 306 6 0 We
+: 314 8 0  have
+: 324 4 -5  to
+: 330 6 0  get
+: 340 10 2  this
+: 352 10 0  right
+- 366
+: 370 8 4 Yes,
+: 380 6 2  we
+: 390 6 0  have
+: 398 4 0  to
+: 404 6 2  make
+* 412 4 2  the
+* 416 6 4 -em
+: 424 16 4  see
+- 446
+: 446 6 0 We
+: 455 5 0  can
+: 464 9 5  save
+: 476 4 5  the
+* 483 7 7  crys
+: 493 6 7 tal
+: 502 9 2  po
+: 513 8 0 nies
+- 524
+: 524 6 0 With
+: 532 6 -5  their
+: 542 6 2  his
+: 550 8 0 to
+* 560 11 4 ry
+: 573 36 2 -y
+- 618
+: 626 4 7 It
+: 634 6 7  says
+: 642 6 4  that
+: 650 10 7  they
+: 664 10 9  liked
+: 681 7 2  jous
+* 690 16 0 ting
+- 734
+: 752 5 7 They
+: 761 7 7  flew
+: 769 3 4  a
+: 775 8 7  flag
+: 786 4 4  of
+: 792 7 7  ma
+: 802 11 9 ny
+: 817 33 7  hues
+- 867
+: 879 7 7 Made
+: 888 8 7  sweets
+: 897 5 4  with
+: 904 10 7  crys
+* 918 10 9 tal
+: 934 7 2  ber
+: 942 20 0 ries
+- 986
+: 1008 7 7 They
+: 1017 8 7  had
+: 1026 4 7  a
+: 1032 7 7  pet
+: 1040 6 7 ting
+: 1048 8 7  zoo
+: 1058 4 4  with
+* 1064 9 9  ti
+: 1074 10 7 ny
+: 1086 24 7  ewes
+- 1110
+: 1110 6 -5 Oh
+: 1119 5 -3  we
+: 1126 7 0  have
+: 1134 4 -3  to
+: 1140 6 0  get
+: 1148 8 2  this
+: 1158 10 0  right
+- 1172
+: 1174 6 -5 Yes,
+: 1184 5 -5  we
+: 1190 7 2  have
+: 1198 4 0  to
+: 1203 7 2  make
+: 1211 3 2  the
+: 1215 4 4 -em
+: 1222 10 4  see
+- 1238
+: 1240 4 2 We
+: 1246 6 0  can
+: 1255 8 5  save
+: 1264 4 5  the
+: 1270 6 7  crys
+: 1279 6 7 tal
+: 1288 6 2  po
+: 1295 7 0 nies
+- 1304
+: 1304 5 0 With
+: 1311 5 -5  their
+: 1318 6 2  his
+: 1326 6 0 to
+: 1334 9 4 ry-
+: 1344 15 2 y
+- 1372
+: 1390 6 4 There
+: 1398 9 4  was
+: 1408 4 4  a
+: 1414 5 5  crys
+: 1422 5 4 tal
+: 1430 7 5  flu
+* 1438 13 7 gel
+: 1454 42 7 horn
+- 1507
+: 1517 9 5 That
+: 1528 5 5  eve
+: 1534 6 5 ry
+: 1542 6 4 po
+: 1550 6 2 ny
+: 1558 6 0  liked
+: 1566 7 4  to
+: 1574 4 2 -o
+: 1580 33 2  play
+- 1627
+: 1655 5 0 And
+: 1661 4 0  the
+: 1668 7 2  crys
+: 1676 7 0 tal
+: 1686 7 0  king
+: 1694 7 4 dom
+: 1702 8 4  an
+: 1711 21 0 them
+- 1740
+: 1748 6 4 Can
+: 1756 5 4  you
+* 1764 9 5  learn
+: 1774 16 4  it
+: 1791 15 5  in
+: 1807 4 4  a
+: 1812 10 5  da
+: 1823 13 4 -a
+: 1837 31 7 -ay?
+- 1872
+: 1876 6 -5 Oh
+: 1884 5 -3  we
+: 1892 6 0  have
+: 1900 4 0  to
+: 1905 6 0  get
+: 1914 8 2  this
+: 1924 10 0  right
+- 1938
+: 1940 6 -5 Yes, 
+: 1948 6 -5 we
+: 1956 6 2  have
+: 1963 3 0  to
+: 1967 8 2  make
+: 1976 8 4  them
+: 1986 13 4  see
+- 2002
+: 2004 6 2 We
+: 2011 6 0  can
+: 2019 24 5  save
+: 2045 4 5  the
+: 2052 20 7  crys
+: 2074 8 7 tal
+: 2083 7 2  po
+: 2092 24 0 nies
+- 2128
+: 2132 6 0 With
+: 2139 7 2  their
+: 2148 28 4  his
+: 2179 24 2 to
+: 2204 6 0 -o
+* 2211 115 0 -ry
+E

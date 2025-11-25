@@ -1,0 +1,353 @@
+#TITLE:Pinkie the Party Planner (Instrumental)
+#ARTIST:My Little Pony
+#CREATOR:Renard/Smilley
+#ENCODING:UTF8
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#END:117000
+#BPM:251.1
+#GAP:10130
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 3 2 E
+: 4 2 6 very
+* 7 4 6  sin
+: 12 3 2 gle
+: 16 2 4  day
+- 19
+: 21 2 2 There's
+: 24 4 2  some
+: 29 3 -3 thing
+: 33 4 2  new
+- 38
+: 40 3 2 You
+: 44 3 -3  can
+: 49 6 2  plan
+: 57 4 4  for
+- 63
+: 65 3 6 E
+: 69 2 9 very
+: 72 4 9  sin
+: 77 2 6 gle
+: 81 2 7  day
+- 83
+: 85 2 2 There's
+: 88 4 7  some
+: 93 3 7 thing
+* 97 3 9  won
+: 101 3 9 der
+: 105 3 9 ful
+: 109 3 5  to
+: 113 8 7  do
+- 123
+: 125 3 2 But
+: 129 3 6  no
+: 133 3 6 thing
+: 137 4 6  makes
+* 142 3 2  me
+: 146 3 4  hap
+: 150 4 2 py
+- 155
+: 157 2 5 Like
+: 160 1 7  a
+: 162 3 9  day
+: 167 2 9  that
+: 170 3 9  I
+: 174 2 5  can
+: 177 8 7  say
+- 188
+: 190 3 4 "To
+: 194 4 6 day
+: 199 2 9  I
+* 203 3 9  planned
+: 207 2 6  a
+: 210 4 11  par
+: 215 2 9 ty
+- 217
+: 219 3 6 And
+: 223 2 2  it's
+: 226 5 5  just
+: 234 6 4  for
+* 243 7 2  you!"
+- 266
+F 284 4 2 Great,
+F 289 5 2  thanks!
+F 298 1 2  Got
+F 299 2 2  a
+F 301 1 2 ny
+F 303 5 2  strea
+F 308 3 2 mers
+F 312 2 2  to
+F 314 3 2 day?
+- 333
+F 361 3 2 Don't
+F 365 3 2  you
+F 369 2 2  know
+F 372 5 2  it!
+- 383
+: 385 3 2 Don't
+: 389 3 2  have
+* 393 3 9  much
+: 397 3 6  time
+: 401 2 2  to
+: 404 4 1  ga
+: 409 4 2 ther
+- 419
+: 421 3 2 All
+: 425 2 9  the
+: 428 4 6  things
+: 433 3 2  I
+: 437 6 4  need
+- 447
+: 449 1 2 If
+: 451 2 2  I'm
+: 454 3 2  real
+: 457 3 9 ly
+: 461 4 6  gon
+: 466 2 2 na
+: 469 3 4  make
+: 474 3 2  this
+: 478 3 2  par
+: 481 3 -3 ty
+* 485 16 5  fly
+: 502 7 7 -y
+- 511
+: 513 2 2 For
+: 516 2 2  to
+: 518 3 6 day's
+: 522 3 9  a
+: 526 4 6 no
+: 531 2 2 ther
+: 534 2 4  day
+- 536
+: 538 3 2 That
+: 542 3 2  all
+: 547 2 7  of
+: 550 3 9  Po
+: 554 3 9 ny
+: 558 3 9 ville
+: 562 2 5  will
+: 566 7 7  say
+- 577
+: 579 3 4 There
+: 583 3 6  goes
+: 587 2 9  the
+: 590 4 9  Su
+: 595 3 6 per
+* 599 3 11  Par
+: 603 3 9 ty
+: 607 3 6  Po
+: 611 3 2 ny
+: 615 7 5  Pin
+: 623 5 4 kie
+: 631 17 2  Pie!
+- 656
+: 659 4 4 She
+: 664 4 8  planned
+: 669 2 8  our
+: 672 3 8  first
+: 676 2 4  foal
+* 680 3 6  sho
+: 684 2 4 wer
+- 686
+: 688 3 4 Where
+: 692 3 6  we
+: 696 3 8  played
+: 700 2 11  all
+: 703 4 11  sorts
+: 708 3 4  of
+: 713 6 6  games
+- 725
+: 728 3 8 Ha
+: 732 2 11 ving
+: 735 4 11  so
+: 740 3 8  much
+: 745 3 13  fun
+: 749 2 11  as
+: 752 3 8  we
+: 756 3 4  chose
+- 759
+: 761 4 7  Pound
+: 766 3 7  and
+: 770 2 6  Pump
+: 773 4 4 kin's
+: 778 8 4  names
+- 787
+: 789 3 4 She
+: 793 4 8  planned
+: 798 3 8  my
+* 802 3 8  Cute
+: 806 3 4 cea
+: 810 3 6 ñe
+: 814 2 4 ra
+- 817
+: 819 2 4 My
+: 822 4 6  dad
+: 827 3 8  made
+: 831 3 8  me,
+: 835 3 8  I
+: 839 3 4  won't
+: 843 7 6  lie
+- 852
+: 854 1 4 I
+: 856 2 6  de
+: 858 4 7 man
+: 863 4 7 ded
+: 868 3 7  all
+: 872 2 4  the
+: 875 5 6  best
+- 882
+: 884 2 6 I
+: 887 3 6  sup
+: 891 3 7 pose
+* 895 3 14  she
+: 899 4 12  passed
+: 904 2 8  the
+: 907 5 7  test
+- 917
+: 919 4 6 Sure
+: 924 2 8  it
+: 927 3 11  was
+: 931 4 11  pret
+: 935 3 8 ty
+* 939 3 13  good
+- 942
+: 944 3 11 All
+: 948 3 8  thanks
+: 952 3 4  to
+: 956 7 7  Pin
+: 964 6 6 kie
+: 972 10 4  Pie
+- 984
+F 986 9 2 Thanks,
+F 1001 2 2  I
+F 1004 6 2  guess?
+- 1020
+F 1039 2 2 I'm
+F 1042 1 2  gon
+F 1043 1 2 na
+F 1045 2 2  need
+F 1048 2 2  the
+F 1051 6 2  full
+F 1058 5 2  rain
+F 1063 3 2 bow!
+- 1076
+F 1088 3 2 Yes,
+F 1092 1 2  if
+F 1094 2 2  you
+F 1097 7 2  please!
+- 1114
+F 1125 3 2 Your
+F 1129 3 2  big
+F 1132 4 2 gest
+F 1138 3 2  ban
+F 1141 3 2 ner!
+- 1145
+F 1147 3 2  This
+F 1151 2 2  par
+F 1154 2 2 ty's
+F 1157 2 2  gon
+F 1159 1 2 na
+F 1161 1 2  be
+F 1163 2 2  the
+F 1167 4 2  best!
+- 1181
+: 1199 2 2 Eve
+: 1202 3 6 ry
+: 1206 3 6  sin
+: 1210 3 2 gle
+: 1214 2 4  day
+- 1216
+: 1218 3 2 There's
+: 1222 4 2  some
+: 1227 2 -3 thing
+: 1231 4 2  new
+- 1237
+: 1239 3 2  we
+: 1243 3 -3  can
+* 1248 5 2  plan
+: 1256 4 4  for
+- 1261
+: 1263 3 6 Eve
+: 1267 3 9 ry
+: 1271 4 9  sin
+: 1276 3 6 gle
+: 1280 2 7  day
+- 1282
+: 1284 3 2  there's
+: 1288 3 7  some
+: 1292 3 7 thing
+: 1296 3 9  won
+: 1300 2 9 der
+: 1303 3 9 ful
+: 1307 3 5  to
+: 1311 8 7  try
+- 1322
+: 1324 3 2 But
+: 1328 3 6  no
+: 1332 3 6 thing
+: 1336 4 6  makes
+: 1341 3 2  us
+: 1345 3 4  hap
+: 1349 3 2 py
+- 1354
+: 1356 1 5 Like
+: 1358 1 7  a
+* 1360 4 9  day
+: 1365 2 9  that
+: 1368 3 9  we
+: 1372 2 5  can
+: 1376 9 7  say
+- 1387
+: 1389 3 4 "To
+: 1393 3 6 day
+: 1397 3 9  there'll
+: 1401 3 9  be
+: 1405 2 6  a
+: 1408 4 11  par
+: 1413 3 9 ty
+: 1417 3 6  planned
+: 1421 3 2  by
+* 1425 7 5  Pin
+: 1433 6 4 kie
+: 1441 14 6  Pie!"
+- 1488
+: 1547 4 6 There's
+: 1552 3 4  no
+: 1556 3 4  o
+* 1559 3 11 ther
+: 1563 3 8  po
+: 1567 3 4 ny
+: 1571 3 3  like
+: 1575 4 4  her
+- 1581
+: 1583 3 4 No
+: 1587 3 4  po
+: 1591 3 11 ny
+: 1595 3 8  that
+: 1600 3 4  could
+: 1604 7 6  be
+- 1614
+: 1616 3 8 As
+: 1620 3 9  great!
+F 1624 3 2  As
+F 1628 3 2  great!
+* 1632 3 10  As
+* 1636 3 11  fun!
+F 1640 3 2  As
+F 1644 2 2  fun!
+- 1646
+: 1648 1 4 As
+: 1650 2 6  our
+: 1653 2 8  Su
+: 1656 3 8 per
+: 1660 4 8  Par
+: 1665 2 4 ty
+: 1668 4 6  Po
+: 1673 3 4 ny
+* 1677 5 11  Pin
+: 1684 32 16 kie!
+E

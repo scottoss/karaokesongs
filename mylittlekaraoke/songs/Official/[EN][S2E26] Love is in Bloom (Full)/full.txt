@@ -1,0 +1,182 @@
+#TITLE:Love Is in Bloom (Extended)
+#ARTIST:My Little Pony
+#CREATOR:Moonsparkle
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#YEAR:2012
+#MP3:full.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:495.86
+#GAP:19630
+#CREATORNOTE:I <3 u Tia (from Moonsparkle)
+#MUSIC_BY:Daniel Ingram, Steffan Andrews, Megan McCarthy, Rebecca Shoichet
+#UPDATED:2015-04-10
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 11 10 Love
+: 13 8 8  i
+: 22 6 5 -is
+: 30 12 5  in
+: 45 19 6  bloom
+- 74
+: 94 5 1 A
+: 103 2 3  beau
+: 105 3 5 ti
+: 109 13 6 ful
+: 126 20 6  bride
+- 155
+: 158 11 1 A
+: 175 12 10  hand
+: 190 8 8 so
+: 198 5 6 -me
+: 206 20 5  groom
+- 228
+: 230 6 5 Two
+: 238 14 6  hearts
+- 259
+: 262 3 10 Be
+: 269 8 8 co
+: 279 5 5 -om
+: 287 13 5 ing
+: 302 15 6  one
+- 327
+: 358 3 5 A
+: 364 16 6  bond
+: 390 5 10  that
+* 398 7 8  ca
+* 407 4 6 -an
+* 413 11 6 not
+: 430 4 10  be
+: 434 11 11 -e
+: 446 12 10  un
+: 461 8 8 do
+: 470 5 6 -ne
+: 478 6 6  be
+: 485 9 6 cause
+- 500
+: 502 23 11 Love
+: 527 4 6  is
+: 535 28 13  in
+: 567 7 8  blo
+: 574 35 6 -om
+- 618
+: 622 5 1 A
+: 630 7 10  beau
+: 638 4 10 ti
+: 645 5 10 ful
+* 653 16 10  bride,
+: 671 8 6  a
+: 686 13 8  hand
+: 703 7 6 so
+: 710 5 5 -me
+: 718 14 5  groom
+- 733
+: 735 3 1 I
+: 741 9 5  said,
+: 759 23 11  love
+: 784 4 6  is
+: 791 29 13  in
+* 823 8 8  blo
+: 831 33 6 -om
+- 874
+: 878 4 1 You're
+: 885 8 10  star
+: 894 7 10 ting
+: 903 5 10  a
+: 910 12 10  life
+- 924
+: 926 14 6 And
+: 943 11 8  ma
+: 958 6 6 ki
+: 964 8 5 -ing
+: 975 17 5  room
+- 997
+: 999 6 5 For
+: 1007 8 6  us
+- 1081
+: 1279 4 8 Yo
+: 1283 5 10 -ur
+: 1292 12 8  spe
+: 1309 14 5 cial
+: 1326 16 6  day
+- 1352
+: 1373 5 1 We
+: 1381 4 3  cel
+: 1385 4 5 eb
+: 1389 13 6 rate
+: 1405 16 6  now
+- 1431
+: 1438 9 1 The
+: 1454 14 8  po
+: 1470 5 8 ny
+* 1475 7 10 -y
+: 1485 6 8  wa
+: 1492 14 6 -y
+- 1508
+: 1510 5 5 Your
+: 1517 15 6  friends
+- 1539
+: 1542 6 10 Are
+: 1550 6 8  a
+: 1557 7 5 -all
+: 1566 13 5  right
+: 1582 17 6  here
+- 1609
+: 1638 6 5 Won't
+: 1646 12 6  let
+: 1671 5 10  these
+: 1680 7 8  mo
+: 1687 6 6 -o
+: 1694 11 6 ments
+: 1710 13 11  dis
+: 1727 10 10 ap
+: 1743 7 8 pe
+: 1751 5 6 -ar
+: 1759 5 6  be
+: 1765 12 6 cause
+- 1780
+* 1782 23 11 Love
+: 1807 4 6  is
+: 1814 28 13  in
+: 1846 6 8  blo
+: 1853 36 6 -om
+- 1898
+: 1901 3 1 A
+: 1909 7 10  beau
+: 1917 4 10 ti
+: 1924 6 10 ful
+: 1934 15 10  bride,
+: 1950 10 6  a
+: 1966 11 8  hand
+: 1981 7 6 so
+: 1988 5 5 -me
+* 1998 13 5  groom
+- 2012
+: 2014 3 1 I
+: 2020 10 5  said,
+: 2037 24 11  love
+: 2063 4 6  is
+: 2070 27 13  in
+: 2101 8 8  blo
+: 2109 34 6 -om
+- 2154
+: 2158 3 1 You're
+: 2164 9 10  star
+: 2174 6 10 ting
+: 2182 5 10  a
+: 2189 11 10  life
+- 2203
+: 2205 8 6 And
+: 2221 12 8  ma
+: 2237 6 6 ki
+: 2243 6 5 -ing
+: 2254 14 5  room
+- 2275
+: 2278 23 10 For
+: 2303 80 6  us
+- 2393
+* 2408 8 5 For
+: 2418 135 6  us
+E

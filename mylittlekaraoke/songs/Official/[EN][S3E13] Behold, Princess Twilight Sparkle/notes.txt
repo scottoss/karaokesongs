@@ -1,0 +1,95 @@
+#TITLE:Behold, Princess Twilight Sparkle
+#ARTIST:My Little Pony
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#VIDEO:video.mp4
+#VIDEOGAP:0,1
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:400
+#GAP:384
+#CREATOR:Smilley
+#UPDATED:13-may-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+F 0 15 0 Fillies
+F 16 8 0  and
+F 25 26 0  Gentlecolts!
+- 56
+F 56 7 0 May
+F 64 6 0  I
+F 71 12 0  present,
+F 84 5 0  for
+F 89 3 0  the
+F 96 10 0  very
+F 108 8 0  first
+F 117 15 0  time:
+- 149
+F 146 21 0 Princess
+F 173 18 0  Twilight
+F 192 22 0  Sparkle
+- 210
+: 229 7 3 The
+: 239 9 2  Prin
+: 250 8 3 cess
+* 260 11 10  Twi
+: 273 8 5 light
+: 284 5 7  co
+: 289 5 5 -o
+: 295 14 3 -meth
+- 314
+: 317 9 3 Be
+: 328 26 2 hold,
+: 360 8 5  be
+: 371 20 5 ho
+: 393 12 3 -old
+- 407
+: 407 6 3 A
+: 417 8 2  Prin
+: 427 7 3 cess
+: 439 9 10  here
+: 450 7 5  be
+* 459 6 7 fo
+: 465 7 5 -ore
+: 473 9 3  us
+- 487
+: 493 9 3 Be
+: 505 26 5 hold,
+: 539 9 5  be
+: 549 27 7 hold
+- 580
+: 582 9 5 Be
+* 594 22 10 ho
+: 618 37 9 -old
+- 665
+: 672 9 14 Be
+: 683 29 14 hold,
+: 719 8 17  be
+: 728 30 17 hold
+- 763
+: 763 7 14 The
+: 772 8 14  Prin
+: 783 8 14 cess
+: 794 8 15  Twi
+* 804 10 14 light
+: 816 5 14  co
+: 821 5 12 -o
+: 828 16 10 -meth
+- 847
+: 849 9 14 Be
+: 859 25 14 hold,
+: 894 9 17  be
+: 905 30 17 hold
+- 940
+: 940 6 10 The
+: 949 9 10  Prin
+* 960 10 10 cess
+: 973 10 12  is
+- 984
+: 984 7 14 The
+: 994 9 15  Prin
+: 1004 10 15 cess
+* 1016 21 17  is
+: 1038 74 22  here
+E

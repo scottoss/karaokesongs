@@ -1,0 +1,105 @@
+#TITLE:99 Buckets of Oats
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#VIDEO:video.mp4
+#BPM:492.5
+#GAP:809
+#UPDATED:11-dec-2014
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 4 6 Nin
+: 5 3 6 ty
+: 9 6 6 nine
+* 16 5 1  buc
+: 22 7 1 kets
+: 30 2 1  of
+: 33 8 6  oats
+: 42 3 6  on
+: 47 3 6  the
+: 51 10 6  wall
+- 67
+: 69 5 8 Nin
+: 75 3 8 ty
+: 79 6 8 nine
+: 86 5 3  buc
+: 92 5 3 kets
+: 98 4 3  of
+* 106 16 8  oats
+- 132
+: 136 8 5 Take
+: 146 4 5  one
+: 152 10 5  down,
+: 166 7 5  toss
+: 174 3 5  it
+: 178 3 5  a
+: 181 3 5 round
+- 185
+: 187 2 5 You
+: 190 6 5  got
+: 198 3 0  ei
+: 202 4 0 ghty
+: 207 3 0 one
+: 212 5 2  buc
+: 218 7 4 kets
+: 226 4 4  of
+* 232 6 5  oats
+: 240 3 5  on
+: 244 2 5  the
+: 248 11 5  wall
+- 266
+: 269 7 7 ...for
+: 277 3 7 ty
+: 281 6 7 one
+* 289 5 2  buc
+: 295 7 2 kets
+: 303 3 2  of
+: 308 18 7  oats
+- 336
+: 340 9 5 Take
+: 350 6 5  one
+: 359 12 5  down,
+: 374 7 5  toss
+: 384 3 5  it
+: 388 2 5  a
+: 391 2 5 round
+- 395
+: 397 3 5 You
+: 401 4 5  got
+: 414 5 0  for
+: 420 5 0 ty...
+* 440 6 2  buc
+: 448 6 4 kets
+: 456 3 5  of
+: 460 7 6  oats
+: 471 5 6  on
+: 477 3 6  the
+: 481 12 6  wall
+- 503
+: 510 4 3  ..of
+* 516 16 8  oats
+- 542
+: 550 6 5 Take
+: 558 6 5  one
+: 566 12 5  down,
+: 580 7 5  toss
+: 588 4 5  it
+: 593 2 5  a
+: 596 4 5 round
+- 603
+: 605 3 5 You
+: 609 5 5  got
+: 616 4 0  ze
+: 623 6 0 ro
+: 632 4 2  buc
+: 637 6 4 kets
+: 644 4 4  of
+: 650 8 6  oats
+* 660 6 6  on
+: 668 6 6  the
+: 676 60 6  wall
+E

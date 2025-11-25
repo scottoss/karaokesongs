@@ -1,0 +1,74 @@
+#TITLE:Welcome Song
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:259.19
+#GAP:3668
+#UPDATED:28-07-2013
+#COMMENT:http://mylittlekaraoke.com
+: 0 3 10 Wel
+: 5 3 10 come
+: 9 3 7  wel
+: 13 3 7 come
+* 17 3 5  wel
+: 21 6 7 come
+- 28
+: 29 3 7 A
+: 33 3 10  fine
+: 37 3 10  wel
+: 41 3 10 come
+: 45 2 7  to
+: 49 6 12  you
+- 60
+: 64 3 15 Wel
+: 68 4 15 come
+: 73 3 14  wel
+: 77 3 14 come
+: 81 3 12  wel
+: 85 3 10 come
+- 89
+: 89 2 10 I
+: 92 3 7  say
+: 96 8 5  how
+* 105 2 7  do
+: 108 4 3  you
+: 113 6 10  do
+- 125
+: 129 3 10 Wel
+: 133 3 10 come
+: 137 3 7  wel
+: 141 3 7 come
+: 145 3 5  wel
+* 149 6 7 come
+- 157
+: 157 2 8 I
+: 160 3 10  say
+: 164 3 10  hip
+: 168 3 10  hip
+* 172 2 7  hoo
+: 176 6 12 ray
+- 188
+: 192 3 15 Wel
+: 196 4 15 come
+: 201 3 14  wel
+: 205 3 14 come
+: 209 3 12  wel
+: 213 3 10 come
+- 217
+: 217 5 7 To
+: 225 6 5  Po
+: 232 7 7 ny
+* 240 5 8 ville
+: 247 8 14  to
+: 256 34 15 day
+- 300
+F 310 4 10 Wait
+F 316 3 10  for
+F 319 4 10  it!
+E

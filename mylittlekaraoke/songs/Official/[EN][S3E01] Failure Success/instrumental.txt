@@ -1,0 +1,295 @@
+#TITLE:Failure / Success Song (Instrumental)
+#ARTIST:My Little Pony
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#VIDEOGAP:0.2
+#BPM:400
+#GAP:0
+#CREATOR:Renard, Smilley
+#UPDATED:13-may-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+F 57 15 0 *gasp*
+F 76 22 0  Twilight..?
+F 108 16 0  Did you...
+F 150 16 0  fail?
+- 170
+: 224 7 7 I
+: 236 10 7  was
+: 250 9 2  pre
+: 262 12 2 pared
+: 276 8 -1  to
+: 289 11 0  do
+: 301 11 7  my
+: 316 12 7  best
+- 332
+: 336 6 7 Thought
+: 345 8 9  I
+: 357 9 7  could
+: 369 12 7  han
+: 382 10 2 dle
+: 396 11 4  a
+: 408 10 2 ny
+: 419 13 2  test
+- 440
+: 444 5 6 For
+: 450 8 7  I
+: 460 10 2  can
+: 474 8 2  do
+: 487 9 -1  so
+: 500 14 0  ma
+: 515 7 7 ny
+: 527 10 7  tricks
+- 540
+: 544 5 2 But
+: 550 5 2  I
+: 557 6 3  was
+: 563 6 2 n't
+: 573 7 0  pre
+: 584 12 0 pared
+: 598 5 0  fo
+: 603 7 2 -or
+: 614 38 2  this
+- 662
+: 916 4 -1 Le
+: 921 5 0 vi
+: 928 6 2 ta
+: 936 6 -1 tion
+: 944 4 -1  would
+: 949 6 2  have
+: 957 8 0  been
+: 968 6 7  a
+: 980 18 2  breeze
+- 1007
+: 1021 8 7 Facts
+: 1030 4 9  and
+: 1036 6 11  fi
+: 1042 6 7 gures
+: 1050 5 7  I
+: 1056 3 11  re
+: 1062 6 9 cite
+: 1074 8 4  with
+* 1090 18 6  ease
+- 1110
+F 1110 2 0 The
+F 1113 8 0  square
+F 1121 4 0  root
+F 1126 4 0  of
+F 1130 25 0  546
+F 1156 4 0  is
+F 1161 76 0  23.36664289109
+- 1238
+F 1252 20 0 She is correct!
+- 1262
+: 1294 4 -1 I
+: 1300 5 0  could
+: 1308 7 2  ace
+: 1316 3 -1  a
+: 1320 7 -1  quiz
+: 1328 4 2  on
+: 1335 10 0  friend
+: 1346 9 7 ship's
+: 1358 20 2  bliss
+- 1401
+: 1401 7 7 But
+: 1409 3 9  I
+: 1413 6 11  was
+: 1420 5 7 n't
+: 1427 9 7  pre
+: 1440 12 9 pared
+: 1454 10 11  for
+: 1466 28 9  this
+- 1494
+: 1522 8 8 Will
+: 1535 7 8  I
+: 1547 14 8  fail
+: 1567 4 8  or
+: 1575 12 9  will
+: 1589 6 4  I
+: 1600 9 4  pass
+- 1610
+: 1614 9 1 I
+: 1628 10 2  can't
+: 1642 9 6  be
+: 1654 26 6  sure
+- 1682
+: 1728 5 7 My
+: 1735 12 8  mind
+: 1748 8 8  is
+: 1759 11 8  sharp,
+: 1778 6 8  my
+: 1785 13 9  skills
+: 1799 9 4  in
+: 1810 12 4 tact
+- 1824
+: 1826 12 1 My
+: 1840 14 2  heart
+: 1856 8 6  is
+: 1866 36 6  pure
+- 1908
+: 1948 10 6 Oh,
+: 1960 10 6  I've
+: 1975 4 6  ta
+: 1979 6 4 ken
+: 1986 8 2  my
+: 2000 11 4  share
+: 2015 7 2  of
+: 2025 11 2  licks
+- 2040
+: 2046 6 2 I've
+: 2054 11 4  made
+: 2067 10 9  it
+: 2080 6 6  thro
+: 2086 5 4 -ugh
+: 2094 8 2  the
+: 2106 13 4  thin
+: 2120 10 6  and
+: 2131 15 2  thick
+- 2146
+: 2154 6 1 But
+: 2162 10 2  no
+: 2175 11 9  I
+: 2188 12 6  was
+: 2201 33 2 n't
+- 2238
+: 2260 6 6 Oh,
+: 2268 10 7  no
+: 2280 12 13  I
+: 2294 13 9  was
+: 2308 30 7 n't
+- 2342
+: 2368 6 1 No
+: 2376 12 2  I
+: 2386 12 9  was
+: 2400 11 6 n't
+: 2412 14 2  pre
+: 2426 26 5 pared
+: 2454 24 13  for
+* 2480 102 14  this
+- 2700
+: 2821 10 7 You
+: 2833 10 7  were
+: 2847 7 2  pre
+: 2858 10 2 pared
+: 2870 6 -1  to
+: 2880 10 0  do
+: 2894 10 7  your
+: 2905 14 7  best
+- 2923
+: 2924 5 7 Had
+: 2932 9 9  what
+: 2944 8 7  it
+: 2953 10 7  takes
+: 2965 8 2  to
+: 2978 8 4  pass
+: 2990 7 2  the
+: 3001 17 2  test
+- 3024
+: 3027 12 7 All
+: 3040 8 2  those
+: 3053 12 2  doubts
+: 3067 8 -1  you
+: 3077 8 0  can
+: 3089 7 7  dis
+: 3099 8 7 miss
+- 3112
+: 3115 11 3 Turns
+: 3129 9 7  out
+: 3140 10 7  you
+: 3151 10 7  were
+: 3164 9 4  pre
+: 3175 12 6 pared
+: 3190 9 7  for
+: 3201 43 9  this
+- 3253
+: 3269 5 7 You
+: 3276 6 7  clear
+: 3283 3 2 ly
+: 3288 5 2  had
+: 3294 5 -1  just
+: 3300 12 0  what
+: 3313 4 7  it
+: 3324 11 2  takes
+- 3347
+: 3367 5 11 To
+: 3373 7 11  pass
+: 3381 2 7  a
+: 3385 7 7  test
+: 3393 4 11  with
+: 3399 7 9  such
+: 3410 10 4  high
+: 3422 13 6  stakes
+- 3445
+: 3466 6 7 We
+: 3473 4 7  knew
+: 3479 4 2  for
+: 3485 5 2  sure
+: 3492 4 -1  you
+: 3497 8 0  would
+: 3508 12 7  pre
+: 3522 22 2 vail
+- 3552
+: 3565 6 4 Since
+: 3572 5 4  when
+: 3578 3 7  does
+: 3583 6 7  Twi
+: 3590 4 4 light
+: 3595 6 9  Spar
+: 3602 5 4 kle
+: 3610 4 4  e
+: 3614 5 7 ver
+: 3621 15 6  fail?
+- 3660
+: 3670 10 6 All
+: 3682 8 6  those
+: 3693 7 6  doubts
+: 3701 3 4  that
+: 3707 5 2  you
+: 3717 9 4  can
+: 3729 8 2  dis
+: 3741 11 2 miss
+- 3758
+: 3766 9 6 Trust
+: 3779 7 9  your
+: 3791 7 6 self
+: 3800 4 4  and
+: 3805 6 2  you
+: 3815 10 4  can
+: 3827 10 6 not
+: 3840 10 2  miss
+- 3852
+: 3852 13 1 Turns
+: 3867 7 2  out
+: 3877 11 9  you
+: 3889 18 6  were
+- 3947
+: 3952 11 7 Turns
+: 3965 9 9  out
+: 3976 9 13  you
+: 3988 20 9  were
+- 4030
+: 4049 16 1 Turns
+: 4066 7 2  out
+: 4075 9 9  you
+: 4088 10 6  were
+: 4101 9 6  pre
+: 4112 20 7 pared
+: 4138 19 9  for
+: 4161 88 9  this
+- 4300
+F 4365 16 0 Eheheh,
+F 4391 12 0  yeah!
+- 4414
+F 4414 9 0 I
+F 4424 7 0  knew
+F 4432 9 0  everything
+F 4442 3 0  was
+F 4446 6 0  gonna
+F 4453 3 0  be
+F 4457 13 0  fine.
+F 4471 9 0  Heh.
+F 4490 18 0  *sigh*
+E

@@ -1,0 +1,255 @@
+#TITLE:The Perfect Stallion (Instrumental)
+#ARTIST:My Little Pony
+#MP3:instrumental.mp3
+#BPM:247.99
+#GAP:3864
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#GENRE:Pony
+#EDITION:My Little Pony
+#LANGUAGE:English
+#CREATOR:Smilley
+#MUSIC_BY:Daniel Ingram, Steffan Andrews, Megan McCarthy, Michelle Creber, Madeleine Peters
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 4 9 Chee
+: 5 3 9 ri
+: 9 3 9 lee
+* 13 3 12  is
+: 18 7 10  sweet
+: 26 4 9  and
+: 32 17 7  kind
+- 54
+: 57 3 5 She's
+: 61 2 7  the
+: 65 5 9  best
+: 73 2 9  tea
+: 76 3 12 cher
+: 81 5 10  we
+: 88 7 9  could
+: 96 3 7  hope
+: 101 10 5  for
+- 115
+: 117 3 5 The
+: 121 2 5  per
+: 124 3 7 fect
+: 128 4 9  sta
+: 132 2 9 lli
+: 134 3 9 on
+: 138 2 9  you
+: 141 4 12  and
+: 146 5 10  I
+: 153 5 9  must
+* 161 19 7  find
+- 187
+: 192 3 9 One
+: 197 3 9  to
+: 201 3 9  rea
+: 205 3 12 lly
+: 209 7 10  make
+: 217 6 9  her
+: 225 13 15  heart
+: 240 9 14  so
+: 250 6 12 -o
+: 257 26 12 ar
+- 287
+F 289 19 0 But...
+: 309 4 5  This
+: 314 2 5  one's
+: 317 3 7  too
+* 321 6 9  young
+- 331
+: 334 3 12 This
+: 338 5 10  one's
+: 345 6 9  too
+: 353 8 7  old
+- 369
+: 374 2 5 He
+: 377 4 5  clear
+: 381 3 7 ly
+: 386 6 9  has
+: 394 5 12  a
+: 400 4 10  te
+: 405 3 9 rri
+* 409 5 9 ble
+: 417 9 5  cold
+- 430
+: 438 2 5 This
+: 441 4 5  guy's
+: 446 2 7  too
+: 449 4 9  sil
+: 454 3 5 ly
+- 460
+: 462 2 5 He's
+: 465 3 7  way
+: 469 3 5  too
+* 473 5 7  up
+: 481 7 5 tight
+- 497
+: 509 3 7 Well
+: 513 3 7  no
+: 517 3 7 thing's
+: 521 3 7  wrong
+: 525 3 7  with
+: 529 3 7  this
+: 534 5 7  one
+- 540
+: 541 2 7 He
+: 545 8 7  seems
+* 554 7 9  al
+: 562 24 10 right
+- 587
+F 588 4 12 His
+F 592 11 12  girlfriend
+F 604 4 12  sure
+F 608 5 12  thinks
+F 613 5 12  so.
+- 618
+: 618 2 5 How
+: 621 3 7  'bout
+: 625 2 9  this
+: 629 4 5  one?
+- 635
+: 637 3 12 He's
+: 641 5 10  much
+: 648 5 9  too
+* 656 4 7  fla
+: 661 4 5 shy
+- 672
+F 681 2 12 He
+F 684 4 12  might
+F 689 6 12  do
+- 696
+: 697 3 12 If
+: 701 3 12  he
+: 705 5 10  weren't 
+: 712 4 9 so
+: 718 6 7  spla
+: 725 9 5 shy
+- 737
+: 748 3 7 Too
+: 752 8 5  short,
+* 765 3 9 too
+: 769 7 7  tall
+- 779
+: 780 3 5 Too
+: 784 7 9  clean,
+F 792 5 12 too
+F 799 5 12  smel
+F 805 5 12 ly
+- 811
+: 812 3 4 He's
+: 816 7 4  strange
+: 824 4 4 ly
+: 829 3 4  ob
+: 833 6 4 sessed
+: 841 5 5  with
+* 848 8 7  tubs
+: 857 6 9  of
+: 864 7 10  je
+: 872 30 12 lly
+- 904
+F 904 16 12 *sigh*
+- 923
+: 929 2 10 I
+: 932 4 10  don't
+: 937 3 10  think
+: 941 3 10  that
+: 945 6 9  we're
+: 953 5 5  mis
+* 959 3 7 ta
+: 964 13 4 ken
+- 983
+: 986 3 4 It
+: 991 5 5  seems
+: 997 3 5  all
+: 1001 3 5  the
+* 1005 3 9  good
+: 1009 9 7  ones
+: 1019 3 4  are
+: 1025 2 2  ta
+: 1028 16 0 ken
+- 1049
+: 1054 2 9 I
+: 1057 3 10  rea
+: 1061 3 9 lly
+: 1065 3 7  feel
+: 1069 3 5  that
+: 1073 3 9  at
+* 1077 3 12  this
+: 1081 3 12  rate
+- 1086
+: 1086 2 9 We'll
+: 1089 3 10  ne
+: 1093 3 9 ver
+: 1097 3 7  find
+: 1101 3 5  the
+: 1105 3 9  per
+: 1109 3 7 fect
+: 1113 2 7  date
+- 1118
+: 1118 2 9 Don't
+: 1121 3 10  wan
+: 1125 3 9 na
+: 1129 3 10  quit
+: 1133 3 9  and
+: 1137 2 10  give
+: 1140 3 14  up
+: 1144 6 12  hope
+- 1154
+F 1156 3 12 Doing
+F 1160 5 12  anything
+F 1166 7 12  special
+- 1174
+F 1174 2 12 For
+F 1176 5 12  Hearts
+F 1181 2 12  and
+F 1183 4 12  Hooves
+F 1188 5 12  Day?
+- 1193
+: 1197 2 9  Oh 
+: 1201 4 9 please
+: 1205 2 9  oh
+* 1208 5 10  please
+: 1213 2 9  oh
+: 1217 5 10  please
+: 1224 5 9  say
+- 1231
+F 1231 7 12 Nope.
+- 1252
+: 1260 3 9 We
+: 1264 4 9  did
+: 1269 2 5  it
+: 1272 4 5  girls,
+* 1277 2 12  we've
+: 1281 6 10  found
+: 1289 6 9  the
+: 1296 11 7  one
+- 1311
+: 1322 2 5 Who
+: 1325 2 7  will
+: 1328 4 9  send
+: 1333 2 5  our
+: 1337 3 5  tea
+: 1341 3 12 cher's
+: 1346 5 10  heart
+: 1353 4 9  a
+: 1360 4 7 flu
+: 1365 15 5 tter
+- 1386
+F 1389 2 12 Wait
+F 1392 2 12  a
+F 1394 6 12  minute,
+F 1400 3 12  let
+F 1404 2 12  me
+F 1406 2 12  get
+F 1409 2 12  this
+F 1412 8 12  straight.
+- 1419
+F 1420 1 12 Are
+F 1422 2 12  you
+F 1425 5 12  talkin'
+F 1431 2 12  'bout
+F 1434 2 12  my
+F 1438 10 12  brother?
+E

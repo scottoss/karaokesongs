@@ -1,0 +1,130 @@
+#ENCODING:UTF8
+#TITLE:Piggy Dance
+#ARTIST:My Little Pony
+#CREATOR:Trappy Tickles
+#LANGUAGE:English
+#YEAR:2012
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.jpg
+#BACKGROUND:background.jpg
+#VIDEO:video.mp4
+#BPM:263.03
+#GAP:1994
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:24-oct-2019
+: 0 1 1 First
+: 2 1 1  you
+: 4 1 1  jig
+: 6 1 3 gle
+: 8 3 5  your
+: 12 5 6  tail!
+: 20 2 6  Oink
+: 24 2 6  oink
+: 28 1 6  oink!
+- 30
+: 32 1 6 Then
+: 34 1 6  you
+: 36 1 8  wrig
+: 38 1 8 gle
+: 40 4 6  your
+: 45 4 5  snout!
+: 53 2 8  Oink
+: 57 2 8  oink
+: 61 2 8  oink!
+- 64
+: 66 1 8 Then
+: 68 1 8  you
+: 70 1 8  wig
+: 72 1 8 gle
+: 74 3 6  your
+: 79 4 5  rump!
+: 87 2 8  Oink
+: 91 2 8  oink
+: 95 1 8  oink!
+- 97
+: 99 3 6 Then
+: 103 3 6  shout
+: 107 3 5  it
+: 111 3 6  out!
+: 120 2 6  Oink
+: 124 2 6  oink
+* 128 1 6  oink!
+- 130
+: 132 1 1 First
+: 134 1 1  you
+: 136 1 1  jig
+: 138 1 3 gle
+: 140 3 5  your
+: 144 5 6  tail!
+: 152 2 6  Oink
+: 156 2 6  oink
+: 160 1 6  oink!
+- 161
+: 163 1 6 Then
+: 165 1 6  you
+: 167 1 8  wrig
+: 169 1 8 gle
+: 171 4 6  your
+: 176 4 5  snout!
+* 183 2 8  Oink
+* 187 2 8  oink
+* 191 1 8  oink!
+- 192
+: 194 1 8 Then
+: 196 1 8  you
+: 198 1 8  wig
+: 200 1 8 gle
+: 202 3 6  your
+: 206 4 5  rump!
+: 214 2 8  Oink
+: 218 2 8  oink
+: 222 1 8  oink!
+- 223
+: 225 3 6 Then
+: 229 3 6  shout
+: 233 3 5  it
+: 237 3 6  out!
+: 244 2 6  Oink
+: 248 2 6  oink
+: 252 1 6  oink!
+- 253
+: 254 1 1 First
+: 256 1 1  you
+: 258 1 1  jig
+: 260 1 3 gle
+: 262 3 5  your
+: 266 5 6  tail!
+: 273 2 6  Oink
+: 277 2 6  oink
+: 280 1 6  oink!
+- 281
+: 283 1 6 Then
+: 285 1 6  you
+: 287 1 8  wrig
+: 289 1 8 gle
+: 291 2 6  your
+: 294 4 5  snout!
+: 301 2 8  Oink
+: 305 2 8  oink
+* 308 1 8  oink!
+- 309
+: 310 1 8 Then
+: 312 1 8  you
+: 314 1 8  wig
+: 316 1 8 gle
+: 318 3 6  your
+: 322 4 5  rump!
+: 329 2 8  Oink
+: 333 2 8  oink
+: 336 1 8  oink!
+- 337
+F 339 3 6 Then
+F 343 3 6  shout
+F 347 3 5  it
+F 351 3 6  out!
+* 357 2 6  Oink
+* 361 2 6  oink
+* 365 2 6  oink!
+E

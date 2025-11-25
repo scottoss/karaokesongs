@@ -1,0 +1,377 @@
+#TITLE:What My Cutie Mark Is Telling Me
+#ARTIST:My Little Pony
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#BACKGROUND:background.png
+#COVER:cover.png
+#VIDEO:video.mp4
+#VIDEOGAP:0,2
+#BPM:235.62
+#GAP:1470
+#CREATOR:StarStep, Smilley
+#UPDATED:13-may-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 3 0 These 
+: 4 4 0 an
+: 8 2 4 i
+: 11 4 4 mals 
+: 16 3 0 don't 
+: 20 2 2 lis
+: 23 5 -1 ten, 
+- 31
+: 32 3 -1 no, 
+: 36 4 0 not 
+: 40 3 4 one 
+: 44 3 4 lit
+: 48 2 0 tle 
+* 52 5 6 bit 
+- 63
+: 64 2 0 They 
+: 68 4 0 run 
+: 72 2 4 a
+: 75 5 4 round 
+: 80 3 0 out 
+: 84 3 2 of 
+: 88 2 -1 con
+: 92 4 -1 trol 
+- 96
+: 96 2 2 and 
+: 100 3 4 throw 
+: 104 2 0 their 
+: 108 3 0 his
+* 111 3 4 sy 
+: 116 6 2 fits 
+- 126
+: 128 3 0 It's 
+: 132 2 0 up 
+: 135 3 4 to 
+: 139 4 4 me 
+: 143 1 0 to 
+: 146 4 2 stop 
+: 152 3 -1 them, 
+- 158
+: 160 3 1 'cause 
+: 164 3 3 plain
+: 168 3 3 ly 
+: 172 2 3 you 
+* 175 3 6 can 
+: 180 7 4 see 
+- 191
+: 193 3 9 It's 
+: 196 4 9 got 
+: 200 2 5 to 
+: 204 3 5 be 
+: 207 3 9 my 
+: 211 4 7 des
+: 216 2 0 ti
+: 219 7 0 ny, 
+- 229
+: 236 3 0 and 
+: 240 3 2 it's 
+: 244 3 3 what 
+: 248 3 3 my 
+: 252 4 2 cu
+: 256 2 0 tie 
+* 259 4 3 mark 
+: 264 2 3 is 
+: 267 4 2 tell
+: 271 3 0 ing 
+: 275 9 0 me 
+- 292
+: 335 2 0 I 
+: 338 5 0 try 
+: 343 2 4 to 
+: 346 4 4 keep 
+: 351 3 0 them 
+: 355 4 6 laugh
+: 359 4 6 ing, 
+- 363
+: 363 4 7 put 
+: 368 1 7 a 
+* 371 5 9 smile
+: 376 2 5  u
+: 379 4 5 pon
+: 384 2 9  their
+: 387 4 7  face
+- 395
+: 396 2 0 But 
+: 399 3 2 no 
+: 403 4 4 mat
+: 408 2 4 ter 
+: 412 4 4 what 
+: 416 2 4 I 
+: 419 5 6 try, 
+- 424
+: 424 2 3 it 
+: 427 4 3 seems 
+: 432 2 3 a 
+: 435 4 4 bit 
+: 439 4 0 of 
+: 443 2 0 a 
+* 446 3 4 dis
+: 450 5 3 grace 
+- 461
+: 463 2 -1 I 
+: 466 4 0 have 
+: 471 4 4 to 
+: 475 4 4 en
+: 479 3 0 ter
+: 482 5 6 tain 
+: 488 3 3 them, 
+- 494
+: 496 2 2 it's 
+: 499 3 3 there 
+: 503 4 3 for 
+: 508 3 3 all 
+* 511 2 7 to 
+: 515 8 5 see 
+- 525
+: 527 3 9 It's 
+: 531 3 9 got 
+: 535 2 5 to 
+: 538 3 5 be 
+: 542 4 9 my 
+: 546 5 7 des
+: 551 2 0 ti
+: 554 11 0 ny, 
+- 570
+: 571 4 0 and 
+: 575 3 2 it's 
+: 579 4 3 what 
+: 583 2 3 my 
+: 586 5 2 cu
+: 591 2 0 tie 
+: 594 5 3 mark 
+: 600 2 3 is 
+: 603 4 2 tell
+: 607 3 0 ing 
+* 611 16 0 me 
+- 639
+: 671 3 4 I 
+: 675 3 5 don't 
+: 679 3 9 care 
+: 683 4 9 much 
+: 688 2 5 for 
+: 691 3 10 pick
+: 695 3 7 in' 
+: 699 4 7 fruit 
+- 703
+: 703 2 9 and 
+: 707 4 9 plow
+: 712 2 5 in' 
+: 715 4 5 fields 
+* 720 3 9 ain't 
+: 723 3 7 such 
+: 728 2 4 a 
+: 731 4 4 hoot 
+- 737
+: 737 2 4 No 
+: 739 3 5 mat
+: 743 2 9 ter 
+: 746 4 9 what 
+: 751 2 5 I 
+: 754 5 10 try, 
+- 759
+: 759 3 7 I 
+: 763 3 7 can
+: 766 4 10 not 
+: 770 4 8 fix 
+: 774 3 3 this 
+* 778 4 3 bus
+: 783 2 8 ted 
+: 787 3 6 wa
+: 791 2 0 ter 
+: 795 6 0 chute 
+- 809
+: 815 4 4 I've 
+: 819 3 6 got 
+: 823 4 2 so 
+: 827 4 2 ma
+: 831 2 6 ny 
+: 834 5 7 chores 
+: 839 3 4 to 
+: 843 3 4 do, 
+- 847
+: 847 3 7 it's 
+: 851 2 9 no 
+* 855 4 5 fun 
+: 859 3 5 be
+: 862 4 9 ing 
+: 867 6 7 me 
+- 877
+: 878 2 5 But 
+: 880 2 5 it 
+: 883 4 7 has 
+: 887 4 9 to 
+: 891 3 9 be 
+: 894 3 5 my 
+* 899 4 7 des
+: 903 3 0 ti
+: 906 7 0 ny, 
+- 918
+: 923 3 0 'cause 
+: 927 3 2 it's 
+: 930 4 3 what 
+: 934 3 3 my 
+: 939 3 2 cu
+: 942 3 0 tie 
+: 946 3 3 mark 
+: 950 3 3 is 
+: 954 4 2 tell
+: 958 4 0 ing 
+: 962 12 0 me 
+- 984
+: 1027 3 1 Look
+: 1030 3 5 ie 
+: 1034 4 5 here 
+: 1039 2 1 at 
+* 1042 4 7 what 
+: 1047 2 4 I 
+: 1050 4 4 made, 
+- 1055
+: 1055 2 7 I 
+: 1059 3 8 think 
+: 1063 3 5 that 
+: 1066 4 5 it's 
+: 1071 2 8 a 
+: 1074 6 7 dress 
+- 1086
+: 1087 2 1 I 
+: 1090 3 1 know 
+: 1095 2 5 it 
+: 1098 4 5 does
+: 1102 3 1 n't 
+: 1106 3 7 look 
+: 1110 3 4 like 
+: 1114 4 4 much, 
+- 1119
+: 1119 3 7 I'm 
+: 1122 3 5 un
+: 1126 2 1 der 
+: 1129 4 1 some 
+* 1134 3 5 dis
+: 1138 5 4 tress 
+- 1149
+: 1150 3 0 Could 
+: 1153 4 1 y'all 
+: 1158 3 5 give 
+: 1162 3 5 me 
+: 1166 2 1 a 
+: 1169 4 7 hand 
+: 1174 4 4 here 
+- 1181
+: 1182 2 5 and 
+: 1185 4 7 help 
+: 1189 3 7 me 
+: 1193 4 7 fix 
+* 1197 4 10 this 
+: 1201 6 8 mess 
+- 1212
+: 1214 3 8 My 
+: 1218 4 10 des
+* 1222 3 13 ti
+: 1225 5 13 ny 
+: 1230 3 10 is 
+: 1233 4 8 not 
+: 1239 3 1 pret
+: 1242 5 1 ty, 
+- 1252
+: 1258 4 1 but 
+: 1262 3 1 it's 
+: 1266 4 4 what 
+: 1270 3 4 my 
+: 1274 3 3 cu
+: 1278 3 1 tie 
+: 1282 3 4 mark 
+: 1286 2 4 is 
+: 1289 4 3 tell
+: 1293 3 1 in' 
+: 1297 9 1 me 
+- 1313
+: 1355 4 1 I'm 
+: 1359 3 3 in 
+: 1363 4 4 love 
+: 1367 2 1 with 
+: 1371 3 1 wea
+: 1374 2 4 ther 
+* 1378 4 6 pat
+: 1382 4 3 terns 
+- 1387
+: 1387 3 3 but 
+: 1390 3 3 the 
+: 1394 3 4 o
+: 1398 3 1 thers 
+: 1402 2 1 have 
+: 1405 4 4 con
+: 1409 9 3 cerns 
+- 1420
+: 1422 3 1 For 
+: 1426 3 1 I 
+: 1429 3 4 just 
+: 1433 4 4 gave 
+: 1437 3 1 them 
+: 1441 4 6 frost
+: 1446 3 3 bite 
+- 1450
+: 1450 2 3 o
+: 1453 2 3 ver
+: 1456 4 4  top
+: 1461 2 1  of
+* 1464 3 1  their
+: 1468 4 4  sun
+: 1473 9 3 burns 
+- 1488
+: 1501 3 0 I 
+: 1505 4 1 have 
+: 1510 2 -2 to 
+: 1513 3 -2 keep 
+: 1517 3 1 on 
+: 1520 6 3 try
+: 1526 4 0 ing 
+- 1532
+: 1533 4 3 for 
+: 1538 3 5 ev
+: 1542 2 1 ery
+: 1545 3 1 one 
+* 1549 3 5 can 
+: 1553 7 3 see 
+- 1563
+: 1564 4 8 It's 
+: 1569 3 8 got 
+: 1573 3 1 to 
+: 1577 12 1 be 
+- 1598
+: 1598 4 1 My 
+: 1603 3 3 des
+* 1606 3 5 ti
+: 1610 9 3 ny 
+- 1627
+: 1627 5 1 And 
+: 1632 3 3 it's 
+: 1636 4 5 what 
+: 1640 3 5 my 
+: 1644 3 5 cu
+: 1648 3 1 tie 
+: 1651 12 3 mark 
+- 1665
+: 1665 5 8 It's 
+: 1670 3 8 what 
+: 1674 3 6 my 
+: 1678 4 5 cu
+* 1682 5 6 tie 
+: 1687 6 3 mark 
+- 1694
+: 1696 3 4 Yes, 
+: 1701 3 6 it's 
+: 1704 4 8 what 
+: 1708 3 8 my 
+: 1712 4 8 cu
+: 1716 3 4 tie 
+* 1720 5 8 mark 
+: 1725 2 6 is 
+: 1728 4 6 tell
+: 1732 4 4 ing 
+: 1736 21 4 me 
+E

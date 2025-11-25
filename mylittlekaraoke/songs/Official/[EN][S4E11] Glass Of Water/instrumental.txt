@@ -1,0 +1,500 @@
+#ENCODING:UTF8
+#TITLE:Glass of Water (Instrumental)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:instrumental.mp3
+#BPM:400
+#GAP:1100
+#COVER:cover.png
+#BACKGROUND:background.png
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:14-dec-2021
+F 0 5 0 What
+F 6 3 0  was
+F 10 3 0  it
+F 14 2 0  that
+F 17 4 0  you
+F 22 6 0  need
+F 28 3 0 ed?
+- 38
+R 41 4 0 A
+R 46 4 0  lit
+R 52 4 0 tle
+R 61 8 0  glass
+R 70 4 0  of
+R 78 5 0  wa
+R 84 4 0 ter
+R 89 12 0  please
+- 104
+R 106 3 0 A
+R 111 6 0  fresh
+R 118 6 0  pressed
+R 126 5 0  han
+R 132 5 0 ky
+R 141 5 0  if
+R 147 4 0  I
+R 152 13 0  sneeze
+- 168
+R 170 4 0 Some
+R 175 7 0  tea
+R 184 5 0  with
+R 192 3 0  ho
+R 196 5 0 ney
+R 205 5 0  from
+R 214 3 0  the
+R 218 10 0  bees
+- 232
+R 234 4 0 When
+R 239 5 0 e
+R 247 5 0 ver
+R 254 4 0  you
+R 260 5 0  can
+R 269 9 0  brew
+R 280 4 0  it
+- 290
+F 293 3 0 I'll
+F 297 3 0  get
+F 301 3 0  your
+F 305 8 0  tea
+- 320
+R 323 4 0 And
+R 329 6 0  while
+R 338 5 0  I
+R 344 5 0  get
+R 352 3 0  a
+R 360 4 0  lit
+R 365 5 0 tle
+R 371 8 0  rest
+- 382
+R 384 3 0 A
+R 390 7 0  tee
+R 398 5 0 ny
+R 407 5 0  ti
+R 414 5 0 ny
+R 421 10 0  small
+R 432 3 0  re
+R 438 7 0 quest
+- 447
+R 449 5 0 Some
+R 458 5 0  cod
+R 466 5 0 fish
+R 473 8 0  oil
+R 486 5 0  for
+R 492 4 0  my
+R 499 8 0  chest
+- 510
+R 512 7 0 Poured
+R 521 7 0  from
+R 529 4 0  a
+R 535 5 0  crys
+R 542 4 0 tal
+R 550 8 0  cru
+R 559 4 0 et
+- 565
+F 567 2 0 A
+F 571 5 0  crys
+F 576 4 0 tal
+F 582 4 0  cru
+F 586 2 0 et?
+- 591
+R 593 3 0 My
+R 599 5 0  good
+R 605 4 0 ness,
+R 611 4 0  I'm
+R 616 2 0  a
+R 620 4 0  nin
+R 626 4 0 com
+R 631 2 0 poop
+- 635
+R 637 2 0 Be
+R 641 5 0 cause
+R 647 3 0  I
+R 653 5 0  fear
+R 659 3 0  I've
+R 663 4 0  got
+R 669 3 0  the
+R 674 2 0  croup
+- 678
+R 680 3 0 I
+R 684 5 0  need
+R 690 3 0  a
+R 695 4 0  vat
+R 701 4 0  of
+R 706 5 0  pump
+R 711 4 0 kin
+R 716 2 0  soup
+- 720
+R 722 3 0 And
+R 726 8 0  scarves
+R 735 3 0  made
+R 739 4 0  out
+R 744 3 0  of
+R 748 4 0  zin
+R 753 2 0 ni
+R 756 5 0 as
+- 765
+R 767 2 0 Did
+R 770 4 0  I
+R 775 4 0  say
+R 780 4 0  zin
+R 784 3 0 ni
+R 787 4 0 as?
+R 792 3 0  I
+R 796 4 0  meant
+R 802 3 0  silk
+- 807
+R 809 2 0 Or
+R 812 5 0  some
+R 818 4 0 thing
+R 823 6 0  shi
+R 830 3 0 ny
+R 834 3 0  of
+R 838 4 0  that
+R 843 6 0  ilk
+- 851
+R 853 3 0 And
+R 857 3 0  then
+R 861 3 0  I'll
+R 865 5 0  need
+R 871 3 0  some
+R 875 5 0  nice
+R 881 5 0  warm
+R 887 3 0  milk
+- 892
+R 894 3 0 And
+R 899 4 0  pas
+R 905 4 0 tries
+R 910 2 0  from
+R 913 4 0  Abys
+R 918 6 0 si
+R 924 3 0 ni
+R 928 3 0 a
+- 933
+R 935 4 0 And
+R 940 4 0  since
+R 945 3 0  my
+R 949 6 0  sto
+R 956 4 0 mach's
+R 961 4 0  feel
+R 965 4 0 ing
+R 970 3 0  crum
+R 973 2 0 my
+- 977
+R 979 3 0 Why
+R 983 5 0  not
+R 989 4 0  give
+R 994 4 0  my
+R 999 4 0  ach
+R 1004 5 0 ing
+R 1010 3 0  tum
+R 1013 2 0 my
+- 1017
+R 1019 5 0 Some
+R 1024 3 0 thing
+R 1028 5 0  soo
+R 1033 4 0 thing,
+R 1038 4 0  some
+R 1043 4 0 thing
+R 1048 4 0  yum
+R 1052 2 0 my
+- 1056
+R 1058 5 0 Pi
+R 1063 4 0 led
+R 1068 4 0  up
+R 1073 3 0  with
+R 1077 3 0  noo
+R 1081 9 0 dles?
+- 1095
+R 1097 4 0 Add
+R 1102 3 0  a
+R 1106 5 0  slice
+R 1112 3 0  of
+R 1116 4 0  home
+R 1120 4 0 made
+R 1125 2 0  rye
+- 1129
+R 1131 3 0 With
+R 1135 5 0  stacks
+R 1141 2 0  of
+R 1144 6 0  Swiss
+R 1155 4 0  way
+R 1160 3 0  up
+R 1164 5 0  high
+- 1171
+R 1173 7 0 Served
+R 1181 3 0  with
+R 1185 4 0  sides
+R 1190 2 0  of
+R 1193 5 0  sweet
+R 1199 5 0  mince
+R 1205 2 0  pie
+- 1209
+R 1211 4 0 More
+R 1216 4 0  ba
+R 1220 5 0 sil;
+R 1226 3 0  I
+R 1230 5 0  need
+R 1236 5 0  oo
+R 1241 15 0 dles!
+- 1260
+F 1262 5 0 A
+F 1267 3 0 ny
+F 1270 4 0 thing
+F 1275 10 0  else?
+- 1291
+R 1293 14 0 I'll
+R 1308 8 0  be
+R 1319 8 0  grate
+R 1330 6 0 ful
+R 1340 6 0  for
+R 1348 8 0  your
+R 1359 6 0  cha
+R 1369 7 0 ri
+R 1380 9 0 ty
+- 1395
+R 1397 6 0 Un
+R 1404 7 0 til
+R 1420 4 0  the
+R 1427 5 0  bit
+R 1433 6 0 ter
+R 1445 16 0  end
+- 1471
+R 1478 5 0 Be
+R 1486 12 0 cause
+R 1499 7 0  I've
+R 1510 7 0  heard
+R 1518 6 0  that
+R 1526 11 0  ten
+R 1540 6 0 der
+R 1550 11 0 ness
+- 1566
+R 1568 5 0 Is
+R 1574 7 0  what
+R 1583 6 0  you
+R 1591 14 0  lend
+R 1606 5 0  an
+R 1615 10 0  ail
+R 1626 8 0 ing
+R 1640 17 0  friend
+- 1664
+F 1667 9 0 Ten
+F 1676 4 0 der
+F 1680 5 0 ness,
+F 1686 3 0  is
+F 1689 2 0 n't
+F 1692 3 0  that
+F 1696 12 0  right,
+F 1710 16 0  friend?
+- 1732
+F 1735 17 0 Right,
+F 1754 3 0  but...
+- 1760
+F 1762 12 0 So,
+F 1778 6 0  who's
+F 1786 5 0  rea
+F 1791 3 0 dy
+F 1796 3 0  for
+F 1800 3 0  my
+F 1807 5 0  big
+F 1813 6 0  re
+F 1819 14 0 prise?
+- 1840
+R 1843 4 0 I'd
+R 1848 4 0  like
+R 1853 3 0  that
+R 1857 5 0  glass
+R 1863 3 0  of
+R 1867 5 0  wa
+R 1873 3 0 ter
+R 1877 3 0  please
+- 1882
+R 1884 3 0 Some
+R 1888 4 0  ma
+R 1893 4 0 gic
+R 1898 6 0  spell
+R 1905 2 0  to
+R 1908 7 0  cure
+R 1916 2 0  di
+R 1919 3 0 sease
+- 1924
+R 1926 2 0 A
+R 1929 6 0  firm
+R 1936 3 0  "ge
+R 1940 5 0 sund
+R 1946 5 0 hoof"
+R 1952 3 0  when
+R 1956 2 0  I
+R 1959 4 0  sneeze
+- 1965
+R 1967 3 0 A
+R 1971 5 0  fresh
+R 1978 4 0  bou
+R 1982 4 0 quet
+R 1987 3 0  of
+R 1991 6 0  ro
+R 1998 6 0 ses
+- 2006
+R 2008 5 0 Some
+R 2014 4 0  lo
+R 2019 4 0 zen
+R 2023 6 0 ges
+R 2030 2 0  will
+R 2034 4 0  soon
+R 2039 3 0  ap
+R 2043 4 0 pease
+- 2049
+R 2051 3 0 My
+R 2057 4 0  whee
+R 2061 5 0 zing
+R 2067 2 0  when
+R 2070 3 0  I
+R 2074 5 0  start
+R 2080 2 0  to
+R 2083 5 0  sneeze
+- 2091
+R 2093 3 0 A
+R 2097 4 0  wig
+R 2102 3 0  to
+R 2106 5 0  keep
+R 2112 2 0  me
+R 2115 6 0  from
+R 2122 3 0  the
+R 2126 5 0  breeze
+- 2133
+R 2135 4 0 And
+R 2140 4 0  blan
+R 2145 5 0 kets
+R 2151 3 0  for
+R 2155 4 0  my
+R 2160 5 0  toes
+R 2166 7 0 -es
+- 2175
+R 2177 4 0 Take
+R 2182 4 0  twee
+R 2187 5 0 zers
+R 2193 3 0  out
+R 2197 4 0  from
+R 2202 4 0  my
+R 2207 3 0  va
+R 2212 2 0 lise
+- 2216
+R 2218 2 0 And
+R 2221 4 0  then
+R 2226 2 0  mas
+R 2229 5 0 sage
+R 2235 4 0  my
+R 2240 4 0  knob
+R 2245 3 0 by
+R 2249 2 0  knees
+- 2253
+R 2255 3 0 A
+R 2259 4 0  bowl
+R 2264 2 0  of
+R 2267 4 0  peas,
+R 2272 4 0  some
+R 2277 4 0  ex
+R 2282 4 0 tra
+R 2287 3 0  cheese
+- 2292
+R 2294 2 0 A
+R 2298 4 0  cudd
+R 2302 3 0 le
+R 2306 2 0  with
+R 2309 2 0  a
+R 2313 5 0  Pe
+R 2318 4 0 kin
+R 2323 2 0 gese
+- 2327
+R 2329 2 0 A
+R 2332 4 0  sin
+R 2336 3 0 ging
+R 2341 5 0  harp
+R 2347 4 0  who's
+R 2352 4 0  named
+R 2357 3 0  Lou
+R 2360 3 0 ise
+- 2365
+R 2367 2 0 A
+R 2370 3 0  goat
+R 2374 3 0  on
+R 2378 8 0  skis,
+R 2387 2 0  a
+R 2390 3 0  new
+R 2394 5 0  tra
+R 2400 2 0 peze
+- 2404
+R 2406 2 0 And
+R 2409 5 0  more
+R 2415 4 0  and
+R 2420 2 0  more
+R 2423 3 0  and
+R 2427 4 0  more
+R 2432 4 0  and
+R 2437 5 0  more
+R 2443 3 0  of
+G 2447 62 0  these
+- 2519
+F 2526 5 0 And
+F 2534 8 0  just
+F 2543 2 0  be
+F 2546 5 0 cause
+F 2553 3 0  I
+F 2557 4 0  ough
+F 2561 3 0 ta
+- 2568
+R 2570 12 0 Make
+R 2589 10 0  sure
+R 2600 7 0  I'm
+R 2608 8 0  drink
+R 2617 8 0 ing
+R 2627 5 0  in
+R 2635 4 0  the
+R 2641 4 0  right
+- 2648
+R 2650 4 0 A
+R 2655 7 0 mount
+R 2665 4 0  of
+R 2671 7 0  flu
+R 2678 5 0 ids
+R 2685 5 0  day
+R 2691 4 0  and
+R 2696 2 0  night
+- 2700
+R 2702 3 0 I
+R 2706 4 0  wish
+R 2711 4 0  I
+R 2716 5 0  may,
+R 2722 4 0  I
+R 2727 6 0  wish
+R 2734 3 0  I
+R 2738 5 0  might
+- 2746
+R 2748 4 0 Have
+R 2753 5 0  just
+R 2759 5 0  one
+R 2767 5 0  lit
+R 2773 4 0 tle
+R 2778 4 0  thing
+- 2785
+R 2787 3 0 Oh,
+R 2791 3 0  would
+R 2795 3 0  you
+R 2800 4 0  please
+R 2805 4 0  fi
+R 2809 3 0 nal
+R 2812 3 0 ly
+R 2816 3 0  bring
+- 2821
+R 2823 6 0 Me
+R 2832 5 0  that
+R 2842 8 0  ti
+R 2851 3 0 ny
+R 2858 12 0  glass
+- 2876
+R 2879 17 0 Of
+R 2898 8 0  wa
+G 2906 130 0 ter
+E

@@ -1,0 +1,417 @@
+#TITLE:Hearts Strong as Horses (Instrumental) (As Scootaloo)
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:398.64
+#GAP:8949
+#ALBUM:My Little Pony
+#UPDATED:15-dec-2013
+#COMMENT:http://www.mylittlekaraoke.com
+: 0 2 6 We're
+: 3 3 6  the
+: 7 5 6  tough
+: 14 5 3 est
+: 20 7 6  litt
+: 28 5 3 le
+- 42
+: 45 6 6 Po
+: 52 7 6 nies
+: 60 4 6  in
+* 65 10 10  town
+- 76
+: 78 4 8 Got
+: 84 5 6  the
+* 90 13 6  moves,
+: 104 5 6  got
+: 111 4 3  the
+: 116 9 6  mo
+: 128 8 3 jo,
+- 140
+: 142 5 6 No
+: 149 5 6  har
+: 156 4 6 der
+: 162 4 6  wor
+: 168 5 10 king
+: 174 5 8  po
+: 181 6 6 nies
+: 188 5 5  a
+: 194 9 6 round
+- 205
+: 207 6 6 We
+: 214 5 6  are
+: 220 4 5  a
+* 226 7 6  tri
+* 233 5 6 o,
+: 250 6 6  work
+: 258 6 6  as
+: 265 3 6  a
+: 270 9 10  team
+- 280
+: 282 5 6 We'll
+: 289 4 8  be
+: 295 5 13  the
+: 302 10 13  first
+: 316 6 6  po
+: 323 7 8 nies
+: 331 4 8  out
+- 336
+: 338 4 6 On
+: 343 3 6  the
+: 347 4 6  f
+* 354 19 11 lag
+: 374 13 10 -wa
+: 391 9 6 ving
+: 402 26 6  scene
+- 481
+: 618 4 6 We
+: 624 5 6  get
+: 637 7 6  go
+: 645 4 6 ing
+: 650 5 3  when
+: 656 5 1  the
+* 670 6 6  go
+: 677 4 6 ing
+: 682 6 6  gets
+: 689 6 10  tough
+- 699
+: 701 5 8 We
+: 707 5 6  know
+: 721 5 6  our
+: 727 4 6  ve
+: 733 5 3 ry
+: 739 6 6  best
+: 746 5 6  is
+* 752 7 3  just
+: 765 6 6  ne
+: 771 5 6 ver
+: 779 4 8  e
+: 784 8 6 nough
+- 797
+: 799 4 6 We're
+: 804 5 6  kind
+: 810 3 3 a
+: 816 6 6  short,
+: 823 4 6  but
+* 829 5 13  so
+: 836 8 6  what?
+- 846
+: 848 7 6 We
+: 856 6 6  don't
+: 868 6 6  get
+: 875 6 6  de
+* 887 12 10 fea
+: 900 4 8 ted
+- 906
+: 908 5 6 We
+: 914 5 8  could
+: 921 4 13  take
+: 926 4 6  a
+: 932 4 6  lit
+: 938 5 6 tle
+: 945 7 6  break,
+: 958 8 6  but
+* 978 5 10  we
+: 984 4 10  don't
+: 989 6 8  need
+: 996 3 8  it
+- 1000
+: 1002 6 6 We've
+: 1009 9 5  got
+: 1023 11 6  hearts
+: 1055 4 6  as
+: 1061 6 6  strong
+: 1068 4 5  as
+: 1073 5 6  hor
+* 1081 7 10 ses
+- 1100
+: 1104 5 6 We've
+: 1112 8 8  got
+: 1126 11 6  hearts
+: 1157 4 6  as
+: 1163 6 6  strong
+: 1170 6 10  as
+: 1177 4 8  hor
+: 1184 7 6 ses
+- 1201
+: 1209 5 6 We've
+: 1215 9 5  got
+* 1228 10 6  hearts
+: 1260 5 6  as
+: 1266 6 6  strong
+: 1274 5 5  as
+: 1280 4 6  hor
+: 1285 8 10 ses
+- 1302
+: 1306 11 6 We've
+: 1318 10 8  got
+: 1330 32 11  hea
+: 1363 6 10 -a
+: 1370 6 8 -a
+* 1377 12 6 -arts,
+- 1393
+: 1395 8 6 Hearts
+: 1407 8 8  strong
+: 1416 9 8  as
+* 1426 9 8  hor
+: 1440 22 6 ses
+- 1515
+: 1647 5 6 When
+: 1653 5 3  we
+: 1661 3 6  put
+: 1665 4 3  our
+: 1672 11 6  minds
+: 1686 5 3  to
+: 1692 5 6 get
+: 1698 5 6 her,
+- 1708
+: 1710 5 6 We
+: 1717 5 6  can
+: 1723 4 6  a
+* 1728 12 10 chieve
+- 1746
+: 1748 5 6 We're
+: 1754 4 13  the
+: 1761 6 13  Cu
+: 1768 4 6 tie
+: 1773 5 6  Mark
+* 1780 5 8  Cru
+: 1788 5 8 sa
+: 1794 6 6 ders,
+- 1805
+: 1807 6 6 And
+* 1814 4 10  you
+: 1819 6 8  should
+: 1826 5 6  be
+: 1833 11 6 lieve
+- 1850
+: 1852 5 10 We've
+: 1858 4 10  got
+: 1864 6 13  de
+: 1871 4 13 ter
+: 1877 4 8 mi
+: 1883 5 8 na
+: 1890 8 6 tion
+- 1901
+: 1903 5 6 To
+: 1909 4 8  re
+: 1915 5 10 pre
+: 1921 5 11 sent
+: 1928 5 10  the
+* 1934 5 11  na
+* 1940 5 10 tion
+- 1947
+: 1949 18 11 Fo
+: 1968 4 10 -or
+: 1975 20 10  the
+: 1999 24 13  win
+- 2028
+: 2030 8 6 We've
+: 2039 9 5  got
+* 2051 10 6  hearts
+: 2083 4 6  as
+: 2088 7 6  strong
+: 2096 5 5  as
+: 2103 4 6  hor
+: 2109 8 10 ses
+- 2127
+: 2134 5 6 We've
+: 2140 9 8  got
+: 2154 10 6  hearts
+: 2186 3 6  as
+: 2191 8 6  strong
+: 2200 5 10  as
+: 2206 5 8  hor
+: 2213 8 6 ses
+- 2233
+: 2237 6 6 We've
+: 2244 8 5  got
+: 2257 9 6  hearts
+: 2288 5 6  as
+: 2294 8 6  strong
+: 2303 3 5  as
+: 2308 4 6  hor
+: 2315 8 10 ses
+- 2333
+: 2345 6 6 And
+: 2352 5 8  we're
+: 2358 5 8  play
+: 2364 5 6 ing
+: 2370 6 6  to
+: 2378 10 6  win
+: 2399 5 6  as
+: 2405 4 8  we
+* 2410 6 13  gal
+: 2417 5 6 lop
+: 2423 7 6  to
+: 2431 10 8  glo
+: 2443 4 6 ry
+- 2448
+: 2450 5 8 We
+: 2456 5 10  can
+: 2462 7 11  con
+: 2470 5 10 quer
+: 2477 4 8  a
+: 2482 4 6 ny
+: 2487 5 8  chal
+* 2493 7 8 lenge
+: 2501 6 10  we're
+: 2509 16 6  in
+- 2536
+: 2540 10 6 We've
+: 2552 12 8  got
+: 2565 51 13  hearts,
+: 2629 9 6  hearts
+: 2641 8 8  strong
+: 2650 12 8  as
+: 2664 9 8  hor
+: 2676 24 6 ses
+- 2710
+: 2732 11 6 Hearts
+: 2744 7 8  strong
+: 2754 8 10  as
+: 2763 9 8  hor
+: 2778 7 8 se
+: 2786 25 10 -es
+- 2837
+: 2871 5 6 Got
+: 2878 3 3  the
+: 2884 11 6  moves,
+: 2897 4 6  got
+: 2903 3 3  the
+: 2909 13 6  mo
+: 2923 7 3 jo
+- 2936
+: 2939 7 0 No
+: 2948 7 5  har
+: 2956 6 5 der
+: 2963 5 5  wor
+: 2969 5 9 kin'
+: 2977 6 7  po
+: 2984 5 5 ny
+: 2991 5 4  a
+: 2997 10 5 round
+- 3017
+: 3039 7 5 We
+: 3047 5 5  are
+: 3053 2 2  a
+: 3056 12 5  tri
+: 3068 4 2 o
+- 3082
+: 3097 7 5 Work
+: 3107 4 5  as
+: 3112 3 5  a
+: 3117 10 9  team
+- 3133
+: 3135 9 5 We'll
+: 3145 4 9  be
+: 3150 5 12  the
+: 3156 9 12  first
+: 3170 6 5  po
+: 3177 6 7 nies
+: 3184 3 7  out
+- 3189
+: 3191 5 5 On
+: 3197 4 5  the
+: 3202 4 5  f
+: 3207 17 10 lag
+: 3225 10 8 -wa
+: 3238 3 5 -a
+: 3243 9 5 ving
+: 3257 17 5  scene
+- 3284
+F 3288 5 6 So
+F 3294 6 6  let's
+F 3301 5 6  get
+F 3307 1 6  to
+F 3309 3 6  the
+F 3313 9 6  Crystal
+F 3323 11 6  Empire
+- 3335
+F 3337 2 6 And
+F 3340 5 6  let's
+F 3347 4 6  do
+F 3352 1 6  the
+F 3354 11 6  routine
+F 3366 4 6  as
+F 3371 6 6  it
+F 3378 10 6  was
+- 3394
+F 3396 7 6 And
+F 3404 19 6  let's
+F 3424 7 6  win
+F 3432 8 6  this
+F 3441 19 6  thing!
+- 3470
+: 3477 7 6 We've
+: 3485 8 5  got
+: 3497 12 6  hearts
+: 3529 5 6  as
+: 3535 6 6  strong
+: 3542 4 5  as
+: 3548 5 6  hor
+: 3555 10 10 ses
+- 3577
+: 3581 5 6 We've
+: 3587 8 8  got
+: 3599 11 6  hearts
+: 3632 4 6  as
+: 3637 7 6  strong
+: 3645 5 10  as
+: 3652 5 8  hor
+: 3659 7 6 ses
+- 3676
+: 3684 5 6 We've
+: 3690 8 5  got
+: 3704 8 6  hearts
+: 3735 5 6  as
+* 3741 6 6  strong
+: 3748 4 5  as
+: 3754 5 6  hor
+: 3761 7 10 ses
+- 3778
+: 3792 4 6 And
+: 3797 5 8  we're
+: 3805 5 8  play
+: 3811 5 6 ing
+: 3817 4 6  to
+* 3824 10 6  win
+: 3844 5 6  as
+: 3851 4 8  we
+: 3856 4 13  gal
+: 3864 5 6 lop
+: 3871 4 6  to
+: 3876 11 8  glo
+: 3889 2 6 ry
+- 3893
+: 3895 5 8 We
+: 3902 4 10  can
+: 3907 7 11  con
+: 3915 5 10 quer
+: 3922 4 8  a
+: 3927 4 6 ny
+: 3934 4 8  chal
+: 3940 6 8 lenge
+* 3947 7 10  we're
+: 3956 14 6  in
+- 3980
+: 3984 12 6 We've
+: 3998 11 8  got
+: 4011 51 13  hearts,
+: 4074 12 6  hearts
+: 4087 9 8  strong
+: 4098 8 8  as
+: 4108 9 8  hor
+: 4122 26 6 ses
+- 4158
+: 4178 11 6 Hearts
+: 4190 8 8  strong
+* 4199 10 10  as
+: 4210 9 8  hor
+: 4224 7 8 se
+: 4232 28 10 -es
+E

@@ -1,0 +1,133 @@
+#TITLE:Celestia's Ballad
+#ARTIST:My Little Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:400
+#GAP:6896
+#UPDATED:03-may-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 16 3 You've
+: 18 24 -1  come
+- 44
+: 44 7 1 Such
+: 52 3 3  a
+* 57 20 4  long,
+: 79 29 3  long
+: 110 23 -1  way
+- 143
+: 151 6 -6 And
+: 160 14 3  I've
+: 179 10 1  watched
+: 194 9 -1  you
+- 206
+: 206 6 1 From
+: 212 7 3  that
+: 220 10 4  ve
+: 231 6 4 ry
+: 240 24 3  first
+* 270 21 -1  day
+- 299
+: 311 4 -6 To
+: 318 7 -6  see
+: 326 4 -6  how
+: 331 5 -6  you
+: 337 10 1  might
+: 352 21 -1  grow
+- 380
+: 390 4 -6 To
+: 398 7 -1  see
+: 406 6 1  what
+: 414 5 3  you
+* 420 12 1  might
+: 434 16 -1  do
+- 462
+: 472 3 -6 To
+: 478 6 -6  see
+: 485 5 -6  what
+: 493 5 -6  you've
+: 499 10 1  been
+: 510 16 -1  through
+- 530
+: 530 7 -1 And
+* 538 12 4  all
+: 551 4 4  the
+: 557 13 3  ways
+- 572
+: 572 6 3 You've
+: 580 10 1  made
+: 591 5 -1  me
+* 599 13 -1  proud
+: 614 14 1  of
+: 631 38 -1  you
+- 734
+: 791 7 -6 It's
+: 800 17 3  time
+: 818 22 -1  now
+- 844
+: 844 6 1 For
+: 851 5 3  a
+: 858 17 4  new
+* 879 25 8  change
+: 908 4 6  to
+: 912 5 4 -o
+: 919 18 6  come
+- 940
+: 949 7 -6 You've
+: 957 21 3  grown
+: 979 17 -1  up
+- 1000
+: 1004 6 1 And
+: 1011 6 3  your
+: 1018 17 4  new
+: 1038 22 3  life
+: 1065 6 1  has
+: 1073 5 -1  be
+: 1079 17 -1 gun
+- 1100
+: 1110 6 -6 To
+: 1118 7 -6  go
+: 1126 5 -6  where
+: 1132 5 -6  you
+* 1138 10 1  will
+: 1150 20 -1  go
+- 1181
+: 1191 6 -6 To
+: 1199 7 -1  see
+: 1207 5 1  what
+: 1213 6 3  you
+: 1219 11 1  will
+: 1234 26 -1  see
+- 1265
+: 1270 5 -6 To
+: 1277 8 -6  find
+: 1286 5 -6  what
+: 1293 5 -6  you
+: 1300 11 1  will
+: 1312 12 -1  be
+- 1326
+: 1326 6 -4 For
+: 1332 5 -4  it's
+: 1338 12 -3  time
+: 1351 6 -3  for
+: 1358 26 -1  you
+- 1395
+: 1403 6 1 To
+: 1409 7 3  ful
+: 1418 16 4 fill
+- 1437
+: 1439 13 3 Your
+* 1459 25 -1  des
+: 1488 6 -1 ti
+: 1497 102 6 ny
+- 2261
+F 2311 29 0 Twilight,
+F 2358 7 0  is
+F 2366 7 0  that
+F 2374 10 0  you?
+E

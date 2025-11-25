@@ -1,0 +1,872 @@
+#TITLE:The Super Speedy Cider Squeezy 6000
+#ARTIST:My Little Pony
+#MP3:song.mp3
+#BPM:472.96
+#GAP:7746
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#VIDEO:video.mp4
+#GENRE:Pony
+#EDITION:My Little Pony
+#LANGUAGE:English
+#CREATOR:Smilley
+#MUSIC_BY:Daniel Ingram, Steffan Andrews, M.A. Larson, Samuel Vincent, Scott McNeill, Tabitha St. Germain, Choir2
+#UPDATED:07-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+F 0 8 0 Well,
+F 8 8 0  lookie
+F 16 6 0  what
+F 22 4 0  we
+F 26 6 0  got
+F 32 8 0  here,
+- 40
+F 40 8 0 Brother
+F 48 3 0  of
+F 51 11 0  mine,
+- 62
+F 62 5 0 It's
+F 67 2 0  the
+F 69 9 0  same
+F 78 2 0  in
+F 80 8 0  every
+F 88 17 0  town
+- 123
+F 135 11 0 Ponies
+F 146 5 0  with
+F 151 10 0  thirsty
+F 161 8 0  throats,
+F 169 8 0  dry
+F 177 7 0  tongues,
+- 184
+F 184 3 0 And
+F 187 4 0  not
+F 191 2 0  a
+F 193 5 0  drop
+F 198 2 0  of
+F 200 9 0  cider
+F 209 3 0  to
+F 212 6 0  be
+F 218 16 0  found
+- 245
+F 257 7 0 Maybe
+F 264 9 0  they're
+F 273 5 0  not
+F 278 9 0  aware
+- 287
+F 287 5 0 That
+F 292 5 0  there's
+F 297 8 0  really
+F 305 5 0  no
+F 311 9 0  need
+- 320
+F 320 3 0 For
+F 323 5 0  this
+F 328 9 0  teary
+F 337 21 0  despair
+- 370
+: 387 5 -2 That
+: 392 2 -2  the
+: 394 9 -4  key
+: 403 4 -2  that
+: 407 4 -2  they
+: 411 3 -4  need
+- 414
+: 414 2 -4 To
+: 416 6 -2  solve
+: 422 3 -2  the
+: 425 7 -4  sad
+: 432 6 -2  ci
+: 438 3 -2 der
+: 441 6 -4  shor
+: 447 4 -4 tage
+- 451
+: 451 4 -3 You
+: 455 4 -3  and
+: 459 8 -5  I
+: 467 6 -3  will
+* 473 16 -3  sha
+: 489 23 -7 -are
+- 550
+: 576 8 0 Well
+: 584 7 0  you've
+: 592 8 0  got
+: 602 7 0  op
+: 609 7 0 por
+: 616 5 0 tu
+: 621 4 0 ni
+: 627 14 2 ty
+- 642
+: 642 7 0 In
+: 649 8 0  this
+: 657 7 -3  ve
+: 664 8 0 ry
+: 672 7 0  com
+: 680 6 0 mu
+: 686 5 0 ni
+: 693 11 2 ty
+- 719
+: 721 7 0 He's
+: 728 9 0  Flim,
+: 737 6 2  he's
+: 744 9 2  Flam
+- 753
+: 753 4 0 We're
+: 757 4 0  the
+: 761 8 0  world
+: 769 4 2  fa
+: 773 5 2 mous
+- 778
+: 778 7 2 Flim
+: 785 7 0  Flam
+: 792 9 0  bro
+* 801 25 -2 thers
+- 835
+: 841 5 2 Tra
+: 846 4 2 vel
+: 850 5 0 ling
+: 855 16 0  sales
+: 871 8 2 po
+: 879 11 0 nies
+- 890
+: 890 14 0 Non
+: 904 19 -3 par
+: 923 53 -7 eil
+- 980
+F 984 24 0 Non-pa...
+F 1016 13 0  what?
+- 1032
+F 1034 8 4 Non
+F 1042 7 2 pa
+F 1049 15 0 reil,
+F 1064 11 2  that's
+F 1075 7 0  ex
+F 1082 6 0 act
+F 1088 6 -3 ly
+- 1094
+F 1094 3 0 The
+F 1097 6 4  rea
+F 1103 6 4 son
+F 1112 9 2  why,
+F 1121 7 0  you
+F 1128 12 2  see
+- 1145
+F 1150 4 0 No
+F 1154 10 0  pony
+F 1164 8 0  else
+F 1172 3 0  in
+F 1175 4 0  this
+F 1179 9 0  whole
+F 1188 4 0  place
+- 1192
+F 1192 3 0 Will
+F 1195 3 0  give
+F 1198 2 0  you
+F 1200 7 0  such
+F 1207 2 0  a
+F 1209 12 0  chance
+- 1221
+F 1221 3 0 To
+F 1224 3 0  be
+F 1227 4 0  where
+F 1231 3 0  you
+F 1234 4 0  need
+F 1238 2 0  to
+F 1241 6 0  be
+- 1260
+F 1267 14 0 *smeck*
+- 1282
+F 1282 8 0 And
+F 1290 5 0  that's
+F 1295 3 0  a
+F 1298 6 0  new
+F 1304 12 0  world,
+- 1316
+F 1316 6 0  With
+F 1322 10 0  tons
+F 1332 3 0  of
+F 1335 19 0  cider
+- 1357
+F 1359 7 0 Fresh
+F 1367 13 0  squeezed
+F 1380 6 0  and
+F 1386 8 0  ready
+F 1394 6 0  for
+F 1401 19 0  drinking
+- 1422
+: 1428 7 -2 More
+: 1435 7 -3  ci
+: 1442 3 -3 der
+: 1445 7 -2  than
+: 1452 8 -3  you
+: 1460 8 -2  could
+: 1468 7 -3  drink
+- 1475
+: 1475 2 -2 In
+: 1477 3 -2  all
+: 1480 5 -2  your
+* 1485 9 -3  days
+: 1494 7 -2  of
+: 1501 13 -3  thin
+: 1514 32 -7 king
+- 1550
+F 1556 6 0 I
+F 1563 9 0  doubt
+F 1573 16 0  that.
+- 1595
+: 1604 6 0 So
+: 1610 7 0  take
+: 1619 9 0  this
+: 1629 7 0  op
+: 1636 7 0 por
+: 1643 5 0 tu
+: 1648 5 0 ni
+: 1654 14 2 ty
+- 1668
+: 1668 8 0 In
+: 1676 7 0  this
+: 1683 6 -3  ve
+: 1689 9 0 ry
+: 1698 9 0  com
+: 1707 6 0 mu
+: 1713 5 0 ni
+: 1718 12 2 ty
+- 1739
+: 1748 10 0 He's
+: 1758 8 0  Flim,
+: 1766 6 2 he's
+: 1772 9 2  Flam
+- 1781
+: 1781 4 0 We're
+: 1785 2 0  the
+: 1787 9 0  world
+: 1796 4 2  fa
+: 1800 4 2 mous
+- 1804
+* 1804 6 2 Flim
+* 1811 7 0  Flam
+: 1820 9 0  bro
+: 1829 27 -2 thers
+- 1862
+: 1866 7 2 Tra
+: 1873 4 0 vel
+: 1877 5 0 ling
+: 1882 16 0  sales
+: 1899 8 2 po
+: 1907 9 0 nies
+- 1916
+: 1916 16 0 Non
+: 1932 15 -4 par
+: 1947 57 -7 eil
+- 2004
+F 2004 4 0 I
+F 2008 11 0  suppose
+F 2020 5 0  by
+F 2025 9 0  now
+F 2034 8 0  you're
+F 2042 14 0  wondering
+- 2062
+F 2062 5 0 'Bout
+F 2067 5 0  our
+F 2072 18 0  peculiar
+F 2091 9 0  mode
+F 2100 4 0  of
+F 2104 22 0  transport
+- 2128
+: 2133 7 -4 I
+: 2142 16 -3  say,
+: 2165 10 -4  our
+: 2175 9 -3  mode
+: 2184 4 -3  of
+* 2188 10 0  lo
+: 2198 8 -3 co
+: 2206 12 -2 mo
+: 2218 8 -3 -o
+: 2226 23 -5 tion
+- 2253
+F 2256 5 0 And
+F 2261 4 0  I
+F 2265 11 0  suppose
+F 2277 6 0  by
+F 2283 8 0  now
+F 2291 8 0  you're
+F 2299 17 0  wondering,
+- 2318
+F 2320 11 0 Where
+F 2332 6 0  is
+F 2338 9 0  this
+F 2347 18 0  promised
+F 2365 15 0  cider?
+- 2383
+: 2390 3 -3 A
+: 2393 3 -3 ny
+: 2396 8 -2  horse
+: 2405 7 -2  can
+: 2412 11 -2  make
+: 2423 4 -2  a
+: 2428 12 -1  claim
+- 2441
+: 2441 7 -1 And
+: 2448 5 -1  a
+: 2453 7 -1 ny
+: 2462 5 0  po
+: 2467 5 0 ny
+: 2472 6 0  can
+* 2478 7 0  do
+: 2486 8 -3  the
+: 2494 16 2  same
+- 2510
+F 2510 3 0 But
+F 2513 3 0  my
+F 2516 5 0  brother
+F 2521 5 0  and
+F 2527 6 0  I
+F 2533 4 0  have
+F 2537 6 0  something
+- 2543
+F 2543 8 0 Most
+F 2551 16 0  unique
+F 2567 3 0  and
+F 2570 10 0  superb
+- 2582
+F 2582 14 0 Unseen
+F 2596 3 0  at
+F 2599 5 0  any
+F 2604 11 0  time
+- 2615
+F 2615 3 0 In
+F 2618 3 0  this
+F 2621 6 0  big
+F 2627 7 0  new
+F 2634 11 0  world
+- 2645
+: 2645 8 0 And
+: 2653 16 2  that's
+: 2669 9 2  op
+: 2678 6 2 por
+: 2684 11 0 tu
+: 2695 6 -4 -u
+: 2701 15 -3 ni
+: 2716 57 -1 ty
+- 2775
+: 2780 12 -1 Folks,
+: 2792 5 -3  the
+: 2797 8 -3  one
+: 2805 9 -3  and
+: 2814 9 -3  on
+: 2823 8 -4 ly,
+- 2834
+: 2836 5 -4 The
+: 2843 7 -3  big
+: 2853 9 -3 gest
+: 2863 5 -2  and
+: 2869 4 0  the
+: 2875 17 -2  best
+- 2897
+F 2900 8 0 The
+F 2909 31 0  unbelievable
+- 2940
+F 2940 30 0 Unimpeachable
+- 2970
+F 2970 35 0 Indispensable
+- 3007
+F 3007 5 0 I
+F 3012 7 0  can't
+F 3019 18 0  believe-able
+- 3037
+: 3037 14 -5 Flim
+: 3053 16 -3  Flam
+: 3069 10 -5  bro
+: 3079 8 -5 thers'
+- 3087
+: 3087 8 -3 Su
+: 3095 4 -3 per
+: 3099 12 -2  Spee
+: 3111 4 -2 dy
+* 3115 12 2  Ci
+: 3127 4 2 der
+: 3132 12 0  Squee
+: 3144 6 0 zy
+- 3152
+: 3152 15 -5 Six
+: 3167 11 -3  Thou
+: 3178 52 -7 sand
+- 3230
+F 3230 4 0 What
+F 3234 6 0  d'you
+F 3240 10 0  say,
+F 3252 16 0  sister?
+- 3270
+: 3272 7 0 Oh,
+: 3280 7 0  we've
+: 3288 9 0  got
+: 3297 8 0  op
+: 3305 7 0 por
+: 3312 6 0 tu
+: 3318 5 0 ni
+* 3323 15 2 ty
+- 3338
+: 3338 7 0 In
+: 3345 7 0  this
+: 3352 8 -3  ve
+: 3360 7 0 ry
+: 3368 8 0  com
+: 3376 6 0 mu
+: 3382 6 0 ni
+: 3388 15 2 ty
+- 3416
+: 3416 9 0 Please
+: 3425 7 -2  Flim,
+: 3432 8 0  please
+: 3440 10 -2  Flam,
+- 3450
+: 3450 4 0 Help
+: 3454 5 0  us
+: 3459 3 -2  out
+: 3462 3 -2  of
+: 3465 7 0  this
+: 3472 9 -2  jam
+- 3481
+: 3481 3 -3 With
+: 3484 3 -3  your
+: 3487 9 -5  Flim
+: 3496 8 -3  Flam
+: 3504 6 -5  bro
+: 3510 4 -5 thers'
+- 3514
+: 3514 3 -3 Su
+: 3517 3 -3 per
+: 3520 5 -5  Spee
+: 3525 3 -5 dy
+: 3528 5 -3  Ci
+: 3533 3 -3 der
+: 3536 5 -5  Squee
+: 3541 4 -5 zy
+- 3545
+: 3545 7 -3 Six
+: 3552 9 -3  Thou
+: 3561 21 -7 sand
+- 3584
+F 3584 12 0 Young
+F 3596 13 0  filly,
+F 3613 3 0  I
+F 3616 5 0  would
+F 3621 3 0  be
+F 3624 5 0  ever
+F 3629 7 0  so
+F 3636 11 0  honored
+- 3647
+F 3647 3 0 If
+F 3650 3 0  you
+F 3653 5 0  might
+F 3658 7 0  see
+F 3665 4 0  fit
+- 3669
+F 3669 2 0 To
+F 3671 5 0  let
+F 3676 5 0  my
+F 3682 10 0  brother
+F 3692 3 0  and
+F 3695 8 0  I
+- 3703
+F 3703 12 0 Borrow
+F 3715 5 0  some
+F 3720 2 0  of
+F 3722 6 0  your
+F 3728 13 0  delicious,
+- 3744
+F 3745 7 0 And
+F 3752 7 0  might
+F 3759 3 0  I
+F 3762 7 0  add
+- 3769
+F 3769 15 0 Spell-
+F 3784 14 0 bindingly
+F 3798 12 0  fragrant
+F 3810 12 0  apples
+- 3822
+F 3822 5 0 For
+F 3827 4 0  our
+F 3831 7 0  little
+F 3838 22 0  demonstration
+F 3861 8 0  here?
+- 3873
+F 3876 10 0 Uh,
+F 3886 11 0  sure,
+F 3897 4 0  I
+F 3901 10 0  guess.
+- 3915
+: 3921 7 -2 Op
+: 3928 7 -2 por
+: 3935 9 -3 tu
+: 3944 6 -2 ni
+: 3950 8 -1 ty,
+: 3958 4 -1  in
+: 3962 5 -1  our
+: 3967 5 -1  com
+: 3972 7 -2 mu
+: 3979 3 -1 ni
+: 3982 8 1 ty
+- 3992
+: 3992 4 -1 Rea
+: 3996 4 -1 dy
+: 4000 9 -3  Flim,
+: 4009 4 0  rea
+: 4013 3 0 dy
+: 4016 8 -3  Flam,
+- 4025
+: 4025 7 0 Let's
+: 4032 8 -1  bing
+: 4040 7 0  bang
+* 4047 16 -1  zam!
+- 4066
+F 4067 9 0 And
+F 4076 13 0  show
+F 4089 10 0  these
+F 4099 14 0  thirsty
+F 4113 12 0  ponies
+- 4125
+F 4125 3 0 A
+F 4128 14 0  world
+F 4142 3 0  of
+F 4145 16 0  delectable
+F 4162 26 0  cider!
+- 4188
+F 4194 13 0 Cider,
+F 4207 15 0  cider,
+F 4222 15 0  cider,
+F 4239 16 0  cider...
+- 4280
+F 4312 11 0 Watch
+F 4323 14 0  closely
+F 4337 6 0  my
+F 4344 20 0  friends!
+- 4370
+: 4375 8 -6 The
+: 4384 16 -6  fun
+: 4401 16 -6  be
+* 4418 50 -4 gins!
+- 4469
+F 4469 6 0 Now,
+F 4475 9 0  here's
+F 4484 3 0  where
+F 4487 3 0  the
+F 4490 7 0  magic
+F 4497 12 0  happens,
+- 4513
+F 4515 8 0 Right
+F 4524 6 0  here
+F 4530 3 0  in
+F 4533 5 0  this
+F 4538 13 0  heaving
+- 4553
+F 4553 11 0 Roiling
+F 4564 10 0  cider
+F 4574 7 0  press
+F 4581 9 0  boiling
+F 4590 5 0  guts
+- 4595
+F 4595 3 0 Of
+F 4598 2 0  the
+F 4600 5 0  very
+F 4605 12 0  machine.
+- 4624
+F 4624 8 0 Those
+F 4632 9 0  apples
+F 4641 8 0  plucked
+F 4649 9 0  fresh
+- 4656
+F 4658 4 0 Are
+F 4663 7 0  right
+F 4671 6 0  now
+F 4677 3 0  as
+F 4680 3 0  we
+F 4683 9 0  speak
+- 4692
+F 4694 8 0 Being
+F 4702 5 0  turned
+F 4707 5 0  into
+F 4712 16 0  grade-A
+- 4726
+F 4728 9 0 Top-
+F 4737 9 0 notch
+- 4744
+F 4746 7 0 Five-
+F 4753 8 0 star
+- 4761
+F 4761 9 0 Blow
+F 4770 7 0 -your
+F 4777 9 0 -horseshoes
+F 4786 4 0 -off
+- 4790
+F 4790 6 0 One
+F 4796 2 0  of
+F 4798 2 0  a
+F 4800 11 0  kind
+F 4811 23 0  cider!
+- 4837
+: 4839 10 0 Feel
+: 4851 9 0  free
+: 4860 3 0  to
+: 4865 10 1  take
+: 4875 3 1  a
+* 4879 18 1  sneak
+: 4897 41 2  peek!
+- 4945
+F 4954 9 1 Now
+F 4963 8 3  wait,
+F 4973 7 -1  you
+F 4981 4 -1  fel
+F 4985 8 -2 lers,
+F 4994 12 2  hold
+F 5006 5 1  it!
+- 5011
+F 5017 8 4 You
+F 5025 6 1  went
+F 5033 7 0  and
+F 5041 8 1  o
+F 5049 6 1 ver
+F 5055 12 3 sold
+F 5067 4 0  it!
+- 5076
+F 5078 4 0 I
+F 5082 3 1  gua
+F 5085 5 1 ran
+F 5090 9 4 tee
+F 5099 8 0  that
+- 5107
+F 5107 7 0 What
+F 5114 7 0  you
+F 5121 8 0  have
+F 5130 7 0  there
+- 5137
+F 5137 9 0 Won't
+F 5146 7 0  com
+F 5153 17 0 pare
+- 5191
+F 5201 7 0 For
+F 5208 4 0  the
+F 5212 4 0  ve
+F 5216 3 0 ry
+F 5219 9 0  most
+F 5229 6 0  im
+F 5235 6 0 por
+F 5241 3 0 tant
+F 5244 6 0  in
+F 5250 7 0 gre
+F 5257 3 0 di
+F 5260 6 0 ent
+- 5267
+F 5267 6 0 Can't
+F 5275 5 0  be
+F 5280 10 0  a
+F 5290 6 0 dded
+F 5296 4 0  or
+F 5300 8 0  done
+F 5308 6 0  ex
+F 5314 8 0 pe
+F 5322 4 0 di
+F 5326 6 0 ent
+- 5334
+F 5336 4 0 And
+F 5340 7 0  that's
+F 5347 6 0  qua
+F 5353 4 0 li
+F 5357 5 0 ty,
+F 5363 10 0  friends,
+- 5373
+F 5373 4 0 App
+F 5377 3 0 le
+F 5380 7 0  Ac
+F 5387 7 0 re's
+F 5395 6 0  qua
+F 5401 3 0 li
+F 5404 4 0 ty
+F 5408 4 0  and
+F 5414 18 0  care!
+- 5436
+F 5452 8 0 Well
+F 5460 8 0  Granny,
+- 5468
+F 5468 6 0 I'm
+F 5474 8 0  glad
+F 5482 5 0  you
+F 5489 9 0  brought
+F 5498 5 0  that
+F 5506 5 0  up,
+F 5513 8 0  my
+F 5521 7 0  dear,
+- 5528
+F 5528 2 0 I
+F 5530 4 0  say
+F 5534 5 0  I'm
+F 5539 6 0  glad
+F 5545 6 0  you
+F 5552 9 0  brought
+F 5561 8 0  that
+F 5571 5 0  up
+- 5578
+F 5584 7 0  You see,
+F 5591 3 0  that
+F 5594 4 0  we
+F 5598 4 0  are
+F 5602 15 0  very
+F 5617 9 0  picky
+- 5626
+F 5626 4 0 When
+F 5630 4 0  it
+F 5634 8 0  comes
+F 5642 4 0  to
+F 5646 12 0  cider
+- 5660
+F 5660 3 0 If
+F 5663 4 0  you'll
+F 5667 11 0  kindly
+F 5679 13 0  try
+F 5692 5 0  a
+F 5698 10 0  cup
+- 5720
+: 5725 9 -3 Yes,
+: 5734 6 -4  sir,
+: 5741 7 -1  yes
+: 5750 8 -1  ma'am
+: 5758 8 -5  this
+: 5766 7 -3  great
+: 5775 4 -5  ma
+: 5779 11 -5 chine,
+- 5790
+: 5790 7 -4 Lets
+: 5798 6 -5  just
+: 5805 6 -1  the
+: 5813 6 -1  ve
+: 5820 6 -5 ry
+: 5829 15 -3  best
+- 5848
+: 5850 9 -4 So
+: 5859 7 -3  what'
+: 5866 5 -1 ya
+: 5872 11 -1  say
+: 5883 8 -4  then,
+: 5893 8 -3  App
+: 5901 14 -6 les
+- 5917
+: 5917 4 -8 Care
+: 5921 2 -8  to
+: 5923 10 -7  step
+: 5933 6 -5  in
+: 5939 10 -5 to
+: 5950 5 -8  the
+: 5956 10 -6  mo
+: 5967 6 -3 dern
+: 5973 11 -3  world
+- 5984
+: 5984 5 -6 And
+: 5989 6 -5  put
+: 5995 2 -5  the
+: 5997 5 -5  Su
+: 6002 2 -5 per
+: 6004 6 -5  Spee
+: 6010 2 -5 dy
+: 6013 7 -4  Ci
+: 6020 2 -4 der
+: 6022 6 -3  Squee
+: 6028 2 -3 zy
+- 6030
+: 6030 7 -3 Six
+: 6037 6 -3  Thou
+: 6043 4 -3 sand
+: 6047 4 -3  to
+: 6051 4 -3  the
+* 6055 96 2  test?
+- 6156
+F 6161 6 0 What
+F 6167 2 0  do
+F 6169 3 0  you
+F 6172 8 0  think,
+F 6182 12 0  folks?
+- 6196
+F 6196 5 0 Do
+F 6201 4 0  you
+F 6205 9 0  see
+F 6214 6 0  what
+F 6220 3 0  the
+F 6223 9 0  Apples
+F 6232 10 0  can't?
+- 6245
+F 6249 7 0 I
+F 6256 5 0  see
+F 6261 3 0  it
+F 6264 8 0  clear
+F 6272 4 0  as
+F 6276 12 0  day!
+- 6289
+F 6289 5 0 I
+F 6294 6 0  know
+F 6300 10 0  she
+F 6310 10 0  does!
+F 6325 5 0  So
+F 6330 5 0  does
+F 6335 13 0  he!
+- 6350
+F 6353 11 0 C'mon
+F 6364 16 0  Ponyville,
+F 6380 8 0  you
+F 6388 3 0  know
+- 6391
+F 6391 3 0 What
+F 6394 4 0  I'm
+F 6398 12 0  talking
+F 6410 18 0  about!
+- 6435
+: 6445 5 1 We're
+: 6451 8 1  say
+: 6459 5 1 ing
+: 6468 8 1  you
+: 6476 8 -1 've
+: 6485 9 1  go
+: 6494 8 -1 -ot
+- 6502
+: 6502 7 1 Op
+: 6509 7 1 por
+: 6516 6 1 tu
+: 6522 6 1 ni
+: 6528 12 3 ty
+- 6540
+: 6540 10 1 In
+: 6550 7 1  this
+: 6557 7 -2  ve
+* 6564 8 1 ry
+: 6572 8 1  com
+: 6580 7 1 mu
+: 6587 6 1 ni
+: 6593 17 3 ty
+- 6622
+: 6622 6 1 He's
+: 6628 11 1  Flim,
+: 6639 6 3  he's
+: 6645 9 3  Flam
+- 6654
+: 6654 4 1 We're
+: 6658 3 1  the
+: 6661 10 1  world
+: 6671 4 3  fa
+: 6675 3 3 mous
+- 6678
+: 6678 8 3 Flim
+: 6686 8 1  Flam
+: 6694 8 1  bro
+: 6702 26 -1 thers
+- 6735
+: 6741 7 3 Tra
+: 6748 3 3 vel
+: 6751 4 1 ling
+: 6756 15 1  sales
+: 6773 10 3 po
+: 6783 7 1 nies
+- 6790
+: 6790 14 1 Non
+: 6804 19 -2 par
+: 6823 20 -2 e
+* 6843 81 -6 il
+- 6950
+F 6984 17 0 Yeah!
+E

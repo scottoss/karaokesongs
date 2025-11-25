@@ -1,0 +1,599 @@
+#TITLE:A True, True Friend (Instrumental)
+#ARTIST:My Little Pony
+#EDITION:My Little Pony
+#CREATOR:Smilley
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEOGAP:0,2
+#BPM:479.72
+#GAP:2704
+#UPDATED:13-may-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+F 0 4 0 It
+F 6 14 0  worked,
+F 28 6 0  it
+F 36 14 0  worked!
+- 58
+F 68 6 0 Oh,
+F 74 6 0  I'm
+F 80 6 0  so
+F 88 8 0  happy
+- 96
+F 96 6 0 You're
+F 102 8 0  back
+F 110 6 0  to
+F 116 14 0  normal!
+- 136
+F 152 8 0 Now
+F 160 4 0  we
+F 164 6 0  need
+F 170 6 0  your
+F 178 12 0  help!
+- 206
+: 222 4 5 A
+: 228 14 5  true,
+: 244 14 5  true
+: 262 10 3  frie
+: 272 6 2 -nd
+- 279
+: 279 8 2 Helps
+: 289 3 3  a
+: 296 14 5  friend
+: 312 5 5  i
+* 317 8 7 -in
+: 326 17 5  need
+- 350
+: 352 3 10 A
+: 359 13 10  friend
+: 373 6 3  wi
+: 379 6 5 -ill
+: 392 12 3  be
+* 407 8 2  there
+- 416
+: 416 3 3 To
+: 424 9 0  help
+: 438 6 0  the
+: 444 6 2 -em
+: 455 16 0  see
+- 475
+: 481 4 -2 A
+: 487 12 -2  true,
+: 504 11 2  true
+: 519 9 3  frie
+: 528 6 2 -nd
+- 535
+: 535 9 2 Helps
+: 545 3 3  a
+: 550 17 5  friend
+: 568 4 5  i
+* 572 10 7 -in
+: 583 8 5  need
+- 592
+: 592 2 5 To
+: 597 8 7  see
+: 607 5 9  the
+: 614 18 10  light
+- 636
+: 638 6 5  that
+: 647 15 3  shines
+: 665 5 2  from
+: 673 4 3  a
+* 679 15 0  true,
+: 696 6 0  tru
+: 702 13 2 -ue
+: 717 26 -2  friend.
+- 746
+F 746 3 0 Um,
+F 751 21 0  hello!
+- 773
+F 773 8 0 Friend
+F 781 7 0  trapped
+F 788 17 0  inside,
+F 805 16 0  remember?
+- 826
+: 837 10 2 Ra
+: 847 8 2 ri
+: 855 14 2 ty
+: 871 15 0  needs
+: 887 6 5  yo
+* 893 11 7 -ur
+: 909 20 5  help
+- 935
+: 942 6 2 She's
+: 949 9 2  try
+: 960 5 3 ing
+: 968 6 3  ha
+: 974 7 5 -ard
+- 982
+: 982 9 5 Do
+: 991 6 5 ing
+: 999 10 3  what
+: 1014 8 2  she
+: 1022 7 3 -e
+: 1031 25 0  can
+- 1065
+: 1077 8 -2 Would
+: 1087 5 -3  you
+: 1095 21 -2  try,
+- 1118
+: 1118 5 0 Just
+: 1126 7 0  give
+: 1134 8 0  it
+: 1143 5 0  a
+: 1148 5 2 -a
+* 1158 25 2  chance
+- 1190
+: 1204 9 0 You
+: 1214 6 2  might
+: 1224 6 2  fi
+: 1230 6 3 -ind
+- 1238
+: 1240 6 3 That
+: 1247 4 3  you'll
+: 1254 8 3  start
+: 1264 7 2  to
+: 1274 4 2  un
+* 1279 5 0 der
+: 1286 29 0 stand
+- 1320
+: 1342 5 10 A
+: 1349 13 10  true,
+: 1364 16 10  true
+: 1384 5 9  frie
+: 1389 6 10 -nd
+- 1398
+: 1398 9 7 Helps
+: 1407 4 5  a
+: 1413 18 5  friend
+: 1432 5 5  i
+: 1437 7 7 -in
+: 1446 16 5  need
+- 1466
+: 1470 6 5 A
+: 1477 14 5  friend
+: 1493 13 2  will
+: 1510 13 0  be
+: 1526 6 2  there
+- 1535
+: 1535 5 3 To
+: 1541 13 5  help
+* 1558 11 2  you
+: 1573 16 0  see
+- 1595
+: 1599 5 -2 A
+: 1605 14 -2  true,
+: 1620 15 2  true
+* 1637 9 3  frie
+: 1646 7 2 -nd
+- 1654
+: 1654 9 2 Helps
+: 1663 5 3  a
+: 1670 16 5  friend
+: 1687 5 5  i
+: 1692 9 7 -in
+: 1702 6 5  need
+- 1709
+: 1709 5 6 To
+: 1716 9 8  see
+: 1726 5 10  the
+* 1732 19 11  light
+- 1754
+: 1757 5 5  that
+: 1764 17 3  shines
+: 1784 6 2  from
+: 1791 4 3  a
+: 1797 13 0  true,
+: 1813 6 0  tru
+* 1819 12 2 -ue
+: 1837 50 -2  friend
+- 1895
+F 1911 20 0 Uh,
+F 1947 8 0  what
+F 1956 7 0  just
+F 1963 18 0  happened?
+- 1990
+F 1997 9 0 There's
+F 2006 6 0  no
+F 2013 7 0  time
+F 2020 3 0  to
+F 2023 15 0  explain,
+- 2042
+F 2047 6 0 But
+F 2053 5 0  we
+F 2058 6 0  need
+F 2064 4 0  your
+F 2068 12 0  help
+- 2085
+F 2087 19 0 Applejack's
+F 2106 8 0  trying
+F 2114 2 0  to
+F 2116 6 0  make
+F 2122 17 0  dresses!
+- 2142
+F 2154 12 0 Say
+F 2166 6 0  no
+F 2172 12 0  more!
+- 2195
+: 2214 5 2 Ap
+: 2220 7 2 ple
+: 2229 12 2 jack
+: 2244 16 0  needs
+* 2261 17 7  your
+: 2283 22 5  help.
+- 2310
+: 2317 5 2 She's
+: 2323 9 2  try
+: 2333 6 3 ing
+* 2343 12 5  hard
+- 2358
+: 2358 6 5 Do
+: 2366 5 3 ing
+: 2372 10 3  what
+: 2385 15 2  she
+: 2403 27 0  can
+- 2440
+: 2452 7 -2 Would
+* 2460 5 -3  you
+: 2467 17 -2  try,
+- 2488
+: 2491 8 -2 Just
+: 2501 8 0  give
+: 2510 6 0  it
+* 2517 10 2  a
+: 2531 33 2  chance
+- 2570
+: 2579 7 0 You
+: 2587 8 2  might
+: 2597 13 3  find
+- 2612
+: 2612 6 3 That
+: 2619 6 3  you'll
+: 2626 9 3  start
+: 2636 6 2  to
+: 2643 8 2  un
+: 2651 4 0 der
+: 2659 25 0 stand
+- 2712
+: 2716 5 10 A
+: 2722 15 10  true,
+: 2739 13 10  true
+: 2754 16 9  friend
+- 2772
+: 2772 9 7 Helps
+: 2782 4 5  a
+: 2788 15 5  friend
+: 2804 5 5  i
+* 2809 11 7 -in
+: 2822 13 5  need
+- 2840
+: 2844 5 5 A
+: 2852 15 5  friend
+: 2868 12 2  will
+: 2885 13 0  be
+: 2900 8 2  there
+- 2910
+: 2910 4 4 To
+* 2916 13 5  help
+: 2932 13 2  them
+: 2948 15 0  see
+- 2968
+: 2974 4 -2 A
+: 2979 11 -2  true,
+: 2995 14 2  true
+: 3011 11 3  frie
+: 3022 5 2 -nd
+- 3028
+: 3028 10 2 Helps
+: 3039 5 3  a
+: 3045 13 5  friend
+: 3061 6 5  i
+* 3067 9 7 -in
+: 3077 6 5  need
+- 3084
+: 3084 5 5 To
+: 3091 8 7  see
+: 3101 4 9  the
+: 3107 18 10  light
+- 3130
+: 3133 5 5 That
+: 3141 15 3  shines
+: 3158 7 2  from
+: 3166 5 3  a
+* 3172 14 0  true,
+: 3188 21 2  true
+: 3211 45 -2  friend
+- 3260
+F 3260 9 0 *gasp*
+F 3276 7 0  Oh
+F 3284 13 0  my,
+F 3300 5 0  what
+F 3305 2 0  a
+F 3309 15 0  terrible
+F 3324 10 0  dream
+F 3335 4 0  I
+F 3339 13 0  had
+- 3360
+F 3367 14 0 Or,
+F 3392 9 0  maybe
+F 3401 4 0  I'm
+F 3406 7 0  still
+F 3413 8 0  having
+F 3421 4 0  it
+- 3430
+F 3435 14 0 Rarity,
+F 3458 12 0  Pinkie
+F 3470 6 0  Pie
+F 3476 3 0  is
+F 3479 7 0  about
+- 3486
+F 3486 3 0 To
+F 3490 6 0  lose
+F 3496 3 0  the
+F 3500 9 0  apple
+F 3510 10 0  farm
+- 3524
+F 3527 6 0 We
+F 3533 7 0  need
+F 3540 21 0  Applejack's
+F 3561 11 0  help!
+- 3580
+F 3591 13 0 Lose
+F 3604 4 0  the
+F 3608 12 0  apple
+F 3620 11 0  farm?
+- 3635
+F 3640 6 0 Well
+F 3646 5 0  we
+F 3651 8 0  can't
+F 3659 6 0  let
+F 3665 7 0  that
+F 3672 8 0  happen,
+- 3680
+F 3681 7 0 Now
+F 3690 9 0  can
+F 3700 8 0  we?
+- 3712
+: 3717 7 3 Pin
+: 3725 6 3 kie
+: 3732 13 3  Pie
+: 3748 14 3  is
+: 3766 8 3  in
+: 3778 14 3  trou
+* 3794 16 5 ble
+- 3815
+: 3821 5 6 We
+: 3827 7 6  need
+: 3835 6 6  to
+: 3843 12 8  get
+: 3860 10 8  there
+- 3872
+: 3874 14 8 By
+: 3892 5 8  he
+* 3897 8 10 -er
+: 3910 36 6  side
+- 3950
+: 3955 6 0 We
+: 3962 7 2  can
+: 3971 10 3  try
+: 3982 7 3  to
+: 3990 10 3  do
+- 4003
+: 4003 13 3 What
+* 4019 15 12  we
+: 4035 14 10  can
+: 4052 24 5  now
+- 4080
+: 4083 7 5 For
+: 4092 6 5  to
+: 4100 8 14 ge
+: 4109 4 14 ther
+: 4114 8 14  we
+: 4124 9 14  can
+* 4134 14 14  be
+: 4150 13 10  her
+: 4164 51 12  guide
+- 4218
+: 4219 7 10 A
+: 4227 12 10  true,
+: 4242 15 10  true
+* 4258 14 9  friend
+- 4274
+: 4274 10 7 Helps
+: 4284 6 5  a
+: 4293 13 5  friend
+: 4307 16 7  in
+: 4323 17 5  need
+- 4344
+: 4348 5 5 A
+: 4356 14 5  friend
+: 4371 14 2  will
+: 4386 16 0  be
+: 4405 6 2  there
+- 4412
+: 4412 5 3 To
+* 4419 14 5  help
+: 4434 13 2  them
+: 4451 17 0  see.
+- 4473
+: 4477 4 -2 A
+: 4483 13 -2  true,
+: 4499 15 2  true
+* 4515 10 3  frie
+: 4525 5 2 -nd
+- 4532
+: 4532 9 2 Helps
+: 4542 5 3  a
+: 4548 15 5  friend
+: 4564 15 7  in
+: 4580 7 5  need
+- 4588
+: 4588 4 5 To
+: 4595 7 7  see
+: 4603 4 9  the
+: 4610 21 10  light
+- 4634
+: 4636 6 5  that
+: 4644 16 3  shines
+: 4661 8 2  from
+: 4670 4 3  a
+: 4675 15 0  true,
+: 4691 23 2  true
+: 4715 75 6  friend
+- 4794
+F 4794 32 0 Yee-haw!
+F 4832 9 0  Now
+F 4841 11 0  that's
+F 4852 8 0  more
+F 4860 8 0  like
+F 4868 7 0  it!
+- 4875
+F 4875 9 0 What's
+F 4884 13 0  next?
+- 4900
+F 4901 5 0 The
+F 4906 20 0  townspeople
+F 4926 3 0  are
+F 4930 21 0  furious
+- 4953
+F 4954 5 0 We
+F 4959 8 0  need
+F 4967 3 0  the
+F 4970 9 0  old
+F 4979 11 0  Pinkie
+F 4990 8 0  Pie
+F 4999 11 0  back
+- 5013
+F 5018 9 0 I'm
+F 5027 6 0  on
+F 5033 5 0  it,
+F 5040 6 0  I
+F 5046 7 0  know
+F 5053 9 0  just
+F 5063 4 0  the
+F 5068 9 0  thing
+- 5080
+: 5082 5 6 The
+: 5090 15 6  towns
+* 5107 7 6 peo
+: 5115 7 4 ple
+: 5123 8 4  need
+: 5132 4 3  you,
+- 5138
+: 5138 8 3 They've
+: 5147 5 4  been
+* 5155 17 6  sad
+: 5173 6 8  for
+: 5181 4 6  a
+: 5187 17 6  while
+- 5208
+: 5210 9 11 They
+: 5220 8 11  march
+: 5230 4 6  a
+: 5234 15 6 round,
+: 5250 7 4  fa
+: 5258 8 3 ces
+: 5268 8 3  frown
+- 5277
+: 5277 6 4 And
+: 5284 6 1  ne
+: 5291 5 1 ver
+* 5297 9 3  seem
+: 5307 3 1  to
+: 5312 18 1  smile
+- 5335
+: 5340 6 -1 And
+: 5348 8 -1  if
+: 5357 5 -1  you
+: 5363 6 -1  feel
+: 5370 7 3  like
+: 5378 8 1  hel
+: 5387 5 -1 ping,
+- 5395
+: 5395 8 -1 We'd
+: 5404 5 1  app
+: 5411 6 3 re
+: 5418 8 3 ci
+* 5428 9 6 ate
+: 5437 3 3  a
+: 5442 54 11  lot!
+- 5500
+: 5500 4 6 If
+: 5504 3 6  you
+: 5508 6 8  get
+: 5516 4 6  up
+: 5522 8 6  there
+: 5532 4 3  and
+: 5537 8 8  spread
+: 5547 6 6  some
+* 5554 7 6  cheer
+- 5562
+: 5562 6 3 From
+: 5570 7 8  here
+: 5578 4 6  to
+: 5587 8 6  Can
+* 5597 6 3 ter
+: 5603 55 6 lot!
+- 5660
+F 5662 4 0 Come
+F 5667 11 0  on
+F 5679 16 0  ponies,
+- 5698
+F 5700 8 0 I
+F 5708 11 0  wanna
+F 5719 9 0  see
+F 5728 15 0  you
+F 5745 27 0  smile!
+- 5773
+F 5773 39 0 Pinkie!
+- 5815
+: 5819 5 11 A
+: 5825 15 11  true,
+: 5842 13 11  true
+: 5858 14 10  friend
+- 5874
+: 5874 9 8 Helps
+: 5884 4 6  a
+* 5891 17 6  friend
+: 5909 13 8  in
+: 5924 18 6  need
+- 5945
+: 5947 7 6 A
+: 5955 15 6  friend
+: 5971 12 3  will
+: 5987 13 1  be
+: 6001 9 3  there
+- 6011
+: 6011 4 4 To
+* 6017 15 6  help
+: 6034 13 3  them
+: 6050 16 1  see.
+- 6070
+: 6075 6 -1 A
+: 6083 12 -1  true,
+: 6097 13 3  true
+* 6112 13 4  frie
+: 6125 5 3 -nd
+- 6131
+: 6131 9 3 Helps
+: 6141 5 4  a
+: 6149 14 6  friend
+: 6165 13 8  in
+: 6179 6 6  need
+- 6186
+: 6186 4 6 To
+: 6193 9 8  see
+: 6204 4 10  the
+: 6211 38 11  light
+- 6258
+: 6262 8 10 That
+* 6274 42 11  shines
+- 6319
+: 6321 9 12 From
+: 6331 8 14  a
+: 6339 31 16  true,
+* 6371 29 14  true
+: 6402 133 17  friend!
+E

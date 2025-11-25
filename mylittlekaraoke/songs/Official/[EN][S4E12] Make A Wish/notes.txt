@@ -1,0 +1,100 @@
+﻿#ENCODING:UTF8
+#TITLE:Make a Wish
+#ARTIST:My Little Pony
+#CREATOR:Renard
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:289
+#GAP:23719
+#UPDATED:19-may-2014
+#COMMENT:http://www.mylittkekaraoke.com/
+: 0 3 7 Get
+: 4 3 7  your
+: 8 6 5  hooves
+: 16 5 3  up,
+* 24 3 10  par
+* 27 2 10 ty's
+: 31 4 7  start
+: 36 3 7 ing
+: 41 5 5  out
+: 47 7 3  right
+: 57 7 5  now
+- 70
+: 72 3 3 E
+: 76 3 3 very
+: 80 3 3 po
+: 84 3 3 ny,
+: 88 3 3  e
+: 92 3 0 very
+: 96 4 3 po
+: 100 3 0 ny
+: 104 6 5  get
+: 112 9 5  down
+- 126
+: 128 4 7 Time
+: 133 2 7  to
+: 136 3 5  make
+: 140 3 3  a
+: 144 4 3  wish,
+* 153 3 10  bet
+* 157 3 10 ter
+: 162 5 7  make
+: 169 5 5  it
+: 176 6 3  right
+: 185 6 5  now
+- 194
+: 196 3 3 It's
+: 200 3 3  been
+: 204 2 3  a
+: 208 6 3  year
+: 217 2 3  and
+: 221 3 0  to
+: 225 6 3 day
+: 233 3 -2  is
+: 237 2 -2  your
+: 241 6 3  birth
+: 249 5 5 day
+: 256 4 5  par
+: 261 6 3 ty
+- 271
+: 273 5 3 Make
+* 280 3 10  a
+: 284 5 7  wish,
+: 293 4 5  it's
+: 300 4 3  your
+: 305 5 5  birth
+: 314 7 7 day
+- 333
+: 337 5 3 Make
+* 344 3 10  a
+: 349 5 7  wish,
+: 357 4 5  it's
+: 364 4 3  your
+: 369 6 5  birth
+: 377 5 7 day
+: 384 4 5  par
+: 389 4 3 ty
+- 399
+: 401 5 3 Make
+* 408 3 10  a
+: 413 5 7  wish,
+: 420 5 5  it's
+: 428 3 3  your
+: 432 6 5  birth
+: 441 7 7 day
+- 461
+: 465 5 3 Make
+* 472 3 10  a
+: 477 5 7  wish,
+: 484 6 5  it's
+: 493 3 3  your
+: 497 6 5  birth
+: 505 5 7 day
+: 512 5 5  par
+: 518 6 3 ty
+E

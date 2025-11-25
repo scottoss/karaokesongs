@@ -1,0 +1,289 @@
+﻿#ENCODING:UTF8
+#TITLE:Make a Wish (Extended)
+#ARTIST:My Little Pony
+#CREATOR:Renard
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:extended.mp3
+#COVER:cover.png
+#BACKGROUND:background2.png
+#BPM:287
+#GAP:14395
+#UPDATED:19-may-2014
+#COMMENT:http://www.mylittkekaraoke.com/
+: 0 3 7 Get
+: 4 2 7  your
+: 8 7 5  hooves
+: 16 5 3  up,
+* 24 3 10  par
+* 28 2 10 ty's
+: 32 3 7  start
+: 36 3 7 ing
+: 41 5 5  out
+: 47 6 3  right
+: 55 8 5  now
+- 70
+: 72 3 3 E
+: 76 3 3 very
+: 80 3 3 po
+: 84 3 3 ny,
+: 88 3 3  e
+: 92 3 0 very
+: 96 3 3 po
+: 100 3 0 ny
+: 104 6 5  get
+: 112 9 5  down
+- 125
+: 127 3 7 Time
+: 131 3 7  to
+: 135 3 5  make
+: 139 2 3  a
+: 143 5 3  wish,
+: 151 3 10  bet
+: 155 3 10 ter
+: 159 5 7  make
+: 167 6 5  it
+: 175 5 3  right
+: 183 6 5  now
+- 193
+: 195 3 3 It's
+: 199 4 3  been
+: 204 2 3  a
+: 207 6 3  year
+: 215 2 3  and
+: 218 3 0  to
+: 222 6 3 day
+: 231 3 0  is
+: 235 2 0  your
+: 238 6 3  birth
+: 247 5 5 day
+: 254 5 5  par
+: 260 4 3 ty
+- 268
+: 270 5 3 Make
+* 278 3 10  a
+: 283 5 7  wish,
+: 291 4 5  it's
+: 298 3 3  your
+: 302 6 5  birth
+: 310 7 7 day
+- 330
+: 334 5 3 Make
+* 342 3 10  a
+: 346 5 7  wish,
+: 354 5 5  it's
+: 362 3 3  your
+: 367 5 5  birth
+: 374 6 7 day
+: 382 5 5  par
+: 388 3 3 ty
+- 396
+: 398 5 3 Make
+* 406 3 10  a
+: 410 5 7  wish,
+: 418 6 5  it's
+: 425 4 3  your
+: 430 5 5  birth
+: 438 8 7 day
+- 458
+: 462 5 3 Make
+* 469 3 10  a
+: 476 4 7  wish,
+: 482 5 5  it's
+: 490 3 3  your
+: 494 6 5  birth
+: 502 6 7 day
+: 510 4 5  par
+: 515 6 3 ty
+- 530
+: 534 4 3 Aw
+: 542 8 -2  oh
+- 553
+: 555 4 3 Aw
+: 562 6 3  aw
+: 569 3 0  aw
+: 574 6 3  oh
+* 582 7 5  oh
+- 592
+: 594 3 3 Aw
+: 598 4 3  aw
+: 606 8 -2  oh
+- 616
+: 618 5 3 Aw
+: 626 4 3  uh
+: 632 3 0  aw
+: 637 7 7 -aw
+: 645 7 5  oh
+- 658
+: 661 6 3 Aw
+: 669 8 -2  oh
+- 679
+: 681 6 3 Aw
+: 689 6 3  oh
+: 697 3 0  aw
+: 701 6 3  aw
+: 709 7 5  oh
+- 736
+: 765 4 7 Star
+: 770 3 7 ting
+: 774 4 5  out
+: 781 5 3  great
+: 789 3 10  and
+: 793 2 10  it
+: 796 5 7  just
+: 804 5 5  got
+: 812 4 3  bet
+: 817 9 5 ter
+- 833
+: 836 4 3 E
+: 841 3 3 very
+: 845 3 3  day
+: 849 3 3  you
+: 853 3 3  learned
+: 857 3 0  a
+: 861 2 3  lit
+: 864 3 0 tle
+: 868 6 5  bit
+: 876 8 5  more
+- 889
+: 891 4 7 Time
+: 896 2 7  to
+: 899 5 5  ce
+: 905 3 3 le
+: 909 5 3 brate,
+: 915 5 10  now
+: 921 2 10  we're
+: 924 5 7  all
+: 931 6 5  to
+: 939 5 3 ge
+: 945 7 5 ther
+- 958
+: 960 3 3 And
+: 964 3 3  in
+: 968 2 3  a
+: 971 7 3  year
+: 979 3 3  we
+: 983 3 3  can
+: 987 4 7  see
+: 992 2 5  what
+: 995 3 3  you
+: 1000 4 5  wished
+: 1008 10 5  for
+- 1028
+: 1043 4 3 Close
+: 1048 3 3  your
+: 1052 5 7  eyes
+: 1059 4 5  and
+: 1064 3 5  con
+: 1068 3 3 cen
+: 1072 14 3 trate
+- 1096
+: 1103 4 3 My
+: 1108 2 3  lit
+: 1111 3 3 tle
+: 1115 4 3  po
+: 1120 5 5 ny
+: 1128 10 5  friends
+* 1139 3 5  uh
+* 1143 3 5  uh
+* 1147 7 7  aw
+* 1156 7 3  oh
+- 1165
+: 1167 3 3 Think
+: 1171 3 3  of
+: 1175 4 3  the
+: 1180 5 7  wi
+: 1187 4 7 shes
+: 1192 3 5  you
+: 1196 3 3  can
+: 1200 11 3  make
+- 1220
+: 1230 3 10 Why
+: 1234 4 10  should
+: 1239 3 10  it
+: 1243 3 10  e
+: 1247 3 7 ~
+: 1251 2 7 ver
+: 1254 4 7  have
+: 1259 4 5  to
+: 1264 11 5  end?
+- 1285
+: 1292 5 3 Make
+* 1299 3 10  a
+: 1303 5 7  wish,
+: 1313 4 5  it's
+: 1319 3 3  your
+: 1323 5 5  birth
+: 1330 7 7 day
+- 1351
+: 1355 5 3 Make
+* 1362 3 10  a
+: 1366 5 7  wish,
+: 1375 4 5  it's
+: 1381 3 3  your
+: 1386 6 5  birth
+: 1393 6 7 day
+: 1401 5 5  par
+: 1407 5 3 ty
+- 1416
+: 1418 5 3 Make
+* 1425 3 10  a
+: 1430 5 7  wish,
+: 1437 6 5  it's
+: 1445 3 3  your
+: 1450 6 5  birth
+: 1458 7 7 day
+- 1478
+: 1482 5 3 Make
+* 1489 3 10  a
+: 1494 5 7  wish,
+: 1501 5 5  it's
+: 1509 3 3  your
+: 1513 6 5  birth
+: 1521 6 7 day
+: 1529 4 5  par
+: 1534 6 3 ty
+- 1550
+: 1554 5 3 Aw
+: 1562 8 -2  oh
+- 1572
+: 1574 5 3 Aw
+: 1582 6 3  aw
+: 1590 3 0  aw
+: 1594 8 3  oh
+* 1603 7 5  oh
+- 1612
+: 1614 4 3 Aw
+: 1619 6 3  aw
+: 1627 6 -2  oh
+- 1635
+: 1637 3 3 Let's
+: 1641 3 3  ce
+: 1645 3 3 le
+: 1649 3 3 brate
+: 1653 3 3  your
+: 1658 6 7  birth
+: 1665 7 5 day
+- 1679
+: 1681 6 3 Aw
+: 1690 8 -2  oh
+- 1700
+: 1702 4 3 Aw
+: 1710 6 3  oh
+: 1718 2 0  aw
+: 1722 5 3  aw
+* 1730 7 5  oh
+- 1745
+: 1764 4 3 Let's
+: 1769 3 3  ce
+: 1773 3 3 le
+: 1777 3 3 brate
+: 1781 3 3  your
+: 1785 7 7  birth
+: 1793 6 5 day
+: 1800 4 5  par
+: 1805 6 3 ty
+- 1814
+F 1816 11 -14 Yay!
+E
