@@ -1,0 +1,720 @@
+#ENCODING:UTF8
+#TITLE:Fit Right In (Instrumental)
+#ARTIST:My Little Pony G5
+#CREATOR:Renard
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2021
+#LANGUAGE:English
+#MP3:instrumental.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:348
+#GAP:5995
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:11-dec-2021
+: 0 3 7 I
+: 4 3 7  thought
+: 8 3 4  Earth
+: 12 3 4  po
+: 16 3 2 nies
+: 20 3 2  were
+: 24 3 0  the
+: 28 3 2  po
+: 32 3 0 ny
+: 36 3 2  lad
+: 40 3 0 der's
+: 44 3 2  bot
+: 48 3 4 tom
+: 52 6 4  rung
+- 62
+: 64 3 -5 I
+: 68 3 -3  heard
+: 72 3 -5  that
+: 76 3 -3  pe
+: 80 3 -3 ga
+: 84 3 -3 si
+: 88 3 -5  were
+F 92 3 4  brutes
+: 97 3 -5  you'd
+: 101 3 -3  hate
+: 105 3 -5  to
+: 109 3 -3  be
+: 113 3 0  a
+: 117 5 0 mong
+- 127
+: 129 3 7 You
+: 133 3 7  smell
+: 137 3 4  like
+: 141 3 4  fi
+: 145 3 0 shes
+F 149 6 0  (you're vicious)
+- 158
+: 160 3 2 I
+: 164 3 2  bet
+: 168 3 0  you
+: 172 3 2  eat
+: 176 3 4  your
+: 181 5 4  young
+- 191
+: 193 3 7 Meet
+: 197 3 7  a
+: 201 3 4 ny
+: 205 3 4  one
+: 209 3 2  of
+: 213 3 2  you,
+: 217 3 0  the
+: 221 3 2  thing
+: 225 3 0  to
+: 229 3 2  do
+: 233 3 0  is
+: 238 3 2  run
+: 242 3 0  a
+: 245 6 0 way
+- 261
+: 269 3 4 But
+: 274 7 7  al
+: 282 4 9 though
+: 289 3 7  I
+: 293 3 7  know
+: 297 3 4  we're
+: 301 3 7  all
+: 305 3 4  a
+: 309 3 7  bunch
+: 313 3 4  of
+: 317 3 7  dif
+: 321 6 7 ferent
+: 330 4 4  breeds
+- 336
+: 338 3 7 Take
+: 342 3 7  a
+: 346 4 7 way
+: 351 3 9 ~
+: 355 2 7  our
+: 358 3 7  wings
+: 362 3 4  and
+: 366 3 7  horns
+: 370 2 4  and
+: 373 3 7  we're
+: 377 4 4  just
+: 382 4 7  fright
+: 387 4 7 ened
+: 393 4 0  steeds
+- 399
+: 401 3 4 So
+: 405 3 7  let's
+: 410 6 9  put
+: 418 3 7  a
+: 422 3 7 side
+: 426 3 4  our
+: 430 3 7  dif
+: 434 3 4 feren
+: 438 3 7 ces
+: 442 3 4  'cause
+* 446 3 9  what
+* 451 5 12  we
+* 458 6 12  need's
+: 466 5 4  a
+: 474 4 4  win
+: 479 8 2 ~
+- 495
+: 498 3 0 Oh
+: 502 4 2  oh
+: 507 8 4  oh
+- 526
+: 530 3 4 Come
+: 534 3 7  on,
+: 538 3 7  rip
+: 542 3 9 ~
+: 547 3 7  out
+: 551 3 7  all
+: 555 3 4  the
+: 559 3 7  pa
+: 563 3 4 ges
+: 567 3 7  of
+: 571 3 4  your
+: 575 3 7  his
+: 580 5 7 tory
+: 587 4 4  books
+- 593
+: 595 3 4 Just
+: 599 3 7  be
+: 604 5 9 cause
+: 612 2 7  we're
+: 615 3 7  un
+: 619 3 4 der
+: 623 3 7 co
+: 627 3 4 ver
+: 631 3 7  does
+: 635 3 4 n't
+: 639 4 7  mean
+: 644 4 7  we're
+: 651 5 0  crooks
+- 658
+: 660 3 4 When
+: 664 3 7  we
+: 668 5 9  walk
+: 675 3 7  you
+: 679 3 7  through
+: 683 3 4  the
+: 687 4 7  crowd
+: 692 3 4  and
+: 696 3 7  give
+: 700 3 4  your
+: 704 3 9  brand
+: 708 4 12  new
+: 715 5 12  looks
+* 723 6 16  a
+* 733 30 14  spin
+- 769
+: 772 3 10 You're
+: 776 3 10  gon
+: 780 3 10 na
+: 784 3 10  fit
+: 789 3 10  right
+: 794 8 12  in
+- 806
+F 808 5 0 This
+F 817 2 0  is
+F 820 3 0  a
+F 824 3 0  new
+F 829 3 0  low
+- 834
+: 836 4 4 You're
+: 841 3 5  gon
+: 845 3 4 na
+: 849 3 5  fit
+: 853 3 7  right
+: 858 8 4  in
+- 878
+F 882 3 0 It's
+F 886 3 0  ne
+F 889 2 0 ver
+F 892 2 0  gon
+F 894 2 0 na
+F 898 6 0  work
+- 914
+: 933 3 7 They
+: 937 3 7  taught
+: 941 3 4  us
+: 945 3 4  u
+: 949 3 2 ni
+: 953 3 2 corns
+: 957 3 0  were
+: 961 3 2  su
+: 965 3 0 per
+: 969 4 2  sca
+: 974 3 0 ry
+: 978 3 2  ma
+: 982 3 4 ni
+: 986 5 4 acs
+- 995
+: 997 3 -5 With
+: 1001 3 -2  horns
+: 1005 3 -5  like
+: 1010 3 -2  ra
+: 1014 3 -2 zors
+: 1018 3 -5  and
+: 1022 3 -5  tongues
+: 1026 3 -2  like
+: 1030 3 -2  ta
+: 1034 3 -2 sers
+: 1038 3 -5  and
+: 1042 3 -2  teeth
+: 1046 3 0  like
+: 1050 6 0  tacks
+- 1060
+: 1062 3 7 They
+: 1066 3 7  take
+: 1070 3 4  your
+: 1074 3 4  hooves
+: 1078 3 2  and
+: 1082 3 2  then
+: 1086 3 0  they
+: 1090 3 2  grind
+: 1094 3 0  them
+: 1098 3 2  in
+: 1102 3 0 to
+: 1106 3 2  mid
+: 1110 3 4 night
+: 1115 5 4  snacks
+- 1124
+: 1126 3 7 The
+: 1130 3 7  ba
+: 1134 3 4 sic
+: 1138 3 4  gist
+: 1143 2 2  of
+: 1146 3 2  it
+: 1150 3 0  is
+: 1154 3 2  u
+: 1158 3 0 ni
+: 1162 3 2 corns
+: 1166 3 4  are
+: 1170 3 2  not
+: 1174 3 0  o
+: 1178 7 0 kay
+- 1195
+: 1202 3 4 Look
+: 1207 6 7  I
+: 1215 4 9  know
+: 1221 3 7  we're
+: 1226 3 7  risk
+: 1231 3 4 ing
+: 1235 3 7  e
+: 1239 3 4 very
+: 1243 3 7 thing
+: 1247 3 4  for
+: 1251 3 7  this
+: 1255 7 7  en
+: 1264 5 4 dea
+: 1271 2 4 vor
+- 1275
+: 1277 2 4 But
+: 1280 5 9  look
+: 1287 3 7  at
+: 1291 3 7  us,
+: 1295 3 4  we're
+: 1299 3 7  brave
+: 1303 3 4  and
+: 1307 3 7  strong
+: 1311 3 4  and
+: 1315 4 7  weird
+: 1320 4 7  and
+: 1328 5 0  cle
+: 1335 3 0 ver
+: 1339 3 7  plus
+- 1344
+: 1346 4 9 Clo
+: 1351 3 7 ser
+: 1355 3 7  to
+: 1359 3 4  the
+: 1363 3 7  fi
+: 1367 3 4 nish
+: 1371 3 7  than
+: 1375 3 4  we've
+: 1380 3 9  e
+: 1384 5 12 ver
+: 1392 5 12  e
+: 1400 5 4 ver
+: 1409 17 2  been
+- 1429
+: 1431 3 0 Wow
+: 1436 5 2  oh
+* 1444 15 4  oh
+- 1462
+: 1464 3 4 So,
+: 1468 3 7  we
+: 1472 6 9  bet
+: 1479 3 7 ter
+: 1484 3 7  take
+: 1488 3 4  a
+: 1492 3 7  leap
+: 1496 3 4  and
+: 1500 3 7  put
+: 1504 3 4  our
+: 1508 3 7  faith
+: 1512 6 7  in
+: 1521 3 4  you
+- 1526
+: 1528 3 4 Get
+: 1532 3 7  our
+: 1536 5 9  craf
+: 1544 3 7 ty
+: 1548 3 7  on
+: 1552 3 4  with
+: 1556 3 7  spar
+: 1560 3 4 kles,
+: 1564 3 7  tape,
+: 1568 3 4  and
+: 1573 3 7  su
+: 1577 5 7 per
+: 1585 3 0  glue
+- 1590
+: 1592 3 4 'Cause
+: 1596 3 7  we're
+: 1600 7 9  run
+: 1609 3 7 ning
+: 1613 3 7  out
+: 1617 3 4  of
+: 1621 3 7  op
+: 1625 3 4 tions
+: 1629 3 7  and
+: 1633 3 4  we're
+: 1637 3 9  des
+: 1641 5 12 perate
+: 1649 6 12  to
+* 1658 6 16  be
+* 1666 31 14 gin
+- 1703
+: 1705 3 9 You're
+: 1709 3 10  gon
+: 1713 3 10 na
+: 1718 3 10  fit
+: 1722 4 10  right
+: 1727 7 12  in
+- 1738
+F 1740 3 0 Ha,
+F 1745 3 0  if
+F 1749 3 0  you
+F 1753 4 0  say
+F 1759 5 0  so
+- 1767
+: 1769 4 3 You're
+: 1774 3 2  gon
+: 1778 3 0 na
+: 1782 3 2  fit
+: 1786 3 3  right
+: 1790 6 0  in
+- 1799
+F 1801 3 0 I
+F 1806 3 0  know
+F 1810 3 0  you
+F 1815 4 0  will,
+F 1822 4 0  now
+F 1829 5 0  watch
+F 1838 4 0  and
+F 1846 7 0  learn
+- 1859
+: 1861 3 7 This
+: 1865 3 7  is
+: 1870 3 7  how
+: 1874 3 7  a
+: 1878 3 7  u
+: 1882 3 7 ni
+: 1886 6 10 corn
+: 1894 6 8  walks
+- 1906
+F 1908 6 7 Walks
+- 1921
+: 1924 2 5 And
+: 1927 3 5  this
+: 1931 3 5  is
+: 1935 3 5  how
+: 1939 3 5  a
+: 1943 3 5  u
+: 1947 3 5 ni
+: 1951 5 8 corn
+: 1959 6 7  talks
+- 1970
+F 1972 6 3 Talks
+- 1988
+: 1992 2 3 This
+: 1995 3 3  is
+: 1999 3 3  how
+: 2003 3 3  a
+: 2007 3 3  u
+: 2011 3 3 ni
+: 2015 6 7 corn
+: 2023 5 5  hoops
+- 2033
+F 2035 7 3 Hoops
+- 2051
+: 2054 3 2 This
+: 2058 3 2  is
+: 2062 3 2  how
+: 2066 3 2  a
+: 2070 3 2  u
+: 2074 3 2 ni
+: 2079 3 5 corn
+- 2085
+F 2087 3 0 Oops
+- 2094
+F 2096 3 0 Oh,
+F 2105 4 0  geez,
+F 2111 4 0  stop!
+- 2117
+: 2119 3 7 This
+: 2123 3 7  is
+: 2128 3 7  how
+: 2132 3 7  a
+: 2136 3 7  u
+: 2140 3 7 ni
+: 2145 5 12 corn
+: 2153 6 8  struts
+- 2162
+F 2164 7 8 Struts
+- 2174
+F 2176 5 5 Oh,
+: 2183 3 5  watch
+: 2187 3 5  you
+: 2191 3 5  shake
+: 2195 3 5  your
+: 2199 3 5  u
+: 2203 3 5 ni
+: 2207 6 10 corn
+: 2216 6 7  butts
+- 2226
+F 2228 6 7 Butts!
+- 2244
+: 2248 4 3 Now
+: 2253 3 3  you're
+: 2257 3 3  in
+: 2261 3 3  the
+: 2265 3 3  u
+: 2269 3 3 ni
+: 2273 6 7 corn
+: 2281 7 5  know
+- 2292
+F 2294 9 5 Woah
+- 2309
+: 2312 3 7 Soon,
+: 2317 3 7  you'll
+: 2321 3 7  be
+: 2325 3 7  a
+: 2329 3 7  u
+* 2333 3 7 ni
+* 2338 6 11 corn
+* 2346 7 12  pro
+- 2363
+F 2367 5 3 Oh,
+R 2374 3 7  a
+R 2378 3 13  u
+R 2382 3 9 ni
+R 2386 3 8 corn
+R 2393 5 7  horn
+R 2401 3 6  makes
+R 2405 3 7  a
+R 2409 3 8  u
+R 2413 3 7 ni
+R 2417 6 8 corn
+R 2425 3 7  stride
+- 2431
+R 2433 3 6 It's
+R 2437 3 5  the
+R 2442 3 7  more-
+R 2446 3 5 head
+R 2450 3 4  on
+R 2454 3 3  your
+R 2458 3 6  fore
+R 2462 2 3 head
+- 2465
+R 2467 2 4 It's
+R 2470 3 1  the
+R 2474 3 -1  source
+R 2478 3 1  of
+R 2483 4 4  your
+R 2490 4 -1  pride
+- 2496
+R 2498 3 5 E
+R 2502 3 5 very
+R 2506 3 5  u
+R 2510 3 5 ni
+R 2514 3 5 corn
+R 2518 3 5  who's
+R 2522 3 5  born
+R 2526 2 8  has
+R 2530 3 5  worn
+R 2534 3 4  a
+R 2538 3 5  horn
+R 2542 3 5  that's
+R 2546 3 5  u
+R 2550 4 7 nique
+- 2556
+R 2558 2 12 So
+R 2561 2 11  I'll
+R 2564 2 11  whip
+R 2567 2 11  them
+R 2570 3 11  up
+R 2574 3 11  as
+R 2578 3 11  we
+R 2582 3 11  speak
+- 2587
+R 2589 2 13 You'll
+R 2592 2 12  be
+R 2595 2 13  look
+R 2597 3 12 in'
+R 2602 3 15  très
+R 2606 3 13  ma
+R 2610 3 13 gni
+R 2614 4 13 fique
+- 2621
+R 2623 3 4 We'll
+R 2627 3 5  fake
+R 2631 3 4  a
+R 2635 3 9  po
+R 2639 3 8 ny
+R 2643 3 7  pro
+R 2647 3 8 tru
+R 2651 2 7 sion
+- 2654
+R 2656 2 0 To
+R 2659 3 0  make
+R 2663 3 0  a
+R 2667 3 3  bo
+R 2671 3 2 ny
+R 2675 3 0  il
+R 2679 3 2 lu
+R 2683 2 0 sion
+- 2686
+R 2688 2 14 It's
+R 2691 2 17  not
+R 2695 3 13  the
+R 2699 3 10  per
+R 2703 3 10 fect
+R 2707 3 10  so
+R 2711 3 10 lu
+R 2715 2 10 tion
+- 2717
+R 2719 2 10 But
+R 2722 2 10  the
+R 2725 2 10  world's
+R 2728 2 10  not
+R 2731 3 9  big
+R 2735 3 10  on
+R 2739 3 9  in
+R 2743 3 10 clu
+R 2747 2 9 sion
+- 2750
+R 2752 2 0 And
+R 2755 3 0  with
+R 2759 3 0  those
+R 2763 3 7  rocks
+R 2768 2 3  in
+R 2771 3 1  our
+R 2775 3 7  pock
+R 2779 2 1 et
+- 2783
+R 2785 2 2 We'll
+R 2788 3 6  reap
+R 2792 3 4  the
+R 2796 3 2  re
+R 2801 4 5 ward
+- 2807
+R 2809 2 10 And
+R 2812 3 11  folks
+R 2816 3 7  will
+R 2820 3 7  be
+R 2825 3 7  floored
+- 2830
+R 2832 3 11 We'll
+R 2836 3 14  strike
+R 2840 3 10  a
+R 2844 3 10  new
+R 2848 4 11  chord
+- 2855
+R 2857 2 14 Our
+R 2860 3 14  ma
+R 2864 3 14 gic
+R 2868 3 14  res
+R 2873 8 19 tored
+- 2886
+: 2888 7 10 La
+: 2897 3 8 tely
+: 2901 3 8  all
+: 2905 3 5  E
+: 2909 3 8 ques
+: 2913 2 5 tri
+: 2916 3 8 a
+: 2920 3 5  has
+: 2924 3 8  lost
+: 2929 5 8  its
+: 2937 3 5  heart
+- 2942
+: 2944 2 5 But
+: 2947 3 8  if
+: 2953 5 10  we
+: 2960 3 8  can
+: 2964 3 8  help
+: 2968 3 5  to
+: 2972 3 8  find
+: 2976 3 5  it,
+: 2980 3 8  we
+: 2984 3 5  should
+: 2989 3 8  play
+: 2993 5 8  our
+: 3001 3 1  part
+- 3006
+: 3008 3 3 If
+: 3012 4 5  we
+: 3017 5 5  fail,
+: 3025 3 8  we'll
+: 3029 3 8  go
+: 3033 3 5  to
+: 3037 3 3  pri
+: 3041 2 1 son
+- 3045
+: 3047 2 8 But
+: 3050 2 8  if
+: 3053 3 10  not,
+: 3058 5 13  we'll
+: 3065 5 13  start
+* 3073 5 17  to
+* 3081 4 17  grin
+* 3086 21 15 ~
+- 3117
+: 3125 3 10 So,
+: 3130 4 13  let's
+: 3138 6 17  be
+: 3146 4 17 gin
+: 3151 25 15 ~
+- 3183
+: 3186 3 11 We're
+: 3190 3 11  gon
+: 3194 3 11 na
+: 3198 3 11  fit
+: 3202 3 11  right
+: 3206 8 13  in
+- 3224
+: 3250 3 11 We're
+: 3254 3 11  gon
+: 3258 3 11 na
+: 3262 3 11  fit
+: 3266 3 11  right
+: 3270 8 13  in
+- 3288
+: 3315 3 11 We're
+: 3319 3 11  gon
+: 3323 3 11 na
+: 3327 3 11  fit
+: 3331 3 11  right
+: 3335 8 13  in
+- 3353
+: 3379 3 11 We're
+: 3383 3 11  gon
+: 3387 3 11 na
+: 3391 3 11  fit
+: 3395 3 11  right
+: 3399 8 13  in
+- 3430
+: 3473 2 11 This
+: 3476 3 11  is
+: 3480 3 11  how
+: 3484 3 11  a
+: 3488 3 11  u
+: 3492 3 11 ni
+: 3496 4 11 corn
+: 3504 9 13  walks
+- 3523
+: 3536 3 11 This
+: 3540 3 11  is
+: 3544 3 11  how
+: 3548 3 11  a
+: 3552 3 16  u
+: 3556 3 15 ni
+: 3560 6 13 corn
+: 3569 9 13  talks
+- 3588
+: 3600 3 11 Now
+: 3604 3 11  you're
+: 3608 3 11  look
+: 3612 3 11 ing
+: 3616 3 11  u
+: 3620 3 11 ni
+: 3624 5 11 corn
+: 3632 4 13  strong
+: 3637 4 13 ~
+* 3642 10 16 ~
+* 3653 3 19 ~
+* 3657 3 20 ~
+- 3664
+: 3666 2 6 This
+: 3669 3 3  is
+: 3673 3 1  how
+: 3677 3 3  a
+: 3681 3 5  u
+: 3685 3 6 ni
+: 3689 5 8 corn
+: 3697 6 8  ends
+: 3706 4 10  this
+: 3714 12 1  song
+E

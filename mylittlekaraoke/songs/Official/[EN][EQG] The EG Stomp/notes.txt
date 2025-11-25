@@ -1,0 +1,280 @@
+#TITLE:EG Stomp
+#ARTIST:Equestria Girls
+#CREATOR:Smilley
+#MP3:song.mp3
+#VIDEO:video.mp4
+#COVER:cover.png
+#BACKGROUND:background.png
+#LANGUAGE:English
+#EDITION:My Little Pony
+#GENRE:Pony
+#BPM:299.17
+#GAP:16253
+#COMMENT:http://www.mylittlekaraoke.com
+: 0 3 8 U
+: 4 3 6 -u
+: 8 2 4 -u
+: 10 2 1 -uh
+: 16 4 6  ye
+: 21 8 4 -eah!
+- 29
+: 31 5 8 We
+: 37 4 6 -e're
+: 42 5 4  Equ
+: 47 4 4 es
+: 52 5 4 tri
+* 58 4 6 a
+: 69 9 4  Girls
+- 78
+: 80 4 4 And
+: 85 3 -1  we're
+: 90 8 3  here
+: 99 2 3  to
+: 105 11 4  shout
+- 119
+: 121 4 1 That
+: 126 3 3  the
+: 133 4 4  Ma
+: 138 5 4 gic
+* 145 7 11  of
+: 154 4 6  Friend
+: 159 5 4 ship
+: 165 3 4  is
+- 169
+: 171 9 6 What
+: 181 4 6  it's
+: 186 5 6  all
+: 192 2 4  a
+: 197 3 4 bout
+- 200
+: 201 6 8 We
+: 208 4 6 -e're
+: 213 4 4  Equ
+: 218 5 4 es
+: 224 4 4 tri
+: 229 5 6 a
+: 239 9 4  Girls
+- 248
+: 250 5 4 Hea
+: 256 2 -1 ding
+: 260 8 3  side
+* 269 3 4  by
+: 276 6 4  side
+- 285
+: 287 5 4 Fin
+: 293 4 4 ding
+: 298 3 4  the
+: 303 5 9  Ma
+: 309 4 9 gic
+: 314 6 8  o
+: 320 4 6 -of
+: 325 4 6  Friend
+* 330 4 4 ship
+: 335 5 4  deep
+: 341 3 1  in
+: 345 13 6 side
+- 368
+F 377 5 0 Twi
+F 383 4 0 light
+F 388 4 0  Spar
+F 394 7 0 kle's
+- 401
+F 402 2 0 A
+F 405 4 0  prin
+F 410 5 0 cess
+F 416 2 0  who
+F 419 9 0  shines
+- 428
+F 430 5 0 Flut
+F 437 1 0 ter
+F 439 7 0 shy's
+F 447 3 0  so
+F 451 6 0  sweet
+F 458 4 0  and
+F 463 6 0  kind
+- 471
+F 473 5 0 Ap
+F 479 3 0 ple
+F 482 5 0 jack
+F 490 2 0  has
+F 493 2 0  a
+F 496 4 0  coun
+F 500 4 0 try
+F 505 7 0  flair
+- 514
+F 516 3 0 Ra
+F 520 3 0 ri
+F 524 2 0 ty
+F 527 4 0  knows
+F 534 3 0  just
+F 538 4 0  what
+F 544 2 0  to
+F 547 5 0  wear
+- 552
+F 554 3 0 Eve
+F 557 3 0 ry
+F 560 3 0 one
+F 565 5 0  wants
+F 571 5 0  Rain
+F 576 2 0 bow
+F 579 4 0  Dash
+F 584 3 0  on
+F 588 2 0  their
+F 591 6 0  side
+- 599
+F 601 4 0 No
+F 605 2 0 one's
+F 608 3 0  more
+F 613 4 0  fun
+F 618 4 0  than
+F 625 3 0  Pin
+F 628 3 0 kie
+F 632 8 0  Pie
+- 643
+: 645 5 3 Ge
+: 651 4 4 ne
+: 656 5 4 rous,
+: 666 5 3  Ho
+* 672 4 4 nes
+: 677 8 6 ty
+- 686
+: 688 4 4 Laugh
+: 694 3 4 ter,
+: 699 5 4  Kind
+* 705 4 8 ness,
+: 711 3 6  Lo
+: 715 4 4 yal
+: 720 6 4 ty
+- 729
+: 731 4 4 Free
+: 736 2 1  to
+: 739 5 4  be
+: 747 3 1  for
+* 752 4 4  we
+: 757 3 1  will
+: 762 7 6  be
+- 771
+: 773 4 4 Li
+: 778 3 4 vin'
+: 784 5 4  life
+: 790 4 8  in
+* 795 3 6  har
+: 800 3 4 mo
+: 804 2 4 ny
+- 806
+: 808 3 6 We're
+: 812 3 4  Equ
+: 817 4 4 es
+: 822 4 4 tri
+: 828 6 6 a
+: 837 9 4  Girls
+- 847
+: 849 4 4 And
+: 854 3 -1  we're
+: 859 10 3  here
+: 870 3 3  to
+: 875 10 4  shout
+- 889
+: 891 3 1 That
+: 896 2 3  the
+: 901 5 4  Ma
+: 907 5 4 gic
+: 913 8 11  of
+* 923 4 6  Friend
+: 928 4 4 ship
+: 935 3 4  is
+- 939
+: 941 9 6 What
+: 951 3 6  it's
+: 955 4 6  all
+: 961 2 4  a
+: 967 2 4 bout
+- 969
+: 971 5 8 We
+: 977 4 6 -e're
+: 982 3 4  Equ
+: 987 5 4 es
+: 993 4 4 tri
+: 998 7 6 a
+: 1008 8 4  Girls
+- 1017
+: 1019 4 4 And
+* 1024 4 -1  we're
+: 1029 8 3  here
+: 1040 3 3  to
+: 1044 13 4  say
+- 1064
+: 1067 4 4 We
+: 1072 5 9  gon
+: 1078 3 9 na
+: 1082 9 8  see
+: 1094 5 6  things
+: 1100 3 4  a
+* 1104 6 4  diff
+: 1111 3 1 erent
+: 1115 22 6  way
+- 1139
+: 1141 5 8 We
+: 1147 5 6 -e're
+: 1153 4 4  Equ
+: 1158 4 4 es
+: 1163 5 4 tri
+* 1169 7 6 a
+: 1179 10 4  Girls
+- 1190
+: 1192 3 4 And
+: 1196 3 -1  we're
+: 1200 9 3  here
+: 1211 2 3  to
+: 1216 12 4  shout
+- 1231
+: 1233 3 1 That
+: 1238 3 3  the
+: 1243 5 4  Ma
+: 1249 5 4 gic
+: 1255 8 11  of
+: 1264 5 6  Friend
+: 1270 4 4 ship
+: 1276 4 4  is
+- 1282
+: 1284 7 6 What
+: 1292 3 6  it's
+* 1298 4 6  all
+: 1303 2 4  a
+: 1306 5 4 bout
+- 1311
+: 1313 5 8 We
+: 1319 4 6 -e're
+: 1324 4 4  Equ
+: 1329 5 4 es
+: 1335 4 4 tri
+: 1340 7 6 a
+: 1350 9 4  Girls
+- 1359
+: 1361 5 4 Hea
+: 1367 2 -1 ding
+: 1371 8 3  side
+: 1380 3 4  by
+* 1387 7 4  side
+- 1396
+: 1398 5 4 Fin
+: 1404 4 4 ding
+: 1409 2 4  the
+: 1414 5 9  Ma
+: 1420 4 9 gic
+: 1425 5 8  o
+: 1431 4 6 -of
+* 1436 4 6  Friend
+: 1441 4 4 ship
+: 1447 5 4  deep
+: 1453 2 1  in
+: 1456 13 6 side
+- 1471
+: 1473 3 4 Equ
+: 1478 6 8 es
+: 1485 3 6 tri
+: 1489 3 4 a
+: 1493 4 4  Gi
+: 1498 3 6 -i
+* 1502 25 4 -irls
+E

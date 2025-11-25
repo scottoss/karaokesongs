@@ -1,0 +1,185 @@
+#TITLE:This Strange World
+#ARTIST:Equestria Girls
+#CREATOR:Nicolas Ha, amadas
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:395.92
+#GAP:7180
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:30-sep-2013
+: 0 3 7 I've
+: 5 6 7  nev
+: 12 3 7 er
+: 18 7 7  seen
+: 26 3 4  a
+* 32 11 4  place
+- 49
+: 49 4 4 That's
+: 55 11 7  quite
+: 68 9 7  like
+: 80 11 4  this
+- 99
+: 106 4 7 Ev
+: 111 3 7 ery
+: 118 6 7 thing
+: 125 3 7  is
+: 130 6 4  turned
+: 138 3 2  a
+* 141 9 0 round
+- 148
+: 150 3 0 This
+: 157 5 2  cra
+: 163 4 2 zy
+: 169 6 2  world
+* 176 4 4  is
+: 181 4 2  up
+: 187 5 0 side
+: 194 7 0  down
+- 206
+: 208 5 7 Get
+: 214 4 7 ting
+: 220 4 7  on
+: 226 4 4  my
+: 232 7 4  feet
+- 244
+: 246 4 0 It's
+: 251 4 0  the
+: 257 6 7  hand
+: 264 4 7  that
+: 270 5 7  I
+: 276 3 4  was
+: 281 9 4  dealt
+- 296
+: 300 4 0 But
+: 307 5 2  I
+: 313 5 2  don't
+: 319 5 2  have
+* 325 5 4  much
+: 332 5 2  time
+: 338 4 0  with
+: 344 6 0  them
+- 355
+: 357 4 2 Got
+: 363 3 4  to
+: 368 6 2  learn
+* 376 4 4  all
+: 382 4 2  that
+: 388 4 0  I
+: 395 11 0  can
+- 458
+: 602 4 7 They
+: 607 6 7  don't
+: 615 5 7  use
+: 621 5 7  a
+: 627 4 4 ny
+: 634 4 4  ma
+: 640 7 2 gic
+- 650
+: 652 3 0 Or
+: 660 5 7  fly
+: 666 4 7  with
+* 671 5 7  a
+: 677 5 4 ny
+: 684 12 4  wings
+- 705
+: 709 5 2 I
+: 715 4 2  don't
+: 721 5 2  get
+: 728 5 4  these
+* 735 4 2  fun
+: 741 3 0 ny
+: 747 7 0  clothes
+- 757
+: 759 6 2 Skin
+: 766 4 2 ny
+: 771 6 2  legs
+: 778 3 4  or
+: 785 5 2  ti
+: 791 4 0 ny
+* 797 7 0  nose
+- 809
+: 811 4 7 Ev
+: 816 4 7 ery
+: 822 6 7 thing's
+: 830 4 4  con
+: 836 4 4 fu
+: 842 5 2 sing
+- 848
+: 848 5 2 When
+: 854 3 0  it
+: 859 12 7  seems
+* 872 7 7  so
+: 879 4 4 ~
+: 886 9 4  new
+- 901
+: 904 2 -2 But
+: 907 2 -2  I
+: 910 5 2  look
+: 916 4 2  a
+: 922 5 2  lit
+: 929 3 4 tle
+: 935 5 2  clo
+: 943 4 0 ser
+- 947
+: 948 6 0 And
+: 955 3 0  it
+: 960 7 2  starts
+: 968 4 2  to
+: 974 4 2  feel
+* 980 4 4  fa
+: 986 4 2 mil
+: 991 4 0 iar
+: 998 12 0  too
+- 1062
+: 1175 5 0 What
+: 1181 3 0  a
+: 1185 12 2  strange
+: 1200 9 0  new
+: 1213 18 7  world
+: 1231 53 4 ~
+- 1294
+: 1307 3 4 I'm
+: 1312 6 7  try
+: 1319 5 7 ing
+: 1325 5 7  to
+: 1331 5 4  make
+* 1338 11 4  heads
+: 1351 8 7  or
+: 1361 7 4  tails
+: 1369 6 2 ~
+- 1374
+: 1376 5 2 Of
+: 1382 4 4  this
+: 1386 8 2  strange
+: 1394 5 0 ~
+: 1401 12 0  new
+* 1414 19 7  world
+: 1433 47 4 ~
+- 1491
+: 1515 5 7 Sor
+: 1521 4 7 ting
+: 1526 4 7  through
+: 1531 3 4  the
+: 1536 13 4  small
+: 1551 9 7  de
+: 1564 12 2 tails
+- 1575
+: 1577 5 2 Of
+* 1584 3 4  this
+: 1589 6 2  strange
+: 1595 5 0 ~
+: 1603 10 0  new
+: 1614 47 0  world
+- 1666
+: 1677 5 0 What
+: 1683 3 0  a
+: 1690 10 0  strange
+: 1702 3 0  new
+* 1705 8 2 ~
+: 1715 57 0  world
+E

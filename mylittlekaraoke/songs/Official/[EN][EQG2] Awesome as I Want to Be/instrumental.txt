@@ -1,0 +1,256 @@
+#TITLE:Awesome as I Want to Be (Instrumental)
+#ARTIST:Equestria Girls - Rainbow Rocks
+#CREATOR:sleumas2000
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:instrumental.mp3
+#BPM:278.41
+#GAP:1136
+#COVER:cover.png
+#BACKGROUND:background.png
+#COMMENT:http://www.mylittlekaraoke.com/
+F 0 6 5 Hey!
+F 13 6 5  Hey!
+F 26 6 5  Hey!
+F 39 6 5  Hey!
+F 51 6 5  Hey!
+F 64 6 5  Hey!
+- 70
+: 71 2 5 Awe
+: 74 3 5 some
+: 78 2 5  as
+: 81 2 5  I
+: 84 3 4  wan
+: 87 2 2 na
+: 90 7 2  be
+- 100
+F 102 6 5 Hey!
+F 115 6 5  Hey!
+F 128 6 5  Hey!
+F 141 6 5  Hey!
+F 154 6 5  Hey!
+F 166 5 5  Hey!
+- 172
+: 174 2 5 Awe
+: 177 3 5 some
+: 181 2 5  as
+: 184 2 5  I
+: 187 3 4  wan
+: 190 2 2 na
+: 193 6 2  be
+- 203
+: 205 2 9 First
+: 208 2 9  you
+: 211 5 9  see
+: 218 5 9  me
+: 224 3 6  rid
+: 228 3 6 ing
+: 232 2 6  on
+: 235 2 2  a
+: 238 3 6  son
+: 241 2 7 ic
+: 244 6 6  boom
+- 254
+: 256 2 2 Got
+: 259 2 2  my
+: 262 5 4  gui
+: 268 5 2 tar
+: 275 4 5  shre
+: 280 2 5 ddin'
+: 285 2 5  up
+: 287 2 5  the
+: 289 2 4  lat
+: 291 3 2 est
+: 295 6 2  tune
+- 306
+: 308 2 7 There
+: 311 2 9  is
+: 314 3 9  no
+: 318 2 9 thin'
+: 321 2 9  you
+: 324 3 6  can
+: 328 5 6  do
+: 336 2 2  to
+: 339 2 6  beat
+: 341 4 7 ~
+: 347 5 6  me
+- 356
+: 358 2 2 I'm
+: 362 3 2  so
+: 366 5 2  good
+: 372 4 4  that
+: 377 6 5  you
+: 384 3 5  can't
+: 388 2 5  de
+: 390 4 4 feat
+: 394 3 2 ~
+: 398 4 2  me
+- 402
+: 404 5 2 Yeah,
+: 410 6 6  I'm
+: 417 4 11  awe
+: 423 3 9 some
+: 427 5 6 ~
+- 434
+: 436 5 6 Take
+: 442 6 11  cau
+: 449 2 9 tion
+: 452 3 6 ~
+- 457
+: 459 2 9 Watch
+: 462 2 9  out
+: 465 2 9  for
+: 468 5 6  me
+- 473
+: 474 5 9 I'm
+* 480 3 5  awe
+* 484 2 5 some
+: 487 3 5  as
+: 491 2 5  I
+: 494 2 4  wan
+: 497 3 2 na
+: 501 3 2  be
+- 504
+F 506 6 5 (Yeah!)
+- 512
+: 513 4 6 I'm
+: 519 4 11  awe
+: 524 3 9 some
+: 528 4 6 ~
+- 536
+: 538 5 6 Take
+: 544 5 11  cau
+: 551 2 9 tion
+: 554 4 6 ~
+- 560
+: 562 2 9 Watch
+: 565 2 9  out
+: 568 2 9  for
+: 571 4 6  me
+- 575
+: 577 5 9 I'm
+* 583 2 5  awe
+* 586 3 5 some
+: 590 2 5  as
+: 593 3 5  I
+: 597 2 4  wan
+: 599 2 2 na
+: 603 9 2  be
+- 612
+F 614 6 5 Hey!
+F 627 6 5  Hey!
+F 640 6 5  Hey!
+F 652 6 5  Hey!
+F 665 6 5  Hey!
+F 678 6 5  Hey!
+- 694
+F 716 6 5 Hey!
+F 730 6 5  Hey!
+F 742 6 5  Hey!
+F 755 6 5  Hey!
+F 768 6 5  Hey!
+F 780 6 5  Hey!
+- 796
+: 819 2 9 Step
+: 822 2 9  a
+: 825 6 9 side,
+: 832 4 9  now,
+: 838 2 9  you're
+: 841 3 9  just
+: 845 3 9  get
+: 848 2 6 tin'
+: 851 2 9  in
+: 854 2 11  my
+: 857 9 9  way
+- 868
+: 870 3 2 I
+: 874 2 2  got
+: 878 3 2  sick
+: 883 5 4  chops
+: 889 3 5  you
+: 893 2 5  can
+: 896 2 5  ne
+: 899 2 5 ver
+: 902 3 4  hope
+: 906 2 2  to
+: 909 6 2  play
+- 920
+: 922 2 9 When
+: 925 2 9  it
+: 928 2 9  comes
+: 931 2 9  to
+: 934 3 9  ma
+: 938 2 6 kin'
+: 941 2 6  mu
+: 944 2 6 sic
+: 947 3 6  I'm
+: 951 2 2  the
+* 954 2 6  ru
+* 957 2 7 ~
+* 960 6 6 ler
+- 971
+: 973 2 2 You
+: 976 2 4  wish
+: 979 3 5  you
+: 983 2 4  could
+: 986 4 2  be
+: 992 2 5  twen
+: 995 2 5 ty
+: 998 2 5  per
+: 1001 3 5 cent
+: 1006 2 4  coo
+: 1009 2 2 ~
+: 1012 4 2 ler
+- 1016
+: 1018 4 2 Yeah,
+: 1024 5 6  I'm
+: 1031 4 11  awe
+: 1038 2 9 some
+: 1041 4 6 ~
+- 1048
+: 1050 4 6 Take
+: 1055 6 11  cau
+: 1062 3 9 tion
+: 1066 3 6 ~
+- 1070
+: 1072 3 9 Watch
+: 1076 2 9  out
+: 1079 2 9  for
+: 1082 4 6  me
+- 1086
+: 1088 5 9 I'm
+* 1094 2 5  awe
+* 1097 3 5 some
+: 1101 2 5  as
+: 1104 3 5  I
+: 1108 2 4  wan
+: 1111 2 2 na
+: 1114 4 2  be
+- 1118
+F 1120 5 5 (Yeah!)
+- 1125
+: 1126 5 6 I'm
+* 1133 3 11  awe
+* 1139 3 9 some
+* 1143 4 6 ~
+- 1149
+: 1151 5 6 Take
+: 1157 6 11  cau
+: 1164 3 9 tion
+: 1168 4 6 ~
+- 1172
+: 1174 3 9 Watch
+: 1178 2 9  out
+: 1181 2 9  for
+: 1184 4 6  me
+- 1188
+: 1190 5 9 I'm
+* 1196 2 5  awe
+* 1199 3 5 some
+: 1204 2 5  as
+: 1207 2 5  I
+: 1210 6 4  wan
+: 1217 3 2 na
+: 1222 10 2  be
+E

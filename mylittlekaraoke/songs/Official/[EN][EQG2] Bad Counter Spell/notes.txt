@@ -1,0 +1,122 @@
+#TITLE:Bad Counter Spell
+#ARTIST:Equestria Girls - Rainbow Rocks
+#CREATOR:Smilley
+#MP3:song.mp3
+#BPM:266.07
+#GAP:945
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#EDITION:My Little Pony
+#LANGUAGE:English
+#GENRE:Pony
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATE:09-jun-2015
+: 0 8 2 Hey,
+: 16 7 2  hey,
+: 28 5 2  lis
+: 35 14 2 ten
+- 58
+: 62 8 4 We've
+: 72 3 4  got
+: 76 2 4  a
+: 80 2 4  mes
+* 83 4 2 sage
+: 88 2 2  for
+: 91 21 9  you
+- 123
+: 127 7 9 We're
+: 136 7 9  not
+: 144 7 9  all
+: 152 2 9  a
+: 156 18 6 like
+- 181
+: 184 3 2 But
+: 189 7 7  our
+: 199 7 6  friend
+: 207 7 4 ship
+: 216 4 2  is
+* 221 8 11  tru
+: 230 13 9 -e
+- 251
+: 254 8 14 Yeah,
+: 264 7 13  we're
+: 273 5 11  real
+: 279 4 9 ly
+* 284 6 11  diffe
+: 291 13 9 rent
+- 310
+: 312 3 6 But
+* 317 7 7  we
+: 326 9 9  still
+: 336 7 7  get
+: 344 2 6  a
+: 347 16 7 long
+- 375
+: 379 4 7 So
+: 384 6 6  hey,
+F 393 12 0  hey,
+: 416 6 7  lis
+: 423 7 7 ten
+: 432 4 7  to
+: 437 5 7  our
+: 443 29 4  song
+- 482
+: 495 7 14 You
+: 503 6 13  may
+: 512 7 14  think
+: 520 7 14  you're
+* 529 6 14  in
+: 536 3 14  con
+: 540 16 9 trol
+- 565
+: 569 3 9 But
+: 573 3 9  we're
+: 578 5 9  here
+: 585 3 9  to
+: 590 10 9  prove
+: 601 5 9  you
+: 607 17 7  wrong
+- 630
+: 632 4 14 With
+: 637 3 14  the
+* 641 6 14  friend
+* 648 6 14 ship
+: 656 5 14  in
+: 662 5 14  our
+: 668 6 16  mu
+: 677 11 14 sic
+- 694
+: 696 3 9 With
+: 700 3 9  the
+: 705 6 9  po
+: 712 8 9 wer
+: 721 4 9  of
+: 726 4 9  our
+: 731 18 11  song
+- 757
+: 760 3 9 Gon
+: 764 2 9 na
+: 768 7 9  stomp
+: 777 4 6  our
+* 785 8 2  feet,
+: 802 6 6  clap
+: 809 5 6  our
+: 816 10 2  hands
+- 832
+: 834 6 4 With
+: 841 5 4  the
+* 847 4 4  ma
+* 852 4 4 gic
+: 857 3 2  of
+: 861 5 6  friend
+: 869 11 4 ship
+- 886
+: 888 3 2 Gon
+: 892 2 2 na
+: 895 8 2  stop
+: 905 5 2  your
+* 912 7 4  e
+: 920 6 2 vil
+: 928 28 2  plan
+E

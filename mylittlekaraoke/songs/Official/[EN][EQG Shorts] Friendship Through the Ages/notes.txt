@@ -1,0 +1,331 @@
+#TITLE:Friendship Through the Ages
+#ARTIST:Equestria Girls Shorts
+#CREATOR:Smilley
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:400
+#GAP:10763
+#GENRE:Pony
+#YEAR:2015
+#LANGUAGE:English
+#EDITION:My Little Pony
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:03-apr-2015
+: 0 5 3 No
+: 6 4 3 thing
+: 12 6 3  stays
+: 19 4 3  the
+: 24 6 3  same
+: 32 4 5  for
+: 38 10 5  long
+- 58
+: 67 2 3 But
+: 71 7 5  when
+: 80 7 7  it
+: 90 9 8  chan
+: 100 5 10 ges
+: 106 7 10  does
+: 114 3 3 n't
+: 120 9 7  mean
+: 130 6 8  it's
+: 137 6 7  go
+: 144 16 5 -one
+- 170
+: 189 6 3 Time
+: 196 5 3  will
+: 202 5 3  al
+* 208 4 -2 ways
+: 214 5 3  get
+: 221 3 5  a
+: 226 17 5 way
+- 253
+: 263 7 3 As
+: 271 7 5  it
+: 281 9 5  leaves
+: 292 5 3  be
+: 298 5 3 hind
+: 304 4 -2  a
+: 311 10 5 no
+: 322 5 7 ther
+: 328 6 5  da
+: 335 21 3 -ay
+- 366
+: 382 10 3 Things
+: 395 7 3  may
+: 405 6 3  come
+: 415 4 -2  and
+: 423 9 3  things
+: 434 8 3  may
+: 445 11 3  go
+- 466
+: 474 9 3 Some
+: 486 7 3  go
+: 496 8 3  fast
+: 508 3 -2  and
+: 514 7 3  some
+: 524 3 3  go
+: 528 3 5 -o
+: 537 10 3  slow
+- 557
+: 564 10 3 Few
+: 576 8 3  things
+* 588 9 10  last,
+: 599 5 7  that's
+: 606 9 7  all
+: 618 6 5  I
+: 629 10 3  know
+- 643
+: 645 4 5 But
+: 651 8 5  friend
+: 662 8 3 ship
+: 681 6 3  car
+: 688 8 5 ries
+: 698 9 5  on
+: 709 3 3  through
+: 715 3 7  the
+: 720 4 5  a
+: 726 4 3 -a
+: 732 11 3 ges
+- 746
+: 748 10 3 Things
+: 760 9 3  may
+: 771 8 3  come
+: 782 5 -2  and
+: 789 9 3  things
+: 801 8 3  may
+: 812 10 3  go
+- 832
+: 839 9 7 Some
+: 851 7 7  go
+: 862 7 10  fast
+: 874 4 7  and
+: 880 8 7  some
+: 891 7 8  go
+: 902 11 7  slow
+- 925
+: 929 8 7 Few
+: 941 9 7  things
+: 953 9 10  last,
+: 964 7 7  that's
+: 972 9 7  all
+: 983 7 5  I
+: 994 10 3  know
+- 1008
+: 1010 4 5 But
+: 1016 5 5  fri
+: 1022 4 3 -end
+: 1028 8 3 ship
+: 1044 7 3  car
+: 1052 8 5 ries
+: 1062 8 5  on
+: 1074 5 3  through
+: 1081 3 7  the
+: 1086 4 5  a
+: 1091 4 3 -a
+: 1097 12 3 ges
+- 1111
+: 1113 4 3 Been
+: 1119 4 3  a
+: 1124 10 3 round
+: 1136 5 -2  for
+: 1142 3 -2  a
+* 1148 7 3  long
+: 1158 13 3  time
+- 1178
+: 1181 5 3 Ro
+: 1187 5 3 ckin'
+: 1193 6 3  out
+: 1204 9 3  hard,
+: 1215 5 3  'cause
+: 1221 5 7  I'm
+: 1229 7 5  in
+: 1239 7 3  my
+: 1251 14 3  prime
+- 1271
+: 1273 4 10 May
+: 1279 4 7 be
+: 1284 4 7  it
+: 1289 4 7 'll
+* 1295 10 8  change
+: 1307 6 7  fur
+: 1314 4 7 ther
+: 1320 3 5  do
+: 1325 4 3 -own
+: 1331 9 3  the
+: 1342 13 3  line
+- 1366
+: 1370 4 3 But
+: 1375 4 3  my
+: 1382 7 5  friend
+: 1392 11 3 ship
+: 1410 7 3  car
+: 1418 8 3 ries
+* 1428 8 10  on
+: 1438 6 7  through
+: 1445 5 7  the
+: 1452 6 10  a
+: 1462 12 7 ges
+- 1486
+: 1490 6 10 Eve
+: 1497 3 10 ry
+: 1502 6 10  sin
+: 1512 3 7 gle
+* 1519 10 8  style
+: 1531 9 7  has
+: 1542 5 5  so
+: 1548 4 3 -ome
+: 1554 9 3 thin'
+- 1568
+: 1570 7 3 Diff'
+: 1579 9 3 rent
+: 1589 7 3  it
+: 1599 3 3  ca
+: 1603 4 5 -an
+: 1609 11 5  sa
+: 1621 7 7 -ay
+- 1638
+: 1674 3 7 No
+: 1679 5 7 thin'
+: 1685 4 7  wro
+: 1690 4 5 -ong
+: 1695 4 5  with
+: 1702 4 5  be
+: 1708 6 3 in'
+: 1716 6 3  u
+: 1724 9 3 nique
+- 1742
+: 1746 5 3 And
+: 1753 4 3  spe
+: 1760 6 3 cial
+: 1767 4 3  in
+* 1773 9 7  your
+: 1783 3 5  o
+: 1787 4 3 -own
+: 1794 15 3  way
+- 1819
+: 1850 5 8 May
+: 1856 6 8 be
+: 1863 4 8  you
+: 1869 4 7  wan
+: 1874 4 7 na
+: 1880 4 5  be
+: 1886 3 5  a
+: 1891 5 5  pop
+: 1902 10 3  star
+- 1921
+: 1924 4 3 Get
+: 1930 5 3  your
+: 1936 9 8  fif
+: 1947 10 8 teen
+: 1959 5 7  mi
+: 1965 5 7 nutes
+: 1971 3 5  of
+: 1976 9 3  fame,
+: 1994 6 10  wah
+: 2001 7 7 -ah,
+: 2011 5 10  ah
+: 2018 12 7 -ow
+- 2036
+: 2038 6 8 That
+: 2045 6 8  won't
+: 2052 7 7  last
+: 2062 5 5  for
+: 2069 4 5 e
+: 2075 3 3 -e
+: 2080 8 3 ver
+- 2098
+: 2102 5 3 But
+: 2114 8 5  friend
+: 2124 7 5 ship
+: 2136 4 3  re
+: 2142 4 7 ma
+: 2147 5 5 ins
+: 2154 3 5  the
+: 2159 9 5  same,
+* 2172 10 10  ah
+: 2184 8 7 -oh
+: 2194 9 5 -oh
+- 2208
+: 2210 10 3 Things
+: 2222 9 3  may
+: 2233 9 3  come
+: 2245 4 -2  and
+: 2251 9 3  things
+: 2262 8 3  may
+: 2272 12 3  go
+- 2294
+: 2301 9 3 Some
+: 2312 8 3  go
+: 2323 9 3  fast
+: 2336 4 -2  and
+: 2342 9 3  some
+: 2353 3 3  go
+: 2357 3 5 -o
+: 2363 12 3  slow
+- 2385
+: 2392 9 3 Few
+: 2404 10 3  things
+* 2417 9 10  last,
+: 2429 5 7  that's
+: 2436 10 7  all
+: 2447 4 5  I
+: 2452 4 3 -I
+: 2457 10 3  know
+- 2470
+: 2472 6 5 But
+: 2480 9 5  friend
+: 2491 9 3 ship
+: 2508 5 3  car
+: 2514 11 5 ries
+: 2526 9 5  on
+: 2537 5 3  through
+: 2543 5 7  the
+: 2549 5 5  a
+: 2555 4 3 -a
+: 2560 10 3 ges
+- 2575
+: 2577 9 3 Things
+: 2588 9 3  may
+: 2599 9 3  come
+: 2611 4 -2  and
+: 2617 9 3  things
+: 2628 9 3  may
+: 2639 11 3  go
+- 2660
+: 2668 8 3 Some
+: 2679 7 3  go
+: 2691 9 3  fast
+: 2703 3 -2  and
+: 2709 10 3  some
+: 2720 3 3  go
+: 2724 3 5 -o
+: 2731 13 3  slow
+- 2754
+: 2758 9 3 Few
+: 2770 9 3  things
+: 2782 9 10  last,
+: 2794 5 7  that's
+: 2801 9 7  all
+: 2812 7 5  I
+: 2822 10 3  know
+- 2837
+: 2839 6 5 But
+: 2846 8 5  friend
+: 2856 9 3 ship
+: 2873 7 3  car
+: 2881 10 5 ries
+: 2892 10 5  on
+: 2904 5 3  through
+: 2910 4 7  the
+: 2916 3 5  a
+: 2920 4 3 -a
+: 2925 11 3 ges
+- 2941
+: 2943 39 8 Oh
+: 2983 9 7 -oh,
+: 3008 9 5  car
+: 3019 10 3 ries
+* 3032 48 3  on
+E
