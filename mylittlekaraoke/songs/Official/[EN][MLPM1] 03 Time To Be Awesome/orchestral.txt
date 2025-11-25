@@ -1,0 +1,350 @@
+#ENCODING:UTF8
+#TITLE:Time To Be Awesome (Orchestral Cover)
+#ARTIST:My Little Pony - The Movie, Gunzman
+#CREATOR:Smilley
+#LANGUAGE:English
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2017
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#VIDEOGAP:13
+#BPM:400
+#GAP:997
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:10-dec-2017
+: 0 4 2 I
+: 5 4 2  know
+: 11 2 2  the
+: 15 8 2  world
+: 25 4 2  can
+* 32 4 2  get
+: 39 4 -3  you
+: 44 13 -3  down
+- 67
+: 108 4 -3 Things
+: 115 4 -1  don't
+: 120 4 2  work
+: 126 4 2  out
+: 134 10 2  quite
+: 148 3 -3  the
+: 154 5 4  way
+: 163 4 6  that
+: 169 4 4  you
+* 175 4 6  tho
+: 180 3 4 -o
+: 184 13 2 -ought
+- 207
+: 222 4 2 Fee
+: 227 4 4 ling
+: 232 6 6  like
+: 241 4 6  all
+: 247 4 4  your
+: 254 5 2  best
+* 264 8 9  days
+: 275 2 6  a
+: 278 4 4 -are
+: 285 14 2  done
+- 308
+: 311 3 4 Your
+: 318 9 5  fears
+: 329 5 4  and
+: 338 9 2  doubts
+: 351 4 -3  are
+: 358 4 -1  all
+: 363 6 2  you've
+: 371 8 2  got
+- 389
+: 406 5 6 But
+: 413 7 4  there's
+: 422 3 2  a
+: 426 6 2  li
+: 433 11 -1 -ight
+* 465 7 11  shi
+: 474 5 9 ning
+: 480 8 9  deep
+: 491 5 2  in
+: 501 12 6 side
+- 514
+: 516 3 -3 Be
+: 522 5 -1 neath
+: 528 5 2  those
+: 535 12 2  fears
+: 550 8 9  and
+: 562 5 6  doubts,
+: 569 4 4  so
+: 576 4 2  just
+* 582 7 6  squash
+: 592 7 4  'em
+- 609
+: 623 4 6 And
+: 631 5 4  let
+: 637 3 2  it
+: 644 28 11  shine
+: 677 5 9  for
+: 684 6 9  all
+: 691 4 9  the
+: 698 7 9  world
+: 707 6 14  to
+: 717 11 4  see
+- 730
+: 732 5 2 That
+: 738 5 2  it
+: 744 3 4  is
+: 751 11 5  time,
+: 766 9 9  yeah,
+: 778 5 4  time
+: 786 3 2  to
+: 792 4 -1  be
+F 798 4 0  awe
+F 804 6 0 some
+- 814
+: 816 3 2 Ah,
+: 826 6 1  ah
+: 833 5 2 -ah,
+: 845 5 9  awe
+: 852 6 6 some
+- 858
+: 860 6 2 It's
+: 870 7 2  time
+: 880 3 1  to
+: 886 4 2  be
+* 893 7 6  so
+: 901 4 4  awe
+: 907 3 2 some
+- 912
+: 914 8 2 Ah
+: 925 6 2  ah,
+: 934 7 1  ah
+: 943 7 2 -ah,
+: 954 5 9  awe
+: 962 4 6 some
+- 966
+: 968 7 2 It's
+: 979 6 2  time
+: 988 3 1  to
+: 995 4 2  be
+: 1001 5 6  so
+: 1008 4 4  awe
+: 1014 6 2 some
+- 1026
+: 1029 5 2 You've
+: 1036 4 2  no
+: 1042 4 2  i
+: 1047 4 2 dea
+: 1053 6 2  how
+* 1060 5 2  hard
+: 1067 5 -3  it's
+: 1074 10 -3  been
+- 1110
+: 1139 3 -3 This
+: 1145 5 -1  dull
+: 1152 6 2  rou
+: 1159 6 2 ti
+: 1166 3 -1 -ine
+: 1171 5 -1  we've
+: 1178 5 -3  been
+: 1186 4 4  fo
+: 1191 9 6 -orced
+: 1201 3 4  to
+: 1207 4 4  do
+: 1213 13 2 -o
+- 1236
+: 1247 5 2 Don't
+: 1253 5 2  let
+: 1259 6 4  them
+: 1266 2 4  ro
+: 1269 6 6 -ob
+: 1277 7 4  you
+: 1286 5 2  of
+* 1293 9 9  who
+: 1303 8 4  you
+: 1313 18 2  are
+- 1338
+: 1341 4 4 Be
+: 1347 6 5  awe
+: 1358 7 4 some,
+: 1368 5 2  it's
+: 1376 8 4  all
+: 1386 5 4  up
+: 1394 5 2  to
+: 1401 13 2  you
+- 1424
+: 1435 5 6 I
+: 1441 6 4  feel
+: 1448 4 2  the
+: 1454 6 2  li
+: 1462 16 -1 -ight
+: 1496 7 11  stir
+: 1504 5 9 ring
+* 1510 9 9  deep
+: 1521 6 2  in
+: 1531 4 4 si
+: 1537 4 6 -ide
+- 1542
+: 1544 3 -3 It's
+: 1552 5 -1  like
+: 1559 3 2  a
+: 1564 11 2  tale
+: 1576 4 7  sti
+: 1581 3 9 -i
+: 1585 5 6 -ill
+: 1592 5 6  yet
+: 1599 4 4  to
+: 1605 4 2  be
+: 1611 3 4  to
+: 1615 4 6 -o
+: 1620 20 4 -old
+- 1649
+: 1652 6 9 And
+: 1660 5 7  now
+: 1666 5 6  it's
+: 1673 32 7  time
+: 1707 5 9  to
+: 1714 5 9  break
+: 1721 3 9  the
+: 1727 8 9  shack
+: 1737 8 14 les
+: 1747 11 4  free
+- 1760
+: 1762 3 2 And
+: 1769 7 4  start
+: 1783 4 5  livi
+: 1788 4 5 ng
+: 1794 5 5  like
+: 1802 3 5  the
+* 1809 6 4  brave
+: 1817 4 2  and
+: 1822 3 -1  the
+: 1828 6 2  bold
+- 1834
+: 1836 5 2 It's
+: 1847 7 2  time
+: 1856 6 1  to
+: 1863 8 2  be
+F 1874 5 0  awe
+F 1880 4 0 some
+- 1886
+: 1888 7 6 Let
+: 1898 7 4  loose,
+: 1909 6 1  be
+: 1916 5 2  true,
+F 1922 5 0  so
+F 1929 5 0  awe
+F 1935 7 0 some
+- 1943
+: 1945 7 2 It's
+: 1954 7 2  time
+: 1964 5 1  to
+: 1971 7 2  be
+F 1983 5 0  awe
+F 1990 7 0 some
+- 1997
+: 1998 10 6 Go
+: 2009 7 4  big,
+: 2018 6 1  be
+: 2025 5 2  you,
+F 2031 6 0  so
+F 2038 5 0  aw
+F 2044 4 0 esome
+- 2050
+: 2052 7 2 We
+: 2062 8 2  used
+: 2072 4 4  to
+* 2079 9 6  soar
+: 2089 10 4  through
+: 2101 4 2  the
+: 2107 11 -1  clouds
+: 2120 5 2  in
+: 2127 4 -1  the
+: 2133 15 -3  skies
+- 2152
+: 2154 5 2 E
+: 2162 7 11 la
+: 2172 7 11 bo
+: 2181 5 9 rate
+: 2188 10 9  schemes
+: 2200 6 6  we
+: 2208 5 2  would
+: 2216 7 4  love
+: 2225 7 6  to
+: 2235 5 4  de
+: 2241 15 4 vise
+- 2261
+: 2263 5 -3 We
+: 2269 7 2  res
+: 2279 8 2 cued
+: 2291 4 4  our
+: 2297 6 6  trea
+: 2306 10 4 sure
+: 2317 5 -3  and
+: 2323 11 -1  stored
+: 2335 11 2  it
+: 2347 3 -1  a
+: 2351 15 -3 way
+- 2375
+: 2378 4 9 Sa
+: 2383 5 11 -a
+: 2389 3 11 vi
+: 2393 5 9 -ing
+: 2400 5 9  those
+: 2406 5 9  gem
+: 2412 6 6 stones
+: 2419 6 4  for
+: 2426 4 2  a
+* 2432 11 4  rai
+: 2445 6 4 ny
+: 2453 10 2  day
+- 2464
+: 2466 5 6 We
+: 2473 5 4  see
+: 2479 6 2  that
+: 2486 5 2  li
+: 2493 10 -1 -ight
+* 2526 5 11  fil
+: 2533 6 9 ling
+: 2540 7 9  up
+: 2549 6 2  our
+: 2558 5 4  ski
+: 2564 7 6 -es
+- 2572
+: 2574 5 9 So
+: 2581 5 9  take
+: 2588 3 9  the
+: 2594 12 9  Storm
+* 2608 10 11  King's
+: 2622 6 6  or
+: 2630 5 4 ders
+: 2636 4 2  and
+: 2642 7 6  toss
+: 2652 8 4  'em
+- 2670
+: 2682 6 6 'Cause
+: 2690 5 4  it's
+: 2696 5 2  the
+: 2703 31 11  time
+: 2737 4 9  to
+: 2742 6 9  let
+: 2750 6 9  our
+: 2759 8 9  co
+: 2769 8 14 lors
+: 2778 10 4  fly
+- 2788
+: 2789 6 4 Hey,
+: 2797 7 2  scal
+: 2806 5 4 ly
+: 2813 13 5 wags,
+: 2829 7 9  it's
+: 2838 5 4  time
+: 2845 4 2  to
+: 2852 6 -1  be
+* 2859 3 4  awe
+: 2865 22 2 some
+- 2897
+F 2905 14 0 Hey!
+F 2959 13 0  Hey!
+F 3013 13 0  Hey!
+F 3069 12 0  Hey!
+E

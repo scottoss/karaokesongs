@@ -1,0 +1,139 @@
+#ENCODING:UTF8
+#TITLE:We Got the Beat
+#ARTIST:My Little Pony
+#CREATOR:Pluie
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#YEAR:2017
+#MP3:song.mp3
+#COVER:cover.jpg
+#BACKGROUND:background.jpg
+#VIDEO:video.mp4
+#BPM:314
+#GAP:13030
+#COMMENT:https://www.mylittlekaraoke.com,https://derpibooru.org/1505762,https://derpibooru.org/1603841
+#UPDATED:26-nov-2018
+: 1 3 9 See
+: 6 3 9  the
+: 11 6 9  po
+: 18 3 9 nies
+: 23 4 7  trot
+: 29 3 9 tin'
+: 33 3 7  down
+: 37 3 4  the
+: 42 7 9  street
+- 58
+: 62 2 9 E
+: 65 3 9 ques
+: 69 4 9 tri
+: 74 7 9 a
+: 82 3 9  is
+: 86 5 7  where
+: 93 3 9  they
+: 97 3 7  wan
+: 101 3 4 na
+: 106 6 9  meet
+- 122
+: 129 4 9 They
+: 134 3 9  all
+: 138 6 9  know
+: 150 5 7  where
+: 158 3 9  they
+: 162 3 7  wan
+: 166 3 4 na
+: 171 4 9  go
+- 177
+: 179 2 4 And
+: 182 2 4  they're
+: 187 3 9  trot
+: 190 3 9 tin'
+: 194 4 9  in
+: 201 5 7  time
+- 208
+: 210 3 7 And
+: 214 3 7  they're
+: 218 3 6  trot
+: 222 3 6 tin',
+: 226 2 6  yeah
+- 232
+: 234 3 4 They
+: 238 3 6  got
+: 242 3 4  the
+: 246 5 2  beat
+- 256
+: 258 4 2 They
+: 265 5 2  got
+: 274 5 7  the
+: 282 4 7  beat
+- 288
+: 290 5 7 They
+: 298 5 7  got
+: 306 5 9  the
+: 314 8 9  beat
+- 332
+* 345 11 7 Yeah,
+: 361 3 9  they
+: 365 3 9  got
+: 369 3 7  the
+: 374 6 9  beat
+- 383
+: 385 4 9 Go
+: 390 4 9 -go
+: 395 6 9  mu
+: 402 4 9 sic
+: 407 5 7  real
+: 414 3 9 ly
+: 418 3 7  makes
+: 422 3 4  us
+: 427 7 9  dance
+- 446
+: 450 3 9 Do
+: 454 4 9  the
+: 459 5 9  po
+: 465 4 9 ny,
+: 472 4 7  puts
+: 478 3 9  us
+: 482 3 7  in
+: 486 2 4  a
+: 490 7 9  tra
+: 499 6 4 -ance
+- 512
+: 515 3 9 Do
+: 519 4 9  wa
+: 523 6 9 tu
+: 529 4 9 si,
+: 535 5 7  just
+: 542 3 9  give
+: 547 3 7  us
+: 551 2 4  a
+: 555 5 9  chance
+- 562
+: 564 5 9 That's
+: 572 2 12  when
+: 575 3 12  we
+: 579 3 11  fall
+: 583 2 9  in
+: 586 9 9  line
+- 607
+: 611 4 3 'Cause
+: 618 3 3  we
+: 622 3 5  got
+: 626 4 3  the
+: 631 6 1  beat
+- 640
+: 642 6 2 We
+: 650 6 2  got
+: 658 5 7  the
+: 666 5 7  beat
+- 673
+: 675 6 7 We
+: 683 5 7  got
+: 691 6 9  the
+: 699 8 9  beat
+- 717
+* 731 16 7 Yeah,
+: 750 3 16  we
+: 755 3 13  got
+: 760 6 7  it!
+E

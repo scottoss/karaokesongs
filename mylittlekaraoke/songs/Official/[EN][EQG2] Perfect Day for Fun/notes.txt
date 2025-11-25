@@ -1,0 +1,380 @@
+#TITLE:Perfect Day For Fun
+#ARTIST:Equestria Girls - Rainbow Rocks
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:307.76
+#GAP:6537
+: 0 7 0 Oh
+: 9 2 0  oh
+: 12 3 2  ah
+* 16 7 4  ah
+: 25 5 2  ah
+: 33 7 0  oh
+- 43
+: 45 2 7 Oh
+: 48 4 7  oh
+: 53 3 4  uh
+: 58 3 4  oh
+: 62 3 2  uh
+- 65
+: 66 5 0 Oh
+: 73 2 0  oh
+: 77 2 2  ah
+: 81 6 4  ah
+: 89 5 2  ah
+* 97 9 2  ah
+- 116
+: 137 2 7 Loo
+: 140 3 7 king
+: 144 4 7  for
+: 149 2 7 ward
+* 152 2 7  to
+: 155 4 2  some
+: 160 7 2  fun
+- 167
+: 169 3 2 Know
+: 173 3 2 ing
+: 177 3 2  all
+: 181 2 2  our
+: 184 4 4  friends
+: 189 2 0  will
+: 192 6 0  come
+- 199
+: 201 3 0 'Cause
+: 205 2 0  we're
+: 208 4 0  here
+: 213 1 0  to
+* 215 5 2  spend
+: 221 2 0  the
+: 224 7 3  day
+- 231
+: 232 4 7 Ev'
+: 237 3 7 ry
+: 241 3 2 bo
+: 245 3 2 dy
+: 249 3 5  come
+: 253 3 5  and
+: 257 5 4  play
+- 262
+: 264 4 7 Let's
+: 269 3 7  all
+: 273 3 7  pick
+: 277 2 7  a
+: 280 3 7  mee
+: 284 4 2 ting
+: 289 4 2  place
+- 295
+: 297 3 2 And
+: 301 3 2  we're
+: 305 3 2  gon
+: 309 2 2 na
+* 312 4 4  have
+: 317 2 0  to
+: 320 5 0  race
+- 327
+: 329 3 0 Ev'
+: 333 3 0 ry
+: 337 3 0 bo
+: 341 3 0 dy
+: 345 3 2  fol
+: 349 3 0 low
+: 353 5 0  me
+- 359
+: 361 3 7 This
+: 365 3 7  is
+: 369 3 2  where
+: 373 3 2  we're
+* 377 3 5  gon
+: 381 3 5 na
+F 385 6 0  be
+- 398
+: 401 5 12 With
+: 408 7 7  my
+: 416 12 5  best
+: 432 15 7  friends
+- 457
+: 464 5 12 Though
+: 473 5 7  we're
+* 480 10 5  diffe
+: 494 11 4 rent
+- 510
+: 512 3 0 We
+: 516 3 0  feel
+: 520 3 0  like
+: 524 2 2  we
+: 528 6 4  still
+* 536 3 7  be
+: 540 3 2 -e
+: 544 7 2 long
+- 555
+: 557 2 0 And
+: 561 3 0  eve
+: 565 2 0 ry
+: 568 4 0  day
+: 573 2 2  it
+: 576 6 4  makes
+: 585 5 0  our
+* 592 6 4  friend
+: 600 4 0 ship
+- 605
+: 607 5 0 Stro
+: 616 6 4 -o
+: 624 3 2 -o
+: 628 3 0 -o
+: 632 8 0 -ong
+- 646
+: 648 3 7 Let's
+: 652 3 7  go
+: 656 3 7  find
+: 660 3 7  what
+: 664 4 7  games
+: 669 2 2  to
+: 672 4 2  win
+- 679
+: 681 3 2 Ev'
+: 685 2 2 ry
+: 688 3 2 bo
+: 692 3 2 dy's
+: 696 3 4  joi
+* 700 3 0 ning
+: 705 3 0  in
+- 710
+: 712 3 0 'Cause
+: 717 2 0  we're
+: 720 3 0  ha
+: 724 2 0 ving
+: 728 3 2  such
+: 732 2 0  a
+* 736 6 3  blast
+- 742
+F 743 4 0 Hey,
+F 748 2 0  did
+F 751 4 0  I
+F 756 3 0  just
+F 760 3 0  come
+F 764 2 0  in
+F 767 7 0  last?
+- 774
+: 776 3 7 Does
+: 780 3 7 n't
+: 785 3 7  mat
+: 789 3 7 ter
+: 793 3 7  win
+: 797 2 2  or
+* 800 6 2  lose
+- 807
+: 809 3 2 When
+: 813 3 2  we
+: 817 2 2  al
+: 820 4 2 ways
+: 825 3 4  are
+: 829 3 0  a
+: 833 5 0 mused
+- 838
+: 840 3 0 My
+: 844 3 0  friends
+: 848 4 0  stand
+: 853 3 0  out
+: 857 3 2  in
+: 861 2 0  a
+: 864 6 0  crowd
+- 870
+: 872 3 7 Ha
+: 876 3 7 ving
+: 880 3 2  fun
+: 884 3 2  and
+* 888 3 5  laugh
+: 892 3 5 ing
+F 896 10 0  loud!
+- 910
+: 912 5 12 With
+: 921 6 7  my
+: 929 11 5  best
+* 944 17 7  friends
+- 971
+: 975 7 12 We
+: 984 7 7  can
+: 992 11 5  de
+: 1008 11 4 pend
+- 1022
+: 1024 3 0 They
+: 1028 3 0  will
+: 1032 3 0  al
+: 1036 3 2 ways
+: 1040 6 4  fol
+: 1048 5 7 low
+: 1056 7 4  through
+- 1069
+: 1072 3 0 It's
+: 1076 3 0  a
+* 1080 3 0  per
+* 1084 3 2 fect
+: 1088 5 4  day
+: 1095 5 0  for
+: 1103 7 4  fun
+- 1110
+: 1112 5 0 When
+: 1120 5 0  I
+* 1128 7 4  spend
+: 1137 4 2  it
+: 1144 5 -1  with
+: 1152 8 0  you
+- 1201
+: 1280 6 0 Oh
+: 1287 3 0  oh
+: 1291 3 2  ah
+: 1296 5 4  ah
+: 1304 5 2  ah
+: 1312 6 0  oh
+- 1322
+: 1324 2 7 Oh
+: 1327 4 7  oh
+: 1332 4 4  uh
+: 1337 2 4  oh
+: 1340 3 2  uh
+- 1344
+: 1346 4 0 Oh
+: 1352 3 0  oh
+: 1356 2 2  ah
+* 1359 6 4  ah
+: 1368 5 2  ah
+: 1376 8 2  ah
+- 1394
+: 1416 3 7 Ta
+: 1420 3 7 king
+: 1424 3 7  pho
+: 1428 3 7 tos
+: 1432 3 7  with
+: 1436 3 2  my
+: 1440 6 2  friends
+- 1446
+: 1448 3 2 Ne
+: 1452 3 2 ver
+: 1456 3 2  want
+: 1460 3 2  this
+* 1464 3 4  day
+: 1468 3 0  to
+: 1472 5 0  end
+- 1477
+: 1479 3 0 But
+: 1483 3 0  the
+: 1487 4 0  time
+: 1492 3 0  is
+: 1496 3 2  go
+: 1500 3 0 ing
+: 1504 6 3  fast
+- 1510
+: 1512 3 7 So
+: 1516 3 7  come
+: 1520 3 2  on
+: 1524 3 2  and
+: 1528 3 5  make
+: 1532 3 5  it
+: 1536 6 4  last
+- 1542
+: 1544 3 7 Get
+: 1548 3 7  the
+: 1552 3 7  band
+: 1556 3 7  up
+: 1560 2 7  on
+: 1563 2 2  the
+* 1567 7 2  stage
+- 1574
+: 1576 2 2 Does
+: 1579 3 2 n't
+: 1583 3 2  mat
+: 1587 3 2 ter
+: 1591 3 4  what
+: 1596 3 0  your
+: 1601 5 0  age
+- 1606
+: 1608 3 0 Hear
+: 1612 3 0  the
+: 1616 2 0  mu
+: 1619 3 0 sic,
+: 1623 4 2  now's
+: 1628 2 0  your
+: 1631 7 0  chance
+- 1638
+: 1640 3 7 Ev'
+: 1644 3 7 ry
+: 1648 2 2 bo
+: 1651 2 2 dy
+* 1655 3 5  start
+: 1659 3 5  to
+F 1663 8 0  dance!
+- 1677
+: 1679 7 14 With
+: 1688 7 9  my
+: 1696 12 7  best
+* 1711 16 9  friends
+- 1739
+: 1743 7 14 Though
+: 1751 5 9  we're
+: 1759 13 7  diffe
+: 1774 10 6 rent
+- 1789
+: 1791 3 2 We
+: 1795 3 2  feel
+: 1799 3 2  like
+: 1803 2 4  we
+: 1807 5 6  still
+: 1815 3 9  be
+: 1818 3 4 -e
+: 1822 10 4 long
+- 1834
+: 1836 3 2 And
+: 1840 3 2  eve
+: 1844 3 2 ry
+: 1848 3 2  day
+: 1852 3 4  it
+: 1856 5 6  makes
+: 1864 4 2  our
+: 1871 5 6  friend
+: 1878 5 2 ship
+- 1884
+: 1886 7 2 Stro
+: 1895 5 6 -o
+* 1903 4 4 -o
+: 1908 2 2 -o
+: 1911 8 2 -ong
+- 1929
+: 1936 6 14 With
+: 1943 6 9  my
+: 1951 14 7  best
+: 1967 16 9  friends
+- 1995
+: 1999 6 14  We
+: 2007 5 9  can
+: 2015 11 7  de
+: 2031 11 6 pend
+- 2045
+: 2047 3 2 They
+: 2051 3 2  will
+: 2055 3 2  al
+: 2059 4 4 ways
+: 2064 6 6  fol
+* 2071 6 9 low
+: 2079 6 6  through
+- 2092
+: 2095 4 2 There's
+: 2100 2 2  a
+: 2103 3 2  gua
+: 2107 3 4 ran
+: 2111 6 6 tee
+: 2119 4 2  for
+: 2127 6 6  fun
+- 2133
+: 2135 6 2 When
+* 2142 5 2  I
+: 2151 6 6  spend
+: 2160 6 4  it
+: 2167 6 1  with
+: 2174 9 2  you
+E

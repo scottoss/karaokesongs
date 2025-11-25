@@ -1,0 +1,128 @@
+﻿#ENCODING:UTF8
+#TITLE:Equestria
+#ARTIST:Daniel Ingram
+#CREATOR:Pluie
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#YEAR:2017
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#VIDEO:video.mp4
+#BPM:472
+#GAP:9059
+#COMMENT:http://www.mylittlekaraoke.com/
+#UPDATED:06-feb-2019
+: 0 5 2 E
+: 8 4 2 ques
+: 15 4 2 tri
+: 21 73 2 a
+- 104
+: 127 6 2 E
+: 135 5 2 ques
+: 142 5 2 tri
+: 148 9 2 a
+: 159 6 1 ~
+: 167 6 2 ~
+: 175 67 4 ~
+- 252
+: 267 11 9 Here
+: 282 6 6  in
+: 289 5 6  our
+: 297 12 9  land,
+: 314 10 6  our
+: 329 7 1  ho
+: 338 32 2 -ome
+- 380
+: 391 6 9 E
+: 398 6 9 very
+: 405 9 9 po
+: 416 7 6 ny
+: 424 11 9  knows
+: 439 6 6  how
+: 447 5 6  to
+: 454 6 9  cel
+: 461 5 9 e
+* 468 8 11 brate
+: 479 7 9  the
+: 487 6 9  ma
+: 496 5 6 gic
+: 504 6 4  of
+: 513 5 2  E
+: 520 5 2 ques
+: 528 4 2 tri
+: 533 9 2 a
+: 544 6 1 ~
+: 552 5 2 ~
+: 559 68 4 ~
+- 636
+: 640 5 2 E
+: 647 6 2 ques
+: 655 4 2 tri
+: 660 9 2 a
+: 671 6 1 ~
+: 679 7 2 ~
+: 688 64 4 ~
+- 762
+: 769 5 0 The
+: 776 4 5  Fes
+: 784 3 5 ti
+: 788 8 5 val
+: 800 5 4  is
+: 808 6 5  com
+: 816 5 0 ing
+- 830
+: 833 4 0 The
+: 839 6 5  Fes
+: 848 3 5 ti
+: 852 9 5 val
+: 864 4 4  of
+* 871 7 5  Friend
+* 880 7 7 ship
+- 893
+: 896 6 0 From
+: 904 5 5  all
+: 911 4 5  a
+: 915 9 5 round
+: 927 6 4  come
+: 936 6 5  run
+: 944 6 0 ning
+- 956
+: 959 4 0 To
+: 967 8 9  ce
+: 976 4 9 le
+: 981 7 7 brate
+* 992 6 5  to
+* 1001 7 9 ge
+* 1012 9 7 ther
+: 1025 6 5  the
+: 1033 7 5  first
+: 1043 11 5  e
+: 1055 6 4 ver
+: 1063 8 5  light
+- 1081
+: 1088 5 0 The
+: 1096 5 5  Fes
+: 1102 4 5 ti
+: 1107 10 5 val
+: 1120 5 4  of
+: 1128 6 5  Friend
+: 1136 5 7 ship
+- 1148
+: 1151 6 0 So
+: 1160 8 5  make
+: 1172 7 5  some
+: 1183 6 4  good
+: 1192 5 5  wea
+: 1199 9 0 ther
+- 1213
+: 1215 6 0 The
+: 1224 6 9  Fes
+: 1231 3 9 ti
+: 1235 8 7 val
+: 1247 5 5  is
+: 1256 8 9  al
+: 1267 9 7 most
+* 1281 10 6  here!
+E

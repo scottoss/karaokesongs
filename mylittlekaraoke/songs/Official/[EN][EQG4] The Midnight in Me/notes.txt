@@ -1,0 +1,171 @@
+#TITLE:The Midnight in Me
+#ARTIST:Equestria Girls - Legend Of Everfree
+#CREATOR:Smilley
+#GENRE:Pony
+#EDITION:My Little Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:400
+#GAP:781
+#UPDATED:20-nov-2016
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 2 9 It
+: 4 4 11  used
+: 10 2 11  to
+: 16 7 11  be
+: 27 7 9  so
+: 39 5 9  sim
+: 46 13 6 ple
+- 68
+: 72 2 2 It
+: 76 5 2  was
+: 83 3 2  a
+* 88 11 4  world
+: 100 3 4  I
+: 104 6 6 -I
+: 112 4 4  un
+: 117 2 2 der
+: 122 15 2 stood
+- 163
+: 191 4 11 I
+: 196 4 11  did
+: 201 4 11 n't
+: 206 6 11  kno
+: 213 6 9 -ow
+: 220 4 9  what
+: 225 10 9  I
+: 238 4 6  did
+: 243 4 6 n't
+: 248 3 6  kno
+: 253 9 4 -ow
+- 271
+: 274 3 2 And
+: 280 7 4  life
+: 290 3 4  se
+: 294 6 6 -emed
+: 303 4 4  pret
+: 308 4 2 ty
+: 315 14 6  good
+- 355
+: 385 6 4 But
+: 396 11 4  now
+: 408 7 4  the
+* 418 19 6  dark
+: 441 14 7 ness
+: 463 5 6  ri
+: 469 4 2 -i
+: 475 38 2 ses
+- 523
+: 530 7 2 From
+: 541 7 2  some
+: 552 33 1 where
+: 597 8 1  deep
+: 608 6 1  in
+: 618 5 2 si
+: 625 6 -1 -ide
+: 632 7 -1  of
+: 641 56 -1  me
+- 707
+: 740 6 4 Her
+: 751 10 4  po
+: 762 8 4 wer
+: 772 20 6  o
+* 793 16 7 ver
+: 814 9 6 ta
+: 825 10 2 -akes
+: 837 29 2  me
+- 876
+: 880 4 2 Can
+: 886 11 2  I
+: 900 10 1  keep
+: 933 6 1  this
+: 943 6 1  Mid
+: 952 9 1 night
+* 965 17 2  from
+: 984 4 1  get
+: 989 7 -1 ting
+: 1000 37 1  free
+- 1043
+: 1046 4 1 If
+: 1051 8 2  I
+: 1061 6 1  can
+: 1071 9 -1  stay
+: 1082 7 2  with
+: 1092 6 6  the
+: 1103 20 11  light
+- 1125
+: 1127 5 11 I
+: 1135 7 9  know
+: 1146 19 9  I'll
+: 1167 8 6  be
+: 1176 6 4 -e
+: 1187 16 4  free
+- 1212
+: 1215 3 1 And
+: 1219 3 2  I
+: 1224 8 1  can
+: 1237 10 -1  start
+: 1249 4 2  to
+* 1255 9 6  be
+: 1268 19 11  whole
+- 1291
+: 1293 6 14 I
+: 1301 5 13  can
+: 1310 5 11  sta
+* 1316 6 13 -a
+: 1323 7 11 -art
+: 1332 5 9  to
+: 1339 8 9  be
+: 1352 4 7  me
+: 1357 23 9 -e
+- 1389
+: 1393 3 2 But
+: 1398 3 4  in
+: 1404 10 6 stead
+: 1416 7 6  I
+* 1425 5 9  am
+: 1434 4 6  strug
+: 1440 4 4 gl
+: 1446 6 2 ing
+: 1455 6 4  with
+: 1465 6 6  a
+: 1472 20 4 -all
+: 1495 6 4  that
+: 1503 9 2  I
+: 1516 22 -1  see
+- 1548
+: 1558 4 -1 And
+: 1564 9 1  these
+: 1577 50 1  friends
+- 1637
+: 1647 7 6 Mus
+: 1657 6 6 tn't
+: 1667 8 6  see
+: 1677 5 6  the
+: 1686 7 13  Mid
+* 1696 10 13 night
+: 1707 7 11  in
+: 1716 84 11  me
+- 1810
+: 1836 6 6 The
+: 1846 8 13  Mid
+: 1856 11 13 night
+: 1868 7 11  in
+: 1876 3 11  me
+* 1880 3 14 -e
+: 1884 4 13 -e
+: 1889 48 11 -e
+- 1947
+: 1960 6 4 They
+: 1969 6 6  mus
+: 1978 6 6 tn't
+: 1988 8 7  see
+: 1999 5 7  the
+: 2009 10 6  Mid
+: 2023 12 2 night
+: 2037 38 4  in
+: 2117 187 11  me
+E

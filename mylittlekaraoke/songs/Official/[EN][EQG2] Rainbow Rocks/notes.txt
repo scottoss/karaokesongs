@@ -1,0 +1,210 @@
+#TITLE:Rainbow Rocks
+#ARTIST:Equestria Girls - Rainbow Rocks
+#LANGUAGE:English
+#EDITION:My Little Pony
+#GENRE:Pony
+#CREATOR:sleumas2000
+#MP3:song.mp3
+#BPM:246.73
+#GAP:9397
+#VIDEO:video.mp4
+#COVER:cover.png
+#BACKGROUND:background.png
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 4 2 We
+: 5 3 2  used
+: 9 2 2  to
+: 13 3 2  fight
+: 18 4 2  with
+: 23 3 -3  each
+: 27 3 4  oth
+: 31 8 6 er
+- 40
+: 42 6 2 Oh
+: 50 2 9 -wo
+: 53 3 6 -ah
+: 57 2 9 -wo
+: 60 2 6 -ah
+: 64 3 9 -wo
+: 69 3 6 -oah
+- 72
+: 73 3 6 That
+: 78 3 6  was
+: 82 2 2  be
+: 86 4 4 fore
+: 92 3 4  we
+: 96 3 2  dis
+: 100 4 4 cov
+: 105 8 2 ered
+- 113
+: 115 6 2 Oh
+: 122 3 9 -wo
+: 126 3 6 -ah
+* 130 3 11 -wo
+: 134 2 6 -ah
+: 137 4 9 -wo
+: 142 3 6 -oah
+- 145
+: 146 3 2 That
+: 150 4 2  when
+: 155 3 2  your
+: 159 4 2  friend
+: 164 3 2 ship
+: 169 3 -3  is
+: 173 4 4  re
+: 178 7 6 al
+- 186
+: 188 6 2 Oh
+: 195 3 9 -wo
+: 199 2 6 -ah
+: 202 4 9 -wo
+: 207 3 6 -ah
+: 210 4 9 -wo
+: 215 2 6 -oah
+- 217
+: 218 4 6 Yeah,
+: 224 3 6  You
+: 228 3 2  just
+: 232 4 4  say
+: 237 3 4  what
+: 241 3 2  you
+: 246 5 4  fe
+: 252 6 2 el
+- 270
+: 274 4 4 And
+: 279 2 2  the
+: 283 4 4  mu
+: 288 3 2 ~
+: 292 12 2 sic
+- 308
+: 310 4 7 Yeah,
+: 315 3 6  the
+: 319 4 7  mu
+: 324 3 6 ~
+: 328 9 6 sic
+- 340
+: 342 4 2 Gets
+: 347 3 2  us
+: 351 4 4  to
+: 356 2 2  the
+: 360 4 4  top
+: 365 12 6 ~
+- 393
+: 442 4 4 As
+: 447 3 4  we
+: 451 4 4  learn
+: 456 4 4  how
+: 461 3 2  the
+: 465 4 4  Ra
+: 469 4 2 in
+: 474 9 2 bow
+- 486
+* 488 4 2 Rain
+* 493 4 4 bow
+* 498 3 2 ~
+: 502 10 2  Rocks
+- 544
+: 662 3 2 You
+: 667 3 2  can
+: 672 3 2  pick
+: 676 3 2  up
+: 681 2 -3  the
+: 685 4 4  ba
+: 690 8 6 ss
+- 698
+: 700 7 2 Oh
+: 708 2 9 -wo
+: 711 3 6 -ah
+: 715 2 9 -wo
+: 719 2 6 -ah
+: 722 4 9 -wo
+: 727 2 6 -oah
+- 729
+: 731 3 6 And
+: 735 3 6  you
+: 739 3 2  can
+: 744 4 4  play
+: 749 3 4  the
+: 753 3 2  guit
+: 757 4 4 ar
+: 762 9 2 ~
+- 771
+: 773 5 2 Oh
+: 780 3 9 -wo
+: 784 3 6 -ah
+* 788 3 11 -wo
+: 792 2 6 -ah
+: 795 3 9 -wo
+: 799 6 6 -oah
+- 805
+: 807 3 2 You
+: 812 3 2  can
+: 817 4 2  bang
+: 822 4 2  on
+: 827 2 -3  the
+: 831 4 4  dru
+: 836 6 6 ms
+- 844
+: 846 6 2 Oh
+: 853 3 9 -wo
+: 857 3 6 -ah
+: 861 3 9 -wo
+: 865 2 6 -ah
+: 868 3 9 -wo
+: 872 3 6 -oah
+- 875
+: 877 3 11 Or
+: 881 3 11  you
+: 885 3 11  can
+: 889 5 11  sing
+: 895 3 9  like
+: 899 2 6  a
+: 902 29 9  star
+- 931
+: 933 3 4 And
+: 937 2 2  the
+: 940 4 4  mu
+: 945 3 2 ~
+: 949 12 2 sic
+- 966
+: 968 4 7 Yeah,
+: 973 3 6  the
+: 977 4 7  mu
+: 982 3 6 ~
+: 986 8 6 sic
+- 998
+: 1000 4 2 Gets
+: 1005 2 2  us
+: 1009 3 4  to
+: 1013 3 2  the
+: 1017 5 4  top
+: 1023 12 6 ~
+- 1067
+: 1101 3 4 As
+: 1105 2 4  we
+: 1109 4 4  learn
+: 1114 4 4  how
+: 1119 3 2  the
+: 1123 3 4  Rain
+: 1127 4 2 ~
+: 1132 10 2 bow
+- 1144
+: 1146 3 2 Rain
+: 1150 4 4 bow
+: 1155 4 2 ~
+: 1160 9 2  Rocks
+- 1201
+: 1247 3 4 As
+: 1251 3 4  we
+: 1255 4 4  learn
+: 1260 5 4  how
+: 1266 3 2  the
+: 1270 3 4  Rain
+: 1273 3 2 ~
+: 1278 9 2 bow
+- 1290
+* 1292 3 2 Rain
+* 1296 5 4 bow
+* 1302 3 2 ~
+* 1306 10 2  Rocks
+E
