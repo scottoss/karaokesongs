@@ -1,0 +1,316 @@
+#TITLE:Ab heute sind wir viel besser
+#ARTIST:Equestria Girls - Rainbow Rocks
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:German
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:293.35
+#GAP:287
+#COMMENT:http://www.mylittlekaraoke.com/
+F 0 7 1 Eins,
+F 9 7 1  zwei,
+F 18 7 1  drei!
+- 26
+: 28 4 3 Wir
+: 34 4 3  wa
+: 39 4 5 ren
+: 45 3 7  uns
+: 49 3 7  nicht
+: 53 4 7  im
+* 58 3 3 mer
+: 64 5 5  ei
+: 70 3 3 nig
+- 73
+: 75 3 3 Das
+: 79 3 5  ist
+: 83 4 7  lan
+: 88 3 3 ge
+: 93 5 0  he
+: 99 5 -2 -er
+- 109
+: 111 4 3 Ein
+: 116 4 3  neu
+: 121 4 5 er
+: 126 4 7  An
+: 131 3 7 fang
+: 135 3 7  ist
+: 139 3 3  ge
+* 144 6 5 macht
+- 153
+: 155 4 3 Es
+: 161 3 0  gibt
+: 165 4 3  kei
+: 170 3 0 ne
+: 174 5 3  Sor
+: 180 4 5 gen
+* 185 4 5  mehr
+- 189
+: 191 4 5 Ah
+: 196 3 3  oh
+* 201 5 5  ah
+: 207 4 3  oh
+- 211
+: 213 4 7 Geht
+: 218 4 7  man
+: 223 2 7  durch
+: 226 3 8  die
+: 230 4 7 ses
+: 236 5 5  Haus
+- 241
+: 243 4 3 Dann
+: 248 4 5  fühlt
+: 253 3 3  man
+* 257 3 7  es
+: 262 3 3  ge
+: 266 10 3 nau
+- 286
+: 294 4 7 Wir
+: 299 4 7  sind
+: 304 2 7  die
+: 307 4 8  Won
+: 312 4 7 der
+: 317 6 5 colts
+- 323
+: 325 4 3 Ge
+* 330 5 5 eint
+* 337 5 7  für
+: 344 5 10  im
+: 350 5 7 mer,
+: 359 8 5  wow!
+- 370
+: 372 8 10 Es
+: 381 8 7  ist
+: 391 8 5  gut,
+* 401 4 7  wenn
+: 407 5 5  wir
+: 413 5 3  fest
+- 419
+: 421 4 3 Zu
+: 426 4 5 -u
+: 431 4 7 sam
+: 436 3 8 men
+: 440 5 7 ste
+: 447 4 5 hen
+- 451
+: 453 6 10 Das
+: 463 8 7  wird
+: 473 4 5  heu
+: 478 4 5 te
+: 483 4 7  noch
+: 488 4 5  bes
+* 494 6 3 ser
+- 503
+: 505 3 3 A
+: 509 4 5 -als
+: 514 4 7  frü
+: 519 3 8 her
+: 523 4 7  ge
+* 529 6 5 hen
+- 538
+: 540 4 3 Je
+: 545 3 8 der
+: 549 6 7  spü
+: 556 3 3 -ürt,
+* 560 8 3  wir
+: 570 8 0  sind
+: 580 8 8  zu
+: 590 8 7 rück
+- 599
+: 601 9 3 Was
+: 611 7 3  für
+: 621 9 5  ein
+* 631 8 7  Glück,
+: 642 2 5  denn
+: 645 5 3  ab
+: 651 5 5  heu
+: 657 9 3 te
+- 675
+: 679 4 7 Ist
+: 684 3 5  al
+: 688 3 3 les
+: 694 3 5  bes
+: 698 7 3 ser
+- 706
+: 708 4 10 Wah
+: 714 8 7  oh,
+: 724 3 3  oh
+* 728 5 10  wah
+: 734 6 7  oh
+- 742
+: 744 4 3 Ab
+: 749 5 3  heu
+: 755 3 5 te
+: 759 5 7  sind
+: 765 3 5  wir
+: 769 5 3  viel
+: 775 4 5  bes
+: 780 6 3 ser
+- 787
+: 789 5 10 Wah
+: 795 5 7  oh,
+: 805 4 3  oh
+: 810 4 10  wah
+: 815 9 7  oh
+- 834
+: 847 4 3 Wir
+: 852 5 3  ha
+: 858 3 5 ben
+: 862 4 7  da
+: 867 3 7 mals
+: 871 3 7  nicht
+* 875 3 3  er
+: 880 7 5 kannt
+- 890
+: 892 4 3 Was
+: 897 3 5  uns
+: 901 4 7  wich
+: 906 3 3 tig
+: 911 10 3  war
+- 927
+: 929 3 3 Die
+: 933 4 3  Freund
+: 938 5 5 schaft,
+: 944 3 7  die
+: 948 3 7  uns
+* 952 4 7  zwei
+: 958 4 3  ver
+* 963 7 5 band
+- 972
+: 974 3 3 War
+: 979 2 0  tat
+: 982 5 3 säch
+: 988 4 0 lich
+: 993 4 3  in
+: 998 3 5  Ge
+: 1002 7 5 fahr
+- 1019
+: 1030 3 7 Doch
+: 1036 4 7  das
+: 1041 3 7  ist
+* 1045 3 8  lan
+: 1049 3 7 ge
+: 1053 5 5  her
+- 1059
+: 1061 4 3 Und
+* 1066 4 5  al
+: 1071 3 3 le
+: 1075 4 7  fühlen
+: 1080 3 3  ge
+: 1084 11 3 nau
+- 1105
+: 1113 3 7 Wir
+: 1117 5 7  sind
+: 1123 2 7  die
+: 1126 4 8  Won
+: 1131 3 7 der
+: 1136 5 5 colts
+- 1141
+: 1143 5 3  Ge
+: 1149 5 5 eint
+: 1156 5 7  für
+: 1163 4 10  im
+: 1168 8 7 mer,
+: 1178 8 5  wow!
+- 1187
+: 1189 7 10 Es
+: 1199 7 7  ist
+* 1209 9 5  gut,
+: 1220 4 7  wenn
+: 1225 3 5  wir
+: 1230 7 3  fest
+- 1238
+: 1240 4 3 Zu
+: 1245 3 5 -u
+: 1249 4 7 sam
+: 1254 3 8 men
+: 1258 4 7 ste
+: 1263 5 5 hen
+- 1269
+: 1271 7 10 Das
+: 1280 9 7  wird
+: 1290 4 5  heu
+: 1296 4 5 te
+: 1301 4 7  noch
+: 1306 4 5  bes
+* 1311 7 3 ser
+- 1319
+: 1321 4 3 A
+: 1326 5 5 -als
+: 1332 4 7  frü
+* 1337 3 8 her
+: 1341 4 7  ge
+: 1346 8 5 hen
+- 1355
+: 1357 4 3 Nie
+: 1362 4 8 mand
+: 1367 5 7  we
+: 1373 5 3 -icht
+: 1380 6 3  ein
+: 1388 6 0  Schritt
+: 1397 10 8  zu
+* 1408 7 7 rück
+- 1418
+: 1420 9 3 Was
+: 1431 7 3  für
+: 1440 8 5  ein
+: 1449 8 7  Glück,
+: 1459 3 5  denn
+: 1463 7 3  ab
+: 1471 4 5  heu
+: 1476 7 3 te
+- 1492
+: 1496 5 7 Ist
+: 1502 4 5  al
+: 1507 3 3 les
+: 1511 4 5  bes
+: 1516 7 3 ser
+- 1524
+: 1526 5 10 Wah
+: 1532 8 7  oh,
+* 1542 4 3  oh
+: 1547 4 10  wah
+: 1552 7 7  oh
+- 1560
+: 1562 3 3 Ab
+: 1566 5 3  heu
+: 1572 4 5 te
+: 1577 5 7  sind
+: 1583 3 5  wir
+: 1587 4 3  viel
+: 1593 4 5  bes
+: 1598 7 3 ser
+- 1606
+: 1608 3 10 Wah
+: 1613 6 7  oh,
+: 1623 4 3  oh
+: 1629 5 10  wah
+: 1635 5 7  oh
+- 1642
+: 1644 3 3 Ab
+: 1649 4 3  heu
+: 1655 3 5 te
+: 1659 4 7  sind
+: 1664 4 5  wir
+: 1669 4 3  viel
+: 1674 5 5  bes
+: 1680 6 3 ser
+- 1688
+: 1690 4 10 Wah
+: 1696 6 7  oh,
+: 1706 3 3  oh
+: 1711 4 10  wah
+: 1716 6 7  oh
+- 1723
+: 1725 3 3 Ab
+: 1731 4 3  heu
+: 1736 4 5 te
+: 1741 5 7  sind
+: 1747 4 5  wir
+: 1752 4 3  viel
+* 1757 4 5  bes
+* 1762 7 3 ser
+E

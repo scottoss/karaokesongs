@@ -1,0 +1,148 @@
+﻿#ENCODING:UTF8
+#TITLE:Husch husch, leise sein
+#ARTIST:Mein kleines Pony
+#EDITION:My Little Pony
+#LANGUAGE:German
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#BPM:250.54
+#GAP:234
+#CREATOR:Smilley
+#GENRE:Pony
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 1 6 4 Husch
+: 9 7 9  husch,
+: 18 6 9  komm'
+* 24 4 11  und
+: 30 4 9  schlüpf'
+- 36
+: 36 3 4 In's
+: 40 3 6  ku
+: 45 4 6 schel
+* 49 5 9 wei
+: 55 3 6 che
+: 59 6 4  Bett
+: 66 3 2  hi
+: 69 5 1 nein
+- 79
+: 80 6 4 Husch
+: 90 6 9  husch,
+: 100 5 9  lei
+: 106 3 11 se
+: 110 5 9  sein
+- 115
+: 115 3 6 Dann
+: 119 6 3  schläfst
+: 125 4 6  Du
+* 130 4 11  fried
+: 135 4 9 lich
+: 140 18 8  ein
+- 170
+F 181 4 0 Hey, 
+F 186 3 0 das
+F 189 2 0  Lied
+F 191 4 0  kenn'
+F 195 5 0  ich!
+- 202
+F 203 2 0 Oh, 
+F 205 3 0 Du
+F 208 5 0  kennst
+F 213 2 0  es?
+F 216 2 0  Wie
+F 218 8 0  schön!
+- 226
+F 226 4 0 Dann
+F 230 4 0  singen
+F 234 4 0  wir's
+F 238 11 0  zusammen.
+- 270
+: 326 5 9 Husch
+: 334 5 9  husch,
+: 341 4 11  komm' 
+: 345 2 11 und
+: 348 5 9  schlüpf'
+- 354
+: 354 3 9 In's
+: 357 3 14   ku
+: 360 3 14 schel
+: 363 4 14 wei
+* 367 3 14 che
+: 370 4 13  Bett
+: 375 3 11  hi
+: 378 6 9 nein
+- 385
+: 385 1 6 A
+: 386 1 6 ber
+: 388 4 9  husch
+: 396 4 9  husch,
+* 402 4 11  lei
+* 406 2 11 se
+: 409 6 9  sein
+- 415
+: 415 2 9 Dann
+: 418 4 11  schläfst
+: 422 2 11  Du
+: 424 4 11  fried
+: 428 4 11 lich
+: 432 21 11  ein
+- 458
+: 462 7 14 Schlaf'
+: 469 4 14  gut,
+: 477 6 13  die
+: 483 3 11 ser
+- 487
+: 487 3 9 Span
+: 490 2 9 nen
+: 492 2 6 de
+* 494 4 9  Tag
+: 498 3 6  ist
+: 501 3 9  nun
+: 505 3 11  ver
+: 509 6 13 gan
+: 515 4 13 ge
+: 519 4 11 -en
+- 525
+: 525 5 14 Schlaf'
+: 531 4 14  gut,
+: 540 6 13  herz
+: 546 4 11 lich
+: 550 3 9  wirst
+- 553
+: 553 1 9 Du
+: 554 2 9  im
+: 556 4 11  Traum
+: 560 4 11 land
+: 564 3 13   nun
+* 568 2 11  emp
+: 571 4 16 fan
+: 575 22 16 gen
+- 602
+: 604 4 10 Husch
+: 611 4 10  husch,
+: 618 3 12  es
+: 622 2 12  ist
+: 624 6 10  Zeit
+- 631
+: 632 5 15 Schlüpf'
+: 637 2 15  ins
+: 640 4 15  Bett
+: 644 3 17  hi
+: 647 11 14 nein
+- 662
+: 665 4 10 Husch
+: 672 4 10  husch,
+: 680 4 12  lei
+: 684 2 12 se
+: 686 6 10  sein
+- 693
+: 693 2 9 Dann
+: 695 4 11  schläfst
+: 699 3 11  Du
+: 702 3 13  fried
+: 706 3 11 lich
+: 711 47 17  ein!
+- 759
+F 759 12 8 Au!
+E

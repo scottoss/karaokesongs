@@ -1,0 +1,249 @@
+﻿#TITLE:Grinse wenn's Dich gruselt
+#ARTIST:Mein kleines Pony
+#EDITION:My Little Pony
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:436
+#GAP:0
+#EDITION:My Little Pony
+#LANGUAGE:German
+#ENCODING:UTF8
+#GENRE:Pony
+#CREATOR:Smilley
+#UPDATED:01-jun-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+F 0 20 0 Oh-hoho,
+F 22 18 0  Mädels!
+F 41 6 0  Seht
+F 48 3 0  Ihr
+F 52 6 0  das
+F 59 9 0  nicht?
+- 71
+: 85 7 -3 Als
+: 94 8 2  Foh
+: 102 4 2 len
+: 107 6 2  war
+: 115 6 6  ich
+* 123 8 7  ängst
+: 132 4 6 lich
+- 137
+: 137 8 2 Stän
+: 145 6 -3 dig
+: 153 7 2  war
+: 161 5 2  mir
+: 167 7 2  Angst
+: 175 8 6  und
+: 185 21 4  Ba
+* 206 4 6 -a
+: 210 5 4 -a
+: 216 22 2 -ang
+- 244
+F 244 6 0 Sag'
+F 251 6 0  dass
+F 257 5 0  sie's
+F 263 3 0  nicht
+F 266 2 0  tut...
+- 268
+: 268 6 -3 Wenn's
+: 276 7 2  dun
+: 283 6 2 kel
+: 290 8 2  wur
+: 299 4 6 de
+: 306 5 7  a
+: 313 6 6 bends
+- 322
+: 322 7 2 Und
+: 329 4 -3  die
+: 335 8 2  Schat
+: 345 6 2 ten
+: 352 6 2  wur
+* 358 6 6 den
+: 367 20 4  la
+: 387 3 6 -a
+: 390 7 4 -a
+: 397 28 2 -ang
+- 427
+F 427 7 0 Doch,
+F 434 6 0  sie
+F 440 8 0  tut's...
+- 450
+: 450 5 6 Ich
+: 457 7 7  grub
+: 465 6 6  mich
+: 471 6 2  in
+: 477 9 7  mein
+: 487 6 6  Kis
+* 494 8 2 sen,
+- 507
+: 511 6 6 Da
+: 518 6 7 mit
+: 525 5 6  ich
+: 531 7 2  nichts
+: 538 9 7  mehr
+: 548 12 6  sah
+- 568
+: 572 6 6 Doch
+: 579 7 7  O
+: 586 4 7 ma
+: 591 11 11  sprach:
+: 602 6 9  "Zum
+: 609 7 2  Fürch
+: 617 4 2 ten
+: 622 8 6  ist
+- 633
+: 633 6 6 Nun
+: 640 5 6  wir
+: 646 4 4 klich
+: 651 8 2  kein
+: 661 10 6  Grund
+* 671 24 4  da"
+- 695
+F 695 7 2 Doch
+F 703 4 2  was
+F 708 7 2  dann?
+- 716
+: 716 4 4 Sie
+: 721 8 2  sprach:
+: 733 11 9  "Pin
+: 746 11 6 kie,
+: 758 3 6  be
+: 761 6 7 zwing'
+: 768 4 6  doch
+: 773 6 4  dei
+: 780 6 2 ne
+: 787 12 -3  Furcht,
+- 804
+: 806 6 2 Denn
+: 813 8 2  sonst
+: 822 7 4  lernst
+: 830 6 6  Du's
+: 837 8 4  nie
+: 845 5 2 -e
+- 851
+: 851 12 9 Stell'
+: 867 9 6  Dich
+: 878 5 6  den
+: 884 4 7  Äng
+: 888 5 6 sten
+- 895
+: 895 4 4 Lach'
+: 900 4 2  sie
+: 905 6 2  laut
+: 913 7 6  aus
+: 922 4 2  und
+: 927 8 2  schon
+: 937 4 2  ver
+: 942 7 4 schwin
+* 949 6 6 den
+: 956 36 4  sie!"
+- 998
+F 1004 13 0 Ha!
+F 1019 14 0  Ha!
+F 1034 10 0  Ha!
+- 1072
+* 1116 27 9 Drum
+: 1147 10 7  grin
+: 1157 6 7 se
+: 1164 6 11  wenn's
+: 1170 4 9  Dich
+: 1175 7 9  gru
+: 1185 18 6 selt
+- 1207
+: 1207 8 2 Wenn
+: 1215 8 2  was
+: 1223 8 6  um
+: 1231 4 4  Dich
+: 1236 8 4  wu
+: 1245 16 4 selt
+- 1265
+: 1268 6 7 Krass
+: 1277 5 7  er
+: 1282 8 11 klingt
+: 1291 4 9  Dein
+: 1296 8 9  Lac
+: 1306 15 6 hen
+- 1327
+: 1331 6 2 Lass'
+: 1338 4 2  es
+: 1344 8 6  rich
+: 1352 4 2 tig
+: 1357 10 4  krac
+* 1367 14 4 he
+: 1381 4 6 -e
+: 1385 4 4 -en
+- 1390
+: 1390 7 7 Bis,
+: 1398 7 7  wenn
+: 1406 8 11  Du
+: 1414 3 11  be
+: 1418 10 9 droht
+: 1429 14 6  wirst
+- 1446
+: 1450 7 2 Du
+: 1458 6 2  vor
+: 1465 6 6  Lac
+: 1473 4 4 hen
+: 1478 10 4  rot
+: 1489 15 4  wirst
+- 1505
+: 1505 4 6 Und
+: 1511 5 7  sag'
+: 1516 4 7  dem
+: 1520 5 7  gruse
+: 1525 3 7 li
+: 1528 4 7 gen
+: 1532 3 7  Dum
+: 1535 3 7 mie
+- 1538
+: 1538 3 7 Er
+: 1541 5 6  soll
+: 1546 4 6  sich
+: 1550 3 6  ver
+: 1553 4 7 drüc
+: 1557 3 6 ken
+: 1560 3 6  und
+: 1563 3 7  Dich
+: 1566 3 6  in
+: 1569 3 6  Ru
+: 1572 2 6 he
+: 1574 2 6  las
+: 1576 3 6 sen
+- 1579
+: 1579 4 8 Und
+: 1583 3 9  wenn
+: 1586 3 9  er
+: 1589 2 9  Dir
+: 1591 4 9  wei
+: 1595 2 9 ter
+: 1597 4 9  Angst
+: 1601 4 9  mac
+: 1605 2 9 hen
+: 1607 3 9  will
+- 1610
+: 1610 4 10 Dann
+: 1614 4 11  kann
+: 1618 3 11  er
+: 1621 4 11  was
+* 1625 3 11  er
+: 1628 3 11 le
+: 1631 3 11 ben
+- 1634
+: 1634 5 11 Und
+: 1639 3 11  al
+: 1642 5 12 lein
+: 1647 3 11  der
+: 1650 4 11  Ge
+: 1654 4 13 dan
+: 1658 4 13 ke
+: 1662 2 13  da
+: 1664 4 13 ran
+- 1668
+* 1668 6 16 Bringt
+: 1674 3 16  einen
+: 1677 6 16  schon
+: 1684 6 21  zum
+- 1722
+: 1764 132 14 Lac
+* 1905 15 14 hen!
+E

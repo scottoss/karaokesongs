@@ -1,0 +1,385 @@
+#ENCODING:UTF8
+#TITLE:Wettstreit der Bands
+#ARTIST:Equestria Girls - Rainbow Rocks
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:German
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:267.22
+#GAP:717
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 15 8 Ah
+* 16 10 6  ah
+: 27 7 8  ah
+- 41
+: 44 12 6 Ah
+: 57 16 4  ah
+- 80
+: 83 14 8 Ah
+: 98 9 6  ah
+: 108 9 8  ah
+- 122
+: 124 14 6 Ah
+* 139 14 8  ah
+- 161
+: 164 15 8 Ah
+: 180 10 6  ah
+: 191 7 8  ah
+- 203
+: 205 14 6 Ah
+: 221 16 4  ah
+- 245
+: 248 13 8 Ah
+: 262 9 6  ah
+* 272 10 8  ah
+- 288
+: 290 12 6 Ah
+: 303 18 8  ah
+- 326
+: 328 7 4 Man
+: 337 4 3  sagt
+: 343 4 1  Ihr
+: 348 4 1  wollt
+: 353 3 1  Euch
+: 358 3 3  pro
+* 362 4 4 fil
+: 367 5 3 lie
+: 373 6 1 ren
+- 389
+: 410 8 4 Und
+: 419 5 3  seid
+: 425 3 1  Euch
+: 430 4 1  ei
+: 435 3 1 nig
+* 439 6 3  stets
+: 446 4 4  da
+: 452 10 1 bei
+- 472
+: 496 5 4 Wir
+: 502 5 3  wür
+: 508 3 1 den
+: 513 4 1  gern
+: 518 3 1  was
+: 522 5 3  aus
+: 528 4 4 pro
+: 534 4 3 bie
+: 539 7 1 ren
+- 556
+: 579 4 4 Und
+: 584 4 4  mach
+: 589 3 3 en
+: 594 4 3  et
+: 599 4 1 was
+: 605 4 3  das
+* 610 3 4  ist
+: 615 10 1  neu
+- 642
+: 666 4 8 Ei
+: 671 3 4 nig
+: 676 5 6 keit
+: 682 4 4  ist
+: 687 4 6  ei
+* 692 3 8 ne
+: 697 7 4  Last
+- 721
+: 743 3 8 Wir
+: 749 4 8  wol
+: 754 3 4 len
+: 758 9 6  hö
+* 768 5 6 her
+: 776 7 11  flie
+: 784 11 8 gen
+- 805
+: 830 3 8 Bes
+: 834 3 4 ser
+: 838 5 6  zeigst
+: 844 5 4  Du
+: 850 5 6  was
+: 856 3 8  Du
+* 860 7 4  hast
+- 884
+: 906 4 1 Willst
+: 912 2 1  Du
+: 916 3 4  ver
+: 922 4 4 lie
+: 927 4 1 ren
+: 933 4 1  o
+: 938 2 -1 der
+: 943 4 -1  sie
+: 949 9 1 gen?
+- 968
+: 983 5 -1 Wir
+: 989 3 1  und
+: 993 8 1  Ihr,
+* 1004 4 -1  Ihr
+: 1009 4 1  und
+: 1014 9 1  wir
+- 1027
+: 1029 4 -1 Wer
+: 1035 4 -1  bes
+: 1040 3 -1 ser
+: 1045 4 1  ist,
+: 1050 4 1  wird
+* 1056 4 4  man
+: 1061 5 3  se
+: 1067 5 1 hen
+- 1074
+: 1076 4 1 Denn
+: 1081 4 -1  man
+: 1086 4 -1  ist
+: 1092 3 1  nicht
+: 1096 7 1  gern
+* 1107 8 8  ei
+: 1117 4 8 ner
+: 1122 3 9  von
+: 1127 8 8  vie
+: 1137 10 4 len
+- 1150
+: 1152 4 1 Ein
+: 1157 4 8  Wett
+: 1162 4 9 be
+* 1168 8 8 werb
+: 1178 4 4  muss
+: 1183 3 -1  es
+: 1188 5 3  sein,
+: 1194 2 3  was
+: 1198 4 3  spricht
+: 1204 4 4  da
+: 1209 4 3 ge
+: 1214 8 1 gen?
+- 1231
+: 1235 2 4 Be
+: 1239 5 8 fürch
+: 1245 3 9 tet
+: 1250 9 8  Ihr,
+: 1261 7 4  Ihr
+: 1270 5 3  seid
+: 1276 4 3  uns
+: 1281 3 3  un
+: 1285 4 1 ter
+: 1291 3 3 le
+: 1296 11 4 gen?
+- 1318
+: 1322 5 8 Wer
+: 1328 3 4  ein
+* 1332 5 6  Star
+: 1338 3 4  ist,
+: 1343 4 6  muss
+: 1348 2 8  es
+: 1352 4 4  zei
+: 1358 8 1 gen
+- 1383
+: 1404 4 8 Denn
+: 1409 4 4  nur
+: 1414 4 6  dann
+: 1419 5 8  steigt
+* 1425 4 11  er
+: 1430 3 8  hi
+: 1434 13 8 nauf
+- 1457
+: 1481 4 9 Wer
+: 1486 3 9  Rück
+: 1490 4 8 sicht
+: 1495 4 8  nimmt,
+: 1501 3 4  hat
+: 1505 5 8  schon
+: 1511 2 6  ver
+: 1515 13 6 loren
+- 1538
+: 1562 3 1 Sie
+: 1567 4 1  hält
+: 1572 4 4  Dich
+: 1578 4 4  beim
+: 1583 3 1  Er
+: 1587 5 1 folg
+: 1593 3 4  nur
+* 1598 15 3  auf
+- 1617
+: 1619 12 3 Ah,
+: 1639 14 3  ah
+: 1654 11 8  ah
+* 1666 11 12  ah
+- 1679
+: 1681 4 4 Je
+: 1686 5 1 der
+: 1705 4 8  will
+: 1711 5 8  ihn
+: 1717 3 6  ge
+: 1721 4 6 win
+: 1726 6 8 nen
+- 1742
+: 1746 4 1 Den
+: 1751 4 1  gro
+: 1757 4 3 ßen
+: 1762 4 4  Wett
+: 1767 8 1 streit
+- 1781
+: 1783 4 1 Uns
+: 1788 4 1 rer
+: 1793 4 4  bei
+: 1798 4 1 den
+* 1803 19 0  Bands
+- 1826
+: 1828 4 8 Wer
+: 1834 5 8  hier
+: 1840 3 6  da
+: 1844 5 4 bei
+: 1850 5 1  ist
+- 1865
+: 1869 4 8 Kann
+: 1874 5 8  nicht
+: 1880 4 6  ent
+: 1885 4 6 rin
+: 1890 7 8 nen
+- 1907
+: 1911 4 1 Wir
+: 1916 4 1  wer
+: 1921 4 3 den
+: 1926 5 4  sie
+: 1932 5 1 gen
+- 1944
+: 1947 5 6 In
+: 1953 6 4  dem
+* 1967 4 9  Wett
+: 1972 8 8 streit
+- 1985
+: 1987 5 1 Uns
+: 1993 4 1 rer
+: 1998 4 4  bei
+: 2003 3 1 den
+: 2008 9 1  Bands
+- 2020
+F 2022 4 1 Ich
+F 2027 4 1  könnte
+F 2033 4 1  Du
+F 2038 9 1  sein
+- 2048
+F 2050 9 1 Wettstreit!
+- 2059
+F 2061 7 1 Ha,
+F 2071 4 1  von
+F 2076 3 1  mir
+F 2080 7 1  aus...
+- 2088
+F 2090 10 1 Wettstreit!
+- 2102
+F 2104 4 1 Ich
+F 2109 3 1  will
+F 2113 4 1  das
+F 2118 10 1  unbedingt
+- 2129
+F 2131 10 1 Wettstreit!
+- 2144
+F 2146 4 1 Nicht,
+F 2151 1 1  wenn
+F 2153 1 1  ich
+F 2155 1 1  es
+F 2157 6 1  zuerst
+F 2164 2 1  haben
+F 2168 2 1  kann
+- 2170
+: 2172 5 -1 Wir
+: 2178 4 1  und
+: 2183 7 1  Ihr,
+: 2193 4 -1  Ihr
+: 2198 4 1  und
+: 2203 7 1  wir
+- 2216
+: 2219 4 -1 Wer
+: 2224 3 -1  bes
+: 2229 3 -1 ser
+: 2234 3 1  ist,
+: 2239 3 1  wird
+* 2244 4 4  man
+: 2249 4 3  se
+: 2255 5 1 hen
+- 2263
+: 2265 3 1 Denn
+: 2270 4 -1  man
+: 2275 3 -1  ist
+: 2280 3 1  nicht
+: 2285 6 1  gern
+: 2296 9 8  ein
+: 2306 3 8 er
+: 2311 3 9  von
+* 2316 7 8  vie
+: 2326 8 4 len
+- 2340
+: 2342 3 4 Ein
+: 2346 4 8  Wett
+: 2351 4 9 be
+: 2357 7 8 werb
+: 2367 4 4  muss
+: 2372 3 -1  es
+: 2377 4 3  sein,
+: 2382 3 3  was
+: 2387 4 3  spricht
+: 2392 4 4  da
+: 2398 4 3 ge
+: 2403 7 1 gen?
+- 2419
+: 2423 4 4 Wir
+: 2428 4 8  sind
+: 2433 5 9  ganz
+: 2439 8 8  vorn
+: 2449 8 4  und
+: 2459 5 3  nie
+: 2465 4 3 mals
+: 2470 3 3  un
+: 2474 4 1 ter
+: 2479 4 3 le
+: 2484 8 4 gen
+- 2498
+: 2500 4 6 Je
+: 2506 5 3 der
+: 2526 4 10  will
+: 2531 4 10  ihn
+: 2537 3 8  ge
+: 2541 5 8 win
+* 2547 5 10 nen
+- 2563
+: 2567 4 3 Den
+: 2572 3 3  gro
+: 2577 3 5 ßen
+: 2581 4 6  Wett
+: 2586 9 3 streit
+- 2601
+: 2603 4 3 Uns
+: 2609 3 3 rer
+: 2613 4 6  bei
+: 2618 3 3  den
+* 2623 18 2  Bands
+- 2647
+: 2650 3 10 Wer
+: 2654 5 10  hier
+: 2660 4 8  da
+: 2665 4 6 bei
+: 2671 5 3  ist
+- 2686
+: 2690 5 10 Kann
+: 2696 4 10  nicht
+: 2701 3 8  ent
+: 2705 5 8 rin
+: 2711 6 10 nen
+- 2728
+: 2732 3 3 Wir
+: 2736 4 3  wer
+: 2741 4 5 den
+: 2746 4 6  sie
+: 2751 6 3 gen
+- 2764
+: 2767 4 8 In
+: 2772 7 6  dem
+: 2786 4 11  Wett
+: 2792 8 10 streit
+- 2805
+: 2807 4 3 Uns
+: 2812 5 3 rer
+: 2818 5 6  bei
+: 2824 3 3 den
+* 2828 11 3  Bands
+E

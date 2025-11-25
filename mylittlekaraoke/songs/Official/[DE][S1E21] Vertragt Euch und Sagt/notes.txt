@@ -1,0 +1,191 @@
+﻿#TITLE:Vertragt Euch und sagt
+#ARTIST:Mein kleines Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:German
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:283.72
+#GAP:12240
+#MUSIC_BY:William Anderson, Steffan Andrews, Dave Polsky, Shannon Chan-Ken
+#UPDATED:01-jun-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 5 -2 Ge
+: 6 9 3 wiss,
+: 17 5 5  man
+* 23 3 7 ches
+: 27 7 5  trennt
+: 35 7 3  uns
+- 46
+: 47 4 3 Doch
+: 52 5 8  viel
+: 58 3 8  ist
+: 62 6 7  uns
+: 69 3 3  ge
+: 74 10 5 mein
+- 88
+: 90 3 -2 Denn
+: 93 3 -2  wir
+: 97 4 3  tra
+: 102 2 3 gen
+: 104 5 5  und
+* 110 4 7  Ihr
+: 115 12 3  tragt
+- 130
+: 132 3 3 Ei
+: 135 3 3 nen
+: 140 7 8  Huf
+: 148 6 8  an
+: 158 6 10  je
+: 165 4 5 dem
+* 170 21 5  Bein
+- 215
+: 240 7 -2 Was
+: 248 4 3  soll
+: 252 2 3  der
+: 255 4 5  Quatsch
+* 259 3 7  dass
+: 263 4 3  ei
+: 267 4 3 ner
+- 273
+: 273 4 3 Den
+: 278 4 8  And
+: 282 3 8 eren
+: 285 3 7  hier
+* 289 2 3  ver
+: 293 4 5 scheu
+: 298 4 5 che
+- 304
+: 304 2 -2 Die
+: 306 3 -2 ser
+: 310 2 3  Är
+: 313 2 3 ger
+: 316 2 5  bringt
+: 319 4 7  Euch
+: 324 3 5  gar
+: 328 5 3 nichts
+- 335
+: 336 4 3 Als
+: 341 3 8  Maul-
+: 345 2 8  und
+: 347 4 8  Klau
+* 352 3 10 en
+: 356 4 5 seu
+: 361 4 5 che
+- 368
+: 370 5 3 Streit
+: 376 2 3  will
+: 378 2 3  ich
+: 381 2 5  hier
+: 384 3 7  nicht
+: 388 7 3  sehn
+- 401
+F 401 5 0 Lasst
+F 407 3 0  uns
+F 411 4 0  gra
+F 415 3 0 sen
+F 419 7 0  gehn
+- 427
+: 430 2 3 Die
+: 432 3 3 ser
+: 435 5 3  Tag
+: 440 4 5  ist
+: 444 4 7  so
+: 450 8 3  schön
+- 466
+: 466 4 8 Wenn
+: 470 2 8  wir
+: 472 3 7  uns
+* 476 3 5  ver
+: 480 8 5 stehn
+- 489
+: 489 2 3 Al
+: 491 2 5 so
+: 493 2 7  ver
+: 496 22 3 tragt
+: 521 4 5  Euch
+: 525 3 7  und
+: 528 21 3  sagt
+- 552
+: 555 2 3 Ja,
+: 557 2 3  wir
+: 559 5 5  stim
+: 565 5 5 men
+: 571 5 7  gern
+: 577 5 5  ein
+- 583
+: 583 2 3 Al
+: 585 2 5 so
+: 587 3 7  ver
+: 591 22 3 tragt
+: 615 4 5  Euch
+: 620 2 7  und
+: 623 22 3  sagt
+- 648
+: 650 2 3 Al
+: 652 2 3 le
+* 655 4 8  wol
+: 659 3 8 len
+: 662 5 7  fried
+: 668 3 3 lich
+: 672 32 5  sein
+- 709
+: 717 4 3 Ihr
+: 721 3 3  er
+: 724 4 5 nährt
+: 729 2 7  Euch
+: 732 3 3  so
+: 736 2 3  wie
+: 739 3 3  wir
+- 742
+: 742 3 -2 Näm
+: 745 3 -2 lich
+: 749 2 2  aus
+: 751 4 2 schließ
+: 755 3 2 lich
+: 758 2 4  ve
+* 760 2 6 ge
+: 762 4 7 ta
+: 767 4 3 risch
+- 774
+: 776 3 -2 Heu
+: 779 2 -2  und
+: 781 3 3  Ha
+: 784 2 3 fer
+: 786 3 5  fresst
+: 790 4 7  auch
+: 795 7 3  Ihr
+- 805
+: 806 2 3 Wa
+: 808 2 3 rum
+: 811 4 8  strei
+: 815 3 8 ten
+* 818 3 8  wir
+: 821 5 10  uns
+: 827 5 5  hier?
+- 834
+: 834 2 3 Al
+: 836 2 5 so
+: 838 3 7  ver
+: 842 21 3 tragt
+: 865 5 5  Euch
+: 870 3 7  und
+: 874 20 3  sagt
+- 897
+: 899 2 3 Ja,
+: 901 2 3  wir
+: 904 5 8  stim
+: 910 5 7 men
+: 916 5 3  gern
+: 922 3 5  ein
+- 927
+: 928 5 5 Al
+: 933 4 5 le
+: 938 3 6  wol
+* 941 8 6 len
+: 951 7 11  fried
+: 961 6 10 lich
+: 970 75 15  sein
+E

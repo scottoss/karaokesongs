@@ -1,0 +1,516 @@
+#TITLE:Damit Twilight ihre Krone tragen kann
+#ARTIST:Equestria Girls
+#CREATOR:Gladanos
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:German
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:232.67
+#GAP:29405
+#UPDATED:06-december-2013
+#COMMENT:http://mylittlekaraoke.com/
+: 0 6 4 Lasst
+: 9 6 4  euch
+: 19 3 4  et
+: 23 3 4 was
+: 27 5 6  sa
+: 32 5 8 gen
+- 39
+: 41 3 4 Wir
+: 45 3 4  ha
+* 49 3 8 ben
+: 53 4 6  stets
+: 59 2 6  ge
+: 63 2 6 da
+: 68 4 4 cht
+- 72
+: 73 3 4 Wir
+: 82 4 4  wärn'
+: 91 3 4  un
+: 95 3 4 ter
+: 99 4 6 schied
+: 104 3 8 lich
+- 112
+: 114 2 4 Ja,
+: 118 2 4  so
+* 122 2 8  wie
+: 127 2 6  Tag
+: 131 3 4  und
+: 135 7 4  Nacht
+- 148
+: 150 2 4 A
+: 152 1 4 ber
+: 154 2 4  schaut
+: 157 2 1  doch
+: 160 1 4  mal
+: 162 2 1  ge
+: 164 4 4 nau
+: 169 8 6  hi
+: 177 4 4 n
+- 185
+: 187 4 8 Und
+: 192 3 8  ihr
+: 196 2 6  er
+: 200 4 6 kennt
+- 208
+: 210 2 4 Dass
+: 213 3 6  uns
+: 218 5 4  viel
+* 227 8 11  ver
+: 237 4 6 bin
+: 241 4 4 det
+- 245
+: 246 3 4 Und
+: 250 4 6  nur
+: 255 7 4  we
+: 263 4 8 nig
+: 268 4 6  uns
+: 273 3 6  trennt
+- 282
+: 285 6 4 Yeah!
+- 322
+: 361 5 4 Hört,
+: 369 5 4  was
+: 377 4 4  wir
+: 382 3 4  euch
+: 386 4 6  sa
+: 390 3 8 gen
+- 396
+: 398 3 4 Und
+: 402 3 4  denkt
+: 406 3 8  da
+* 410 3 6 ran
+- 416
+: 418 3 4 Auf
+: 422 3 2  das
+: 426 3 4  Wun
+: 430 3 4 der
+: 434 4 8  der
+* 440 4 6  Freund
+* 445 4 4 schaft
+- 449
+: 450 3 4 Kommt
+: 454 4 4  es
+: 461 3 4  im
+: 465 3 4  Le
+: 469 3 6 ben
+: 473 5 6  an
+- 479
+: 481 3 4 Ja,
+: 485 4 1  wir
+: 490 4 4  glaub
+: 494 3 4 ten,
+: 498 5 8  uns
+: 505 4 6  blie
+: 510 3 4 be
+- 513
+: 514 4 4 Uns
+: 518 3 1 re
+: 522 3 4  Ei
+: 525 4 4 nig
+: 529 2 4 keit
+: 533 3 6  ver
+: 537 6 6 wehrt
+- 544
+: 546 3 4 A
+: 549 3 1 ber
+: 553 5 4  Twi
+* 561 7 11 light
+: 569 3 8  hat
+: 573 4 0  uns
+- 577
+: 578 3 4 Ei
+: 581 3 1 nes
+: 585 4 9  Bes
+: 589 3 8 ser
+: 593 3 8 en
+: 597 3 6  be
+: 600 4 6 lehrt
+- 604
+: 605 3 4 Da
+: 608 5 6 rum
+* 615 7 4  schließt
+: 625 6 6  euch
+: 633 6 4  an
+- 639
+: 641 3 -1 Bes
+: 644 3 -1 ser
+: 649 2 3  jetzt
+: 652 3 3  als
+: 656 4 3  ir
+: 661 4 4 gend
+: 665 6 4 wann
+- 671
+: 673 3 4 Da
+: 677 3 2 mit
+: 681 6 4  Twi
+: 688 7 11 light
+: 696 3 6  bald
+: 700 3 4  schon
+- 703
+: 705 3 4 Ih
+: 708 3 4 re
+: 712 3 6  Kro
+: 716 3 6 ne
+: 720 4 6  tra
+: 725 2 4 gen
+: 728 4 4  kann
+- 732
+: 733 3 4 Da
+: 737 4 6 rum
+: 743 6 4  schließt
+: 752 6 6  euch
+: 760 6 4  an
+- 766
+: 767 3 -1 Je
+: 771 2 -1 der
+: 775 3 3  steht
+: 779 3 3  hier
+: 783 4 3  se
+: 787 3 4 inen
+: 791 6 4  Mann
+- 797
+: 799 3 4 Da
+: 803 3 1 mit
+: 807 5 4  un
+: 815 5 11 sere
+: 823 5 6  Twi
+: 828 3 4 light
+- 831
+: 832 3 4 Bald
+: 836 3 4  schon
+: 840 3 6  ih
+: 844 3 6 re
+: 848 3 6  Kro
+: 852 3 4 ne
+* 856 4 8  tra
+: 860 3 4 gen
+: 864 3 4  kann
+- 870
+: 872 3 4 Hän
+: 876 3 4 de
+: 880 4 4  hoch,
+: 887 4 4  klatscht
+: 892 3 4  doch
+: 896 4 8  mit
+- 900
+: 902 1 4 Denn
+: 904 2 4  un
+: 906 2 4 se
+: 908 2 4 re
+: 912 3 8  Bot
+: 916 3 8 schaft
+: 920 3 6  ist
+: 924 3 4  der
+: 928 4 4  Hit
+- 934
+: 936 3 4 Hän
+: 940 3 4 de
+* 944 4 8  hoch,
+: 951 4 6  macht's
+: 956 2 4  wie
+: 960 3 4  wir
+- 964
+: 966 1 4 Dann
+: 968 2 4  fei
+: 970 1 4 ern
+: 972 2 4  wir
+: 977 2 8  ei
+: 980 2 8 ne
+* 983 3 11  Par
+: 987 3 8 ty
+: 991 4 4  hier
+- 997
+: 999 3 4 Mit
+: 1003 3 4 ge
+: 1007 4 4 fühl,
+: 1016 3 4  Ehr
+: 1020 3 4 lich
+: 1024 5 6 keit
+- 1029
+: 1031 3 4 Freund
+: 1034 4 4 lich
+* 1039 3 8 keit,
+: 1043 3 8  Ver
+: 1047 3 6 läss
+: 1051 3 4 lich
+: 1055 6 4 keit
+- 1062
+: 1064 3 4 Twi
+: 1067 3 4 light
+: 1072 2 4  kam
+: 1075 3 1  zur
+: 1079 3 4  rech
+: 1083 3 4 ten
+: 1087 4 6  Ze-
+: 1091 3 8 it
+- 1094
+: 1095 3 4 Jetzt
+: 1099 3 6  sind
+: 1103 3 6  wir
+: 1107 3 4  be
+: 1110 4 8 reit!
+- 1114
+: 1115 3 4 Da
+: 1119 5 6 rum
+: 1126 6 4  schließt
+: 1135 5 6  euch
+: 1143 4 4  an
+- 1149
+: 1151 3 -1 Bes
+: 1154 3 -1 ser
+: 1159 3 3  jetzt
+: 1163 3 3  als
+: 1167 4 3  ir
+: 1171 4 4 gend
+: 1175 4 4 wann
+- 1181
+: 1183 3 4 Da
+: 1187 3 1 mit
+: 1191 5 4  Twi
+* 1199 6 11 light
+: 1206 4 6  bald
+: 1211 3 4  schon
+- 1214
+: 1215 4 4 Ih
+: 1219 3 4 re
+: 1223 3 6  Kro
+: 1226 3 6 ne
+: 1230 4 6  tra
+: 1235 2 4 gen
+: 1238 4 4  kann
+- 1242
+: 1243 4 4 Da
+: 1247 5 6 rum
+: 1254 6 4  schließt
+: 1262 6 6  euch
+: 1270 4 4  an
+- 1276
+: 1278 4 -1 Je
+: 1282 3 -1 der
+: 1287 3 3  steht
+: 1291 2 3  hier
+: 1294 4 3  sei
+: 1298 3 4 nen
+: 1302 5 4  Mann
+- 1309
+: 1311 3 4 Da
+: 1314 4 1 mit
+: 1319 4 4  un
+* 1326 5 11 sere
+: 1334 4 6  Twi
+: 1338 3 4 light
+- 1341
+: 1342 3 4 Bald
+: 1346 4 4  schon
+: 1351 3 6  ih
+: 1354 3 6 re
+: 1358 4 6  Kro
+: 1362 2 4 ne
+: 1365 4 8  tra
+: 1370 3 4 gen
+: 1374 4 4  kann
+- 1384
+: 1386 3 -1 Ich
+: 1390 3 -1  bleib
+: 1394 2 4  mir
+* 1397 4 4  sel
+: 1401 3 -1 ber
+: 1405 9 -1  treu
+- 1416
+: 1418 4 4 E
+: 1422 3 4 gal
+: 1426 3 -1  was
+: 1430 2 4  ich
+: 1433 3 4  auch
+: 1437 5 6  tu
+: 1442 4 8 -u
+- 1448
+: 1450 3 -1 In
+: 1454 3 -1  je
+: 1457 3 4 der
+: 1461 4 4  Freund
+: 1465 4 -1 schaft
+: 1470 3 -1  gibt's
+: 1474 3 -1  Kon
+: 1477 5 6 flik
+: 1482 2 6 te
+- 1484
+: 1485 4 6 Das
+: 1490 3 4  ge
+: 1493 3 8 hört
+: 1497 3 4  da
+: 1500 5 4 zu
+- 1511
+: 1513 4 6 Wenn
+: 1518 2 4  wir
+: 1521 4 6  zu
+: 1525 4 8 sam
+* 1530 6 11 men
+: 1537 3 4  den
+: 1541 3 6  Weg
+: 1545 3 6  mit
+: 1549 3 6  viel
+: 1553 4 4  Ver
+: 1557 4 4 ständ
+: 1561 3 6 nis
+: 1565 4 8  ge
+: 1569 4 6 hen
+- 1575
+: 1577 3 4 Kann
+: 1581 3 4  in
+: 1585 2 4  der
+: 1588 4 4  Schu
+: 1592 4 4 le
+: 1597 3 4  et
+: 1600 3 -1 was
+: 1605 3 11  Wun
+: 1608 4 11 der
+: 1613 4 11 ba
+: 1617 3 9 res
+: 1621 3 8  neu
+: 1625 3 9  ent
+* 1629 25 11 stehen
+- 1659
+: 1661 7 6 Springt
+: 1669 4 4  auf,
+: 1676 4 4  wer
+: 1680 3 1 det
+: 1684 7 4  laut!
+F 1692 8 4  Hey!
+- 1700
+: 1701 2 4 Ihr
+: 1704 4 4  habt
+: 1709 3 8  lan
+: 1712 3 8 ge
+: 1716 3 6  zu
+: 1720 2 4 ge
+: 1723 7 4 schaut
+- 1731
+: 1733 4 4 Es
+: 1740 5 4  gibt
+: 1748 4 6  ei
+: 1752 3 4 nen
+* 1756 6 4  Weg
+- 1762
+: 1764 3 4 Wenn
+: 1768 3 4  man
+: 1772 3 4  sich
+: 1776 2 6  nur
+: 1780 7 6  traut
+- 1787
+: 1789 6 6 Springt
+: 1797 4 4  auf,
+: 1804 4 4  wer
+: 1808 3 1 det
+: 1812 7 4  laut!
+F 1820 7 4  Hey!
+- 1827
+: 1829 2 4 Ihr
+: 1832 3 4  habt
+: 1836 4 8  lan
+: 1840 3 8 ge
+: 1844 3 6  zu
+: 1848 3 4 ge
+: 1851 6 4 schaut
+- 1858
+: 1860 3 4 Ih
+: 1863 3 4 re
+: 1868 3 4  Kro
+: 1871 3 4 ne
+* 1875 3 6  trägt
+: 1879 3 4  sie
+: 1883 6 4  gern
+- 1890
+: 1892 3 8 Wenn
+: 1896 3 8  man
+: 1900 2 8  ihr
+: 1903 3 6  ver
+: 1907 6 6 traut
+- 1913
+: 1914 9 6 Springt
+: 1924 7 4  auf,
+: 1932 4 4  wer
+: 1936 3 1 det
+: 1940 7 4  laut!
+F 1948 7 4  Hey!
+- 1955
+: 1956 3 4 Ihr
+: 1960 3 4  habt
+: 1964 3 8  lan
+: 1967 3 8 ge
+: 1971 4 6  zu
+: 1976 2 4 ge
+* 1979 8 4 schaut
+- 1987
+: 1988 5 4 Es
+: 1996 6 4  gibt
+: 2004 3 6  ei
+: 2007 3 4 nen
+: 2011 7 4  Weg
+- 2018
+: 2020 3 4 Wenn
+: 2024 2 4  man
+: 2027 3 4  sich
+: 2031 3 6  nur
+: 2035 6 6  traut
+- 2041
+: 2043 6 6 Springt
+: 2051 6 4  auf,
+: 2058 5 4  wer
+: 2063 3 1 det
+: 2067 7 4  laut!
+F 2075 7 4  Hey!
+- 2082
+: 2083 3 4 Ihr
+: 2087 3 4  habt
+: 2091 3 8  lan
+: 2095 2 8 ge
+: 2098 4 6  zu
+: 2102 2 4 ge
+: 2105 7 4 schaut
+- 2112
+: 2114 4 4 Ih
+: 2118 3 4 re
+: 2123 3 4  Kro
+: 2126 3 4 ne
+: 2130 4 6  trägt
+: 2135 3 4  sie
+: 2139 5 4  gern
+- 2145
+* 2147 2 8 Wenn
+: 2150 3 8  man
+: 2154 3 8  ihr
+: 2158 3 6  ver
+: 2162 5 6 traut
+- 2167
+: 2169 8 6 Springt
+: 2178 7 4  auf,
+: 2187 3 4  wer
+: 2190 3 1 det
+: 2194 7 4  laut!
+F 2202 7 4  Hey!
+- 2209
+: 2210 3 4 Ihr
+: 2214 3 4  habt
+: 2218 3 8  lan
+: 2222 3 8 ge
+: 2226 4 6  zu
+: 2230 2 4 ge
+: 2233 7 4 schaut
+- 2241
+: 2243 4 4 Es
+: 2250 6 4  gibt
+: 2258 4 6  ei
+: 2262 3 4 nen
+* 2266 7 4  Weg
+- 2273
+: 2274 3 4 Wenn
+: 2278 3 4  man
+: 2282 3 4  sich
+F 2286 3 6  nur
+F 2290 6 6  traut
+E

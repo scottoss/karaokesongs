@@ -1,0 +1,124 @@
+#TITLE:Hop, Skip and a Jump (Demo version)
+#ARTIST:My Little Pony
+#MP3:song.mp3
+#BPM:275.94
+#GAP:1508
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#GENRE:Pony
+#EDITION:My Little Pony
+#LANGUAGE:English
+#MUSIC_BY:Daniel Ingram, Steffan Andrews, Meghan McCarthy, Shannon Chan-Kent
+#CREATOR:Smilley
+#UPDATED:05-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 4 0 It's
+: 4 4 0  not
+: 12 3 0  ve
+: 15 3 0 ry
+* 20 6 0  far
+- 29
+: 31 4 0 Just
+: 36 4 6  move
+: 40 3 6  your
+: 43 5 6  lit
+: 48 3 6 tle
+* 52 4 7  rump
+- 60
+: 63 3 7 You
+: 66 2 7  can
+: 68 4 9  make
+: 72 4 9  it
+: 76 4 9  if
+: 80 3 7  you
+: 83 5 7  tr
+: 88 3 4 y
+- 92
+: 92 4 4 With
+: 96 2 4  a
+: 99 3 2  Hop,
+: 102 4 2  Skip
+* 108 4 4  and
+: 112 2 4  a
+: 115 6 2  Jump
+- 124
+F 125 3 0 Oh
+F 129 7 0  no,
+F 136 4 0  not
+F 140 2 0  a
+F 142 8 0  song
+- 151
+F 151 2 0 We
+F 153 2 0  don't
+F 155 3 0  have
+F 158 6 0  time
+F 164 3 0  for
+F 167 7 0  this
+- 174
+: 176 3 2 A
+: 179 3 0  Hop,
+: 182 4 0  Skip
+: 188 4 0  and
+: 192 3 0  a
+: 195 6 0  Jump
+- 204
+: 207 4 0 Just
+: 211 4 6  move
+: 215 4 6  your
+* 219 4 6  lit
+: 223 4 6 tle
+: 227 6 7  rump
+- 237
+: 239 4 7 Take
+: 243 4 9  to
+: 247 4 9  the
+* 251 4 9  air, 
+: 256 3 7 You'll
+: 259 4 7  make
+: 263 4 4  it
+: 267 4 4  there
+- 272
+: 272 2 4 With
+: 274 1 4  a
+: 275 4 2  Hop,
+: 279 4 2  Skip
+* 284 4 4  and
+: 288 2 2  a
+: 291 5 0  Jump
+- 300
+: 303 3 0 A
+: 306 4 0  Hop,
+: 310 4 0  Skip
+: 315 4 -1  and
+: 319 3 -1  a
+: 323 6 0  Jump
+- 332
+: 335 3 0 A
+: 338 4 0  Hop,
+: 342 4 0  Skip
+: 347 4 -1  and
+: 351 3 -1  a
+: 355 6 0  Jump
+- 364
+: 367 3 0 A
+: 370 4 0  Hop,
+: 374 4 0  Skip
+: 379 4 3  and
+: 383 3 3  a
+* 387 6 4  Jump
+- 396
+: 399 3 0 A
+: 402 4 0  Hop,
+: 406 4 0  Skip
+: 412 4 -1  and
+: 416 3 -1  a
+: 419 6 0  Jump
+- 429
+: 431 3 0 A
+: 434 4 0  Hop,
+: 438 4 0  Skip
+: 444 4 -1  and
+: 448 3 -1  a
+: 451 6 0  Jump
+E

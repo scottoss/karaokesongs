@@ -1,0 +1,380 @@
+#TITLE:Mane Theme (Full version)
+#ARTIST:My Little Pony
+#CREATOR:Renard
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:460
+#GAP:978
+#MUSIC_BY:Daniel Ingram, Steffan Andrews, Lauren Faust, Rebecca Shoichet, Ashleigh Ball, Andrea Libman, Shannon Chan-Kent, Kazumi Evans
+#UPDATED:07-dec-2014
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 8 6 My
+: 10 4 9  Lit
+: 16 4 6 tle
+: 24 10 4  Po
+: 36 16 9 ny,
+: 58 6 2  My
+: 66 4 4  Lit
+: 72 4 2 tle
+: 78 12 1  Po
+: 92 14 -3 ny
+- 112
+: 114 12 -1 What
+: 128 4 2  is
+: 136 16 1  friend
+: 154 16 4 ship
+: 172 6 -3  all
+: 180 10 -1  a
+: 192 22 -3 bout
+- 224
+: 228 6 6 My
+: 236 4 9  Lit
+: 242 4 6 tle
+: 250 10 4  Po
+: 262 16 9 ny,
+: 282 8 2  My
+: 292 4 4  Lit
+: 298 4 2 tle
+: 306 12 1  Po
+: 320 11 -3 ny
+- 336
+: 338 14 -1 Friend
+: 354 14 1 ship
+: 370 12 2  is
+: 386 12 4  ma
+* 400 40 2 gic
+- 450
+: 472 3 6 I
+: 476 3 6  used
+: 480 3 6  to
+: 484 6 6  won
+: 492 4 2 der
+: 498 4 4  what
+: 504 6 2  friend
+: 512 8 6 ship
+: 522 8 4  could
+: 534 14 2  be
+- 558
+: 592 4 2 Un
+: 596 4 4 til
+: 602 3 6  you
+: 606 4 9  all
+: 614 8 9  shared
+: 624 6 6  its
+: 632 4 4  ma
+: 638 4 2 gic
+: 644 6 6  with
+: 654 12 4  me
+- 675
+: 678 6 2 When
+: 686 4 2  I
+: 692 4 4  was
+: 700 6 6  young
+: 708 8 6  I
+: 718 4 6  was
+: 724 6 2  too
+- 732
+: 734 4 6 Bu
+: 740 6 6 sy
+: 748 6 6  to
+: 756 6 9  make
+: 766 4 9  a
+: 772 4 6 ny
+: 780 10 4  frie
+: 792 14 2 nds
+- 808
+: 810 6 2 Such
+: 818 4 2  sil
+: 824 6 4 li
+: 832 6 6 ness
+: 840 6 6  did
+: 848 6 6  not
+: 856 8 2  seem
+- 866
+: 868 6 4 Worth
+: 876 4 2  the
+: 882 8 4  ef
+: 892 6 2 fort
+: 900 4 4  it
+: 906 12 6  ex
+: 920 14 2 pends
+- 941
+: 944 3 2 But
+: 948 4 2  my
+: 954 6 4  Lit
+: 962 6 6 tle
+: 970 8 4  Po
+: 980 12 2 nies
+- 994
+: 996 4 2 You
+: 1004 4 6  o
+: 1010 4 9 pened
+: 1016 6 9  up
+: 1024 8 6  my
+: 1034 28 9  eyes
+- 1074
+: 1078 6 2 And
+: 1086 6 4  now
+: 1094 6 6  the
+: 1102 6 4  truth
+: 1110 4 4  is
+: 1116 6 6  cry
+: 1124 6 2 stal
+: 1132 6 2  clear
+- 1140
+: 1142 4 9 As
+: 1148 8 9  splen
+: 1158 4 6 did
+: 1165 3 9  su
+: 1169 4 11 -um
+: 1174 4 9 mer
+: 1181 12 4  ski
+: 1194 10 2 es
+- 1206
+: 1208 3 4 And
+: 1212 7 4  it's
+: 1220 8 4  such
+: 1229 5 4  a
+: 1236 6 4  won
+: 1243 4 4 der
+: 1249 6 6 ful
+: 1256 6 2  sur
+: 1265 29 2 prise
+- 1304
+: 1342 3 6 I
+: 1346 3 6  used
+: 1350 3 6  to
+: 1354 6 6  won
+: 1361 5 2 der
+: 1368 5 4  what
+: 1374 6 2  friend
+: 1382 6 6 ship
+: 1392 8 4  could
+: 1402 19 2  be
+- 1431
+: 1462 3 2 Un
+: 1467 3 4 til
+: 1471 4 6  you
+: 1476 5 9  all
+: 1482 9 9  shared
+: 1492 6 6  its
+: 1499 8 4  ma
+: 1508 4 2 gic
+: 1513 7 4  with
+: 1522 12 4  me
+- 1543
+: 1546 6 2 When
+: 1554 7 2  dan
+: 1562 6 -1 ger
+: 1570 6 2  makes
+: 1578 5 6  me
+: 1585 6 9  wan
+: 1594 4 7 na
+: 1600 8 6  hide
+- 1610
+: 1612 7 6 You'll
+: 1620 7 6  Rain
+: 1629 6 6 bow
+: 1638 10 4  Dash
+: 1650 4 4  to
+: 1655 2 6 -o
+: 1658 5 2  my
+: 1666 10 2  side
+- 1678
+: 1680 7 2 Kind
+: 1688 8 2 ness
+: 1697 4 -1  is
+: 1703 4 2  nev
+: 1708 4 2 er
+: 1713 3 -1  in
+: 1717 6 2  short
+: 1725 6 4  sup
+: 1733 11 6 ply
+- 1746
+: 1748 7 6 Once
+: 1756 4 6  smit
+: 1761 5 6 ten
+: 1770 11 4  twice
+: 1784 4 6  Flu
+: 1789 5 2 tter
+: 1795 11 2 shy
+- 1812
+: 1814 6 6 For
+: 1823 7 7  ho
+: 1831 7 9 nes
+: 1839 11 9 ty
+: 1852 8 6  no
+: 1862 15 9 po
+: 1879 4 6 ny
+: 1884 10 4  can
+: 1896 9 6  de
+: 1906 20 2 ny
+- 1936
+: 1948 6 7 You
+: 1957 6 7  are
+: 1966 5 7  the
+: 1973 11 6  Ap
+: 1985 11 7 ple
+: 1998 15 9 jack
+: 2015 11 2  of
+: 2028 10 6  my
+: 2040 20 2  eye
+- 2066
+: 2069 3 2 A
+: 2073 6 7  heart
+: 2080 7 7  that
+: 2088 9 7  shines
+: 2098 7 7  so
+: 2107 6 6  beau
+: 2114 4 6 ti
+: 2120 10 2 ful
+- 2134
+: 2136 3 -1 A
+: 2141 6 2  Ra
+: 2148 3 -1 ri
+: 2152 6 2 ty
+: 2160 3 -1  to
+: 2164 7 6  come
+: 2173 16 4  by
+- 2196
+: 2199 3 4 And
+: 2203 3 6  you
+: 2207 7 7  all
+: 2215 6 7  make
+: 2223 8 11  fun
+: 2232 4 9  and
+: 2239 9 9  laugh
+: 2251 11 6 ter
+- 2268
+: 2270 3 6 As
+: 2274 4 7  ea
+: 2279 4 7 sy
+: 2284 6 7  as
+: 2291 5 7  Pin
+: 2297 4 6 kie
+* 2302 28 4  Pie
+- 2337
+: 2340 14 2 My
+: 2355 5 1  Lit
+: 2361 5 2 tle
+: 2370 7 4  Po
+: 2378 21 2 ny
+- 2408
+: 2411 4 6 I
+: 2416 3 6  used
+: 2421 3 6  to
+: 2425 6 6  won
+: 2432 4 2 der
+: 2437 6 4  what
+: 2444 5 2  friend
+: 2453 7 6 ship
+: 2462 8 4  could
+: 2472 20 2  be
+- 2502
+: 2533 3 2 Un
+: 2537 3 4 til
+: 2541 4 6  you
+: 2546 5 9  all
+: 2553 8 9  shared
+: 2562 5 6  its
+: 2570 6 4  ma
+: 2578 4 2 gic
+: 2583 7 4  with
+: 2594 11 4  me
+- 2615
+: 2622 4 6 Our
+: 2630 6 6  friend
+: 2638 7 6 ship's
+: 2647 8 4  ma
+: 2657 10 2 gic
+: 2676 3 2  and
+: 2680 4 4  it's
+: 2685 8 6  grow
+: 2694 6 9 ing
+: 2701 7 9  all
+: 2709 5 6  the
+: 2716 34 9  time
+- 2760
+: 2767 5 6 A
+: 2775 11 6  new
+: 2788 7 6  ad
+: 2795 8 4 ven
+: 2804 5 4 ture
+: 2810 9 6  waits
+: 2821 8 2  for
+: 2834 4 11  us
+- 2840
+: 2842 5 9 Each
+: 2849 9 9  day
+: 2859 5 6  is
+: 2865 11 11  yours
+: 2877 4 9  and
+: 2885 17 9  mine
+- 2911
+: 2914 6 7 We'll
+: 2921 6 7  make
+: 2929 5 7  it
+: 2936 6 7  spe
+: 2943 8 7 cial
+: 2953 6 7  eve
+: 2960 5 6 ry
+: 2967 9 4  time
+- 2978
+: 2980 6 7 We'll
+: 2988 6 6  make
+: 2996 4 4  it
+: 3002 6 11  spe
+: 3010 6 9 cial
+: 3018 7 9  eve
+: 3027 6 6 ry
+: 3034 57 9  time
+- 3101
+: 3114 4 6 What
+: 3119 2 6  a
+: 3122 4 6  won
+: 3127 3 6 der
+: 3131 4 2 ful
+: 3136 6 4  won
+: 3143 4 2 der
+: 3150 8 6  friend
+: 3161 7 4 ship
+: 3170 27 2  brings
+- 3207
+: 3230 3 2 Do
+: 3235 3 4  you
+: 3239 7 6  know
+: 3247 5 2  you're
+: 3253 8 7  all
+: 3263 5 6  my
+: 3269 6 4  ve
+: 3277 6 2 ry
+: 3285 4 4  be
+: 3290 8 6 -est
+: 3303 15 2  friends
+- 3321
+: 3323 4 2 You're
+: 3329 5 6  my
+: 3336 7 4  ve
+: 3344 6 2 ry
+: 3351 11 6  best
+: 3370 14 2  friends
+- 3386
+: 3388 5 -1 You're
+: 3394 6 6  my
+: 3402 7 4  ve
+: 3410 7 2 ry
+: 3418 13 1  best
+: 3436 14 2  friends
+- 3452
+: 3454 6 2 You're
+: 3461 6 6  my
+: 3470 6 4  ve
+: 3477 7 2 ry
+: 3486 12 6  best
+* 3506 136 2  friends
+E

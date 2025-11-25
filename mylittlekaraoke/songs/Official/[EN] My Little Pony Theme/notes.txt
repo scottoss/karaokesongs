@@ -1,0 +1,106 @@
+#TITLE:Mane Theme (Show version)
+#ARTIST:My Little Pony
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:English
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:230
+#GAP:0
+#MUSIC_BY:Daniel Ingram, Steffan Andrews, Lauren Faust, Rebecca Shoichet, Ashleigh Ball, Andrea Libman, Shannon Chan-Kent, Kazumi Evans
+#CREATOR:Renard
+#UPDATED:04-feb-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 5 4 6 My
+: 9 3 9  Lit
+: 12 3 6 tle
+: 15 5 4  Po
+: 22 7 9 ny,
+: 32 4 2  My
+: 36 3 4  Lit
+: 39 3 2 tle
+: 43 5 1  Po
+: 49 7 -3 ny
+- 56
+: 61 8 -1 Ah
+: 69 7 1 -ah
+: 77 5 2 -ah
+: 84 6 4 -ah
+: 92 25 2 -ah
+- 117
+: 126 2 6 I
+: 128 3 6  used
+: 131 2 6  to
+: 133 3 6  won
+: 136 2 2 der
+: 139 3 4  what
+: 143 3 2  friend
+: 146 5 6 ship
+: 152 3 4  could
+: 156 8 2  be
+- 164
+: 186 2 2 Un
+: 188 2 4 til
+: 190 3 6  you
+: 194 2 9  all
+: 197 4 9  shared
+: 201 3 6  its
+: 205 4 4  ma
+: 209 2 2 gic
+: 212 3 6  with
+: 216 6 4  me
+- 222
+: 227 3 2 Big
+: 230 2 2  ad
+: 232 3 2 ven
+: 236 4 4 tures,
+: 240 3 7  tons
+: 244 4 9  of
+: 248 6 7  fun
+- 254
+: 255 1 2 A
+: 256 3 4  beau
+: 259 2 4 ti
+: 261 3 4 ful
+: 264 5 4  heart,
+: 269 5 2  faith
+: 274 2 4 ful
+: 276 2 6  and
+: 279 7 4  strong
+- 286
+: 290 3 2  Sha
+: 293 3 4 ring
+: 297 4 6  kind
+: 301 3 2 ness,
+: 304 1 7  it's
+: 305 2 7  an
+: 307 2 9  ea
+: 309 4 11 sy
+: 313 5 9  feat
+- 318
+: 320 2 2 and
+: 323 4 4  ma
+: 327 3 4 gic
+: 331 3 4  makes
+: 335 3 6  it
+: 339 3 11  all
+: 342 3 9  com
+: 345 5 9 plete
+- 348
+: 350 2 5 You
+: 352 2 7  are
+: 357 25 8  my~
+- 382
+: 385 2 2 Do
+: 388 2 4  you
+: 390 3 6  know
+: 393 3 2  you're
+: 397 3 7  all
+: 400 4 6  my
+: 405 3 4  ve
+: 408 4 2 ry
+: 413 6 6  best
+* 423 61 2  friends
+E

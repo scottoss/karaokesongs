@@ -1,0 +1,172 @@
+﻿#TITLE:Gesungenes Telegramm
+#ARTIST:Mein kleines Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:German
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.jpg
+#BPM:360
+#GAP:0
+#UPDATED:01-jun-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 4 6 1 Hier
+: 12 5 8  kommt
+: 18 3 8  ein
+* 21 4 8  Te
+: 25 4 8 le
+: 29 4 8 gramm
+: 34 4 6  für
+: 38 4 5  Dich
+- 42
+: 42 4 5 Ich
+: 47 4 6  sin
+: 51 3 6 ge
+: 55 4 10  es
+: 59 4 8  komp
+* 63 8 8 lett
+- 76
+: 78 4 1 Man
+: 82 4 8  lädt
+: 86 4 8  Dich
+: 90 4 8  zu
+: 95 3 8  'ner
+: 98 5 13  Par
+: 103 3 8 ty
+: 106 4 1  ein
+- 111
+: 111 3 1 Wir
+: 115 4 3  fin
+: 119 4 3 den
+: 123 4 5  Dich
+: 128 4 3  so
+: 133 8 3  nett
+- 146
+: 150 4 6 Gum
+: 154 3 6 my
+: 157 4 6  wird
+: 161 4 6  ein
+* 166 3 5  Jahr
+: 169 4 3  alt
+- 173
+: 173 4 3 Al
+: 177 4 5 so
+: 181 6 6  fei
+: 187 4 6 e
+: 191 4 10 re
+: 195 4 8  doch
+: 200 7 8  mit
+- 211
+: 213 4 1 Der
+: 217 4 8  Ku
+: 221 4 8 chen
+: 225 4 8  schmeckt
+: 229 3 8  be
+* 234 4 13 stimmt
+: 238 5 8  ganz
+: 243 5 1  toll
+- 248
+: 248 3 3 Die
+: 252 4 3  Fei
+: 257 3 3 er
+: 260 4 5  wird
+: 264 4 6  ein
+: 268 9 8  Hit
+- 292
+: 298 4 1 Es
+: 303 4 8  wird
+: 307 3 8  ge
+: 310 5 8 tanzt
+: 316 2 8  und
+: 319 4 8  viel
+: 324 2 6  ge
+: 327 4 5 spielt
+- 331
+: 331 4 5 Ge
+: 335 5 6 sun
+: 341 3 6 gen
+* 345 4 10  und
+: 349 3 8  ge
+: 353 10 8 lacht
+- 366
+: 366 3 1 Und
+: 370 5 8  je
+: 375 3 8 der
+: 379 3 8  kriegt
+: 383 3 8  am
+: 386 6 8  Schluss
+: 392 4 6  noch
+- 398
+: 398 2 5 Ei
+: 400 3 5 nen
+: 404 5 3  Kuss
+: 410 3 3  zur
+: 413 3 5  Gu
+: 416 5 3 ten
+: 422 9 3  Nacht
+- 440
+: 452 6 5 Bring'
+: 458 6 6  nichts
+: 464 3 6  mit
+: 468 4 6  au
+: 473 4 6 ßer
+: 478 8 5  Dir
+- 489
+: 491 4 5 Nie
+: 495 5 5 mand
+: 501 4 6  ist
+: 505 4 6  Dir
+: 509 6 10  des
+: 515 4 8 halb
+: 520 11 8  gram
+- 537
+: 541 6 6 Spaß
+: 548 3 6  brin
+: 551 3 6 gen
+: 554 3 6  die
+: 557 4 6  Ge
+* 561 6 5 burts
+: 569 5 3 tags
+: 574 5 1 gäs
+: 580 3 1 te,
+- 583
+: 583 4 3 Nicht
+: 588 4 3  ein
+: 594 6 5  Hau
+: 600 4 3 fen
+: 605 13 3  Kram
+- 633
+: 641 5 5 Nun,
+: 647 4 6  wir
+: 652 6 8  hof
+: 659 4 8 fen
+: 665 9 10  dass
+: 675 3 8  Du
+: 679 8 8  kommst
+- 688
+: 688 5 6 Und
+: 693 7 5  dass
+: 701 4 3  Du
+: 706 6 6  nichts
+: 713 5 6  da
+* 718 6 10 ge
+: 725 6 8 gen
+: 732 10 8  hast
+- 749
+: 751 5 5 Um
+: 757 6 6  Ant
+: 764 5 6 wort
+: 769 7 10  wird
+: 778 4 8  ge
+: 783 6 8 be
+: 789 5 5 ten
+- 797
+: 797 5 3 Bit
+: 803 4 3 te
+: 809 6 3  komm,
+: 816 5 3  sei
+: 822 5 10  un
+: 828 6 12 ser
+* 835 10 13  Gast
+E

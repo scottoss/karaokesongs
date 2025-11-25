@@ -1,0 +1,121 @@
+﻿#TITLE:Was für ein Ort
+#ARTIST:Mein kleines Pony
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:German
+#ENCODING:UTF8
+#CREATOR:Smilley
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:314
+#GAP:2250
+#UPDATED:13-may-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 5 1 Was
+: 8 6 3  für
+: 15 6 5  ein
+: 23 8 3  Ort
+- 31
+: 33 5 5 Vol
+: 39 4 6 ler
+: 46 8 8  herr
+: 55 5 8 li
+: 61 5 5 cher
+* 69 7 10  Tie
+: 78 6 8 re?
+- 90
+: 92 6 1 In
+: 99 5 3  des
+: 105 5 5 sen
+: 112 8 3  Zau
+: 122 6 5 be
+: 129 5 6 -er
+- 137
+: 137 5 8  Ich
+: 145 7 8  mich
+: 154 5 5  ver
+: 160 12 10 lie
+* 173 6 11 re
+- 186
+: 186 8 11 Eich
+: 195 6 8 hörn
+: 203 6 4 chen,
+: 210 6 1  die
+: 217 5 3  mir
+: 224 6 4  ver
+: 231 8 6 ra
+: 240 6 6 ten:
+: 247 4 3  hier
+: 254 8 1  wohn'
+* 264 5 -1  ich
+- 273
+: 275 10 11 Häs
+: 286 8 8 chen
+: 295 4 4  und
+: 301 9 1  Vö
+: 311 5 3 gel
+: 318 5 4  und
+: 324 10 6  Bie
+: 334 7 6 nen
+: 342 4 3  mit
+: 347 12 10  Ho
+: 360 12 8 nig
+- 373
+: 373 30 10 Ho
+: 404 70 8 nig
+- 474
+: 494 16 8 Oh,
+: 514 5 8  die
+* 520 4 5 ser
+: 525 4 10  Ort
+: 529 3 8  hat
+: 532 3 5  Ma
+: 537 6 1 gie
+- 546
+: 546 5 5 Oh
+: 551 3 6 ne
+: 554 7 10  so
+: 562 5 10  ein
+: 568 7 10  Ren
+: 576 6 10 nen
+- 582
+: 582 3 8 Er
+: 586 4 12 führ'
+: 590 3 10  man
+: 594 3 6  das
+: 598 8 3  nie
+- 608
+: 608 4 5 Hät
+: 613 3 6 te
+: 617 5 10  ich
+: 624 5 10  ihn
+: 630 8 12  schon
+- 638
+: 638 4 12 Sehr
+: 643 4 10  viel
+: 647 5 8  frü
+: 652 3 8 her
+: 655 3 12  ge
+: 659 8 10 sehn
+- 669
+: 669 5 8 Lebt'
+: 674 3 6  ich
+: 678 8 3  hier
+: 687 5 5  und
+: 693 4 6  woll
+: 698 6 7 te
+- 706
+: 706 3 7 Wohl
+: 709 4 8  nie
+: 713 6 10  mehr
+: 720 10 12  gehn
+- 730
+: 732 6 8 Ich
+: 740 12 3  find'
+: 755 13 5  hier
+: 770 14 6  al
+: 785 12 8 les
+- 798
+* 798 110 12 Schön!
+E

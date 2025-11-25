@@ -1,0 +1,392 @@
+﻿#TITLE:Schwingt den Schweif
+#ARTIST:Equestria Girls - Rainbow Rocks
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:German
+#MP3:song.mp3
+#COVER:cover.png
+#VIDEO:video.mp4
+#BACKGROUND:background.png
+#START:7
+#VIDEOGAP:-7
+#BPM:279.76
+#GAP:8341
+#UPDATED:02-aug-2015
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 3 3 Heut'
+: 4 2 3  ist
+: 7 2 3  un
+: 10 3 5 ser
+* 15 9 7  Tag
+- 33
+: 37 4 5 Macht
+: 42 5 3  Euch
+: 48 7 5  fer
+: 57 7 7 tig
+- 69
+: 72 3 3 Denn
+: 76 2 3  wir
+: 79 3 3  dür
+: 83 3 3 fen
+* 87 3 10  kei
+: 91 2 10 ne
+: 94 4 7  Zeit
+: 99 2 5  ver
+: 102 3 7 lie
+: 106 7 5 ren
+- 120
+: 122 3 3 Ja,
+: 126 5 3  heu
+: 133 2 5 te
+: 137 10 7  Nacht
+- 151
+: 153 7 7 Steigt
+: 161 2 5  un
+: 164 3 3 se
+: 168 2 3 re
+* 172 6 5  Par
+: 180 8 3 ty
+- 192
+: 194 3 3 Je
+: 198 2 3 den
+: 201 4 3  Spaß
+: 206 2 3  woll'n
+: 209 4 7  wir
+: 214 2 7  gern
+: 217 4 5  aus
+: 222 2 3 pro
+: 225 9 3 bieren
+- 243
+: 268 3 10 Kei
+: 272 3 10 ne
+: 276 2 7 -er
+: 279 11 7  weiß,
+: 297 3 10  was
+* 301 3 10  wird
+: 305 3 7  pas
+: 309 3 7 sie
+: 313 8 10 ren
+- 327
+: 329 3 10 Eins
+: 333 5 10  ist
+: 339 8 7  klar:
+: 359 2 5  er
+: 362 3 5 laubt
+* 366 3 7  ist,
+: 370 3 5  was
+: 374 3 3  ge
+: 378 9 3 fällt
+- 391
+: 393 3 3 Die
+: 397 2 0 se
+: 401 3 3  Freund
+: 405 3 3 schaft
+: 409 7 5  hier
+- 422
+: 424 3 3 Ist
+: 428 3 3  das
+: 432 3 3  was
+: 436 3 3  uns
+: 440 2 0 re
+* 444 10 3  We
+: 455 3 0 -e
+: 460 9 3 -elt
+: 470 3 0  er
+: 474 9 5 he
+: 485 3 3 -e
+: 490 13 3 -ellt
+- 506
+: 508 7 10 Schwingt
+: 517 4 10  den
+: 523 8 7  Schweif
+- 529
+: 531 3 5 Uns'
+: 535 3 3 re
+: 539 3 5  Par
+: 543 3 5 ty
+: 547 3 5  heut'
+: 551 3 7  soll
+: 555 3 5  nie
+: 559 3 3 mals
+: 563 3 3  en
+: 567 3 3 den
+- 567
+: 569 5 7 Habt
+: 577 5 8  die
+* 584 8 10  Zeit,
+: 596 5 5  seid
+: 604 4 5  be
+: 611 7 7 re
+: 619 2 5 -e
+: 622 5 3 -eit
+- 628
+: 630 6 10 Schwingt
+: 639 5 10  den
+: 646 6 7  Schweif
+- 652
+: 654 3 5 Uns'
+: 658 3 3 re
+: 662 3 5  Par
+: 666 2 5 ty
+: 669 3 5  heut'
+: 673 3 7  soll
+: 677 3 5  nie
+: 681 3 3 mals
+: 685 3 3  en
+: 689 3 3 den
+- 690
+: 692 6 7 Habt
+: 701 4 8  die
+: 707 7 10  Zeit,
+: 719 5 5  seid
+: 726 5 5  be
+: 734 6 7 re
+* 741 3 5 -e
+: 746 5 3 -eit
+- 757
+: 760 6 3 Hast
+: 769 3 3  Du
+: 773 3 3  nicht
+: 777 3 3  im
+: 781 3 0 mer
+: 785 2 3  al
+: 788 3 3 les
+: 792 3 3  gleich
+: 796 3 0  ver
+* 800 6 3 stan
+: 807 7 5 den?
+- 819
+: 821 4 10 Halb
+: 826 3 7  so
+: 830 7 7  wild,
+: 845 3 10  das
+: 850 3 10  ist
+: 854 2 10  wirk
+: 857 3 7 lich
+: 861 3 7  nicht
+: 865 2 8  so
+: 868 8 10  schlimm
+- 881
+: 883 4 3 Bleib'
+: 888 3 0  Dir
+: 892 6 3  treu,
+: 903 3 3  be
+* 907 3 7 wahr'
+: 911 3 7  Dei
+: 915 3 7 ne
+: 919 2 7  Per
+: 922 4 5 sön
+: 927 3 3 lich
+: 931 6 3 keit
+- 940
+: 942 3 3 Dei
+: 946 6 10 ne
+: 953 3 7  Ein
+: 958 3 5 fäl
+: 962 4 3 le
+: 968 4 5  mag
+: 973 3 5  man
+: 977 2 5  hier
+* 980 3 7  zu
+: 984 3 5  je
+: 988 2 3 der
+: 991 6 3  Zeit
+- 996
+F 998 29 1 Oh
+F 1028 8 3  ja!
+- 1039
+: 1041 3 3 Heut'
+: 1045 3 3  ist
+: 1049 2 3  un
+: 1052 3 5 ser
+: 1056 8 7  Tag
+- 1071
+: 1078 5 5 Macht
+: 1084 5 3  Euch
+* 1090 7 5  fer
+: 1099 7 7 tig
+- 1111
+: 1114 3 3 Denn
+: 1118 2 3  wir
+: 1121 3 3  dür
+: 1125 3 3 fen
+: 1129 3 10  kei
+: 1133 2 10 ne
+: 1136 4 7  Zeit
+: 1141 2 5  ver
+* 1144 4 7 lie
+: 1150 8 5 ren
+- 1162
+: 1164 3 3 Ja,
+: 1168 5 3  heu
+: 1175 2 5 te
+: 1179 9 7  Nacht
+- 1191
+: 1194 7 7 Steigt
+: 1203 2 5  un
+: 1206 3 3 se
+: 1210 3 3 re
+: 1214 5 5  Par
+: 1220 9 3 ty
+- 1235
+: 1237 3 3 Je
+: 1241 2 3 den
+: 1244 3 3  Spaß
+: 1248 3 3  woll'n
+: 1252 3 7  wir
+: 1256 3 7  gern
+* 1260 3 5  aus
+: 1264 3 3 pro
+: 1268 8 3 bieren
+- 1282
+: 1309 4 10 Kei
+: 1314 3 10 ne
+: 1318 3 7 -er
+: 1322 9 7  weiß,
+: 1340 3 10  was
+: 1344 3 10  wird
+: 1348 2 7  pas
+: 1351 3 7 sie
+* 1355 9 10 ren
+- 1368
+: 1370 4 10 Eins
+: 1375 5 10  ist
+: 1381 9 7  klar:
+: 1400 3 5  er
+: 1404 3 5 laubt
+: 1408 3 7  ist,
+: 1412 3 5  was
+: 1416 2 3  ge
+: 1419 9 3 fällt
+- 1433
+: 1435 3 3 Die
+: 1439 2 0 se
+* 1443 3 3  Freund
+: 1447 2 3 schaft
+: 1452 6 5  hier
+- 1463
+: 1466 3 3 Ist
+: 1470 3 3  das
+: 1474 3 3  was
+: 1478 3 3  uns
+: 1482 3 0 re
+: 1486 10 3  We
+: 1497 3 0 -e
+: 1502 9 3 -elt
+: 1512 3 0  er
+* 1516 10 5 he
+: 1527 4 3 -e
+: 1533 10 3 -ellt
+- 1548
+: 1550 6 10 Schwingt
+: 1558 5 10  den
+: 1565 8 7  Schweif
+- 1572
+: 1574 3 5 Uns'
+: 1578 3 3 re
+: 1582 3 5  Par
+: 1586 2 5 ty
+: 1589 3 5  heut'
+* 1593 3 7  soll
+: 1597 3 5  nie
+: 1601 3 3 mals
+: 1605 3 3  en
+: 1609 3 3 den
+- 1609
+: 1611 6 7 Habt
+: 1619 4 8  die
+: 1627 7 10  Zeit,
+: 1639 5 5  seid
+: 1647 4 5  be
+: 1653 8 7 re
+: 1662 3 5 -e
+: 1666 4 3 -eit
+- 1671
+: 1673 7 10 Schwingt
+* 1681 4 10  den
+: 1688 7 7  Schweif
+- 1694
+: 1696 3 5 Uns'
+: 1700 3 3 re
+: 1704 3 5  Par
+: 1708 3 5 ty
+: 1712 3 5  heut'
+: 1716 3 7  soll
+: 1720 2 5  nie
+: 1723 3 3 mals
+: 1727 3 3  en
+: 1731 3 3 den
+- 1732
+: 1734 5 7 Habt
+: 1742 5 8  die
+: 1749 8 10  Zeit,
+: 1762 5 5  seid
+* 1770 5 5  be
+: 1777 8 7 re
+: 1786 3 5 -e
+: 1790 4 3 -eit
+- 1793
+: 1795 5 10 Schwingt
+: 1804 4 10  den
+: 1810 7 7  Schweif
+- 1817
+: 1819 3 5  Uns
+: 1823 3 3 re
+: 1827 3 5  Par
+: 1831 2 5 ty
+: 1834 3 5  heut'
+: 1838 3 7  soll
+: 1842 2 5  nie
+: 1845 4 3 mals
+: 1850 2 3  en
+: 1853 3 3 den
+- 1855
+: 1857 5 7 Habt
+: 1865 4 8  die
+: 1870 9 10  Zeit,
+: 1884 5 5  seid
+: 1891 4 5  be
+: 1898 6 7 re
+: 1905 3 5 -e
+: 1909 5 3 -eit
+- 1916
+: 1918 5 10 Schwingt
+: 1926 5 10  den
+: 1934 5 7  Schweif
+- 1940
+: 1942 3 5  Uns'
+: 1946 3 3 re
+: 1950 2 5  Par
+: 1953 3 5 ty
+* 1957 3 5  heut'
+: 1961 3 7  soll
+: 1965 3 5  nie
+: 1969 3 3 mals
+: 1973 2 3  en
+: 1976 3 3 den
+- 1977
+: 1979 5 7 Habt
+: 1987 5 8  die
+: 1994 7 10  Zeit,
+: 2006 5 5  seid
+: 2014 4 5  be
+: 2021 8 7 re
+: 2030 3 5 -e
+: 2034 3 3 -eit
+- 2038
+: 2040 5 10 Schwingt
+* 2049 4 10  den
+: 2055 6 7  Schweif
+- 2062
+: 2064 3 5 Uns'
+: 2068 2 3 re
+: 2071 3 5  Par
+: 2075 3 5 ty
+: 2079 3 5  heut'
+: 2083 3 7  soll
+: 2087 3 5  nie
+: 2091 3 3 mals
+: 2095 3 3  en
+* 2099 4 3 den
+E

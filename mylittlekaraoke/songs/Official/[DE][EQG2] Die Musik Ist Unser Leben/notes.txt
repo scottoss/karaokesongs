@@ -1,0 +1,211 @@
+#TITLE:Die Musik Ist Unser Leben
+#ARTIST:Equestria Girls - Rainbow Rocks
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:German
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#VIDEO:video.mp4
+#BPM:246.73
+#GAP:9817
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 4 3 Wir
+: 5 2 3  ha
+: 8 2 3 ben
+: 11 2 3  uns
+: 15 2 3  oft
+: 19 2 3  nicht
+: 22 3 -2  ver
+: 26 5 5 stan
+: 32 7 7 den
+- 40
+: 42 5 3 Oh
+: 48 3 10 -wo
+: 52 2 7 -ah
+: 55 3 10 -wo
+: 59 2 7 -ah
+: 62 4 10 -wo
+: 67 2 7 -oah
+- 69
+: 71 3 7 Das
+: 75 3 7  war
+: 80 2 3  be
+: 84 4 5 vor
+: 89 3 5  wir
+: 93 3 3  er
+: 97 4 5 kann
+: 102 6 3 ten
+- 108
+: 110 6 3 Oh
+: 118 3 10 -wo
+: 122 2 7 -ah
+* 125 3 12 -wo
+: 129 2 7 -ah
+: 132 4 10 -wo
+: 137 2 7 -oah
+- 139
+: 141 3 3 Das
+: 145 3 3  Freund
+: 149 4 3 schaft
+: 154 4 3  al
+: 159 3 3 les
+: 163 3 -2  ver
+: 167 4 5 ze
+: 172 6 7 -iht
+- 179
+: 181 5 3 Oh
+: 188 3 10 -wo
+: 192 2 7 -ah
+: 195 3 10 -wo
+: 199 2 7 -ah
+: 202 4 10 -wo
+: 207 2 7 -oah
+- 209
+: 210 4 7 Ist
+: 215 4 7  man
+: 220 3 3  zur
+: 224 4 5  Ehr
+: 229 3 5 lich
+: 233 4 3 keit
+: 238 3 5  be
+: 242 8 3 reit
+- 261
+: 265 3 5 Die
+: 269 2 3  Mu
+: 272 4 5 si
+: 277 4 3 -ik
+: 283 9 3  ist
+- 297
+: 299 3 8 Un
+: 303 3 7 ser
+: 307 4 8  Le
+: 312 4 7 -e
+: 318 9 7 ben
+- 327
+: 329 4 3 Da
+: 334 3 3 für
+: 338 3 5  sind
+: 342 3 3  wir
+: 346 4 5  hi
+: 351 12 7 -er
+- 379
+: 425 4 5 Schön,
+: 430 3 5  wie
+: 434 4 5  ein
+: 439 4 5  Re
+: 444 3 3 gen
+: 448 3 5 bo-
+: 452 4 3 o
+: 457 7 3 gen
+- 467
+* 469 3 3 Spie
+* 473 4 5 le
+* 478 4 3 -en
+: 483 10 3  wir
+- 525
+: 635 4 3 Nimm'
+: 640 4 3  Dir
+: 645 2 3  ein
+: 648 4 3  fach
+: 654 3 -2  den
+: 658 4 5  Ba
+: 663 7 7 -ass
+- 670
+: 672 6 3 Oh
+: 679 3 10 -wo
+: 683 2 7 -ah
+: 686 3 10 -wo
+: 690 2 7 -ah
+: 693 4 10 -wo
+: 698 2 7 -oah
+- 700
+: 702 4 7 Auch
+: 707 3 7  die
+: 711 3 3  Gi
+: 715 4 5 tar
+: 720 3 5 re
+: 724 3 3  ist
+: 729 4 5  i
+: 734 5 3 -in
+- 740
+: 742 5 3 Oh
+: 749 3 10 -wo
+: 753 2 7 -ah
+* 756 3 12 -wo
+: 760 2 7 -ah
+: 763 4 10 -wo
+: 768 4 7 -oah
+- 773
+: 775 4 3 Schlag
+: 780 3 3 zeug
+: 785 3 3  spie
+: 789 4 3 len
+: 794 3 -2  macht
+: 798 4 5  Spa
+: 803 6 7 -aß
+- 810
+: 812 5 3 Oh
+: 819 3 10 -wo
+: 823 2 7 -ah
+: 826 3 10 -wo
+: 830 2 7 -ah
+: 833 4 10 -wo
+: 838 3 7 -oah
+- 841
+: 843 3 12 O
+: 847 3 12 der
+: 851 3 12  Du
+: 855 3 12  wirst
+: 859 3 10  Sän
+: 864 3 10 ge
+: 868 20 10 rin
+- 894
+: 896 2 5 Die
+: 899 3 3  Mu
+: 903 3 5 si
+: 907 5 3 -ik
+: 913 8 3  ist
+- 927
+: 929 4 8 Un
+: 934 3 7 ser
+: 938 4 8  Le
+: 943 3 7 -e
+: 947 8 7 ben
+- 958
+: 960 3 3 Da
+: 965 3 3 für
+: 969 3 5  sind
+: 973 3 3  wir
+: 978 4 5  hi
+: 983 8 7 -er
+- 1007
+: 1056 4 5 Schön,
+: 1061 3 5  wie
+: 1065 4 5  ein
+: 1070 4 5  Re
+: 1075 3 3 gen
+: 1079 3 5 bo
+: 1083 3 3 -o
+: 1087 8 3 gen
+- 1098
+: 1100 3 3 Spie
+: 1105 3 5 le
+: 1109 4 3 -en
+: 1114 9 3  wir
+- 1155
+: 1196 4 5 Schön,
+: 1201 3 5  wie
+: 1205 4 5  ein
+: 1210 4 5  Re
+: 1215 3 3 gen
+: 1219 3 5 bo
+: 1223 3 3 -o
+: 1228 9 3 gen
+- 1239
+* 1241 3 3 Spie
+* 1245 4 5 le
+* 1250 3 3 -en
+* 1254 10 3  wir
+E

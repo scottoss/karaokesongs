@@ -1,0 +1,117 @@
+﻿#TITLE:Muffins
+#ARTIST:Mein kleines Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:German
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:360
+#GAP:0
+#MUSIC_BY:Daniel Ingram, Steffan Andrews, Meghan McCarthy, Shannon Chan-Kent
+#UPDATED:01-jun-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 48 3 2 Al
+: 51 3 2 les
+: 54 3 2  was
+: 57 2 2  Du
+: 59 4 2  brauchst
+: 63 2 2  ist
+: 66 2 6  ei
+: 68 3 6 ne
+: 72 4 4  Tas
+: 77 4 2 se,
+: 82 6 4  et
+: 89 4 2 was
+- 95
+: 95 5 5 Mehl
+: 101 4 1  füllst
+: 106 4 5  Du
+: 111 3 7  hi
+: 117 8 9 nein
+- 131
+: 141 3 2 Ir
+: 144 3 2 gend
+: 147 3 2 et
+: 150 3 2 was
+: 153 3 2  Sü
+: 156 2 2 ßes
+: 159 3 6  kommt
+: 162 3 6  hin
+: 165 5 4 zu
+: 171 3 2  und
+: 174 2 2  auch
+: 177 4 4  et
+: 182 4 2 was
+- 187
+: 187 6 5 Salz
+: 194 4 2  darf
+: 199 4 5  da
+: 205 5 7 bei
+: 211 7 9  sein
+- 225
+: 234 4 7 Da
+: 239 3 7 zu
+: 242 4 7  ein
+: 246 4 7  Löf
+: 250 3 7 fel
+: 253 3 7  Va
+: 257 5 6 nil
+: 263 4 2 le,
+: 268 5 2  dann
+- 275
+: 275 2 2 Rühr'
+: 277 3 2  es
+: 281 3 4  um
+: 285 5 -3  und
+: 291 6 2  lass'
+: 297 3 4  es
+: 301 5 6  sac
+: 308 6 2 ken
+- 318
+: 324 3 7 Füg'
+: 327 3 7  noch
+: 330 3 7  was
+: 333 2 7  Du
+: 336 4 7  willst
+: 341 3 7  noch
+: 344 3 7  hin
+: 347 5 6 zu
+: 352 4 2  und
+: 357 4 2  dann
+- 362
+: 362 2 2 Wird
+: 364 3 2  das
+: 368 4 4  Gan
+: 373 3 0 ze
+: 378 5 4  schön
+: 384 4 8  ge
+: 389 4 9 bac
+* 394 11 9 ken
+- 408
+: 410 6 2 Muf
+: 417 9 2 fins,
+: 427 4 2  der
+: 432 5 7  Rie
+: 438 4 7 sen
+: 443 5 7 ren
+: 448 3 7 ner
+- 453
+: 453 4 6 Muf
+: 458 9 2 fins,
+: 469 4 2  für
+: 474 4 9  Ku
+: 479 4 9 chen
+: 484 5 9 ken
+: 490 2 11 ner
+- 492
+: 492 5 6 Muf
+: 497 11 2 fins,
+: 513 4 5  Muf
+: 518 5 5 fins
+: 524 3 9  Muf
+: 529 6 9 fins
+: 535 5 14  Muf
+* 541 26 14 fins!
+E

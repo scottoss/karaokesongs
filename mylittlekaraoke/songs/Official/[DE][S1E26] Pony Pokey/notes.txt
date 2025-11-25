@@ -1,0 +1,323 @@
+﻿#ENCODING:UTF8
+#TITLE:Pony Pokey
+#ARTIST:Mein kleines Pony
+#CREATOR:Smilley
+#EDITION:My Little Pony
+#GENRE:Pony
+#LANGUAGE:German
+#MP3:song.mp3
+#COVER:cover.png
+#BACKGROUND:background.png
+#BPM:400
+#GAP:77
+#MUSIC_BY:Daniel reingram, Steffan Andrews, Amy Keatreing Rogers, Shannon Chan-Kent
+#UPDATED:01-jun-2013
+#COMMENT:http://www.mylittlekaraoke.com/
+: 0 8 -3 Der
+: 10 6 2  rech
+: 16 5 2 te
+: 22 5 2  Huf
+: 28 5 4  muss
+* 34 11 6  rein
+- 51
+: 52 4 -3 Der
+: 57 7 6  rech
+: 64 3 6 te
+: 68 6 6  Huf
+: 75 5 6  muss
+: 81 9 4  raus
+- 95
+: 98 4 1 Der
+: 103 6 4  rech
+: 110 4 4 te
+: 115 5 4  Huf
+: 121 5 6  muss
+: 127 8 7  rein
+- 137
+: 137 5 6 Und
+: 143 4 4  dann
+: 148 5 2  schüt
+: 154 6 2 telst
+: 161 4 2  Du
+* 166 6 4  ihn
+: 173 8 6  aus
+- 187
+: 191 4 6 Du
+: 197 6 7  tanzt
+: 203 4 7  den
+: 208 7 7  Po
+: 215 5 7 ny
+: 220 4 6  Po
+: 225 3 2 key
+- 230
+: 230 6 2 Schlan
+: 237 2 2 ge
+: 241 7 4  steht
+: 249 4 4  das
+: 254 5 6  gan
+: 259 4 4 ze
+* 265 10 9  Haus
+- 287
+: 291 4 1 Ja,
+: 296 9 1  da
+: 306 6 1 rauf
+: 313 6 6  läuft
+: 319 4 6  es
+: 324 7 4  hi
+: 331 3 2 -i
+: 335 11 2 naus
+- 353
+: 371 8 -2 Der
+: 380 7 2  lin
+: 388 5 2 ke
+: 394 5 2  Huf
+: 400 4 4  muss
+: 405 12 6  rein
+- 421
+: 422 3 -2 Der
+: 427 8 7  lin
+* 435 3 7 ke
+: 439 6 7  Huf
+: 446 5 7  muss
+: 452 11 5  raus
+- 467
+: 468 5 -2 Der
+: 474 6 5  lin
+: 480 4 5 ke
+: 485 6 5  Huf
+: 492 5 7  muss
+: 498 10 8  rein
+- 509
+: 509 5 5 Lass'
+: 515 4 5  den
+: 520 5 3  näch
+: 526 4 3 sten
+: 531 6 3  Schritt
+: 539 5 5  mal
+* 546 10 7  aus
+- 560
+: 562 4 7 Du
+: 567 7 8  tanzt
+: 575 4 8  den
+: 580 5 10  Po
+: 585 5 8 ny
+: 591 6 7  Po
+: 597 4 3 key
+- 602
+: 602 5 3 Und
+: 607 6 3  schaust
+: 614 6 5  nach
+: 620 4 5  den
+: 625 6 7  An
+: 631 5 5 deren
+* 637 10 10  aus
+- 653
+: 659 7 2 Ja,
+: 667 9 2  da
+: 676 7 2 rauf
+: 684 5 7  läuft
+: 690 5 7  es
+: 696 5 5  hi
+: 701 4 3 -i
+: 706 10 3 naus
+- 722
+: 742 8 -1 Kick'
+: 752 7 4  hin
+: 759 5 4 ten
+: 765 6 4  links
+: 771 4 6  hi
+: 775 9 8 nein
+- 790
+: 792 5 -1 Kick'
+: 798 5 8  hin
+: 804 5 8 ten
+: 810 6 8  links
+: 817 4 8  hi
+: 822 10 6 naus
+- 837
+: 839 5 -1 Kick'
+: 846 6 6  hin
+: 852 5 6 ten
+: 857 6 6  links
+: 864 4 8  hi
+: 869 8 9 nein
+- 880
+: 880 6 8 Und
+: 886 5 6  mach'
+: 892 6 4  Dir
+: 899 6 4  nichts
+: 906 4 4  wei
+: 910 4 6 ter
+* 915 11 8  draus
+- 930
+: 933 4 8 Du
+: 938 6 9  tanzt
+: 945 4 9  den
+: 949 7 11  Po
+: 957 5 9 ny
+: 963 5 8  Po
+: 969 5 4 key
+- 974
+: 974 5 4 Und
+: 980 4 4  Du
+: 985 6 6  ziehst
+: 992 3 6  die
+* 995 7 8  Stir
+: 1002 4 6 ne
+: 1009 11 10  kraus
+- 1029
+: 1032 5 3 Ja,
+: 1038 10 3  da
+: 1049 5 3 rauf
+: 1054 6 8  läuft
+: 1062 4 8  es
+: 1066 6 6  hi
+: 1072 6 4 -i
+: 1079 10 4 naus
+- 1095
+: 1113 10 0 Du
+: 1124 8 5  neigst
+: 1133 3 5  den
+* 1137 6 5  Kopf
+: 1144 3 7  hi
+: 1148 9 9 nein
+- 1162
+: 1165 4 0 Du
+: 1170 8 9  neigst
+: 1178 4 9  den
+: 1183 6 9  Kopf
+: 1189 4 9  hi
+: 1194 8 7 naus
+- 1207
+: 1211 4 0 Du
+: 1216 8 7  neigst
+: 1225 3 7  den
+: 1229 6 7  Kopf
+: 1235 4 9  hi
+* 1240 8 10 nein
+- 1252
+: 1252 5 7 Und
+: 1257 4 7  dann
+: 1262 7 5  schüt
+: 1270 4 5 telst
+: 1275 4 5  Du
+: 1280 5 7  ihn
+: 1286 7 9  aus
+- 1305
+: 1305 4 9 Du
+: 1310 6 10  tanzt
+: 1317 4 10  den
+: 1322 5 10  Po
+: 1328 5 10 ny
+: 1334 6 9  Po
+: 1340 6 5 key
+- 1347
+: 1347 5 5 A
+: 1353 4 5 ber
+: 1358 5 7  aus
+: 1364 6 7  bleibt
+* 1371 3 9  der
+: 1375 5 7  Ap
+: 1381 9 11 plaus
+- 1395
+: 1397 5 4 Dann
+: 1404 6 4  wirf'
+: 1411 9 4  Dei
+: 1420 5 4 nen
+: 1427 10 9  Kerl
+: 1438 6 7  hi
+: 1445 5 5 -i
+* 1451 12 5 naus
+- 1473
+: 1488 7 1 Auf
+: 1496 5 6  Dich
+: 1502 7 6  stürzt
+: 1510 4 6  al
+: 1515 5 8 les
+: 1521 11 10  ein
+- 1537
+: 1537 4 1 Und
+: 1542 3 10  Du
+: 1547 7 10  stürzt
+: 1555 5 10  aus
+: 1561 4 10  dem
+: 1566 12 8  Haus
+- 1584
+: 1584 4 1 Auf
+: 1589 5 8  Dich
+: 1595 6 8  stürzt
+: 1602 5 8  al
+: 1607 4 10 les
+: 1612 9 11  ein
+- 1624
+: 1624 6 10 Und
+: 1630 3 8  Du
+: 1634 7 6  lässt
+: 1642 4 6  den
+: 1647 7 6  Är
+: 1654 4 8 ger
+: 1659 8 10  raus
+- 1673
+: 1675 4 10 Du
+: 1680 7 11  tanzt
+: 1688 4 11  den
+: 1693 6 13  Po
+: 1700 4 11 ny
+: 1706 5 10  Po
+: 1712 5 6 key
+- 1718
+: 1718 5 5 Und
+: 1723 4 5  Du
+: 1727 7 7  drückst
+: 1735 4 7  Dich
+: 1740 6 9  deut
+: 1747 4 7 lich
+* 1752 6 12  aus
+- 1759
+F 1759 6 0 KOMMT
+F 1765 9 0  RAUS!
+- 1776
+: 1776 5 5 Ja,
+: 1782 10 5  da
+: 1792 5 5 rauf
+: 1798 6 10  läuft
+: 1805 5 10  es
+: 1810 6 8  hi
+: 1816 4 6 -i
+: 1821 10 6 naus
+- 1845
+: 1863 4 10 Du
+: 1868 6 11  tanzt
+: 1875 4 11  den
+: 1880 6 13  Po
+: 1887 4 11 ny
+: 1892 5 10  Po
+: 1898 6 6 key
+- 1909
+: 1910 5 6 Du
+: 1915 6 8  tanzt
+: 1922 5 8  den
+: 1928 4 10  Po
+: 1933 5 8 ny
+* 1939 5 13  Po
+: 1944 7 1 key
+- 1956
+: 1956 4 10 Du
+: 1961 6 11  tanzt
+: 1968 5 11  den
+: 1974 5 13  Po
+: 1980 4 11 ny
+: 1985 6 10  Po
+: 1991 4 8 key
+- 1998
+: 1998 5 6 Und
+: 2005 7 5  schon
+: 2014 8 5  ist
+: 2023 5 5  das
+: 2029 10 10  Lied
+: 2040 7 8 che
+: 2047 5 6 -en
+: 2054 12 6  aus
+- 2072
+F 2072 26 0 YEAH!
+E
